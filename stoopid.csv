@@ -4507,7 +4507,6 @@ Physical Medicine and Rehab ,97022 ,Whirlpool therapy
 Physical Medicine and Rehab ,97024 ,"Diathermy eg, microwave"
 Physical Medicine and Rehab ,97026 ,Infrared therapy
 Physical Medicine and Rehab ,97028 ,Ultraviolet therapy
-Product Line ,Code ,CPT-4 Procedure
 Physical Medicine and Rehab ,97032 ,Electrical stimulation
 Physical Medicine and Rehab ,97033 ,Electric current therapy
 Physical Medicine and Rehab ,97034 ,Contrast bath therapy
@@ -4532,7 +4531,6 @@ Physical Medicine and Rehab ,97150 ,Group therapeutic procedures
 Physical Medicine and Rehab ,97220 ,No Longer Valid
 Physical Medicine and Rehab ,97221 ,No Longer Valid
 Physical Medicine and Rehab ,97240 ,No Longer Valid
-Product Line ,Code ,CPT-4 Procedure
 Physical Medicine and Rehab ,97241 ,No Longer Valid
 Physical Medicine and Rehab ,97250 ,No Longer Valid
 Physical Medicine and Rehab ,97260 ,No Longer Valid
@@ -4557,7 +4555,6 @@ Physical Medicine and Rehab ,97546 ,Work hardening add-on
 Physical Medicine and Rehab ,97601 ,No Longer Valid
 Physical Medicine and Rehab ,97602 ,Wound(s) care non-selective
 Physical Medicine and Rehab ,97700 ,No Longer Valid
-Product Line ,Code ,CPT-4 Procedure
 Physical Medicine and Rehab ,97701 ,No Longer Valid
 Physical Medicine and Rehab ,97703 ,No Longer Valid - 06 Prosthetic checkout
 Physical Medicine and Rehab ,97720 ,No Longer Valid
@@ -4594,14 +4591,10 @@ Pulmonary Function Tests ,94700 ,No Longer Valid
 Pulmonary Function Tests ,94705 ,No Longer Valid
 Pulmonary Function Tests ,94710 ,No Longer Valid
 Pulmonary Function Tests ,94715 ,No Longer Valid
-Product Line ,Code ,CPT-4 Procedure
-,,Future- Intensity modulated radiation therapy
-Radiation Oncology ,#0063 ,for solid tumors
-,,"No Longer Valid - 09 Destruction of tumor,"
-Radiation Oncology ,0061T ,breast
+Radiation Oncology ,#0063 ,Future- Intensity modulated radiation therapy for solid tumors
+Radiation Oncology ,0061T ,"No Longer Valid - 09 Destruction of tumor, breast"
 Radiation Oncology ,0082T ,No Longer Valid - 07 Stereotactic rad delivery
-,,No Longer Valid - 07 Stereotactic rad tx
-Radiation Oncology ,0083T ,mngmt
+Radiation Oncology ,0083T ,No Longer Valid - 07 Stereotactic rad tx mngmt
 Radiation Oncology ,0169T ,Place stereo cath brain
 Radiation Oncology ,0182T ,Hdr Elect Brachytherapy
 Radiation Oncology ,61796 ,"Srs, cranial lesion simple"
@@ -4642,7 +4635,6 @@ Radiation Oncology ,77399 ,External radiation dosimetry
 Radiation Oncology ,77401 ,Radiation treatment delivery
 Radiation Oncology ,77402 ,Radiation treatment delivery
 Radiation Oncology ,77403 ,Radiation treatment delivery
-Product Line ,Code ,CPT-4 Procedure
 Radiation Oncology ,77404 ,Radiation treatment delivery
 Radiation Oncology ,77406 ,Radiation treatment delivery
 Radiation Oncology ,77407 ,Radiation treatment delivery
@@ -4684,15 +4676,10 @@ Radiation Oncology ,77763 ,Apply intrcav radiat compl
 Radiation Oncology ,77776 ,Apply interstit radiat simpl
 Radiation Oncology ,77777 ,Apply interstit radiat inter
 Radiation Oncology ,77778 ,Apply interstit radiat compl
-,,No Longer Valid - 09 High intensity
-Radiation Oncology ,77781 ,brachytherapy
-,,No Longer Valid - 09 High intensity
-Radiation Oncology ,77782 ,brachytherapy
-,,No Longer Valid - 09 High intensity
-Radiation Oncology ,77783 ,brachytherapy
-Product Line ,Code ,CPT-4 Procedure
-,,No Longer Valid - 09 High intensity
-Radiation Oncology ,77784 ,brachytherapy
+Radiation Oncology ,77781 ,No Longer Valid - 09 High intensity brachytherapy
+Radiation Oncology ,77782 ,No Longer Valid - 09 High intensity brachytherapy
+Radiation Oncology ,77783 ,No Longer Valid - 09 High intensity brachytherapy
+Radiation Oncology ,77784 ,No Longer Valid - 09 High intensity brachytherapy
 Radiation Oncology ,77785 ,"Hdr brachytx, 1 channel"
 Radiation Oncology ,77786 ,"Hdr brachytx, 2-12 channel"
 Radiation Oncology ,77787 ,Hdr brachytx over 12 chan
@@ -4703,11 +4690,9 @@ Radiation Oncology ,79005 ,"Nuclear rx, oral admin"
 Radiation Oncology ,79101 ,"Nuclear rx, iv admin"
 Radiation Oncology ,79445 ,"Nuclear rx, intra-arterial"
 Radiology ,#0055 ,Future -Computed tomography angiography
-,,Future-Focused ultrasound therapy for
-Radiology ,#0076 ,treatment of uterine fibroid
+Radiology ,#0076 ,Future-Focused ultrasound therapy for treatment of uterine fibroid
 Radiology ,#0087 ,Frameless stereotactic radiosurgery
-,,No Longer Valid - 09 Dexa body composition
-Radiology ,0028T ,study
+Radiology ,0028T ,No Longer Valid - 09 Dexa body composition study
 Radiology ,0152T ,No Longer Valid - 08 Computer chest add-on
 Radiology ,0174T ,CAD CXR With Interp
 Radiology ,0175T ,CAD CXR Remote
@@ -4737,7 +4722,6 @@ Radiology ,70328 ,X-ray exam of jaw joint
 Radiology ,70330 ,X-ray exam of jaw joints
 Radiology ,70332 ,X-ray exam of jaw joint
 Radiology ,70350 ,X-ray head for orthodontia
-Product Line ,Code ,CPT-4 Procedure
 Radiology ,70355 ,Panoramic x-ray of jaws
 Radiology ,70360 ,X-ray exam of neck
 Radiology ,70370 ,Throat x-ray & fluoroscopy
@@ -4786,7 +4770,6 @@ Radiology ,72200 ,X-ray exam sacroiliac joints
 Radiology ,72202 ,X-ray exam sacroiliac joints
 Radiology ,72220 ,X-ray exam of tailbone
 Radiology ,72240 ,Contrast x-ray of neck spine
-Product Line ,Code ,CPT-4 Procedure
 Radiology ,72255 ,"Contrast x-ray, thorax spine"
 Radiology ,72265 ,"Contrast x-ray, lower spine"
 Radiology ,72270 ,"Contrast x-ray, spine"
@@ -4835,7 +4818,6 @@ Radiology ,73630 ,X-ray exam of foot
 Radiology ,73650 ,X-ray exam of heel
 Radiology ,73660 ,X-ray exam of toe(s)
 Radiology ,74000 ,X-ray exam of abdomen
-Product Line ,Code ,CPT-4 Procedure
 Radiology ,74010 ,X-ray exam of abdomen
 Radiology ,74020 ,X-ray exam of abdomen
 Radiology ,74022 ,"X-ray exam series, abdomen"
@@ -4867,8 +4849,7 @@ Radiology ,74328 ,X-ray bile duct endoscopy
 Radiology ,74329 ,X-ray for pancreas endoscopy
 Radiology ,74330 ,X-ray bile/panc endoscopy
 Radiology ,74340 ,X-ray guide for GI tube
-,,"No Longer Valid - 08 X-ray guide, stomach"
-Radiology ,74350 ,tube
+Radiology ,74350 ,"No Longer Valid - 08 X-ray guide, stomach tube"
 Radiology ,74355 ,"X-ray guide, intestinal tube"
 Radiology ,74360 ,"X-ray guide, GI dilation"
 Radiology ,74363 ,"X-ray, bile duct dilation"
@@ -4884,7 +4865,6 @@ Radiology ,74445 ,X-ray exam of penis
 Radiology ,74450 ,"X-ray, urethra/bladder"
 Radiology ,74455 ,"X-ray, urethra/bladder"
 Radiology ,74470 ,X-ray exam of kidney lesion
-Product Line ,Code ,CPT-4 Procedure
 Radiology ,74475 ,"X-ray control, cath insert"
 Radiology ,74480 ,"X-ray control, cath insert"
 Radiology ,74485 ,"X-ray guide, GU dilation"
@@ -4933,7 +4913,6 @@ Radiology ,75803 ,"Lymph vessel x-ray,arms/legs"
 Radiology ,75805 ,"Lymph vessel x-ray, trunk"
 Radiology ,75807 ,"Lymph vessel x-ray, trunk"
 Radiology ,75809 ,"Nonvascular shunt, x-ray"
-Product Line ,Code ,CPT-4 Procedure
 Radiology ,75810 ,"Vein x-ray, spleen/liver"
 Radiology ,75820 ,"Vein x-ray, arm/leg"
 Radiology ,75822 ,"Vein x-ray, arms/legs"
@@ -4982,41 +4961,31 @@ Radiology ,75989 ,Abscess drainage under x-ray
 Radiology ,75992 ,"Atherectomy, x-ray exam"
 Radiology ,75993 ,"Atherectomy, x-ray exam"
 Radiology ,75994 ,"Atherectomy, x-ray exam"
-Product Line ,Code ,CPT-4 Procedure
 Radiology ,75995 ,"Atherectomy, x-ray exam"
 Radiology ,75996 ,"Atherectomy, x-ray exam"
-,,No Longer Valid - 07 Fluoroguide for vein
-Radiology ,75998 ,device
+Radiology ,75998 ,No Longer Valid - 07 Fluoroguide for vein device
 Radiology ,76000 ,Fluoroscope examination
 Radiology ,76001 ,"Fluoroscope exam, extensive"
-,,No Longer Valid - 07 Needle localization by x-
-Radiology ,76003 ,ray
-,,No Longer Valid - 07 Fluoroguide for spine
-Radiology ,76005 ,inject
+Radiology ,76003 ,No Longer Valid - 07 Needle localization by x-ray
+Radiology ,76005 ,No Longer Valid - 07 Fluoroguide for spine inject
 Radiology ,76006 ,No Longer Valid - 07 X-ray stress view
 Radiology ,76010 ,"X-ray, nose to rectum"
-,,No Longer Valid - 07 Percutaneous
-Radiology ,76012 ,vertebroplasty fluoroscopic
+Radiology ,76012 ,No Longer Valid - 07 Percutaneous vertebroplasty fluoroscopic
 Radiology ,76020 ,No Longer Valid - 07 X-rays for bone age
 Radiology ,76040 ,"No Longer Valid - 07 X-rays, bone evaluation"
 Radiology ,76061 ,"No Longer Valid - 07 X-rays, bone survey"
 Radiology ,76062 ,"No Longer Valid - 07 X-rays, bone survey"
 Radiology ,76065 ,"No Longer Valid - 07 X-rays, bone evaluation"
 Radiology ,76066 ,"No Longer Valid - 07 Joint survey, single view"
-,,"No Longer Valid - 07 Dexa, axial skeleton"
-Radiology ,76075 ,study
+Radiology ,76075 ,"No Longer Valid - 07 Dexa, axial skeleton study"
 Radiology ,76076 ,"No Longer Valid - 07 Dexa, peripheral study"
-,,No Longer Valid - 07 Dxa bone density/v-
-Radiology ,76077 ,fracture
-,,No Longer Valid - 07 Radiographic
-Radiology ,76078 ,absorptiometry
+Radiology ,76077 ,,No Longer Valid - 07 Dxa bone density/v- fracture
+Radiology ,76078 ,,No Longer Valid - 07 Radiographic absorptiometry
 Radiology ,76080 ,X-ray exam of fistula
 Radiology ,76086 ,No Longer Valid - 07 X-ray of mammary duct
 Radiology ,76088 ,No Longer Valid - 07 X-ray of mammary ducts
-,,No Longer Valid - 07 Stereotactic breast
-Radiology ,76095 ,biopsy
-,,"No Longer Valid - 07 X-ray of needle wire,"
-Radiology ,76096 ,breast
+Radiology ,76095 ,No Longer Valid - 07 Stereotactic breast biopsy
+Radiology ,76096 ,"No Longer Valid - 07 X-ray of needle wire, breast"
 Radiology ,76097 ,No Longer Valid
 Radiology ,76098 ,"X-ray exam, breast specimen"
 Radiology ,76100 ,X-ray exam of body section
@@ -5025,11 +4994,9 @@ Radiology ,76102 ,Complex body section x-rays
 Radiology ,76120 ,Cine/video x-rays
 Radiology ,76125 ,Cine/video x-rays add-on
 Radiology ,76140 ,X-ray consultation
-Product Line ,Code ,CPT-4 Procedure
 Radiology ,76150 ,"X-ray exam, dry process"
 Radiology ,76350 ,Special x-ray contrast study
-,,No Longer Valid - 06 3d/holograph reconstr
-Radiology ,76375 ,add-on
+Radiology ,76375 ,No Longer Valid - 06 3d/holograph reconstr add-on
 Radiology ,76490 ,No Longer Valid
 Radiology ,76496 ,Fluoroscopic procedure
 Radiology ,76499 ,Radiographic procedure
@@ -5074,7 +5041,6 @@ Surgery - Auditory System ,69005 ,Drain external ear lesion
 Surgery - Auditory System ,69020 ,Drain outer ear canal lesion
 Surgery - Auditory System ,69090 ,Pierce earlobes
 Surgery - Auditory System ,69100 ,Biopsy of external ear
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Auditory System ,69105 ,Biopsy of external ear canal
 Surgery - Auditory System ,69110 ,"Remove external ear, partial"
 Surgery - Auditory System ,69120 ,Removal of external ear
@@ -5122,7 +5088,6 @@ Surgery - Auditory System ,69620 ,Repair of eardrum
 Surgery - Auditory System ,69631 ,Repair eardrum structures
 Surgery - Auditory System ,69632 ,Rebuild eardrum structures
 Surgery - Auditory System ,69633 ,Rebuild eardrum structures
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Auditory System ,69635 ,Repair eardrum structures
 Surgery - Auditory System ,69636 ,Rebuild eardrum structures
 Surgery - Auditory System ,69637 ,Rebuild eardrum structures
@@ -5168,31 +5133,20 @@ Surgery - Auditory System ,69955 ,Release facial nerve
 Surgery - Auditory System ,69960 ,Release inner ear canal
 Surgery - Auditory System ,69970 ,Remove inner ear lesion
 Surgery - Auditory System ,69979 ,Temporal bone surgery
-,,Future- External counterpulsation (ECP) for
-Surgery - Cardiovascular Sys ,#0003 ,coronary indications
+Surgery - Cardiovascular Sys ,#0003 ,Future- External counterpulsation (ECP) for coronary indications
 Surgery - Cardiovascular Sys ,0001T ,No Longer Valid
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Cardiovascular Sys ,0005T ,No Longer Valid
 Surgery - Cardiovascular Sys ,0006T ,No Longer Valid
 Surgery - Cardiovascular Sys ,0007T ,No Longer Valid
-,,No Longer Valid - 08 Transcath cardiac
-Surgery - Cardiovascular Sys ,0024T ,reduction
-,,No Longer Valid - 06 Endovasc taa repr incl
-Surgery - Cardiovascular Sys ,0033T ,subcl
-,,No Longer Valid - 06 Endovasc taa repr w/o
-Surgery - Cardiovascular Sys ,0034T ,subcl
-,,"No Longer Valid - 06 Insert endovasc prosth,"
-Surgery - Cardiovascular Sys ,0035T ,taa
-,,"No Longer Valid - 06 Endovasc prosth, taa,"
-Surgery - Cardiovascular Sys ,0036T ,add-on
-,,No Longer Valid - 06 Artery transpose/endovas
-Surgery - Cardiovascular Sys ,0037T ,taa
-,,No Longer Valid - 06 Rad endovasc taa rpr
-Surgery - Cardiovascular Sys ,0038T ,w/cover
-,,"No Longer Valid - 06 Rad s/i, endovasc taa"
-Surgery - Cardiovascular Sys ,0039T ,repair
-,,"No Longer Valid - 06 Rad s/i, endovasc taa"
-Surgery - Cardiovascular Sys ,0040T ,prosth
+Surgery - Cardiovascular Sys ,0024T ,No Longer Valid - 08 Transcath cardiac reduction
+Surgery - Cardiovascular Sys ,0033T ,No Longer Valid - 06 Endovasc taa repr incl subcl
+Surgery - Cardiovascular Sys ,0034T ,No Longer Valid - 06 Endovasc taa repr w/o subcl
+Surgery - Cardiovascular Sys ,0035T ,"No Longer Valid - 06 Insert endovasc prosth, taa"
+Surgery - Cardiovascular Sys ,0036T ,"No Longer Valid - 06 Endovasc prosth, taa, add-on"
+Surgery - Cardiovascular Sys ,0037T ,No Longer Valid - 06 Artery transpose/endovas taa
+Surgery - Cardiovascular Sys ,0038T ,No Longer Valid - 06 Rad endovasc taa rpr w/cover
+Surgery - Cardiovascular Sys ,0039T ,"No Longer Valid - 06 Rad s/i, endovasc taa repair"
+Surgery - Cardiovascular Sys ,0040T ,"No Longer Valid - 06 Rad s/i, endovasc taa prosth"
 Surgery - Cardiovascular Sys ,0048T ,Implant ventricular device
 Surgery - Cardiovascular Sys ,0049T ,No Longer Valid
 Surgery - Cardiovascular Sys ,0050T ,Removal circulation assist
@@ -5205,8 +5159,7 @@ Surgery - Cardiovascular Sys ,0078T ,Endovasc aort repr w/device
 Surgery - Cardiovascular Sys ,0079T ,Endovasc visc extnsn repr
 Surgery - Cardiovascular Sys ,0080T ,Endovasc aort repr rad s&i
 Surgery - Cardiovascular Sys ,0081T ,Endovasc visc extnsn s&i
-,,No Longer Valid - 08 Transcatheter Sensor in
-Surgery - Cardiovascular Sys ,0153T ,Aneurysm Sac
+Surgery - Cardiovascular Sys ,0153T ,No Longer Valid - 08 Transcatheter Sensor in Aneurysm Sac
 Surgery - Cardiovascular Sys ,0166T ,Tcath vsd close w/o bypass
 Surgery - Cardiovascular Sys ,0167T ,Tcath vsd close w bypass
 Surgery - Cardiovascular Sys ,33010 ,Drainage of heart sac
@@ -5220,13 +5173,10 @@ Surgery - Cardiovascular Sys ,33050 ,Removal of heart sac lesion
 Surgery - Cardiovascular Sys ,33100 ,No Longer Valid
 Surgery - Cardiovascular Sys ,33120 ,Removal of heart lesion
 Surgery - Cardiovascular Sys ,33130 ,Removal of heart lesion
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Cardiovascular Sys ,33140 ,Heart revascularize (tmr)
 Surgery - Cardiovascular Sys ,33141 ,Heart tmr w/other procedure
-,,No Longer Valid - 07 Insertion of heart
-Surgery - Cardiovascular Sys ,33200 ,pacemaker
-,,No Longer Valid - 07 Insertion of heart
-Surgery - Cardiovascular Sys ,33201 ,pacemaker
+Surgery - Cardiovascular Sys ,33200 ,No Longer Valid - 07 Insertion of heart pacemaker
+Surgery - Cardiovascular Sys ,33201 ,No Longer Valid - 07 Insertion of heart pacemaker
 Surgery - Cardiovascular Sys ,33202 ,"Insert epicard eltrd, open"
 Surgery - Cardiovascular Sys ,33203 ,"Insert epicard eltrd, endo"
 Surgery - Cardiovascular Sys ,33206 ,Insertion of heart pacemaker
