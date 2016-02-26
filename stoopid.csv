@@ -5210,16 +5210,13 @@ Surgery - Cardiovascular Sys ,33241 ,Remove pulse generator
 Surgery - Cardiovascular Sys ,33242 ,No Longer Valid
 Surgery - Cardiovascular Sys ,33243 ,Remove eltrd/thoracotomy
 Surgery - Cardiovascular Sys ,33244 ,"Remove eltrd, transven"
-,,No Longer Valid - 07 Insert epic eltrd pace-
-Surgery - Cardiovascular Sys ,33245 ,defib
-,,No Longer Valid - 07 Insert epic
-Surgery - Cardiovascular Sys ,33246 ,eltrd/generator
+Surgery - Cardiovascular Sys ,33245 ,No Longer Valid - 07 Insert epic eltrd pace-defib
+Surgery - Cardiovascular Sys ,33246 ,No Longer Valid - 07 Insert epiceltrd/generator
 Surgery - Cardiovascular Sys ,33247 ,No Longer Valid
 Surgery - Cardiovascular Sys ,33248 ,No Longer Valid
 Surgery - Cardiovascular Sys ,33249 ,Eltrd/insert pace-defib
 Surgery - Cardiovascular Sys ,33250 ,Ablate heart dysrhythm focus
 Surgery - Cardiovascular Sys ,33251 ,Ablate heart dysrhythm focus
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Cardiovascular Sys ,33253 ,No Longer Valid - 07 Reconstruct atria
 Surgery - Cardiovascular Sys ,33254 ,"Ablate atria, lmtd"
 Surgery - Cardiovascular Sys ,33255 ,"Ablate atria W/O bypass, ext"
@@ -5268,7 +5265,6 @@ Surgery - Cardiovascular Sys ,33427 ,Repair of mitral valve
 Surgery - Cardiovascular Sys ,33430 ,Replacement of mitral valve
 Surgery - Cardiovascular Sys ,33452 ,No Longer Valid
 Surgery - Cardiovascular Sys ,33460 ,Revision of tricuspid valve
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Cardiovascular Sys ,33463 ,"Valvuloplasty, tricuspid"
 Surgery - Cardiovascular Sys ,33464 ,"Valvuloplasty, tricuspid"
 Surgery - Cardiovascular Sys ,33465 ,Replace tricuspid valve
@@ -5317,7 +5313,6 @@ Surgery - Cardiovascular Sys ,33600 ,Closure of valve
 Surgery - Cardiovascular Sys ,33602 ,Closure of valve
 Surgery - Cardiovascular Sys ,33606 ,Anastomosis/artery-aorta
 Surgery - Cardiovascular Sys ,33608 ,Repair anomaly w/conduit
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Cardiovascular Sys ,33610 ,Repair by enlargement
 Surgery - Cardiovascular Sys ,33611 ,Repair double ventricle
 Surgery - Cardiovascular Sys ,33612 ,Repair double ventricle
@@ -5366,7 +5361,6 @@ Surgery - Cardiovascular Sys ,33768 ,Cavopulmonary shunting
 Surgery - Cardiovascular Sys ,33770 ,Repair great vessels defect
 Surgery - Cardiovascular Sys ,33771 ,Repair great vessels defect
 Surgery - Cardiovascular Sys ,33774 ,Repair great vessels defect
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Cardiovascular Sys ,33775 ,Repair great vessels defect
 Surgery - Cardiovascular Sys ,33776 ,Repair great vessels defect
 Surgery - Cardiovascular Sys ,33777 ,Repair great vessels defect
@@ -5413,7 +5407,6 @@ Surgery - Cardiovascular Sys ,33917 ,Repair pulmonary artery
 Surgery - Cardiovascular Sys ,33918 ,No Longer Valid - 06 Repair pulmonary atresia
 Surgery - Cardiovascular Sys ,33919 ,No Longer Valid - 06 Repair pulmonary atresia
 Surgery - Cardiovascular Sys ,33920 ,Repair pulmonary atresia
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Cardiovascular Sys ,33922 ,Transect pulmonary artery
 Surgery - Cardiovascular Sys ,33924 ,Remove pulmonary shunt
 Surgery - Cardiovascular Sys ,33925 ,Rpr pul art unifocal w/o cpb
@@ -5462,7 +5455,6 @@ Surgery - Cardiovascular Sys ,34802 ,Endovas AAA Repr W/2-P Part
 Surgery - Cardiovascular Sys ,34803 ,Endovas AAA repr w/3-p part
 Surgery - Cardiovascular Sys ,34804 ,Endovas AAA Repr W/1-P Part
 Surgery - Cardiovascular Sys ,34805 ,Endovas AAA Repr W/Long Tube
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Cardiovascular Sys ,34806 ,Aneurysm Press Sensor Add-On
 Surgery - Cardiovascular Sys ,34808 ,Endovas Iliac A Device Addon
 Surgery - Cardiovascular Sys ,34812 ,"Xpose for endoprosth, femorl"
@@ -5511,7 +5503,6 @@ Surgery - Cardiovascular Sys ,35190 ,Repair blood vessel lesion
 Surgery - Cardiovascular Sys ,35201 ,Repair blood vessel lesion
 Surgery - Cardiovascular Sys ,35206 ,Repair blood vessel lesion
 Surgery - Cardiovascular Sys ,35207 ,Repair blood vessel lesion
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Cardiovascular Sys ,35211 ,Repair blood vessel lesion
 Surgery - Cardiovascular Sys ,35216 ,Repair blood vessel lesion
 Surgery - Cardiovascular Sys ,35221 ,Repair blood vessel lesion
@@ -5559,7 +5550,6 @@ Surgery - Cardiovascular Sys ,35471 ,Repair arterial blockage
 Surgery - Cardiovascular Sys ,35472 ,Repair arterial blockage
 Surgery - Cardiovascular Sys ,35473 ,Repair arterial blockage
 Surgery - Cardiovascular Sys ,35474 ,Repair arterial blockage
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Cardiovascular Sys ,35475 ,Repair arterial blockage
 Surgery - Cardiovascular Sys ,35476 ,Repair venous blockage
 Surgery - Cardiovascular Sys ,35480 ,"Atherectomy, open"
@@ -5608,7 +5598,6 @@ Surgery - Cardiovascular Sys ,35556 ,Artery bypass graft
 Surgery - Cardiovascular Sys ,35558 ,Artery bypass graft
 Surgery - Cardiovascular Sys ,35560 ,Artery bypass graft
 Surgery - Cardiovascular Sys ,35563 ,Artery bypass graft
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Cardiovascular Sys ,35565 ,Artery bypass graft
 Surgery - Cardiovascular Sys ,35566 ,Artery bypass graft
 Surgery - Cardiovascular Sys ,35570 ,Artery bypass graft
@@ -5657,7 +5646,6 @@ Surgery - Cardiovascular Sys ,35693 ,Arterial transposition
 Surgery - Cardiovascular Sys ,35694 ,Arterial transposition
 Surgery - Cardiovascular Sys ,35695 ,Arterial transposition
 Surgery - Cardiovascular Sys ,35697 ,Reimplant artery each
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Cardiovascular Sys ,35700 ,"Reoperation, bypass graft"
 Surgery - Cardiovascular Sys ,35701 ,"Exploration, carotid artery"
 Surgery - Cardiovascular Sys ,35721 ,"Exploration, femoral artery"
@@ -5706,7 +5694,6 @@ Surgery - Cardiovascular Sys ,36247 ,Place catheter in artery
 Surgery - Cardiovascular Sys ,36248 ,Place catheter in artery
 Surgery - Cardiovascular Sys ,36299 ,Vessel injection procedure
 Surgery - Cardiovascular Sys ,36430 ,Blood transfusion service
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Cardiovascular Sys ,36440 ,"Bl push transfuse, 2 yr or <"
 Surgery - Cardiovascular Sys ,36450 ,"Bl exchange/transfuse, nb"
 Surgery - Cardiovascular Sys ,36455 ,Bl exchange/transfuse non-nb
@@ -5744,8 +5731,7 @@ Surgery - Cardiovascular Sys ,36534 ,No Longer Valid
 Surgery - Cardiovascular Sys ,36535 ,No Longer Valid
 Surgery - Cardiovascular Sys ,36536 ,No Longer Valid
 Surgery - Cardiovascular Sys ,36537 ,No Longer Valid
-,,No Longer Valid - 08 Collect blood venous
-Surgery - Cardiovascular Sys ,36540 ,device
+Surgery - Cardiovascular Sys ,36540 ,No Longer Valid - 08 Collect blood venous device
 Surgery - Cardiovascular Sys ,36550 ,No Longer Valid - 08 Declot vascular device
 Surgery - Cardiovascular Sys ,36598 ,"Inj w/fluor, eval cv device"
 Surgery - Cardiovascular Sys ,36600 ,Withdrawal of arterial blood
@@ -5754,7 +5740,6 @@ Surgery - Cardiovascular Sys ,36625 ,"Insertion catheter, artery"
 Surgery - Cardiovascular Sys ,36640 ,"Insertion catheter, artery"
 Surgery - Cardiovascular Sys ,36660 ,"Insertion catheter, artery"
 Surgery - Cardiovascular Sys ,36680 ,"Insert needle, bone cavity"
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Cardiovascular Sys ,36800 ,Insertion of cannula
 Surgery - Cardiovascular Sys ,36810 ,Insertion of cannula
 Surgery - Cardiovascular Sys ,36815 ,Insertion of cannula
@@ -5803,7 +5788,6 @@ Surgery - Cardiovascular Sys ,37208 ,Transcath IV Stent/Open Addl
 Surgery - Cardiovascular Sys ,37209 ,Change IV Cath At Thromb Tx
 Surgery - Cardiovascular Sys ,37215 ,"Transcath stent, cca w/eps"
 Surgery - Cardiovascular Sys ,37216 ,"Transcath stent, cca w/o eps"
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Cardiovascular Sys ,37250 ,Iv us first vessel add-on
 Surgery - Cardiovascular Sys ,37251 ,Iv us each add vessel add-on
 Surgery - Cardiovascular Sys ,37500 ,Endoscopy ligate perf veins
@@ -5847,17 +5831,12 @@ Surgery - Cardiovascular Sys ,92995 ,Coronary atherectomy
 Surgery - Cardiovascular Sys ,92996 ,Coronary atherectomy add-on
 Surgery - Cardiovascular Sys ,92997 ,"Pul art balloon repr, percut"
 Surgery - Cardiovascular Sys ,92998 ,"Pul art balloon repr, percut"
-,,Future-Capsule endoscopy for small bowel
-Surgery - Digestive System ,#0021 ,disease
+Surgery - Digestive System ,#0021 ,Future-Capsule endoscopy for small bowel disease
 Surgery - Digestive System ,#0035 ,Future-Virtual Colonoscopy
 Surgery - Digestive System ,#0096 ,Future-Capsule endoscopy of the esophagus
-Product Line ,Code ,CPT-4 Procedure
-,,No Longer Valid - 07 Upper gi endoscopy
-Surgery - Digestive System ,0008T ,w/suture
-,,No Longer Valid - 09 Uppr gi scope w/ thrml
-Surgery - Digestive System ,0057T ,txmnt
-,,No Longer Valid - 08 Esophageal implant
-Surgery - Digestive System ,0133T ,injexn
+Surgery - Digestive System ,0008T ,No Longer Valid - 07 Upper gi endoscopy w/suture
+Surgery - Digestive System ,0057T ,No Longer Valid - 09 Uppr gi scope w/ thrml txmnt
+Surgery - Digestive System ,0133T ,No Longer Valid - 08 Esophageal implant injexn
 Surgery - Digestive System ,0142T ,Open Islet Transplant
 Surgery - Digestive System ,0157T ,Open impl gast curve electrd
 Surgery - Digestive System ,0158T ,Open remv gast curve electrd
@@ -5900,7 +5879,6 @@ Surgery - Digestive System ,40843 ,Reconstruction of mouth
 Surgery - Digestive System ,40844 ,Reconstruction of mouth
 Surgery - Digestive System ,40845 ,Reconstruction of mouth
 Surgery - Digestive System ,40899 ,Mouth surgery procedure
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Digestive System ,41000 ,Drainage of mouth lesion
 Surgery - Digestive System ,41005 ,Drainage of mouth lesion
 Surgery - Digestive System ,41006 ,Drainage of mouth lesion
@@ -5949,7 +5927,6 @@ Surgery - Digestive System ,41823 ,Excision of gum lesion
 Surgery - Digestive System ,41825 ,Excision of gum lesion
 Surgery - Digestive System ,41826 ,Excision of gum lesion
 Surgery - Digestive System ,41827 ,Excision of gum lesion
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Digestive System ,41828 ,Excision of gum lesion
 Surgery - Digestive System ,41830 ,Removal of gum tissue
 Surgery - Digestive System ,41850 ,Treatment of gum lesion
@@ -5996,7 +5973,6 @@ Surgery - Digestive System ,42408 ,Excision of salivary cyst
 Surgery - Digestive System ,42409 ,Drainage of salivary cyst
 Surgery - Digestive System ,42410 ,Excise parotid gland/lesion
 Surgery - Digestive System ,42415 ,Excise parotid gland/lesion
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Digestive System ,42420 ,Excise parotid gland/lesion
 Surgery - Digestive System ,42425 ,Excise parotid gland/lesion
 Surgery - Digestive System ,42426 ,Excise parotid gland/lesion
@@ -6045,7 +6021,6 @@ Surgery - Digestive System ,42894 ,Revision of pharyngeal walls
 Surgery - Digestive System ,42900 ,Repair throat wound
 Surgery - Digestive System ,42950 ,Reconstruction of throat
 Surgery - Digestive System ,42953 ,"Repair throat, esophagus"
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Digestive System ,42955 ,Surgical opening of throat
 Surgery - Digestive System ,42960 ,Control throat bleeding
 Surgery - Digestive System ,42961 ,Control throat bleeding
@@ -6094,7 +6069,6 @@ Surgery - Digestive System ,43219 ,Esophagus endoscopy
 Surgery - Digestive System ,43220 ,"Esoph endoscopy, dilation"
 Surgery - Digestive System ,43226 ,"Esoph endoscopy, dilation"
 Surgery - Digestive System ,43227 ,"Esoph endoscopy, repair"
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Digestive System ,43228 ,"Esoph endoscopy, ablation"
 Surgery - Digestive System ,43231 ,Esoph endoscopy w/us exam
 Surgery - Digestive System ,43232 ,Esoph endoscopy w/us fn bx
@@ -6143,7 +6117,6 @@ Surgery - Digestive System ,43320 ,Fuse esophagus & stomach
 Surgery - Digestive System ,43321 ,No Longer Valid
 Surgery - Digestive System ,43324 ,Revise esophagus & stomach
 Surgery - Digestive System ,43325 ,Revise esophagus & stomach
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Digestive System ,43326 ,Revise esophagus & stomach
 Surgery - Digestive System ,43330 ,Repair of esophagus
 Surgery - Digestive System ,43331 ,Repair of esophagus
@@ -6189,11 +6162,8 @@ Surgery - Digestive System ,43632 ,"Removal of stomach, partial"
 Surgery - Digestive System ,43633 ,"Removal of stomach, partial"
 Surgery - Digestive System ,43634 ,"Removal of stomach, partial"
 Surgery - Digestive System ,43635 ,"Removal of stomach, partial"
-,,"No Longer Valid - 06 Removal of stomach,"
-Surgery - Digestive System ,43638 ,partial
-Product Line ,Code ,CPT-4 Procedure
-,,"No Longer Valid - 06 Removal of stomach,"
-Surgery - Digestive System ,43639 ,partial
+Surgery - Digestive System ,43638 ,"No Longer Valid - 06 Removal of stomach, partial"
+Surgery - Digestive System ,43639 ,"No Longer Valid - 06 Removal of stomach, partial"
 Surgery - Digestive System ,43640 ,Vagotomy & pylorus repair
 Surgery - Digestive System ,43641 ,Vagotomy & pylorus repair
 Surgery - Digestive System ,43644 ,Lap gastric bypass/roux-en-y
@@ -6239,7 +6209,6 @@ Surgery - Digestive System ,44025 ,Incision of large bowel
 Surgery - Digestive System ,44040 ,No Longer Valid
 Surgery - Digestive System ,44050 ,Reduce bowel obstruction
 Surgery - Digestive System ,44055 ,Correct malrotation of bowel
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Digestive System ,44100 ,Biopsy of bowel
 Surgery - Digestive System ,44110 ,Excise intestine lesion(s)
 Surgery - Digestive System ,44111 ,Excision of bowel lesion(s)
@@ -6266,10 +6235,8 @@ Surgery - Digestive System ,44146 ,Partial removal of colon
 Surgery - Digestive System ,44147 ,Partial removal of colon
 Surgery - Digestive System ,44150 ,Removal of colon
 Surgery - Digestive System ,44151 ,Removal of colon/ileostomy
-,,No Longer Valid - 07 Removal of
-Surgery - Digestive System ,44152 ,colon/ileostomy
-,,No Longer Valid - 07 Removal of
-Surgery - Digestive System ,44153 ,colon/ileostomy
+Surgery - Digestive System ,44152 ,No Longer Valid - 07 Removal of colon/ileostomy
+Surgery - Digestive System ,44153 ,No Longer Valid - 07 Removal of colon/ileostomy
 Surgery - Digestive System ,44155 ,Removal of colon/ileostomy
 Surgery - Digestive System ,44156 ,Removal of colon/ileostomy
 Surgery - Digestive System ,44157 ,Colectomy w/ileoanal anast
@@ -6288,7 +6255,6 @@ Surgery - Digestive System ,44346 ,Revision of colostomy
 Surgery - Digestive System ,44360 ,Small bowel endoscopy
 Surgery - Digestive System ,44361 ,Small bowel endoscopy/biopsy
 Surgery - Digestive System ,44363 ,Small bowel endoscopy
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Digestive System ,44364 ,Small bowel endoscopy
 Surgery - Digestive System ,44365 ,Small bowel endoscopy
 Surgery - Digestive System ,44366 ,Small bowel endoscopy
@@ -6337,7 +6303,6 @@ Surgery - Digestive System ,44721 ,Prep donor intestine/artery
 Surgery - Digestive System ,44799 ,Unlisted procedure intestine
 Surgery - Digestive System ,44800 ,Excision of bowel pouch
 Surgery - Digestive System ,44820 ,Excision of mesentery lesion
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Digestive System ,44850 ,Repair of mesentery
 Surgery - Digestive System ,44899 ,Bowel surgery procedure
 Surgery - Digestive System ,44900 ,"Drain app abscess, open"
@@ -6386,7 +6351,6 @@ Surgery - Digestive System ,45330 ,Diagnostic sigmoidoscopy
 Surgery - Digestive System ,45331 ,Sigmoidoscopy and biopsy
 Surgery - Digestive System ,45332 ,Sigmoidoscopy w/fb removal
 Surgery - Digestive System ,45333 ,Sigmoidoscopy & polypectomy
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Digestive System ,45334 ,Sigmoidoscopy for bleeding
 Surgery - Digestive System ,45335 ,Sigmoidoscopy w/submuc inj
 Surgery - Digestive System ,45336 ,No Longer Valid
@@ -6435,7 +6399,6 @@ Surgery - Digestive System ,46030 ,Removal of rectal marker
 Surgery - Digestive System ,46040 ,Incision of rectal abscess
 Surgery - Digestive System ,46045 ,Incision of rectal abscess
 Surgery - Digestive System ,46050 ,Incision of anal abscess
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Digestive System ,46060 ,Incision of rectal abscess
 Surgery - Digestive System ,46070 ,Incision of anal septum
 Surgery - Digestive System ,46080 ,Incision of anal sphincter
@@ -6484,7 +6447,6 @@ Surgery - Digestive System ,46735 ,Construction of absent anus
 Surgery - Digestive System ,46740 ,Construction of absent anus
 Surgery - Digestive System ,46742 ,Repair of imperforated anus
 Surgery - Digestive System ,46744 ,Repair of cloacal anomaly
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Digestive System ,46746 ,Repair of cloacal anomaly
 Surgery - Digestive System ,46748 ,Repair of cloacal anomaly
 Surgery - Digestive System ,46750 ,Repair of anal sphincter
@@ -6501,12 +6463,9 @@ Surgery - Digestive System ,46917 ,"Laser surgery, anal lesions"
 Surgery - Digestive System ,46922 ,Excision of anal lesion(s)
 Surgery - Digestive System ,46924 ,"Destruction, anal lesion(s)"
 Surgery - Digestive System ,46930 ,Destroy internal hemorrhoids
-,,No Longer Valid - 09 Destruction of
-Surgery - Digestive System ,46934 ,hemorrhoids
-,,No Longer Valid - 09 Destruction of
-Surgery - Digestive System ,46935 ,hemorrhoids
-,,No Longer Valid - 09 Destruction of
-Surgery - Digestive System ,46936 ,hemorrhoids
+Surgery - Digestive System ,46934 ,No Longer Valid - 09 Destruction of hemorrhoids
+Surgery - Digestive System ,46935 ,No Longer Valid - 09 Destruction of hemorrhoids
+Surgery - Digestive System ,46936 ,No Longer Valid - 09 Destruction of hemorrhoids
 Surgery - Digestive System ,46937 ,Cryotherapy of rectal lesion
 Surgery - Digestive System ,46938 ,Cryotherapy of rectal lesion
 Surgery - Digestive System ,46940 ,Treatment of anal fissure
@@ -6533,7 +6492,6 @@ Surgery - Digestive System ,47140 ,"Partial removal, donor liver"
 Surgery - Digestive System ,47141 ,"Partial removal, donor liver"
 Surgery - Digestive System ,47142 ,"Partial removal, donor liver"
 Surgery - Digestive System ,47143 ,"Prep donor liver, whole"
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Digestive System ,47144 ,"Prep donor liver, 3-segment"
 Surgery - Digestive System ,47145 ,"Prep donor liver, lobe split"
 Surgery - Digestive System ,47146 ,Prep donor liver/venous
@@ -6580,7 +6538,6 @@ Surgery - Digestive System ,47711 ,Excision of bile duct tumor
 Surgery - Digestive System ,47712 ,Excision of bile duct tumor
 Surgery - Digestive System ,47715 ,Excision of bile duct cyst
 Surgery - Digestive System ,47716 ,No Longer Valid - 07 Fusion of bile duct cyst
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Digestive System ,47719 ,No Longer Valid - 08 Fusion Of Bile Duct Cyst
 Surgery - Digestive System ,47720 ,Fuse gallbladder & bowel
 Surgery - Digestive System ,47721 ,Fuse upper gi structures
@@ -6626,7 +6583,6 @@ Surgery - Digestive System ,48547 ,Duodenal exclusion
 Surgery - Digestive System ,48548 ,Fuse Pancreas And Bowel
 Surgery - Digestive System ,48550 ,Donor pancreatectomy
 Surgery - Digestive System ,48551 ,Prep donor pancreas
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Digestive System ,48552 ,Prep donor pancreas/venous
 Surgery - Digestive System ,48554 ,Transpl allograft pancreas
 Surgery - Digestive System ,48556 ,"Removal, allograft pancreas"
@@ -6643,13 +6599,10 @@ Surgery - Digestive System ,49061 ,"Drain, percut, retroper absc"
 Surgery - Digestive System ,49062 ,Drain to peritoneal cavity
 Surgery - Digestive System ,49080 ,"Puncture, peritoneal cavity"
 Surgery - Digestive System ,49081 ,Removal of abdominal fluid
-,,No Longer Valid - 07 Remove abdomen foreign
-Surgery - Digestive System ,49085 ,body
+Surgery - Digestive System ,49085 ,No Longer Valid - 07 Remove abdomen foreign body
 Surgery - Digestive System ,49180 ,"Biopsy, abdominal mass"
-,,No Longer Valid - 08 Removal of abdominal
-Surgery - Digestive System ,49200 ,lesion
-,,"No Longer Valid - 08 Remove abdom lesion,"
-Surgery - Digestive System ,49201 ,complex
+Surgery - Digestive System ,49200 ,No Longer Valid - 08 Removal of abdominal lesion
+Surgery - Digestive System ,49201 ,"No Longer Valid - 08 Remove abdom lesion, complex"
 Surgery - Digestive System ,49203 ,Exc Abd Tum 5 Cm Or Less
 Surgery - Digestive System ,49204 ,Exc Abd Tum Over 5 Cm
 Surgery - Digestive System ,49205 ,Exc Abd Tum Over 10 Cm
@@ -6675,7 +6628,6 @@ Surgery - Digestive System ,49426 ,Revise abdomen-venous shunt
 Surgery - Digestive System ,49427 ,"Injection, abdominal shunt"
 Surgery - Digestive System ,49428 ,Ligation of shunt
 Surgery - Digestive System ,49429 ,Removal of shunt
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Digestive System ,49435 ,Insert subq exten to ip cath
 Surgery - Digestive System ,49436 ,Embedded ip cath exit-site
 Surgery - Digestive System ,49440 ,Place Gastrostomy Tube Perc
@@ -6724,7 +6676,6 @@ Surgery - Digestive System ,49587 ,"Rpr umbil hern, block > 5 yr"
 Surgery - Digestive System ,49590 ,Repair spigelian hernia
 Surgery - Digestive System ,49600 ,Repair umbilical lesion
 Surgery - Digestive System ,49605 ,Repair umbilical lesion
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Digestive System ,49606 ,Repair umbilical lesion
 Surgery - Digestive System ,49610 ,Repair umbilical lesion
 Surgery - Digestive System ,49611 ,Repair umbilical lesion
@@ -6736,8 +6687,7 @@ Surgery - Digestive System ,49999 ,Abdomen surgery procedure
 Surgery - Digestive System ,91110 ,Gi tract capsule endoscopy
 Surgery - Endocrine System ,0141T ,Perq islet transplant
 Surgery - Endocrine System ,60000 ,Drain thyroid/tongue cyst
-,,No Longer Valid - 08 Aspirate/inject thyriod
-Surgery - Endocrine System ,60001 ,cyst
+Surgery - Endocrine System ,60001 ,No Longer Valid - 08 Aspirate/inject thyriod cyst
 Surgery - Endocrine System ,60100 ,Biopsy of thyroid
 Surgery - Endocrine System ,60200 ,Remove thyroid lesion
 Surgery - Endocrine System ,60210 ,Partial thyroid excision
@@ -6770,7 +6720,6 @@ Surgery - Endocrine System ,60699 ,Endocrine surgery procedure
 Surgery - Eye / Ocular Adnexa ,0016T ,Thermotx choroid vasc lesion
 Surgery - Eye / Ocular Adnexa ,0017T ,Photocoagulat macular drusen
 Surgery - Eye / Ocular Adnexa ,0098T ,Rev artific disc addl
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Eye / Ocular Adnexa ,0099T ,Implant corneal ring
 Surgery - Eye / Ocular Adnexa ,0100T ,Prosth retina receive&gen
 Surgery - Eye / Ocular Adnexa ,0123T ,Scleral fistulization
@@ -6795,7 +6744,6 @@ Surgery - Eye / Ocular Adnexa ,65130 ,Insert ocular implant
 Surgery - Eye / Ocular Adnexa ,65135 ,Insert ocular implant
 Surgery - Eye / Ocular Adnexa ,65140 ,Attach ocular implant
 Surgery - Eye / Ocular Adnexa ,65150 ,Revise ocular implant
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Eye / Ocular Adnexa ,65155 ,Reinsert ocular implant
 Surgery - Eye / Ocular Adnexa ,65175 ,Removal of ocular implant
 Surgery - Eye / Ocular Adnexa ,65205 ,Remove foreign body from eye
@@ -6820,7 +6768,6 @@ Surgery - Eye / Ocular Adnexa ,65426 ,Removal of eye lesion
 Surgery - Eye / Ocular Adnexa ,65430 ,Corneal smear
 Surgery - Eye / Ocular Adnexa ,65435 ,Curette/treat cornea
 Surgery - Eye / Ocular Adnexa ,65436 ,Curette/treat cornea
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Eye / Ocular Adnexa ,65450 ,Treatment of corneal lesion
 Surgery - Eye / Ocular Adnexa ,65600 ,Revision of cornea
 Surgery - Eye / Ocular Adnexa ,65710 ,Corneal transplant
@@ -6845,7 +6792,6 @@ Surgery - Eye / Ocular Adnexa ,65810 ,Drainage of eye
 Surgery - Eye / Ocular Adnexa ,65815 ,Drainage of eye
 Surgery - Eye / Ocular Adnexa ,65820 ,Relieve inner eye pressure
 Surgery - Eye / Ocular Adnexa ,65850 ,Incision of eye
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Eye / Ocular Adnexa ,65855 ,Laser surgery of eye
 Surgery - Eye / Ocular Adnexa ,65860 ,Incise inner eye adhesions
 Surgery - Eye / Ocular Adnexa ,65865 ,Incise inner eye adhesions
@@ -6870,7 +6816,6 @@ Surgery - Eye / Ocular Adnexa ,66220 ,Repair eye lesion
 Surgery - Eye / Ocular Adnexa ,66225 ,Repair/graft eye lesion
 Surgery - Eye / Ocular Adnexa ,66250 ,Follow-up surgery of eye
 Surgery - Eye / Ocular Adnexa ,66500 ,Incision of iris
-Product Line ,Code ,,CPT-4 Procedure
 Surgery - Eye / Ocular Adnexa ,66505 ,Incision of iris,
 Surgery - Eye / Ocular Adnexa ,66600 ,Remove iris and lesion,
 Surgery - Eye / Ocular Adnexa ,66605 ,Removal of iris,
@@ -6895,7 +6840,6 @@ Surgery - Eye / Ocular Adnexa ,66840 ,Removal of lens material,
 Surgery - Eye / Ocular Adnexa ,66850 ,Removal of lens material,
 Surgery - Eye / Ocular Adnexa ,66852 ,Removal of lens material,
 Surgery - Eye / Ocular Adnexa ,66920 ,Extraction of lens,
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Eye / Ocular Adnexa ,66930 ,Extraction of lens
 Surgery - Eye / Ocular Adnexa ,66940 ,Extraction of lens
 Surgery - Eye / Ocular Adnexa ,66982 ,"Cataract surgery, complex"
@@ -6920,7 +6864,6 @@ Surgery - Eye / Ocular Adnexa ,67040 ,Laser treatment of retina
 Surgery - Eye / Ocular Adnexa ,67041 ,Vit For Macular Pucker
 Surgery - Eye / Ocular Adnexa ,67042 ,Vit For Macular Hole
 Surgery - Eye / Ocular Adnexa ,67043 ,Vit For Membrane Dissect
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Eye / Ocular Adnexa ,67101 ,Repair detached retina
 Surgery - Eye / Ocular Adnexa ,67105 ,Repair detached retina
 Surgery - Eye / Ocular Adnexa ,67107 ,Repair detached retina
@@ -6945,7 +6888,6 @@ Surgery - Eye / Ocular Adnexa ,67228 ,Treatment of retinal lesion
 Surgery - Eye / Ocular Adnexa ,67229 ,Tr Retinal Les Preterm Inf
 Surgery - Eye / Ocular Adnexa ,67250 ,Reinforce eye wall
 Surgery - Eye / Ocular Adnexa ,67255 ,Reinforce/graft eye wall
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Eye / Ocular Adnexa ,67299 ,Eye surgery procedure
 Surgery - Eye / Ocular Adnexa ,67311 ,Revise eye muscle
 Surgery - Eye / Ocular Adnexa ,67312 ,Revise two eye muscles
@@ -6970,7 +6912,6 @@ Surgery - Eye / Ocular Adnexa ,67413 ,Explore/treat eye socket
 Surgery - Eye / Ocular Adnexa ,67414 ,Explr/decompress eye socket
 Surgery - Eye / Ocular Adnexa ,67415 ,"Aspiration, orbital contents"
 Surgery - Eye / Ocular Adnexa ,67420 ,Explore/treat eye socket
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Eye / Ocular Adnexa ,67430 ,Explore/treat eye socket
 Surgery - Eye / Ocular Adnexa ,67440 ,Explore/drain eye socket
 Surgery - Eye / Ocular Adnexa ,67445 ,Explr/decompress eye socket
@@ -6995,7 +6936,6 @@ Surgery - Eye / Ocular Adnexa ,67825 ,Revise eyelashes
 Surgery - Eye / Ocular Adnexa ,67830 ,Revise eyelashes
 Surgery - Eye / Ocular Adnexa ,67835 ,Revise eyelashes
 Surgery - Eye / Ocular Adnexa ,67840 ,Remove eyelid lesion
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Eye / Ocular Adnexa ,67850 ,Treat eyelid lesion
 Surgery - Eye / Ocular Adnexa ,67875 ,Closure of eyelid by suture
 Surgery - Eye / Ocular Adnexa ,67880 ,Revision of eyelid
@@ -7020,7 +6960,6 @@ Surgery - Eye / Ocular Adnexa ,67923 ,Repair eyelid defect
 Surgery - Eye / Ocular Adnexa ,67924 ,Repair eyelid defect
 Surgery - Eye / Ocular Adnexa ,67930 ,Repair eyelid wound
 Surgery - Eye / Ocular Adnexa ,67935 ,Repair eyelid wound
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Eye / Ocular Adnexa ,67938 ,Remove eyelid foreign body
 Surgery - Eye / Ocular Adnexa ,67950 ,Revision of eyelid
 Surgery - Eye / Ocular Adnexa ,67961 ,Revision of eyelid
@@ -7045,7 +6984,6 @@ Surgery - Eye / Ocular Adnexa ,68328 ,Revise/graft eyelid lining
 Surgery - Eye / Ocular Adnexa ,68330 ,Revise eyelid lining
 Surgery - Eye / Ocular Adnexa ,68335 ,Revise/graft eyelid lining
 Surgery - Eye / Ocular Adnexa ,68340 ,Separate eyelid adhesions
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Eye / Ocular Adnexa ,68360 ,Revise eyelid lining
 Surgery - Eye / Ocular Adnexa ,68362 ,Revise eyelid lining
 Surgery - Eye / Ocular Adnexa ,68371 ,"Harvest eye tissue, alograft"
@@ -7070,7 +7008,6 @@ Surgery - Eye / Ocular Adnexa ,68760 ,Close tear duct opening
 Surgery - Eye / Ocular Adnexa ,68761 ,Close tear duct opening
 Surgery - Eye / Ocular Adnexa ,68770 ,Close tear system fistula
 Surgery - Eye / Ocular Adnexa ,68800 ,No Longer Valid
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Eye / Ocular Adnexa ,68801 ,Dilate tear duct opening
 Surgery - Eye / Ocular Adnexa ,68810 ,Probe nasolacrimal duct
 Surgery - Eye / Ocular Adnexa ,68811 ,Probe nasolacrimal duct
@@ -7085,11 +7022,9 @@ Surgery - Eye / Ocular Adnexa ,68899 ,Tear duct system surgery
 Surgery - Female Genital Sys ,#0026 ,Future-Uterine Balloon Therapy
 Surgery - Female Genital Sys ,0003T ,No Longer Valid - 07 Cervicography
 Surgery - Female Genital Sys ,0009T ,No Longer Valid
-,,"No Longer Valid - 07 Fetal oximetry,"
-Surgery - Female Genital Sys ,0021T ,trnsvag/cerv
+Surgery - Female Genital Sys ,0021T ,"No Longer Valid - 07 Fetal oximetry, trnsvag/cerv"
 Surgery - Female Genital Sys ,0031T ,No Longer Valid - 09 Speculoscopy
-,,No Longer Valid - 09 Speculoscopy w/direct
-Surgery - Female Genital Sys ,0032T ,sample
+Surgery - Female Genital Sys ,0032T ,No Longer Valid - 09 Speculoscopy w/direct sample
 Surgery - Female Genital Sys ,0071T ,U/s leiomyomata ablate <200
 Surgery - Female Genital Sys ,0072T ,U/s leiomyomata ablate >200
 Surgery - Female Genital Sys ,37210 ,Embolization Uterine Fibroid
@@ -7097,7 +7032,6 @@ Surgery - Female Genital Sys ,56000 ,No Longer Valid
 Surgery - Female Genital Sys ,56100 ,No Longer Valid
 Surgery - Female Genital Sys ,56200 ,No Longer Valid
 Surgery - Female Genital Sys ,56400 ,No Longer Valid
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Female Genital Sys ,56405 ,I & D of vulva/perineum
 Surgery - Female Genital Sys ,56420 ,Drainage of gland abscess
 Surgery - Female Genital Sys ,56440 ,Surgery for vulva lesion
@@ -7122,7 +7056,6 @@ Surgery - Female Genital Sys ,56700 ,Partial removal of hymen
 Surgery - Female Genital Sys ,56720 ,No Longer Valid - 07 Incision of hymen
 Surgery - Female Genital Sys ,56740 ,Remove vagina gland lesion
 Surgery - Female Genital Sys ,56800 ,Repair of vagina
-Product Line ,Code ,,CPT-4 Procedure
 Surgery - Female Genital Sys ,56805 ,Repair clitoris,
 Surgery - Female Genital Sys ,56810 ,Repair of perineum,
 Surgery - Female Genital Sys ,56820 ,Exam of vulva w/scope,
@@ -7147,7 +7080,6 @@ Surgery - Female Genital Sys ,57120 ,Closure of vagina,
 Surgery - Female Genital Sys ,57130 ,Remove vagina lesion,
 Surgery - Female Genital Sys ,57135 ,Remove vagina lesion,
 Surgery - Female Genital Sys ,57150 ,Treat vagina infection,
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Female Genital Sys ,57155 ,Insert uteri tandems/ovoids
 Surgery - Female Genital Sys ,57160 ,Insert pessary/other device
 Surgery - Female Genital Sys ,57170 ,Fitting of diaphragm/cap
@@ -7172,7 +7104,6 @@ Surgery - Female Genital Sys ,57287 ,Revise/remove sling repair
 Surgery - Female Genital Sys ,57288 ,Repair bladder defect
 Surgery - Female Genital Sys ,57289 ,Repair bladder & vagina
 Surgery - Female Genital Sys ,57291 ,Construction of vagina
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Female Genital Sys ,57292 ,Construct vagina with graft
 Surgery - Female Genital Sys ,57295 ,Revise Vag Graft Via Vagina
 Surgery - Female Genital Sys ,57296 ,"Revise vag graft, open abd"
@@ -7197,7 +7128,6 @@ Surgery - Female Genital Sys ,57454 ,Bx/Curett Of Cervix W/Scope
 Surgery - Female Genital Sys ,57455 ,Biopsy of cervix w/scope
 Surgery - Female Genital Sys ,57456 ,Endocerv curettage w/scope
 Surgery - Female Genital Sys ,57460 ,"Bx Of Cervix W/Scope, Leep"
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Female Genital Sys ,57461 ,"Conz of cervix w/scope, leep"
 Surgery - Female Genital Sys ,57500 ,Biopsy of cervix
 Surgery - Female Genital Sys ,57505 ,Endocervical curettage
@@ -7222,7 +7152,6 @@ Surgery - Female Genital Sys ,58100 ,Biopsy of uterus lining
 Surgery - Female Genital Sys ,58102 ,No Longer Valid
 Surgery - Female Genital Sys ,58110 ,Bx done w/colposcopy add-on
 Surgery - Female Genital Sys ,58120 ,Dilation and curettage
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Female Genital Sys ,58140 ,Myomectomy Abdom Method
 Surgery - Female Genital Sys ,58145 ,Myomectomy vag method
 Surgery - Female Genital Sys ,58146 ,Myomectomy abdom complex
@@ -7247,7 +7176,6 @@ Surgery - Female Genital Sys ,58293 ,"Vag hyst w/uro repair, compl"
 Surgery - Female Genital Sys ,58294 ,"Vag hyst w/enterocele, compl"
 Surgery - Female Genital Sys ,58300 ,Insert intrauterine device
 Surgery - Female Genital Sys ,58301 ,Remove intrauterine device
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Female Genital Sys ,58310 ,No Longer Valid
 Surgery - Female Genital Sys ,58311 ,No Longer Valid
 Surgery - Female Genital Sys ,58321 ,Artificial insemination
@@ -7272,7 +7200,6 @@ Surgery - Female Genital Sys ,58562 ,"Hysteroscopy, remove fb"
 Surgery - Female Genital Sys ,58563 ,"Hysteroscopy, ablation"
 Surgery - Female Genital Sys ,58565 ,"Hysteroscopy, sterilization"
 Surgery - Female Genital Sys ,58579 ,Hysteroscope procedure
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Female Genital Sys ,58600 ,Division of fallopian tube
 Surgery - Female Genital Sys ,58605 ,Division of fallopian tube
 Surgery - Female Genital Sys ,58611 ,Ligate oviduct(s) add-on
@@ -7297,7 +7224,6 @@ Surgery - Female Genital Sys ,58940 ,Removal of ovary(s)
 Surgery - Female Genital Sys ,58943 ,Removal of ovary(s)
 Surgery - Female Genital Sys ,58950 ,Resect ovarian malignancy
 Surgery - Female Genital Sys ,58951 ,Resect ovarian malignancy
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Female Genital Sys ,58952 ,Resect ovarian malignancy
 Surgery - Female Genital Sys ,58953 ,"Tah, rad dissect for debulk"
 Surgery - Female Genital Sys ,58954 ,Tah rad debulk/lymph remove
@@ -7322,9 +7248,7 @@ Surgery - Female Genital Sys ,58992 ,No Longer Valid
 Surgery - Female Genital Sys ,58994 ,No Longer Valid
 Surgery - Female Genital Sys ,58996 ,No Longer Valid
 Surgery - Female Genital Sys ,58999 ,Genital surgery procedure
-Product Line ,Code ,CPT-4 Procedure
-,,No Longer Valid - 07 Fibroadenoma
-Surgery - General ,0120T ,"cryoablate, ea"
+Surgery - General ,0120T ,"No Longer Valid - 07 Fibroadenoma cryoablate, ea"
 Surgery - General ,10021 ,FNA w/o image
 Surgery - General ,10022 ,FNA w/image
 Surgery - General ,39000 ,Exploration of chest
@@ -7351,122 +7275,63 @@ Surgery - General ,55920 ,Place Needles Pelvic For Rt
 Surgery - General ,55970 ,"Sex transformation, M to F"
 Surgery - General ,55980 ,"Sex transformation, F to M"
 Surgery - General ,69990 ,Microsurgery add-on
-Surgery - Hemic and Lymph,,
-Sys ,38100 ,"Removal of spleen, total"
-Surgery - Hemic and Lymph,,
-Sys ,38101 ,"Removal of spleen, partial"
-Surgery - Hemic and Lymph,,
-Sys ,38102 ,"Removal of spleen, total"
-Surgery - Hemic and Lymph,,
-Sys ,38115 ,Repair of ruptured spleen
-Surgery - Hemic and Lymph,,
-Sys ,38200 ,Injection for spleen x-ray
-Surgery - Hemic and Lymph,,
-Sys ,38204 ,Bl donor search management
-Surgery - Hemic and Lymph,,
-Sys ,38205 ,Harvest allogenic stem cells
-Surgery - Hemic and Lymph,,
-Sys ,38206 ,Harvest auto stem cells
-Surgery - Hemic and Lymph,,
-Sys ,38207 ,Cryopreserve stem cells
-Surgery - Hemic and Lymph,,
-Sys ,38208 ,Thaw preserved stem cells
-Product Line ,Code ,CPT-4 Procedure
-Surgery - Hemic and Lymph,,
-Sys ,38209 ,Wash harvest stem cells
-Surgery - Hemic and Lymph,,
-Sys ,38210 ,T-cell depletion of harvest
-Surgery - Hemic and Lymph,,
-Sys ,38211 ,Tumor cell deplete of harvst
-Surgery - Hemic and Lymph,,
-Sys ,38212 ,RBC depletion of harvest
-Surgery - Hemic and Lymph,,
-Sys ,38213 ,Platelet deplete of harvest
-Surgery - Hemic and Lymph,,
-Sys ,38214 ,Volume deplete of harvest
-Surgery - Hemic and Lymph,,
-Sys ,38215 ,Harvest stem cell concentrte
-Surgery - Hemic and Lymph,,
-Sys ,38220 ,Bone marrow aspiration
-Surgery - Hemic and Lymph,,
-Sys ,38221 ,Bone marrow biopsy
-Surgery - Hemic and Lymph,,
-Sys ,38230 ,Bone marrow collection
-Surgery - Hemic and Lymph,,
-Sys ,38231 ,No Longer Valid
-Surgery - Hemic and Lymph,,
-Sys ,38240 ,Bone marrow/stem transplant
-Surgery - Hemic and Lymph,,
-Sys ,38241 ,Bone marrow/stem transplant
-Surgery - Hemic and Lymph,,
-Sys ,38242 ,Lymphocyte infuse transplant
-Surgery - Hemic and Lymph,,
-Sys ,38300 ,"Drainage, lymph node lesion"
-Surgery - Hemic and Lymph,,
-Sys ,38305 ,"Drainage, lymph node lesion"
-Surgery - Hemic and Lymph,,
-Sys ,38308 ,Incision of lymph channels
-Surgery - Hemic and Lymph,,
-Sys ,38380 ,Thoracic duct procedure
-Surgery - Hemic and Lymph,,
-Sys ,38381 ,Thoracic duct procedure
-Surgery - Hemic and Lymph,,
-Sys ,38382 ,Thoracic duct procedure
-Surgery - Hemic and Lymph,,
-Sys ,38500 ,"Biopsy/removal, lymph nodes"
-Surgery - Hemic and Lymph,,
-Sys ,38505 ,"Needle biopsy, lymph nodes"
-Surgery - Hemic and Lymph,,
-Sys ,38510 ,"Biopsy/removal, lymph nodes"
-Surgery - Hemic and Lymph,,
-Sys ,38520 ,"Biopsy/removal, lymph nodes"
-Product Line ,Code ,CPT-4 Procedure
-Surgery - Hemic and Lymph,,
-Sys ,38525 ,"Biopsy/removal, lymph nodes"
-Surgery - Hemic and Lymph,,
-Sys ,38530 ,"Biopsy/removal, lymph nodes"
-Surgery - Hemic and Lymph,,
-Sys ,38542 ,"Explore deep node(s), neck"
-Surgery - Hemic and Lymph,,
-Sys ,38550 ,"Removal, neck/armpit lesion"
-Surgery - Hemic and Lymph,,
-Sys ,38555 ,"Removal, neck/armpit lesion"
-Surgery - Hemic and Lymph,,
-Sys ,38562 ,"Removal, pelvic lymph nodes"
-Surgery - Hemic and Lymph,,
-Sys ,38564 ,"Removal, abdomen lymph nodes"
-Surgery - Hemic and Lymph,,
-Sys ,38700 ,"Removal of lymph nodes, neck"
-Surgery - Hemic and Lymph,,
-Sys ,38720 ,"Removal of lymph nodes, neck"
-Surgery - Hemic and Lymph,,
-Sys ,38724 ,"Removal of lymph nodes, neck"
-Surgery - Hemic and Lymph,,
-Sys ,38740 ,Remove armpit lymph nodes
-Surgery - Hemic and Lymph,,
-Sys ,38745 ,Remove armpit lymph nodes
-Surgery - Hemic and Lymph,,
-Sys ,38746 ,Remove thoracic lymph nodes
-Surgery - Hemic and Lymph,,
-Sys ,38747 ,Remove abdominal lymph nodes
-Surgery - Hemic and Lymph,,
-Sys ,38760 ,Remove groin lymph nodes
-Surgery - Hemic and Lymph,,
-Sys ,38765 ,Remove groin lymph nodes
-Surgery - Hemic and Lymph,,
-Sys ,38770 ,Remove pelvis lymph nodes
-Surgery - Hemic and Lymph,,
-Sys ,38780 ,Remove abdomen lymph nodes
-Surgery - Hemic and Lymph,,
-Sys ,38790 ,Inject for lymphatic x-ray
-Surgery - Hemic and Lymph,,
-Sys ,38792 ,Identify sentinel node
-Surgery - Hemic and Lymph,,
-Sys ,38794 ,Access thoracic lymph duct
-Surgery - Hemic and Lymph,,
-Sys ,38999 ,Blood/lymph system procedure
-Surgery - Integumentary,,
-System ,#0052 ,Future-Vacuum Assisted Closure
+Surgery - Hemic and Lymph Sys ,38100 ,"Removal of spleen, total"
+Surgery - Hemic and Lymph Sys ,38101 ,"Removal of spleen, partial"
+Surgery - Hemic and Lymph Sys ,38102 ,"Removal of spleen, total"
+Surgery - Hemic and Lymph Sys ,38115 ,Repair of ruptured spleen
+Surgery - Hemic and Lymph Sys ,38200 ,Injection for spleen x-ray
+Surgery - Hemic and Lymph Sys ,38204 ,Bl donor search management
+Surgery - Hemic and Lymph Sys ,38205 ,Harvest allogenic stem cells
+Surgery - Hemic and Lymph Sys ,38206 ,Harvest auto stem cells
+Surgery - Hemic and Lymph Sys ,38207 ,Cryopreserve stem cells
+Surgery - Hemic and Lymph Sys ,38208 ,Thaw preserved stem cells
+Surgery - Hemic and Lymph Sys ,38209 ,Wash harvest stem cells
+Surgery - Hemic and Lymph Sys ,38210 ,T-cell depletion of harvest
+Surgery - Hemic and Lymph Sys ,38211 ,Tumor cell deplete of harvst
+Surgery - Hemic and Lymph Sys ,38212 ,RBC depletion of harvest
+Surgery - Hemic and Lymph Sys ,38213 ,Platelet deplete of harvest
+Surgery - Hemic and Lymph Sys ,38214 ,Volume deplete of harvest
+Surgery - Hemic and Lymph Sys ,38215 ,Harvest stem cell concentrte
+Surgery - Hemic and Lymph Sys ,38220 ,Bone marrow aspiration
+Surgery - Hemic and Lymph Sys ,38221 ,Bone marrow biopsy
+Surgery - Hemic and Lymph Sys ,38230 ,Bone marrow collection
+Surgery - Hemic and Lymph Sys ,38231 ,No Longer Valid
+Surgery - Hemic and Lymph Sys ,38240 ,Bone marrow/stem transplant
+Surgery - Hemic and Lymph Sys ,38241 ,Bone marrow/stem transplant
+Surgery - Hemic and Lymph Sys ,38242 ,Lymphocyte infuse transplant
+Surgery - Hemic and Lymph Sys ,38300 ,"Drainage, lymph node lesion"
+Surgery - Hemic and Lymph Sys ,38305 ,"Drainage, lymph node lesion"
+Surgery - Hemic and Lymph Sys ,38308 ,Incision of lymph channels
+Surgery - Hemic and Lymph Sys ,38380 ,Thoracic duct procedure
+Surgery - Hemic and Lymph Sys ,38381 ,Thoracic duct procedure
+Surgery - Hemic and Lymph Sys ,38382 ,Thoracic duct procedure
+Surgery - Hemic and Lymph Sys ,38500 ,"Biopsy/removal, lymph nodes"
+Surgery - Hemic and Lymph Sys ,38505 ,"Needle biopsy, lymph nodes"
+Surgery - Hemic and Lymph Sys ,38510 ,"Biopsy/removal, lymph nodes"
+Surgery - Hemic and Lymph Sys ,38520 ,"Biopsy/removal, lymph nodes"
+Surgery - Hemic and Lymph Sys ,38525 ,"Biopsy/removal, lymph nodes"
+Surgery - Hemic and Lymph Sys ,38530 ,"Biopsy/removal, lymph nodes"
+Surgery - Hemic and Lymph Sys ,38542 ,"Explore deep node(s), neck"
+Surgery - Hemic and Lymph Sys ,38550 ,"Removal, neck/armpit lesion"
+Surgery - Hemic and Lymph Sys ,38555 ,"Removal, neck/armpit lesion"
+Surgery - Hemic and Lymph Sys ,38562 ,"Removal, pelvic lymph nodes"
+Surgery - Hemic and Lymph Sys ,38564 ,"Removal, abdomen lymph nodes"
+Surgery - Hemic and Lymph Sys ,38700 ,"Removal of lymph nodes, neck"
+Surgery - Hemic and Lymph Sys ,38720 ,"Removal of lymph nodes, neck"
+Surgery - Hemic and Lymph Sys ,38724 ,"Removal of lymph nodes, neck"
+Surgery - Hemic and Lymph Sys ,38740 ,Remove armpit lymph nodes
+Surgery - Hemic and Lymph Sys ,38745 ,Remove armpit lymph nodes
+Surgery - Hemic and Lymph Sys ,38746 ,Remove thoracic lymph nodes
+Surgery - Hemic and Lymph Sys ,38747 ,Remove abdominal lymph nodes
+Surgery - Hemic and Lymph Sys ,38760 ,Remove groin lymph nodes
+Surgery - Hemic and Lymph Sys ,38765 ,Remove groin lymph nodes
+Surgery - Hemic and Lymph Sys ,38770 ,Remove pelvis lymph nodes
+Surgery - Hemic and Lymph Sys ,38780 ,Remove abdomen lymph nodes
+Surgery - Hemic and Lymph Sys ,38790 ,Inject for lymphatic x-ray
+Surgery - Hemic and Lymph Sys ,38792 ,Identify sentinel node
+Surgery - Hemic and Lymph Sys ,38794 ,Access thoracic lymph duct
+Surgery - Hemic and Lymph Sys ,38999 ,Blood/lymph system procedure
+Surgery - Integumentary System ,#0052 ,Future-Vacuum Assisted Closure
 Surgery - Integumentary ,,Future-Cryosurgery for breast cancer and
 System ,#0097 ,breast fibroadenoma
 Product Line ,Code ,CPT-4 Procedure
