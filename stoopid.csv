@@ -1085,15 +1085,15 @@ Magnetic Resonance Img (MRI) ,75564 ,Ht MRI W/Flo/Vel/Strs & Dye
 Magnetic Resonance Img (MRI) ,76390 ,MR spectroscopy
 Magnetic Resonance Img (MRI) ,76393 ,No Longer Valid - 07 Mr guidance for needle place
 Magnetic Resonance Img (MRI) ,76394 ,No Longer Valid - 07 Mri for tissue ablation
-Magnetic Resonance Img (MRI) ,76400 ,,"No Longer Valid - 07 Magnetic image, bone marrow"
+Magnetic Resonance Img (MRI) ,76400 ,"No Longer Valid - 07 Magnetic image, bone marrow"
 Magnetic Resonance Img (MRI) ,76498 ,MRI procedure
 Magnetic Resonance Img (MRI) ,77021 ,MR Guidance For Needle Place
 Magnetic Resonance Img (MRI) ,77022 ,MRI For Tissue Ablation
 Magnetic Resonance Img (MRI) ,77058 ,"MRI, One Breast"
 Magnetic Resonance Img (MRI) ,77059 ,"MRI, Both Breasts"
 Magnetic Resonance Img (MRI) ,77084 ,"Magnetic Image, Bone Marrow"
-Mammogram ,76082 ,,No Longer Valid - 07 Computer mammogram add-on
-Mammogram ,76083 ,,No Longer Valid - 07 Computer mammogram add-on
+Mammogram ,76082 ,No Longer Valid - 07 Computer mammogram add-on
+Mammogram ,76083 ,No Longer Valid - 07 Computer mammogram add-on
 Mammogram ,76085 ,No Longer Valid
 Mammogram ,76090 ,"No Longer Valid - 07 Mammogram, one breast"
 Mammogram ,76091 ,"No Longer Valid - 07 Mammogram, both breasts"
@@ -1194,7 +1194,7 @@ Nuclear Medicine ,78130 ,Red cell survival study
 Nuclear Medicine ,78135 ,Red cell survival kinetics
 Nuclear Medicine ,78140 ,Red cell sequestration
 Nuclear Medicine ,78160 ,No Longer Valid - 06 Plasma iron turnover
-Nuclear Medicine ,78162 ,,No Longer Valid - 06 Radioiron absorption exam
+Nuclear Medicine ,78162 ,No Longer Valid - 06 Radioiron absorption exam
 Nuclear Medicine ,78170 ,No Longer Valid - 06 Red cell iron utilization
 Nuclear Medicine ,78172 ,No Longer Valid - 06 Total body iron estimation
 Nuclear Medicine ,78185 ,Spleen imaging
@@ -1358,7 +1358,7 @@ Office Visit or Consult Claim ,90641 ,No Longer Valid
 Office Visit or Consult Claim ,90642 ,No Longer Valid
 Office Visit or Consult Claim ,90643 ,No Longer Valid
 Office Visit or Consult Claim ,90699 ,No Longer Valid
-Office Visit or Consult Claim ,90760 , "No Longer Valid - 09 Hydration IV Infusion, Initial"
+Office Visit or Consult Claim ,90760 , "No Longer Valid - 09 Hydration IV Infusion Initial"
 Office Visit or Consult Claim ,90762 ,No Longer Valid
 Office Visit or Consult Claim ,90763 ,No Longer Valid
 Office Visit or Consult Claim ,90764 ,No Longer Valid
@@ -1381,7 +1381,7 @@ Office Visit or Consult Claim ,99242 ,Office consultation
 Office Visit or Consult Claim ,99243 ,Office consultation
 Office Visit or Consult Claim ,99244 ,Office consultation
 Office Visit or Consult Claim ,99245 ,Office consultation
-Office Visit or Consult Claim ,99271 ,,No Longer Valid - 06 Confirmatory consultation
+Office Visit or Consult Claim ,99271 ,No Longer Valid - 06 Confirmatory consultation
 Office Visit or Consult Claim ,99272 ,No Longer Valid - 06 Confirmatory consultation
 Office Visit or Consult Claim ,99273 ,No Longer Valid - 06 Confirmatory consultation
 Office Visit or Consult Claim ,99274 ,No Longer Valid - 06 Confirmatoryconsultation
@@ -1594,7 +1594,7 @@ Other Medical Services ,90772 ,"No Longer Valid - 09 Ther/proph/diag inj, sc/im"
 Other Medical Services ,90773 ,"No Longer Valid - 09 Ther/proph/diag inj, ia"
 Other Medical Services ,90774 ,"No Longer Valid - 09 Ther/proph/diag inj, iv push"
 Other Medical Services ,90775 ,No Longer Valid - 09 Ther/proph/diag inj add-on
-Other Medical Services ,90776 ,,No Longer Valid - 09 Tx/Pro/Dx Inj Same Drug Adon
+Other Medical Services ,90776 ,No Longer Valid - 09 Tx/Pro/Dx Inj Same Drug Adon
 Other Medical Services ,90779 ,No Longer Valid - 09 Ther/prop/diag inj/inf proc
 Other Medical Services ,90782 ,"No Longer Valid - 06 Injection, sc/im"
 Other Medical Services ,90783 ,"No Longer Valid - 06 Injection, ia"
@@ -1629,7 +1629,7 @@ Other Medical Services ,91052 ,Gastric analysis test
 Other Medical Services ,91055 ,Gastric intubation for smear
 Other Medical Services ,91060 ,No Longer Valid - 07 Gastric saline load test
 Other Medical Services ,91065 ,Breath hydrogen test
-Other Medical Services ,91100 ,,No Longer Valid - 09 Pass intestine bleeding tube
+Other Medical Services ,91100 ,No Longer Valid - 09 Pass intestine bleeding tube
 Other Medical Services ,91105 ,Gastric intubation treatment
 Other Medical Services ,91111 ,Esophageal Capsule Endoscopy
 Other Medical Services ,91120 ,Rectal sensation test
@@ -1882,13 +1882,13 @@ Other Medical Services ,93727 ,No Longer Valid - 09 Analyze ilr system
 Other Medical Services ,93731 ,No Longer Valid - 09 Analyze pacemaker system
 Other Medical Services ,93732 ,No Longer Valid - 09 Analyze pacemaker system
 Other Medical Services ,93733 ,"No Longer Valid - 09 Telephone analy, pacemaker"
-Other Medical Services ,93734 ,,No Longer Valid - 09 Analyze pacemaker system
+Other Medical Services ,93734 ,No Longer Valid - 09 Analyze pacemaker system
 Other Medical Services ,93735 ,No Longer Valid - 09 Analyze pacemaker system
-Other Medical Services ,93736 ,,"No Longer Valid - 09 Telephonic analy, pacemaker"
+Other Medical Services ,93736 ,"No Longer Valid - 09 Telephonic analy, pacemaker"
 Other Medical Services ,93737 ,No Longer Valid
 Other Medical Services ,93738 ,No Longer Valid
 Other Medical Services ,93740 ,Temperature gradient studies
-Other Medical Services ,93741 ,,No Longer Valid - 09 Analyze ht pace devicesngl
+Other Medical Services ,93741 ,No Longer Valid - 09 Analyze ht pace devicesngl
 Other Medical Services ,93742 ,No Longer Valid - 09 Analyze ht pace device sngl
 Other Medical Services ,93743 ,No Longer Valid - 09 Analyze ht pace device dual
 Other Medical Services ,93744 ,No Longer Valid - 09 Analyze ht pace device dual
@@ -2096,7 +2096,7 @@ Other Medical Services ,99100 ,Special anesthesia service
 Other Medical Services ,99116 ,Anesthesia with hypothermia
 Other Medical Services ,99135 ,Special anesthesia procedure
 Other Medical Services ,99140 ,Emergency anesthesia
-Other Medical Services ,99141 , "No Longer Valid - 06 Sedation, iv/im or inhalant"
+Other Medical Services ,99141 , "No Longer Valid - 06 Sedation iv/im or inhalant"
 Other Medical Services ,99142 ,"No Longer Valid - 06 Sedation, oral/rectal/nasal"
 Other Medical Services ,99150 ,Mod cs diff phys add-on
 Other Medical Services ,99151 ,No Longer Valid
@@ -2167,8 +2167,8 @@ Other Medical Services ,99313 ,"No Longer Valid - 06 Nursing fac care, subseq"
 Other Medical Services ,99315 ,Nursing fac discharge day
 Other Medical Services ,99316 ,Nursing fac discharge day
 Other Medical Services ,99318 ,Annual nursing fac assessmnt
-Other Medical Services ,99321 ,"No Longer Valid - 06 Rest home visit, new patient"
-Other Medical Services ,99322 ,,"No Longer Valid - 06 Rest home visit, new patient"
+Other Medical Services ,99321 ,"No Longer Valid - 06 Rest home visit new patient"
+Other Medical Services ,99322 ,"No Longer Valid - 06 Rest home visit, new patient"
 Other Medical Services ,99323 ,"No Longer Valid - 06 Rest home visit, new patient"
 Other Medical Services ,99324 ,Domicil/r-home visit new pat
 Other Medical Services ,99325 ,Domicil/r-home visit new pat
@@ -2243,7 +2243,7 @@ Other Medical Services ,99411 ,"Preventive counseling, group"
 Other Medical Services ,99412 ,"Preventive counseling, group"
 Other Medical Services ,99420 ,Health risk assessment test
 Other Medical Services ,99429 ,Unlisted preventive service
-Other Medical Services ,99431 ,,"No Longer Valid - 09 Initial care, normal newborn"
+Other Medical Services ,99431 ,"No Longer Valid - 09 Initial care, normal newborn"
 Other Medical Services ,99432 ,"No Longer Valid - 09 Newborn care, not in hosp"
 Other Medical Services ,99433 ,No Longer Valid - 09 Normal newborn care/hospital
 Other Medical Services ,99435 ,No Longer Valid - 09 Newborn discharge day hosp
@@ -4265,7 +4265,7 @@ Performance Measurement Codes ,3072F ,Low Risk For Retinopathy
 Performance Measurement Codes ,3073F ,Pre-Surg Eye Measures Doc'D
 Performance Measurement Codes ,3074F ,Syst Bp Lt 130 Mm Hg
 Performance Measurement Codes ,3075F ,Syst Bp Ge 130 - 139Mm Hg
-Performance Measurement Codes ,3076F ,,No Longer Valid - 08 Systolic Blood Pressure < 140 Mm Hg
+Performance Measurement Codes ,3076F ,No Longer Valid - 08 Systolic Blood Pressure < 140 Mm Hg
 Performance Measurement Codes ,3077F ,Syst bp = 140 mm hg6 it
 Performance Measurement Codes ,3078F ,Diast bp < 80 mm hg
 Performance Measurement Codes ,3079F ,Diast bp 80-89 mm hg
@@ -4979,8 +4979,8 @@ Radiology ,76065 ,"No Longer Valid - 07 X-rays, bone evaluation"
 Radiology ,76066 ,"No Longer Valid - 07 Joint survey, single view"
 Radiology ,76075 ,"No Longer Valid - 07 Dexa, axial skeleton study"
 Radiology ,76076 ,"No Longer Valid - 07 Dexa, peripheral study"
-Radiology ,76077 ,,No Longer Valid - 07 Dxa bone density/v- fracture
-Radiology ,76078 ,,No Longer Valid - 07 Radiographic absorptiometry
+Radiology ,76077 ,No Longer Valid - 07 Dxa bone density/v- fracture
+Radiology ,76078 ,No Longer Valid - 07 Radiographic absorptiometry
 Radiology ,76080 ,X-ray exam of fistula
 Radiology ,76086 ,No Longer Valid - 07 X-ray of mammary duct
 Radiology ,76088 ,No Longer Valid - 07 X-ray of mammary ducts
@@ -6816,30 +6816,30 @@ Surgery - Eye / Ocular Adnexa ,66220 ,Repair eye lesion
 Surgery - Eye / Ocular Adnexa ,66225 ,Repair/graft eye lesion
 Surgery - Eye / Ocular Adnexa ,66250 ,Follow-up surgery of eye
 Surgery - Eye / Ocular Adnexa ,66500 ,Incision of iris
-Surgery - Eye / Ocular Adnexa ,66505 ,Incision of iris,
-Surgery - Eye / Ocular Adnexa ,66600 ,Remove iris and lesion,
-Surgery - Eye / Ocular Adnexa ,66605 ,Removal of iris,
-Surgery - Eye / Ocular Adnexa ,66625 ,Removal of iris,
-Surgery - Eye / Ocular Adnexa ,66630 ,Removal of iris,
-Surgery - Eye / Ocular Adnexa ,66635 ,Removal of iris,
-Surgery - Eye / Ocular Adnexa ,66680 ,Repair iris & ciliary body,
-Surgery - Eye / Ocular Adnexa ,66682 ,Repair iris & ciliary body,
-Surgery - Eye / Ocular Adnexa ,66700 ,"Destruction, ciliary body",
-Surgery - Eye / Ocular Adnexa ,66710 ,Ciliary Transsleral Therapy,
-Surgery - Eye / Ocular Adnexa ,66711 ,Ciliary endoscopic ablation,
-Surgery - Eye / Ocular Adnexa ,66720 ,"Destruction, ciliary body",
-Surgery - Eye / Ocular Adnexa ,66740 ,"Destruction, ciliary body",
-Surgery - Eye / Ocular Adnexa ,66761 ,Revision of iris,
-Surgery - Eye / Ocular Adnexa ,66762 ,Revision of iris,
-Surgery - Eye / Ocular Adnexa ,66770 ,Removal of inner eye lesion,
-Surgery - Eye / Ocular Adnexa ,66820 ,"Incision, secondary cataract",
-Surgery - Eye / Ocular Adnexa ,66821 ,After cataract laser surgery,
-Surgery - Eye / Ocular Adnexa ,66825 ,Reposition intraocular lens,
-Surgery - Eye / Ocular Adnexa ,66830 ,Removal of lens lesion,
-Surgery - Eye / Ocular Adnexa ,66840 ,Removal of lens material,
-Surgery - Eye / Ocular Adnexa ,66850 ,Removal of lens material,
-Surgery - Eye / Ocular Adnexa ,66852 ,Removal of lens material,
-Surgery - Eye / Ocular Adnexa ,66920 ,Extraction of lens,
+Surgery - Eye / Ocular Adnexa ,66505 ,Incision of iris
+Surgery - Eye / Ocular Adnexa ,66600 ,Remove iris and lesion
+Surgery - Eye / Ocular Adnexa ,66605 ,Removal of iris
+Surgery - Eye / Ocular Adnexa ,66625 ,Removal of iris
+Surgery - Eye / Ocular Adnexa ,66630 ,Removal of iris
+Surgery - Eye / Ocular Adnexa ,66635 ,Removal of iris
+Surgery - Eye / Ocular Adnexa ,66680 ,Repair iris & ciliary body
+Surgery - Eye / Ocular Adnexa ,66682 ,Repair iris & ciliary body
+Surgery - Eye / Ocular Adnexa ,66700 ,"Destruction, ciliary body"
+Surgery - Eye / Ocular Adnexa ,66710 ,Ciliary Transsleral Therapy
+Surgery - Eye / Ocular Adnexa ,66711 ,Ciliary endoscopic ablation
+Surgery - Eye / Ocular Adnexa ,66720 ,"Destruction, ciliary body"
+Surgery - Eye / Ocular Adnexa ,66740 ,"Destruction, ciliary body"
+Surgery - Eye / Ocular Adnexa ,66761 ,Revision of iris
+Surgery - Eye / Ocular Adnexa ,66762 ,Revision of iris
+Surgery - Eye / Ocular Adnexa ,66770 ,Removal of inner eye lesion
+Surgery - Eye / Ocular Adnexa ,66820 ,"Incision, secondary cataract"
+Surgery - Eye / Ocular Adnexa ,66821 ,After cataract laser surgery
+Surgery - Eye / Ocular Adnexa ,66825 ,Reposition intraocular lens
+Surgery - Eye / Ocular Adnexa ,66830 ,Removal of lens lesion
+Surgery - Eye / Ocular Adnexa ,66840 ,Removal of lens material
+Surgery - Eye / Ocular Adnexa ,66850 ,Removal of lens material
+Surgery - Eye / Ocular Adnexa ,66852 ,Removal of lens material
+Surgery - Eye / Ocular Adnexa ,66920 ,Extraction of lens
 Surgery - Eye / Ocular Adnexa ,66930 ,Extraction of lens
 Surgery - Eye / Ocular Adnexa ,66940 ,Extraction of lens
 Surgery - Eye / Ocular Adnexa ,66982 ,"Cataract surgery, complex"
@@ -7056,30 +7056,30 @@ Surgery - Female Genital Sys ,56700 ,Partial removal of hymen
 Surgery - Female Genital Sys ,56720 ,No Longer Valid - 07 Incision of hymen
 Surgery - Female Genital Sys ,56740 ,Remove vagina gland lesion
 Surgery - Female Genital Sys ,56800 ,Repair of vagina
-Surgery - Female Genital Sys ,56805 ,Repair clitoris,
-Surgery - Female Genital Sys ,56810 ,Repair of perineum,
-Surgery - Female Genital Sys ,56820 ,Exam of vulva w/scope,
-Surgery - Female Genital Sys ,56821 ,Exam/biopsy of vulva w/scope,
-Surgery - Female Genital Sys ,57000 ,Exploration of vagina,
-Surgery - Female Genital Sys ,57010 ,Drainage of pelvic abscess,
-Surgery - Female Genital Sys ,57020 ,Drainage of pelvic fluid,
-Surgery - Female Genital Sys ,57022 ,"I & D vaginal hematoma, pp",
-Surgery - Female Genital Sys ,57023 ,"I & D vag hematoma, non-ob",
-Surgery - Female Genital Sys ,57061 ,"Destroy vag lesions, simple",
-Surgery - Female Genital Sys ,57065 ,"Destroy vag lesions, complex",
-Surgery - Female Genital Sys ,57100 ,Biopsy of vagina,
-Surgery - Female Genital Sys ,57105 ,Biopsy of vagina,
-Surgery - Female Geni al Sys ,57106 ,"Remove vagina wall, partial",
-Surgery - Female Genital Sys ,57107 ,"Remove vagina tissue, part",
-Surgery - Female Genital Sys ,57108 ,No Longer Valid,
-Surgery - Female Genital Sys ,57109 ,Vaginectomy partial w/nodes,
-Surgery - Female Genital Sys ,57110 ,"Remove vagina wall, complete",
-Surgery - Female Genital Sys ,57111 ,"Remove vagina tissue, compl",
-Surgery - Female Genital Sys ,57112 ,"Vaginectomy w/nodes, compl",
-Surgery - Female Genital Sys ,57120 ,Closure of vagina,
-Surgery - Female Genital Sys ,57130 ,Remove vagina lesion,
-Surgery - Female Genital Sys ,57135 ,Remove vagina lesion,
-Surgery - Female Genital Sys ,57150 ,Treat vagina infection,
+Surgery - Female Genital Sys ,56805 ,Repair clitoris
+Surgery - Female Genital Sys ,56810 ,Repair of perineum
+Surgery - Female Genital Sys ,56820 ,Exam of vulva w/scope
+Surgery - Female Genital Sys ,56821 ,Exam/biopsy of vulva w/scope
+Surgery - Female Genital Sys ,57000 ,Exploration of vagina
+Surgery - Female Genital Sys ,57010 ,Drainage of pelvic abscess
+Surgery - Female Genital Sys ,57020 ,Drainage of pelvic fluid
+Surgery - Female Genital Sys ,57022 ,"I & D vaginal hematoma, pp"
+Surgery - Female Genital Sys ,57023 ,"I & D vag hematoma, non-ob"
+Surgery - Female Genital Sys ,57061 ,"Destroy vag lesions, simple"
+Surgery - Female Genital Sys ,57065 ,"Destroy vag lesions, complex"
+Surgery - Female Genital Sys ,57100 ,Biopsy of vagina
+Surgery - Female Genital Sys ,57105 ,Biopsy of vagina
+Surgery - Female Geni al Sys ,57106 ,"Remove vagina wall, partial"
+Surgery - Female Genital Sys ,57107 ,"Remove vagina tissue, part"
+Surgery - Female Genital Sys ,57108 ,No Longer Valid
+Surgery - Female Genital Sys ,57109 ,Vaginectomy partial w/nodes
+Surgery - Female Genital Sys ,57110 ,"Remove vagina wall, complete"
+Surgery - Female Genital Sys ,57111 ,"Remove vagina tissue, compl"
+Surgery - Female Genital Sys ,57112 ,"Vaginectomy w/nodes, compl"
+Surgery - Female Genital Sys ,57120 ,Closure of vagina
+Surgery - Female Genital Sys ,57130 ,Remove vagina lesion
+Surgery - Female Genital Sys ,57135 ,Remove vagina lesion
+Surgery - Female Genital Sys ,57150 ,Treat vagina infection
 Surgery - Female Genital Sys ,57155 ,Insert uteri tandems/ovoids
 Surgery - Female Genital Sys ,57160 ,Insert pessary/other device
 Surgery - Female Genital Sys ,57170 ,Fitting of diaphragm/cap
@@ -7332,13 +7332,9 @@ Surgery - Hemic and Lymph Sys ,38792 ,Identify sentinel node
 Surgery - Hemic and Lymph Sys ,38794 ,Access thoracic lymph duct
 Surgery - Hemic and Lymph Sys ,38999 ,Blood/lymph system procedure
 Surgery - Integumentary System ,#0052 ,Future-Vacuum Assisted Closure
-Surgery - Integumentary ,,Future-Cryosurgery for breast cancer and
-System ,#0097 ,breast fibroadenoma
-Product Line ,Code ,CPT-4 Procedure
-Surgery - Integumentary ,,"No Longer Valid - 09 Cath lavage, mammary"
-System ,0046T ,duct(s)
-Surgery - Integumentary ,,"No Longer Valid - 09 Cath lavage, mammary"
-System ,0047T ,duct(s)
+Surgery - Integumentary System ,#0097 ,Future-Cryosurgery for breast cancer and breast filbroadenoma
+Surgery - Integumentary System ,0046T,"No Longer Valid - 09 Cath lavage, mammary duct(s)"
+Surgery - Integumentary System,0047T,"No Longer Valid - 09 Cath lavage, mammary duct(s)"
 Surgery - Integumentary,,
 System ,0183T ,Wound Ultrasound
 Surgery - Integumentary,,
