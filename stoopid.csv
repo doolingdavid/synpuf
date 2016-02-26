@@ -1099,14 +1099,12 @@ Mammogram ,76090 ,"No Longer Valid - 07 Mammogram, one breast"
 Mammogram ,76091 ,"No Longer Valid - 07 Mammogram, both breasts"
 Mammogram ,76092 ,"No Longer Valid - 07 Mammogram, screening"
 Mammogram ,76093 ,"No Longer Valid - 07 Magnetic image, breast"
-,,"No Longer Valid - 07 Magnetic image, both"
-Mammogram ,76094 ,breasts
+Mammogram ,76094 ,"No Longer Valid - 07 Magnetic image, both breasts"
 Mammogram ,77055 ,"Mammogram, One Breast"
 Mammogram ,77056 ,"Mammogram, Both Breasts"
 Mammogram ,77057 ,"Mammogram, Screening"
 Maternity Care and Delivery ,59000 ,"Amniocentesis, diagnostic"
 Maternity Care and Delivery ,59001 ,"Amniocentesis, therapeutic"
-Product Line ,Code ,CPT-4 Procedure
 Maternity Care and Delivery ,59012 ,"Fetal cord puncture,prenatal"
 Maternity Care and Delivery ,59015 ,Chorion biopsy
 Maternity Care and Delivery ,59020 ,Fetal contract stress test
@@ -1155,7 +1153,6 @@ Maternity Care and Delivery ,59622 ,Attempted vbac after care
 Maternity Care and Delivery ,59812 ,Treatment of miscarriage
 Maternity Care and Delivery ,59820 ,Care of miscarriage
 Maternity Care and Delivery ,59821 ,Treatment of miscarriage
-Product Line ,Code ,CPT-4 Procedure
 Maternity Care and Delivery ,59830 ,Treat uterus infection
 Maternity Care and Delivery ,59840 ,Abortion
 Maternity Care and Delivery ,59841 ,Abortion
@@ -1197,13 +1194,10 @@ Nuclear Medicine ,78130 ,Red cell survival study
 Nuclear Medicine ,78135 ,Red cell survival kinetics
 Nuclear Medicine ,78140 ,Red cell sequestration
 Nuclear Medicine ,78160 ,No Longer Valid - 06 Plasma iron turnover
-,,No Longer Valid - 06 Radioiron absorption
-Nuclear Medicine ,78162 ,exam
+Nuclear Medicine ,78162 ,,No Longer Valid - 06 Radioiron absorption exam
 Nuclear Medicine ,78170 ,No Longer Valid - 06 Red cell iron utilization
-,,No Longer Valid - 06 Total body iron
-Nuclear Medicine ,78172 ,estimation
+Nuclear Medicine ,78172 ,No Longer Valid - 06 Total body iron estimation
 Nuclear Medicine ,78185 ,Spleen imaging
-Product Line ,Code ,CPT-4 Procedure
 Nuclear Medicine ,78190 ,"Platelet survival, kinetics"
 Nuclear Medicine ,78191 ,Platelet survival
 Nuclear Medicine ,78192 ,No Longer Valid
@@ -1251,7 +1245,6 @@ Nuclear Medicine ,78455 ,No Longer Valid - 06 Venous thrombosis study
 Nuclear Medicine ,78457 ,Venous thrombosis imaging
 Nuclear Medicine ,78458 ,"Ven thrombosis images, bilat"
 Nuclear Medicine ,78459 ,Heart muscle imaging (PET)
-Product Line ,Code ,CPT-4 Procedure
 Nuclear Medicine ,78460 ,"Heart muscle blood, single"
 Nuclear Medicine ,78461 ,"Heart muscle blood, multiple"
 Nuclear Medicine ,78464 ,"Heart image (3d), single"
@@ -1291,8 +1284,7 @@ Nuclear Medicine ,78607 ,Brain imaging (3D)
 Nuclear Medicine ,78608 ,Brain imaging (PET)
 Nuclear Medicine ,78609 ,Brain imaging (PET)
 Nuclear Medicine ,78610 ,Brain flow imaging only
-,,No Longer Valid - 08 Cerebral vascular flow
-Nuclear Medicine ,78615 ,image
+Nuclear Medicine ,78615 ,No Longer Valid - 08 Cerebral vascular flow image
 Nuclear Medicine ,78630 ,Cerebrospinal fluid scan
 Nuclear Medicine ,78635 ,CSF ventriculography
 Nuclear Medicine ,78645 ,CSF shunt evaluation
@@ -1300,7 +1292,6 @@ Nuclear Medicine ,78647 ,Cerebrospinal fluid scan
 Nuclear Medicine ,78650 ,CSF leakage imaging
 Nuclear Medicine ,78652 ,No Longer Valid
 Nuclear Medicine ,78655 ,No Longer Valid
-Product Line ,Code ,CPT-4 Procedure
 Nuclear Medicine ,78660 ,Nuclear exam of tear flow
 Nuclear Medicine ,78699 ,Nervous system nuclear exam
 Nuclear Medicine ,78700 ,"Kidney Imaging, Morphol"
@@ -1329,8 +1320,7 @@ Nuclear Medicine ,78806 ,"Abscess imaging, whole body"
 Nuclear Medicine ,78807 ,Nuclear localization/abscess
 Nuclear Medicine ,78808 ,Iv inj ra drug dx study
 Nuclear Medicine ,78810 ,No Longer Valid
-,,No Longer Valid - 09 Nuclear medicine data
-Nuclear Medicine ,78890 ,proc
+Nuclear Medicine ,78890 ,No Longer Valid - 09 Nuclear medicine data proc
 Nuclear Medicine ,78891 ,No Longer Valid - 09 Nuclear med data proc
 Nuclear Medicine ,78990 ,No Longer Valid
 Nuclear Medicine ,78999 ,Nuclear diagnostic exam
@@ -1347,7 +1337,6 @@ Nuclear Medicine ,79403 ,Hematopoietic nuclear tx
 Nuclear Medicine ,79420 ,No Longer Valid
 Nuclear Medicine ,79440 ,"Nuclear Rx, Intra-Articular"
 Nuclear Medicine ,79900 ,No Longer Valid
-Product Line ,Code ,CPT-4 Procedure
 Nuclear Medicine ,79999 ,Nuclear medicine therapy
 Office Visit or Consult Claim ,90000 ,No Longer Valid
 Office Visit or Consult Claim ,90010 ,No Longer Valid
@@ -1369,8 +1358,7 @@ Office Visit or Consult Claim ,90641 ,No Longer Valid
 Office Visit or Consult Claim ,90642 ,No Longer Valid
 Office Visit or Consult Claim ,90643 ,No Longer Valid
 Office Visit or Consult Claim ,90699 ,No Longer Valid
-,,"No Longer Valid - 09 Hydration IV Infusion,"
-Office Visit or Consult Claim ,90760 ,Initial
+Office Visit or Consult Claim ,90760 , "No Longer Valid - 09 Hydration IV Infusion, Initial"
 Office Visit or Consult Claim ,90762 ,No Longer Valid
 Office Visit or Consult Claim ,90763 ,No Longer Valid
 Office Visit or Consult Claim ,90764 ,No Longer Valid
@@ -1393,17 +1381,11 @@ Office Visit or Consult Claim ,99242 ,Office consultation
 Office Visit or Consult Claim ,99243 ,Office consultation
 Office Visit or Consult Claim ,99244 ,Office consultation
 Office Visit or Consult Claim ,99245 ,Office consultation
-,,No Longer Valid - 06 Confirmatory
-Office Visit or Consult Claim ,99271 ,consultation
-Product Line ,Code ,CPT-4 Procedure
-,,No Longer Valid - 06 Confirmatory
-Office Visit or Consult Claim ,99272 ,consultation
-,,No Longer Valid - 06 Confirmatory
-Office Visit or Consult Claim ,99273 ,consultation
-,,No Longer Valid - 06 Confirmatory
-Office Visit or Consult Claim ,99274 ,consultation
-,,No Longer Valid - 06 Confirmatory
-Office Visit or Consult Claim ,99275 ,consultation
+Office Visit or Consult Claim ,99271 ,,No Longer Valid - 06 Confirmatory consultation
+Office Visit or Consult Claim ,99272 ,No Longer Valid - 06 Confirmatory consultation
+Office Visit or Consult Claim ,99273 ,No Longer Valid - 06 Confirmatory consultation
+Office Visit or Consult Claim ,99274 ,No Longer Valid - 06 Confirmatoryconsultation
+Office Visit or Consult Claim ,99275 ,No Longer Valid - 06 Confirmatory consultation
 Office Visit or Consult Claim ,99366 ,Team Conf W/Pat By Hc Pro
 Office Visit or Consult Claim ,99367 ,Team Conf W/O Pat By Phys
 Office Visit or Consult Claim ,99368 ,Team Conf W/O Pat By Hc Pro
@@ -1431,19 +1413,15 @@ Office Visit or Consult Claim ,99478 ,"Ic, lbw inf < 1500 gm subsq"
 Office Visit or Consult Claim ,99479 ,Ic lbw inf 1500-2500 g subsq
 Office Visit or Consult Claim ,99480 ,Ic inf pbw 2501-5000 g subsq
 Office Visit or Consult Claim ,99999 ,No Longer Valid
-,,No Longer Valid - 07 Transcranial magnetic
-Other Medical Services ,0018T ,stimul
+Other Medical Services ,0018T ,No Longer Valid - 07 Transcranial magnetic stimul
 Other Medical Services ,0019T ,"Extracorp shock wv tx,ms nos"
-,,"No Longer Valid - 06 Extracorp shock wave tx,"
-Other Medical Services ,0020T ,ft
+Other Medical Services ,0020T ,"No Longer Valid - 06 Extracorp shock wave tx, ft"
 Other Medical Services ,0030T ,Antiprothrombin antibody
 Other Medical Services ,0044T ,No Longer Valid - 07 Whole body photography
 Other Medical Services ,0045T ,No Longer Valid - 07 Whole body photography
 Other Medical Services ,0054T ,Bone surgery using computer
 Other Medical Services ,0055T ,Bone surgery using computer
-Product Line ,Code ,CPT-4 Procedure
-,,No Longer Valid - 09 Electrical impedance
-Other Medical Services ,0060T ,scan
+Other Medical Services ,0060T ,No Longer Valid - 09 Electrical impedance scan
 Other Medical Services ,0064T ,Spectroscop eval expired gas
 Other Medical Services ,0065T ,No Longer Valid - 08 Ocular photoscreen bilat
 Other Medical Services ,0068T ,Interp/rept heart sound
@@ -1462,11 +1440,9 @@ Other Medical Services ,0109T ,Heat quant sensory test
 Other Medical Services ,0110T ,Nos quant sensory test
 Other Medical Services ,0115T ,No Longer Valid - 08 Med tx mngmt 15 min
 Other Medical Services ,0116T ,No Longer Valid - 08 Med tx mngmt subsqt
-,,No Longer Valid - 08 Med tx mngmt addl 15
-Other Medical Services ,0117T ,min
+Other Medical Services ,0117T ,No Longer Valid - 08 Med tx mngmt addl 15 min
 Other Medical Services ,0130T ,Chron care drug investigatn
-,,No Longer Valid - 08 Study of Sensor in
-Other Medical Services ,0154T ,Aneurysm Sac
+Other Medical Services ,0154T ,No Longer Valid - 08 Study of Sensor in Aneurysm Sac
 Other Medical Services ,0160T ,Tcranial magn stim tx plan
 Other Medical Services ,0161T ,Tcranial magn stim tx deliv
 ,,No Longer Valid - 09 Analysis and
@@ -1478,17 +1454,14 @@ Other Medical Services ,0187T ,Ophthalmic dx image anterior
 Other Medical Services ,0188T ,Videoconf crit care 74 min
 Other Medical Services ,0189T ,Videoconf crit care addl 30
 Other Medical Services ,20985 ,Cptr-Asst Dir Ms Px
-,,No Longer Valid - 09 Cptr-Asst Dir Ms Px Io
-Other Medical Services ,20986 ,Img
-,,No Longer Valid - 09 Cptr-Asst Dir Ms Px Pre
-Other Medical Services ,20987 ,Img
+Other Medical Services ,20986 ,No Longer Valid - 09 Cptr-Asst Dir Ms Px Io Img
+Other Medical Services ,20987 ,No Longer Valid - 09 Cptr-Asst Dir Ms Px Pre Img
 Other Medical Services ,36400 ,Bl draw < 3 yrs fem/jugular
 Other Medical Services ,36405 ,Bl draw < 3 yrs scalp vein
 Other Medical Services ,36406 ,Bl draw < 3 yrs other vein
 Other Medical Services ,36410 ,Non-routine bl draw > 3 yrs
 Other Medical Services ,36415 ,Routine Venipuncture
 Other Medical Services ,36416 ,Capillary blood draw
-Product Line ,Code ,CPT-4 Procedure
 Other Medical Services ,36420 ,Vein access cutdown < 1 yr
 Other Medical Services ,36425 ,Vein access cutdown > 1 yr
 Other Medical Services ,36591 ,Draw Blood Off Venous Device
@@ -1537,7 +1510,6 @@ Other Medical Services ,90581 ,"Anthrax vaccine, sc"
 Other Medical Services ,90585 ,"Bcg vaccine, percut"
 Other Medical Services ,90586 ,"Bcg vaccine, intravesical"
 Other Medical Services ,90592 ,No Longer Valid
-Product Line ,Code ,CPT-4 Procedure
 Other Medical Services ,90632 ,"Hep a vaccine, adult im"
 Other Medical Services ,90633 ,"Hep a vacc, ped/adol, 2 dose"
 Other Medical Services ,90634 ,"Hep a vacc, ped/adol, 3 dose"
@@ -1586,7 +1558,6 @@ Other Medical Services ,90713 ,"Poliovirus, ipv, sc/im"
 Other Medical Services ,90714 ,Td vaccine no prsrv >/= 7 im
 Other Medical Services ,90715 ,Tdap vaccine >7 im
 Other Medical Services ,90716 ,"Chicken pox vaccine, sc"
-Product Line ,Code ,CPT-4 Procedure
 Other Medical Services ,90717 ,"Yellow fever vaccine, sc"
 Other Medical Services ,90718 ,"Td vaccine > 7, im"
 Other Medical Services ,90719 ,"Diphtheria vaccine, im"
@@ -1617,27 +1588,20 @@ Other Medical Services ,90746 ,"Hep b vaccine, adult, im"
 Other Medical Services ,90747 ,"Hepb vacc, ill pat 4 dose im"
 Other Medical Services ,90748 ,"Hep b/hib vaccine, im"
 Other Medical Services ,90749 ,Vaccine toxoid
-,,"No Longer Valid - 09 Hydrate IV Fusion, Add-"
-Other Medical Services ,90761 ,On
+Other Medical Services ,90761 ,"No Longer Valid - 09 Hydrate IV Fusion, Add-On"
 Other Medical Services ,90768 ,No Longer Valid - 09 Ther/diag concurrent inf
 Other Medical Services ,90772 ,"No Longer Valid - 09 Ther/proph/diag inj, sc/im"
 Other Medical Services ,90773 ,"No Longer Valid - 09 Ther/proph/diag inj, ia"
-,,"No Longer Valid - 09 Ther/proph/diag inj, iv"
-Other Medical Services ,90774 ,push
-,,No Longer Valid - 09 Ther/proph/diag inj add-
-Other Medical Services ,90775 ,on
-,,No Longer Valid - 09 Tx/Pro/Dx Inj Same Drug
-Other Medical Services ,90776 ,Adon
-,,No Longer Valid - 09 Ther/prop/diag inj/inf
-Other Medical Services ,90779 ,proc
+Other Medical Services ,90774 ,"No Longer Valid - 09 Ther/proph/diag inj, iv push"
+Other Medical Services ,90775 ,No Longer Valid - 09 Ther/proph/diag inj add-on
+Other Medical Services ,90776 ,,No Longer Valid - 09 Tx/Pro/Dx Inj Same Drug Adon
+Other Medical Services ,90779 ,No Longer Valid - 09 Ther/prop/diag inj/inf proc
 Other Medical Services ,90782 ,"No Longer Valid - 06 Injection, sc/im"
 Other Medical Services ,90783 ,"No Longer Valid - 06 Injection, ia"
-Product Line ,Code ,CPT-4 Procedure
 Other Medical Services ,90784 ,"No Longer Valid - 06 Injection, iv"
 Other Medical Services ,90788 ,No Longer Valid - 06 Injection of antibiotic
 Other Medical Services ,90798 ,No Longer Valid
-,,No Longer Valid - 06 Ther/prophylactic/dx
-Other Medical Services ,90799 ,inject
+Other Medical Services ,90799 ,No Longer Valid - 06 Ther/prophylactic/dx inject
 Other Medical Services ,90900 ,No Longer Valid
 Other Medical Services ,90901 ,"Biofeedback train, any meth"
 Other Medical Services ,90902 ,No Longer Valid
@@ -1665,8 +1629,7 @@ Other Medical Services ,91052 ,Gastric analysis test
 Other Medical Services ,91055 ,Gastric intubation for smear
 Other Medical Services ,91060 ,No Longer Valid - 07 Gastric saline load test
 Other Medical Services ,91065 ,Breath hydrogen test
-,,No Longer Valid - 09 Pass intestine bleeding
-Other Medical Services ,91100 ,tube
+Other Medical Services ,91100 ,,No Longer Valid - 09 Pass intestine bleeding tube
 Other Medical Services ,91105 ,Gastric intubation treatment
 Other Medical Services ,91111 ,Esophageal Capsule Endoscopy
 Other Medical Services ,91120 ,Rectal sensation test
@@ -1680,7 +1643,6 @@ Other Medical Services ,92004 ,"Eye exam, new patient"
 Other Medical Services ,92012 ,Eye exam established pat
 Other Medical Services ,92014 ,Eye exam & treatment
 Other Medical Services ,92015 ,Refraction
-Product Line ,Code ,CPT-4 Procedure
 Other Medical Services ,92018 ,New eye exam & treatment
 Other Medical Services ,92019 ,Eye exam & treatment
 Other Medical Services ,92020 ,Special eye evaluation
@@ -1727,7 +1689,6 @@ Other Medical Services ,92330 ,No Longer Valid - 06 Fitting of artificial eye
 Other Medical Services ,92335 ,No Longer Valid - 06 Fitting of artificial eye
 Other Medical Services ,92340 ,Fitting of spectacles
 Other Medical Services ,92341 ,Fitting of spectacles
-Product Line ,Code ,CPT-4 Procedure
 Other Medical Services ,92342 ,Fitting of spectacles
 Other Medical Services ,92352 ,Special spectacles fitting
 Other Medical Services ,92353 ,Special spectacles fitting
@@ -1771,7 +1732,6 @@ Other Medical Services ,92555 ,Speech threshold audiometry
 Other Medical Services ,92556 ,"Speech audiometry, complete"
 Other Medical Services ,92557 ,Comprehensive hearing test
 Other Medical Services ,92559 ,Group audiometric testing
-Product Line ,Code ,CPT-4 Procedure
 Other Medical Services ,92560 ,"Bekesy audiometry, screen"
 Other Medical Services ,92561 ,"Bekesy audiometry, diagnosis"
 Other Medical Services ,92562 ,Loudness balance test
@@ -1820,7 +1780,6 @@ Other Medical Services ,92607 ,"Ex for speech device rx, 1hr"
 Other Medical Services ,92608 ,Ex for speech device rx addl
 Other Medical Services ,92609 ,Use of speech device service
 Other Medical Services ,92610 ,Evaluate swallowing function
-Product Line ,Code ,CPT-4 Procedure
 Other Medical Services ,92611 ,Motion fluoroscopy/swallow
 Other Medical Services ,92612 ,Endoscopy swallow tst (fees)
 Other Medical Services ,92613 ,Endoscopy swallow tst (fees)
@@ -1869,7 +1828,6 @@ Other Medical Services ,93282 ,"Icd device prog eval, 1 sngl"
 Other Medical Services ,93283 ,"Icd device progr eval, dual"
 Other Medical Services ,93284 ,"Icd device progr eval, mult"
 Other Medical Services ,93285 ,Ilr device eval progr
-Product Line ,Code ,CPT-4 Procedure
 Other Medical Services ,93286 ,Pre-op pm device eval
 Other Medical Services ,93287 ,Pre-op icd device eval
 Other Medical Services ,93288 ,Pm device eval in person
@@ -1918,33 +1876,22 @@ Other Medical Services ,93668 ,Peripheral vascular rehab
 Other Medical Services ,93701 ,"Bioimpedance, thoracic"
 Other Medical Services ,93720 ,Total body plethysmography
 Other Medical Services ,93721 ,Plethysmography tracing
-Product Line ,Code ,CPT-4 Procedure
 Other Medical Services ,93722 ,Plethysmography report
 Other Medical Services ,93724 ,Analyze pacemaker system
 Other Medical Services ,93727 ,No Longer Valid - 09 Analyze ilr system
-,,No Longer Valid - 09 Analyze pacemaker
-Other Medical Services ,93731 ,system
-,,No Longer Valid - 09 Analyze pacemaker
-Other Medical Services ,93732 ,system
-,,"No Longer Valid - 09 Telephone analy,"
-Other Medical Services ,93733 ,pacemaker
-,,No Longer Valid - 09 Analyze pacemaker
-Other Medical Services ,93734 ,system
-,,No Longer Valid - 09 Analyze pacemaker
-Other Medical Services ,93735 ,system
-,,"No Longer Valid - 09 Telephonic analy,"
-Other Medical Services ,93736 ,pacemaker
+Other Medical Services ,93731 ,No Longer Valid - 09 Analyze pacemaker system
+Other Medical Services ,93732 ,No Longer Valid - 09 Analyze pacemaker system
+Other Medical Services ,93733 ,"No Longer Valid - 09 Telephone analy, pacemaker"
+Other Medical Services ,93734 ,,No Longer Valid - 09 Analyze pacemaker system
+Other Medical Services ,93735 ,No Longer Valid - 09 Analyze pacemaker system
+Other Medical Services ,93736 ,,"No Longer Valid - 09 Telephonic analy, pacemaker"
 Other Medical Services ,93737 ,No Longer Valid
 Other Medical Services ,93738 ,No Longer Valid
 Other Medical Services ,93740 ,Temperature gradient studies
-,,No Longer Valid - 09 Analyze ht pace device
-Other Medical Services ,93741 ,sngl
-,,No Longer Valid - 09 Analyze ht pace device
-Other Medical Services ,93742 ,sngl
-,,No Longer Valid - 09 Analyze ht pace device
-Other Medical Services ,93743 ,dual
-,,No Longer Valid - 09 Analyze ht pace device
-Other Medical Services ,93744 ,dual
+Other Medical Services ,93741 ,,No Longer Valid - 09 Analyze ht pace devicesngl
+Other Medical Services ,93742 ,No Longer Valid - 09 Analyze ht pace device sngl
+Other Medical Services ,93743 ,No Longer Valid - 09 Analyze ht pace device dual
+Other Medical Services ,93744 ,No Longer Valid - 09 Analyze ht pace device dual
 Other Medical Services ,93745 ,Set-up cardiovert-defibrill
 Other Medical Services ,93760 ,No Longer Valid - 09 Cephalic thermogram
 Other Medical Services ,93762 ,No Longer Valid - 09 Peripheral thermogram
@@ -1966,12 +1913,10 @@ Other Medical Services ,94642 ,Aerosol inhalation treatment
 Other Medical Services ,94644 ,"Cbt, 1st hour"
 Other Medical Services ,94645 ,"Cbt, each addl hour"
 Other Medical Services ,94650 ,No Longer Valid
-Product Line ,Code ,CPT-4 Procedure
 Other Medical Services ,94651 ,No Longer Valid
 Other Medical Services ,94652 ,No Longer Valid
 Other Medical Services ,94656 ,No Longer Valid - 07 Initial ventilator mgmt
-,,No Longer Valid - 07 Continued ventilator
-Other Medical Services ,94657 ,mgmt
+Other Medical Services ,94657 ,No Longer Valid - 07 Continued ventilator mgmt
 Other Medical Services ,94660 ,"Pos airway pressure, CPAP"
 Other Medical Services ,94662 ,"Neg press ventilation, cnp"
 Other Medical Services ,94664 ,Evaluate Pt Use Of Inhaler
@@ -2014,7 +1959,6 @@ Other Medical Services ,95831 ,"Limb muscle testing, manual"
 Other Medical Services ,95832 ,"Hand muscle testing, manual"
 Other Medical Services ,95833 ,"Body muscle testing, manual"
 Other Medical Services ,95834 ,"Body muscle testing, manual"
-Product Line ,Code ,CPT-4 Procedure
 Other Medical Services ,95842 ,No Longer Valid
 Other Medical Services ,95851 ,Range of motion measurements
 Other Medical Services ,95852 ,Range of motion measurements
