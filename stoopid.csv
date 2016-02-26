@@ -596,83 +596,43 @@ Chiropractic Treatment ,98943 ,Chiropractic manipulation
 (CAT) ,72129 ,CT chest spine w/dye
 (CAT) ,72130 ,CT chest spine w/o & w/dye
 (CAT) ,72131 ,CT lumbar spine w/o dye
-Product Line ,Code ,CPT-4 Procedure
-Computerized Axial Tomog,,
 (CAT) ,72132 ,CT lumbar spine w/dye
-Computerized Axial Tomog,,
 (CAT) ,72133 ,CT lumbar spine w/o & w/dye
-Computerized Axial Tomog,,
 (CAT) ,72191 ,CT angiograph pelv w/o&w/dye
-Computerized Axial Tomog,,
 (CAT) ,72192 ,CT pelvis w/o dye
-Computerized Axial Tomog,,
 (CAT) ,72193 ,CT pelvis w/dye
-Computerized Axial Tomog,,
 (CAT) ,72194 ,CT pelvis w/o & w/dye
-Computerized Axial Tomog,,
 (CAT) ,72292 ,"Perq vertebroplasty, ct"
-Computerized Axial Tomog,,
 (CAT) ,73200 ,CT upper extremity w/o dye
-Computerized Axial Tomog,,
 (CAT) ,73201 ,CT upper extremity w/dye
-Computerized Axial Tomog,,
 (CAT) ,73202 ,CT uppr extremity w/o&w/dye
-Computerized Axial Tomog,,
 (CAT) ,73206 ,CT angio upr extrm w/o&w/dye
-Computerized Axial Tomog,,
 (CAT) ,73700 ,CT lower extremity w/o dye
-Computerized Axial Tomog,,
 (CAT) ,73701 ,CT lower extremity w/dye
-Computerized Axial Tomog,,
 (CAT) ,73702 ,CT lwr extremity w/o&w/dye
-Computerized Axial Tomog,,
 (CAT) ,73706 ,CT angio lwr extr w/o&w/dye
-Computerized Axial Tomog,,
 (CAT) ,74150 ,CT abdomen w/o dye
-Computerized Axial Tomog,,
 (CAT) ,74160 ,CT abdomen w/dye
-Computerized Axial Tomog,,
 (CAT) ,74170 ,CT abdomen w/o & w/dye
-Computerized Axial Tomog,,
 (CAT) ,74175 ,CT angio abdom w/o & w/dye
-Computerized Axial Tomog,,
 (CAT) ,75635 ,CT angio abdominal arteries
-Computerized Axial Tomog,,
 (CAT) ,76013 ,"No Longer Valid - 07 Percut vertebroplasty, ct"
-Computerized Axial Tomog ,,"No Longer Valid - 07 CT scan, bone density"
-(CAT) ,76070 ,study
-Computerized Axial Tomog ,,"No Longer Valid - 07 Ct bone density,"
-(CAT) ,76071 ,peripheral
-Computerized Axial Tomog,,
-(CAT) ,76355 ,No Longer Valid - 07 Ct scan for localization
-Product Line ,Code ,CPT-4 Procedure
-Computerized Axial Tomog,,
+(CAT) ,76070,"No Longer Valid - 07 CT scan, bone density study"
+(CAT),76071,"No Longer Valid - 07 Ct bone density, peripheral"
+(CAT) ,76355, No Longer Valid - 07 Ct scan for localization
 (CAT) ,76360 ,No Longer Valid - 07 Ct scan for needle biopsy
-Computerized Axial Tomog ,,No Longer Valid - 07 Ct guide for tissue
-(CAT) ,76362 ,ablation
-Computerized Axial Tomog,,
+(CAT),76362,No Longer Valid - 07 Ct guide for tissue ablation
 (CAT) ,76365 ,No Longer Valid
-Computerized Axial Tomog,,
 (CAT) ,76370 ,No Longer Valid - 07 Ct scan for therapy guide
-Computerized Axial Tomog,,
 (CAT) ,76376 ,3d render w/o postprocess
-Computerized Axial Tomog,,
 (CAT) ,76377 ,3d rendering w/postprocess
-Computerized Axial Tomog,,
 (CAT) ,76380 ,CAT scan follow-up study
-Computerized Axial Tomog,,
 (CAT) ,76497 ,CT procedure
-Computerized Axial Tomog,,
 (CAT) ,77011 ,CT Scan For Localization
-Computerized Axial Tomog,,
 (CAT) ,77012 ,CT Scan For Needle Biopsy
-Computerized Axial Tomog,,
 (CAT) ,77013 ,CT Guide For Tissue Ablation
-Computerized Axial Tomog,,
 (CAT) ,77014 ,CT Scan For Therapy Guide
-Computerized Axial Tomog,,
 (CAT) ,77078 ,"CT Bone Density, Axial"
-Computerized Axial Tomog,,
 (CAT) ,77079 ,"CT Bone Density, Peripheral"
 Diagnostic Ultrasound ,#0067 ,Future-Portable Ultrasound
 Diagnostic Ultrasound ,0126T ,Chd risk imt study
@@ -693,8 +653,6 @@ Diagnostic Ultrasound ,76705 ,Echo exam of abdomen
 Diagnostic Ultrasound ,76770 ,"Us exam abdo back wall, comp"
 Diagnostic Ultrasound ,76775 ,"Us exam abdo back wall, lim"
 Diagnostic Ultrasound ,76776 ,Us exam k transpl w/doppler
-Product Line ,Code ,CPT-4 Procedure
-,,No Longer Valid - 07 Us exam kidney
 Diagnostic Ultrasound ,76778 ,transplant
 Diagnostic Ultrasound ,76800 ,"Us exam, spinal canal"
 Diagnostic Ultrasound ,76801 ,"Ob us < 14 wks, single fetus"
@@ -742,32 +700,24 @@ Diagnostic Ultrasound ,76950 ,Echo guidance radiotherapy
 Diagnostic Ultrasound ,76960 ,No Longer Valid
 Diagnostic Ultrasound ,76965 ,Echo guidance radiotherapy
 Diagnostic Ultrasound ,76970 ,Ultrasound exam follow-up
-Product Line ,Code ,CPT-4 Procedure
 Diagnostic Ultrasound ,76975 ,GI endoscopic ultrasound
-Diagnostic Ultrasound ,76977 ,Us bone density measure
-,,No Longer Valid - 07 Ultrasound guide
+Diagnostic Ultrasound ,76977 ,Us bone density measure No Longer Valid - 07 Ultrasound guide
 Diagnostic Ultrasound ,76986 ,intraoper
 Diagnostic Ultrasound ,76998 ,"Us Guide, Intraop"
 Diagnostic Ultrasound ,76999 ,Echo examination procedure
 Diagnostic Ultrasound ,93890 ,"Tcd, vasoreactivity study"
 Diagnostic Ultrasound ,93892 ,"Tcd, emboli detect w/o inj"
-Diagnostic Ultrasound ,93893 ,"Tcd, emboli detect w/inj"
-,,"No Longer Valid - 09 ESRD related services,"
-Dialysis ,90918 ,month
-,,"No Longer Valid - 09 ESRD related services,"
-Dialysis ,90919 ,month
-,,"No Longer Valid - 09 ESRD related services,"
-Dialysis ,90920 ,month
-,,"No Longer Valid - 09 ESRD related services,"
-Dialysis ,90921 ,month
-,,"No Longer Valid - 09 ESRD related services,"
+Diagnostic Ultrasound ,93893 ,"Tcd, emboli detect w/inj No Longer Valid - 09 ESRD related services,"
+Dialysis ,90918 ,month No Longer Valid - 09 ESRD related services
+Dialysis ,90919 ,month No Longer Valid - 09 ESRD related services
+Dialysis ,90920 ,month No Longer Valid - 09 ESRD related services
+Dialysis ,90921 ,month No Longer Valid - 09 ESRD related services
 Dialysis ,90922 ,day
 Dialysis ,90923 ,"No Longer Valid - 09 Esrd related services, day"
 Dialysis ,90924 ,"No Longer Valid - 09 Esrd related services, day"
 Dialysis ,90925 ,"No Longer Valid - 09 Esrd related services, day"
 Dialysis ,90935 ,"Hemodialysis, one evaluation"
-Dialysis ,90937 ,"Hemodialysis, repeated eval"
-,,"No Longer Valid - 06 Hemodialysis study,"
+Dialysis ,90937 ,"Hemodialysis, repeated eval No Longer Valid - 06 Hemodialysis study,"
 Dialysis ,90939 ,transcut
 Dialysis ,90940 ,Hemodialysis access study
 Dialysis ,90945 ,"Dialysis, one evaluation"
@@ -788,56 +738,54 @@ Dialysis ,90963 ,"ESRD home pt, serv p mo, <2"
 Dialysis ,90964 ,"ESRD home pt serv p mo, 2-11"
 Dialysis ,90965 ,ESRD home pt serv p mo 12-19
 Dialysis ,90966 ,"ESRD home pt, serv p mo, 20+"
-,Product Line ,Code ,CPT-4 Procedure
-Dialysis ,,90967 ,"ESRD home pt serv p day, <2"
-Dialysis ,,90968 ,"ESRD home pt srv p day, 2-11"
-Dialysis ,,90969 ,ESRD home pt srv p day 12-19
-Dialysis ,,90970 ,"ESRD home pt serv p day, 20+"
-Dialysis ,,90989 ,"Dialysis training, complete"
-Dialysis ,,90993 ,"Dialysis training, incompl"
-Dialysis ,,90995 ,No Longer Valid
-Dialysis ,,90997 ,Hemoperfusion
-Dialysis ,,90998 ,No Longer Valid
-Dialysis ,,90999 ,Dialysis procedure
-Echocardiogram ,,93306 ,"Tte w/doppler, complete"
-Echocardiogram ,,93307 ,"Tte w/o doppler, complete"
-Echocardiogram ,,93308 ,"Tte, f-up or lmtd"
-Echocardiogram ,,93312 ,Echo transesophageal
-Echocardiogram ,,93313 ,Echo transesophageal
-Echocardiogram ,,93314 ,Echo transesophageal
-Echocardiogram ,,93315 ,Echo transesophageal
-Echocardiogram ,,93316 ,Echo transesophageal
-Echocardiogram ,,93317 ,Echo transesophageal
-Echocardiogram ,,93318 ,Echo transesophageal intraop
-Echocardiogram ,,93320 ,"Doppler echo exam, heart"
-Echocardiogram ,,93321 ,"Doppler echo exam, heart"
-Echocardiogram ,,93325 ,Doppler color flow add-on
-Echocardiogram ,,93350 ,Stress tte only
-Echocardiogram ,,93351 ,Stress tte complete
-Echocardiogram ,,93662 ,Intracardiac ecg (ice)
-Electrocardiogram ,,#0083 ,Future-3D echocardiography
-Electrocardiogram ,,0178T ,64 Lead ECG W I&R
-Electrocardiogram ,,0179T ,64 Lead ECG W Tracing
-Electrocardiogram ,,0180T ,64 Lead ECG W I&R Only
-Electrocardiogram ,,93000 ,"Electrocardiogram, complete"
-Electrocardiogram ,,93005 ,"Electrocardiogram, tracing"
-Electrocardiogram ,,93010 ,Electrocardiogram report
-Electrocardiogram ,,93015 ,Cardiovascular stress test
-Electrocardiogram ,,93016 ,Cardiovascular stress test
-Electrocardiogram ,,93017 ,Cardiovascular stress test
-Electrocardiogram ,,93018 ,Cardiovascular stress test
-Electrocardiogram ,,93040 ,Rhythm ECG with report
-Electrocardiogram ,,93041 ,"Rhythm ECG, tracing"
-Electrocardiogram ,,93042 ,"Rhythm ECG, report"
-Electrocardiogram ,,93224 ,"ECG monitor/report, 24 hrs"
-Electrocardiogram ,,93225 ,"ECG monitor/record, 24 hrs"
-Electrocardiogram ,,93226 ,"ECG monitor/report, 24 hrs"
-Electrocardiogram ,,93227 ,"ECG monitor/review, 24 hrs"
-Electrocardiogram ,,93228 ,Remote 30 day ECG rev/report
-Electrocardiogram ,,93229 ,Remote 30 day ECG tech supp
-Electrocardiogram ,,93230 ,"ECG monitor/report, 24 hrs"
-Electrocardiogram ,,93231 ,"ECG monitor/record, 24 hrs"
-Product Line ,Code ,CPT-4 Procedure
+Dialysis ,90967 ,"ESRD home pt serv p day, <2"
+Dialysis ,90968 ,"ESRD home pt srv p day, 2-11"
+Dialysis ,90969 ,ESRD home pt srv p day 12-19
+Dialysis ,90970 ,"ESRD home pt serv p day, 20+"
+Dialysis ,90989 ,"Dialysis training, complete"
+Dialysis ,90993 ,"Dialysis training, incompl"
+Dialysis ,90995 ,No Longer Valid
+Dialysis ,90997 ,Hemoperfusion
+Dialysis ,90998 ,No Longer Valid
+Dialysis ,90999 ,Dialysis procedure
+Echocardiogram ,93306 ,"Tte w/doppler, complete"
+Echocardiogram ,93307 ,"Tte w/o doppler, complete"
+Echocardiogram ,93308 ,"Tte, f-up or lmtd"
+Echocardiogram ,93312 ,Echo transesophageal
+Echocardiogram ,93313 ,Echo transesophageal
+Echocardiogram ,93314 ,Echo transesophageal
+Echocardiogram ,93315 ,Echo transesophageal
+Echocardiogram ,93316 ,Echo transesophageal
+Echocardiogram ,93317 ,Echo transesophageal
+Echocardiogram ,93318 ,Echo transesophageal intraop
+Echocardiogram ,93320 ,"Doppler echo exam, heart"
+Echocardiogram ,93321 ,"Doppler echo exam, heart"
+Echocardiogram ,93325 ,Doppler color flow add-on
+Echocardiogram ,93350 ,Stress tte only
+Echocardiogram ,93351 ,Stress tte complete
+Echocardiogram ,93662 ,Intracardiac ecg (ice)
+Electrocardiogram ,#0083 ,Future-3D echocardiography
+Electrocardiogram ,0178T ,64 Lead ECG W I&R
+Electrocardiogram ,0179T ,64 Lead ECG W Tracing
+Electrocardiogram ,0180T ,64 Lead ECG W I&R Only
+Electrocardiogram ,93000 ,"Electrocardiogram, complete"
+Electrocardiogram ,93005 ,"Electrocardiogram, tracing"
+Electrocardiogram ,93010 ,Electrocardiogram report
+Electrocardiogram ,93015 ,Cardiovascular stress test
+Electrocardiogram ,93016 ,Cardiovascular stress test
+Electrocardiogram ,93017 ,Cardiovascular stress test
+Electrocardiogram ,93018 ,Cardiovascular stress test
+Electrocardiogram ,93040 ,Rhythm ECG with report
+Electrocardiogram ,93041 ,"Rhythm ECG, tracing"
+Electrocardiogram ,93042 ,"Rhythm ECG, report"
+Electrocardiogram ,93224 ,"ECG monitor/report, 24 hrs"
+Electrocardiogram ,93225 ,"ECG monitor/record, 24 hrs"
+Electrocardiogram ,93226 ,"ECG monitor/report, 24 hrs"
+Electrocardiogram ,93227 ,"ECG monitor/review, 24 hrs"
+Electrocardiogram ,93228 ,Remote 30 day ECG rev/report
+Electrocardiogram ,93229 ,Remote 30 day ECG tech supp
+Electrocardiogram ,93230 ,"ECG monitor/report, 24 hrs"
+Electrocardiogram ,93231 ,"ECG monitor/record, 24 hrs"
 Electrocardiogram ,93232 ,"ECG monitor/report, 24 hrs"
 Electrocardiogram ,93233 ,"ECG monitor/review, 24 hrs"
 Electrocardiogram ,93235 ,"ECG monitor/report, 24 hrs"
@@ -847,36 +795,21 @@ Electrocardiogram ,93268 ,ECG record/review
 Electrocardiogram ,93270 ,ECG recording
 Electrocardiogram ,93271 ,ECG/monitoring and analysis
 Electrocardiogram ,93272 ,"ECG/review, interpret only"
-Emergency Dept Physician,,
-Claim ,90500 ,No Longer Valid
-Emergency Dept Physician,,
-Claim ,90505 ,No Longer Valid
-Emergency Dept Physician,,
-Claim ,90510 ,No Longer Valid
-Emergency Dept Physician,,
-Claim ,90515 ,No Longer Valid
-Emergency Dept Physician,,
-Claim ,90517 ,No Longer Valid
-Emergency Dept Physician,,
-Claim ,90520 ,No Longer Valid
-Emergency Dept Physician,,
-Claim ,90550 ,No Longer Valid
-Emergency Dept Physician,,
-Claim ,90560 ,No Longer Valid
-Emergency Dept Physician,,
-Claim ,99064 ,No Longer Valid
-Emergency Dept Physician,,
-Claim ,99281 ,Emergency dept visit
-Emergency Dept Physician,,
-Claim ,99282 ,Emergency dept visit
-Emergency Dept Physician,,
-Claim ,99283 ,Emergency dept visit
-Emergency Dept Physician,,
-Claim ,99284 ,Emergency dept visit
-Emergency Dept Physician,,
-Claim ,99285 ,Emergency dept visit
-Emergency Dept Physician,,
-Claim ,99288 ,Direct advanced life support
+Emergency Dept Physician Claim ,90500 ,No Longer Valid
+Emergency Dept Physician Claim ,90505 ,No Longer Valid
+Emergency Dept Physician Claim ,90510 ,No Longer Valid
+Emergency Dept Physician Claim ,90515 ,No Longer Valid
+Emergency Dept Physician Claim ,90517 ,No Longer Valid
+Emergency Dept Physician Claim ,90520 ,No Longer Valid
+Emergency Dept Physician Claim ,90550 ,No Longer Valid
+Emergency Dept Physician Claim ,90560 ,No Longer Valid
+Emergency Dept Physician Claim ,99064 ,No Longer Valid
+Emergency Dept Physician Claim ,99281 ,Emergency dept visit
+Emergency Dept Physician Claim ,99282 ,Emergency dept visit
+Emergency Dept Physician Claim ,99283 ,Emergency dept visit
+Emergency Dept Physician Claim ,99284 ,Emergency dept visit
+Emergency Dept Physician Claim ,99285 ,Emergency dept visit
+Emergency Dept Physician Claim ,99288 ,Direct advanced life support
 Infusion Care ,36260 ,Insertion of infusion pump
 Infusion Care ,36261 ,Revision of infusion pump
 Infusion Care ,36262 ,Removal of infusion pump
@@ -886,25 +819,17 @@ Infusion Care ,62355 ,Remove spinal canal catheter
 Infusion Care ,62360 ,Insert spine infusion device
 Infusion Care ,62361 ,Implant spine infusion pump
 Infusion Care ,62362 ,Implant spine infusion pump
-Product Line ,Code ,CPT-4 Procedure
 Infusion Care ,62365 ,Remove spine infusion device
 Infusion Care ,62367 ,Analyze spine infusion pump
 Infusion Care ,62368 ,Analyze spine infusion pump
-Infusion Care ,75896 ,"X-rays, transcath therapy"
-,,"No Longer Valid - 09 Ther/proph/diag iv inf,"
-Infusion Care ,90765 ,init
-,,"No Longer Valid - 09 Ther/proph/dg iv inf, add-"
-Infusion Care ,90766 ,on
-,,No Longer Valid - 09 Tx/proph/dg addl seq iv
-Infusion Care ,90767 ,inf
-,,"No Longer Valid - 09 Sc Ther Infusion, Up To 1"
+Infusion Care ,75896 ,"X-rays, transcath therapy No Longer Valid - 09 Ther/proph/diag iv inf,"
+Infusion Care ,90765 ,"init No Longer Valid - 09 Ther/proph/dg iv inf, add-"
+Infusion Care ,90766 ,on No Longer Valid - 09 Tx/proph/dg addl seq iv
+Infusion Care ,90767 ,"inf No Longer Valid - 09 Sc Ther Infusion, Up To 1"
 Infusion Care ,90769 ,Hr
-Infusion Care ,90770 ,"No Longer Valid - 09 Sc Ther Infusion, Addl Hr"
-,,"No Longer Valid - 09 Sc Ther Infusion, Reset"
-Infusion Care ,90771 ,Pump
-,,"No Longer Valid - 06 IV infusion therapy, 1"
-Infusion Care ,90780 ,hour
-,,"No Longer Valid - 06 IV infusion, additional"
+Infusion Care ,90770 ,"No Longer Valid - 09 Sc Ther Infusion, Addl Hr No Longer Valid - 09 Sc Ther Infusion, Reset"
+Infusion Care ,90771 ,"Pump No Longer Valid - 06 IV infusion therapy, 1"
+Infusion Care ,90780 ,"hour No Longer Valid - 06 IV infusion, additional"
 Infusion Care ,90781 ,hour
 Infusion Care ,96360 ,"Hydration iv infusion, init"
 Infusion Care ,96361 ,"Hydrate iv infusion, add-on"
@@ -934,7 +859,6 @@ Laparoscopy ,43648 ,Lap revise/remv eltrd antrum
 Laparoscopy ,43651 ,"Laparoscopy, vagus nerve"
 Laparoscopy ,43652 ,"Laparoscopy, vagus nerve"
 Laparoscopy ,43653 ,"Laparoscopy, gastrostomy"
-Product Line ,Code ,CPT-4 Procedure
 Laparoscopy ,43659 ,"Laparoscope proc, stom"
 Laparoscopy ,43770 ,Lap place gastr adj device
 Laparoscopy ,43771 ,Lap revise gastr adj device
@@ -945,8 +869,7 @@ Laparoscopy ,44180 ,"Lap, enterolysis"
 Laparoscopy ,44186 ,"Lap, jejunostomy"
 Laparoscopy ,44187 ,"Lap, ileo/jejuno-stomy"
 Laparoscopy ,44188 ,"Lap, colostomy"
-Laparoscopy ,44200 ,"No Longer Valid - 06 Laparoscopy, enterolysis"
-,,"No Longer Valid - 06 Laparoscopy,"
+Laparoscopy ,44200 ,"No Longer Valid - 06 Laparoscopy, enterolysis No Longer Valid - 06 Laparoscopy,"
 Laparoscopy ,44201 ,jejunostomy
 Laparoscopy ,44202 ,"Lap, enterectomy"
 Laparoscopy ,44203 ,"Lap resect s/intestine, addl"
@@ -961,8 +884,7 @@ Laparoscopy ,44211 ,Lap colectomy w/proctectomy
 Laparoscopy ,44212 ,Laparo total proctocolectomy
 Laparoscopy ,44213 ,"Lap, mobil splenic fl add-on"
 Laparoscopy ,44227 ,"Lap, close enterostomy"
-Laparoscopy ,44238 ,"Laparoscope proc, intestine"
-,,"No Longer Valid - 06 Laparoscope proc,"
+Laparoscopy ,44238 ,"Laparoscope proc, intestine No Longer Valid - 06 Laparoscope proc,"
 Laparoscopy ,44239 ,rectum
 Laparoscopy ,44970 ,"Laparoscopy, appendectomy"
 Laparoscopy ,44979 ,"Laparoscope proc, app"
@@ -982,7 +904,6 @@ Laparoscopy ,47564 ,Laparo cholecystectomy/explr
 Laparoscopy ,47570 ,Laparo cholecystoenterostomy
 Laparoscopy ,47579 ,"Laparoscope proc, biliary"
 Laparoscopy ,49310 ,No Longer Valid
-Product Line ,Code ,CPT-4 Procedure
 Laparoscopy ,49311 ,No Longer Valid
 Laparoscopy ,49315 ,No Longer Valid
 Laparoscopy ,49320 ,Diag laparo separate proc
@@ -1031,7 +952,6 @@ Laparoscopy ,56303 ,No Longer Valid
 Laparoscopy ,56304 ,No Longer Valid
 Laparoscopy ,56305 ,No Longer Valid
 Laparoscopy ,56306 ,No Longer Valid
-Product Line ,Code ,CPT-4 Procedure
 Laparoscopy ,56307 ,No Longer Valid
 Laparoscopy ,56308 ,No Longer Valid
 Laparoscopy ,56309 ,No Longer Valid
@@ -1080,7 +1000,6 @@ Laparoscopy ,58570 ,"Tlh, Uterus 250 G Or Less"
 Laparoscopy ,58571 ,Tlh W/T/O 250 G Or Less
 Laparoscopy ,58572 ,"Tlh, Uterus Over 250 G"
 Laparoscopy ,58573 ,Tlh W/T/O Uterus Over 250 G
-Product Line ,Code ,CPT-4 Procedure
 Laparoscopy ,58578 ,"Laparo proc, uterus"
 Laparoscopy ,58660 ,"Laparoscopy, lysis"
 Laparoscopy ,58661 ,"Laparoscopy, remove adnexa"
@@ -1093,8 +1012,7 @@ Laparoscopy ,58679 ,"Laparo proc, oviduct-ovary"
 Laparoscopy ,59898 ,"Laparo proc, ob care/deliver"
 Laparoscopy ,60650 ,Laparoscopy adrenalectomy
 Laparoscopy ,60659 ,"Laparo proc, endocrine"
-,,Future-Ultra high field strength magnetic
-Magnetic Resonance Img (MRI) ,#0081 ,resonance
+Magnetic Resonance Img (MRI) ,#0081 ,Future-Ultra high field strength magnetic resonance
 Magnetic Resonance Img (MRI) ,0159T ,CAD breast mri
 Magnetic Resonance Img (MRI) ,70336 ,"Magnetic image, jaw joint"
 Magnetic Resonance Img (MRI) ,70540 ,MRI orbit/face/neck w/o dye
@@ -1112,7 +1030,6 @@ Magnetic Resonance Img (MRI) ,70552 ,MRI brain w/dye
 Magnetic Resonance Img (MRI) ,70553 ,MRI brain w/o & w/dye
 Magnetic Resonance Img (MRI) ,70554 ,FMRI brain by tech
 Magnetic Resonance Img (MRI) ,70555 ,FMRI brain by phys/psych
-Product Line ,Code ,CPT-4 Procedure
 Magnetic Resonance Img (MRI) ,70557 ,MRI brain w/o dye
 Magnetic Resonance Img (MRI) ,70558 ,MRI brain w/dye
 Magnetic Resonance Img (MRI) ,70559 ,MRI brain w/o & w/dye
@@ -1137,7 +1054,6 @@ Magnetic Resonance Img (MRI) ,72198 ,MR angio pelvis w/o & w/dye
 Magnetic Resonance Img (MRI) ,73218 ,MRI upper extremity w/o dye
 Magnetic Resonance Img (MRI) ,73219 ,MRI upper extremity w/dye
 Magnetic Resonance Img (MRI) ,73220 ,MRI uppr extremity w/o&w/dye
-Product Line ,Code ,CPT-4 Procedure
 Magnetic Resonance Img (MRI) ,73221 ,MRI joint upr extrem w/o dye
 Magnetic Resonance Img (MRI) ,73222 ,MRI joint upr extrem w/dye
 Magnetic Resonance Img (MRI) ,73223 ,MRI joint upr extr w/o&w/dye
@@ -1152,44 +1068,35 @@ Magnetic Resonance Img (MRI) ,73725 ,MR ang lwr ext w or w/o dye
 Magnetic Resonance Img (MRI) ,74181 ,MRI abdomen w/o dye
 Magnetic Resonance Img (MRI) ,74182 ,MRI abdomen w/dye
 Magnetic Resonance Img (MRI) ,74183 ,MRI abdomen w/o & w/dye
-Magnetic Resonance Img (MRI) ,74185 ,"MRI angio, abdom w orw/o dye"
-,,No Longer Valid - 08 Heart mri for morph w/o
-Magnetic Resonance Img (MRI) ,75552 ,dye
-,,No Longer Valid - 08 Heart mri for morph
+Magnetic Resonance Img (MRI) ,74185 ,"MRI angio, abdom w orw/o dye No Longer Valid - 08 Heart mri for morph w/o"
+Magnetic Resonance Img (MRI) ,75552 ,dye No Longer Valid - 08 Heart mri for morph
 Magnetic Resonance Img (MRI) ,75553 ,w/dye
 Magnetic Resonance Img (MRI) ,75554 ,No Longer Valid - 08 Cardiac MRI/function
 Magnetic Resonance Img (MRI) ,75555 ,No Longer Valid - 08 Cardiac MRI/limited study
-,,No Longer Valid - 08 Cardiac MRI/flow
-Magnetic Resonance Img (MRI) ,75556 ,mapping
+Magnetic Resonance Img (MRI) ,75556 ,No Longer Valid - 08 Cardiac MRI/flow mapping
 Magnetic Resonance Img (MRI) ,75557 ,Cardiac MRI For Morph
 Magnetic Resonance Img (MRI) ,75558 ,Cardiac MRI Flow/Velocity
 Magnetic Resonance Img (MRI) ,75559 ,Cardiac MRI W/Stress Img
 Magnetic Resonance Img (MRI) ,75560 ,Cardiac MRI Flow/Vel/Stress
-Product Line ,Code ,CPT-4 Procedure
 Magnetic Resonance Img (MRI) ,75561 ,Cardiac MRI For Morph W/Dye
 Magnetic Resonance Img (MRI) ,75562 ,Card MRI Flow/Vel W/Dye
 Magnetic Resonance Img (MRI) ,75563 ,Card MRI W/Stress Img & Dye
 Magnetic Resonance Img (MRI) ,75564 ,Ht MRI W/Flo/Vel/Strs & Dye
 Magnetic Resonance Img (MRI) ,76390 ,MR spectroscopy
-,,No Longer Valid - 07 Mr guidance for needle
-Magnetic Resonance Img (MRI) ,76393 ,place
+Magnetic Resonance Img (MRI) ,76393 ,No Longer Valid - 07 Mr guidance for needle place
 Magnetic Resonance Img (MRI) ,76394 ,No Longer Valid - 07 Mri for tissue ablation
-,,"No Longer Valid - 07 Magnetic image, bone"
-Magnetic Resonance Img (MRI) ,76400 ,marrow
+Magnetic Resonance Img (MRI) ,76400 ,,"No Longer Valid - 07 Magnetic image, bone marrow"
 Magnetic Resonance Img (MRI) ,76498 ,MRI procedure
 Magnetic Resonance Img (MRI) ,77021 ,MR Guidance For Needle Place
 Magnetic Resonance Img (MRI) ,77022 ,MRI For Tissue Ablation
 Magnetic Resonance Img (MRI) ,77058 ,"MRI, One Breast"
 Magnetic Resonance Img (MRI) ,77059 ,"MRI, Both Breasts"
 Magnetic Resonance Img (MRI) ,77084 ,"Magnetic Image, Bone Marrow"
-,,No Longer Valid - 07 Computer mammogram
-Mammogram ,76082 ,add-on
-,,No Longer Valid - 07 Computer mammogram
-Mammogram ,76083 ,add-on
+Mammogram ,76082 ,,No Longer Valid - 07 Computer mammogram add-on
+Mammogram ,76083 ,,No Longer Valid - 07 Computer mammogram add-on
 Mammogram ,76085 ,No Longer Valid
 Mammogram ,76090 ,"No Longer Valid - 07 Mammogram, one breast"
-,,"No Longer Valid - 07 Mammogram, both"
-Mammogram ,76091 ,breasts
+Mammogram ,76091 ,"No Longer Valid - 07 Mammogram, both breasts"
 Mammogram ,76092 ,"No Longer Valid - 07 Mammogram, screening"
 Mammogram ,76093 ,"No Longer Valid - 07 Magnetic image, breast"
 ,,"No Longer Valid - 07 Magnetic image, both"
