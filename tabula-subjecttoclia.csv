@@ -1,0 +1,2228 @@
+"","","",LABORATORY CERTIFICATION (LC) 
+HCPCS ,MOD ,DESCRIPTION ,CODE
+G0103 ,"","Psa, screening ",310
+G0123 ,"",Screen cerv/vag thin layer ,630
+G0124 ,"",Screen c/v thin layer by MD ,630
+G0141 ,"","Scr c/v cyto,autosys and md ",630
+G0143 ,"","Scr c/v cyto,thinlayer,rescr ",630
+G0144 ,"","Scr c/v cyto,thinlayer,rescr ",630
+G0145 ,"","Scr c/v cyto,thinlayer,rescr ",630
+G0147 ,"","Scr c/v cyto, automated sys ",630
+G0148 ,"","Scr c/v cyto, autosys, rescr ",630
+G0306 ,"",CBC/diffwbc w/o platelet ,400
+G0307 ,"",CBC without platelet ,400
+G0328 ,"",Fecal blood scrn immunoassay ,"310, 400"
+G0416 ,"","Prostate biopsy, any mthd ",610
+G0416 ,TC ,"Prostate biopsy, any mthd ",610
+G0416 ,26 ,"Prostate biopsy, any mthd ",610
+G0431 ,"",Drug screen multip class - Discontinued 12/31/2015 ,340
+G0432 ,"",EIA HIV-1/HIV-2 screen ,"140, 220"
+G0433 ,"",ELISA HIV-1/HIV-2 screen  ,"140, 220"
+G0434 ,"",Drug screen multi drug class - Discontinued 12/31/2015 ,340
+G0435 ,"",Oral HIV-1/HIV-2 screen ,"140, 220"
+G0464 ,"",Colorectal cancer screening; stool-based dna and fecal occult ,"220, 310, 900"
+"","","hemoglobin (e.g., kras, ndrg4 and bmp3)",""
+G0472 ,"","Hepatitis c antibody screening, for individual at high risk and ",220
+"","",other covered indication(s),""
+G0477 ,"",Drug test presump optical - Effective 1/1/2016 ,340
+G0478 ,"",Drug test presump opt inst - Effective 1/1/2016 ,340
+G0479 ,"",Drug test presump not opt - Effective 1/1/2016 ,340
+G0480 ,"",Drug test def 1-7 classes - Effective 1/1/2016 ,340
+G0481 ,"",Drug test def 8-14 classes - Effective 1/1/2016 ,340
+G0482 ,"",Drug test def 15-21 classes - Effective 1/1/2016 ,340
+G0483 ,"",Drug test def 22+ classes - Effective 1/1/2016 ,340
+G6030 ,"",Amitriptyline - Discontinued 12/31/2015 ,340
+G6031 ,"",Benzodiazepines - Discontinued 12/31/2015 ,340
+G6032 ,"",Desipramine - Discontinued 12/31/2015 ,340
+G6034 ,"",Doxepin - Discontinued 12/31/2015 ,340
+G6035 ,"",Gold - Discontinued 12/31/2015 ,340
+G6036 ,"",Assay of imipramine - Discontinued 12/31/2015 ,340
+G6037 ,"",Nortriptyline - Discontinued 12/31/2015 ,340
+G6038 ,"",Salicylate - Discontinued 12/31/2015 ,340
+G6039 ,"",Acetaminophen - Discontinued 12/31/2015 ,340
+HCPCS,MOD,DESCRIPTION,"LABORATORY CERTIFICATION (LC) CODE"
+G6040,"","Alcohol (ethanol); any specimen except breath - Discontinued 12/31/2015",340
+G6041,"","Alkaloids, urine, quantitative - Discontinued 12/31/2015",340
+G6042,"","Amphetamine or methamphetamine - Discontinued 12/31/2015",340
+G6043,"","Barbiturates, not elsewhere specified - Discontinued 12/31/2015",340
+G6044,"",Cocaine or metabolite - Discontinued 12/31/2015,340
+G6045,"",Dihydrocodeinone - Discontinued 12/31/2015,340
+G6046,"",Dihydromorphinone - Discontinued 12/31/2015,340
+G6047,"",Dihydrotestosterone - Discontinued 12/31/2015,330
+G6048,"",Dimethadione - Discontinued 12/31/2015,340
+G6049,"",Epiandrosterone - Discontinued 12/31/2015,330
+G6050,"",Ethchlorvynol - Discontinued 12/31/2015,340
+G6051,"",Flurazepam - Discontinued 12/31/2015,340
+G6052,"",Meprobamate - Discontinued 12/31/2015,340
+G6053,"",Methadone - Discontinued 12/31/2015,340
+G6054,"",Methsuximide - Discontinued 12/31/2015,340
+G6055,"",Nicotine - Discontinued 12/31/2015,340
+G6056,"","Opiate(s), drug and metabolites, each procedure - Discontinued 12/31/2015",340
+G6057,"",Phenothiazine - Discontinued 12/31/2015,340
+G6058,"","Drug confirmation, each procedure - Discontinued 12/31/2015",340
+G9143,"",Warfarin respon genetic test,"220, 310"
+P3000,"",Screen pap by tech w md supv,630
+P3001,"",Screening pap smear by phys,630
+P7001,"",Culture bacterial urine,110
+0103T,"","Holotranscobalamin, quantitative - Discontinued 12/31/2015",310
+0111T,"",Long-chain omega-3 fatty acids in red blood cell membranes,310
+17311,"","Mohs, 1 stage, h/n/hf/g",610
+17312,"",Mohs addl stage,610
+17313,"","Mohs, 1 stage, t/a/l",610
+17314,"","Mohs, addl stage, t/a/l",610
+17315,"","Mohs surg, addl block",610
+78110,"","Plasma volume, single",800
+78110,TC,"Plasma volume, single",800
+78110,26,Plasma volume single,800
+78111,"","Plasma volume, multiple",800
+78111,TC,"Plasma volume, multiple",800
+78111,26,Plasma volume multiple,800
+78120,"","Red cell mass, single",800
+78120,TC,"Red cell mass, single",800
+78120,26,Red cell mass single,800
+78121,"","Red cell mass, multiple",800
+78121,TC,"Red cell mass, multiple",800
+78121,26,Red cell mass multiple,800
+78122,"",Blood volume,800
+78122,TC,Blood volume,800
+HCPCS,MOD,DESCRIPTION,"LABORATORY CERTIFICATION (LC) CODE"
+78130,"",Red cell survival study,800
+78130,TC,Red cell survival study,800
+78130,26,Red cell survival study,800
+78191,"",Platelet survival,800
+78191,TC,Platelet survival,800
+78191,26,Platelet survival,800
+78270,"",Vit B-12 absorption exam,800
+78270,TC,Vit B-12 absorption exam,800
+78270,26,Vit B-12 absorption exam,800
+78271,"","Vit B-12 absorp exam, int fac",800
+78271,TC,"Vit B-12 absorp exam, int fac",800
+78271,26,Vit b-12 absrp exam int fac,800
+78272,"","Vit B-12 absorp, combined",800
+78272,TC,"Vit B-12 absorp, combined",800
+78272,26,Vit b-12 absorp combined,800
+80047,"",Metabolic panel ionized ca,310
+80048,"",Metabolic panel total ca,310
+80050,"",General health panel - Not payable by Medicare,"310, 330, 400"
+80051,"",Electrolyte panel,310
+80053,"",Comprehen metabolic panel,310
+80055,"",Obstetric panel - Not valid for Medicare,"210, 220, 400, 530"
+80061,"",Lipid panel,310
+80069,"",Renal function panel,310
+80074,"",Acute hepatitis panel,220
+80076,"",Hepatic function panel,310
+80081,"",Obstetric panel - Effective 1/1/2016,"210, 220, 400, 510, 520"
+80150,"",Assay of amikacin,340
+80155,"",Drug assay caffeine,340
+80156,"","Assay, carbamazepine, total",340
+80157,"","Assay, carbamazepine, free",340
+80158,"",Drug assay cyclosporine,340
+80159,"",Drug assay clozapine,340
+80162,"",Assay of digoxin total,340
+80163,"",Assay of digoxin free,340
+80164,"",Assay dipropylacetic acd tot,340
+80165,"",Dipropylacetic acid free,340
+80168,"",Assay of ethosuximide,340
+80169,"",Drug screen quant everolimus,340
+80170,"",Assay of gentamicin,340
+80171,"",Drug screen quant gabapentin,340
+80173,"",Assay of haloperidol,340
+80175,"",Drug screen quan lamotrigine,340
+80176,"",Assay of lidocaine,340
+80177,"",Drug scrn quan levetiracetam,340
+80178,"",Assay of lithium,340
+80180,"",Drug scrn quan mycophenolate,340
+80183,"",Drug scrn quant oxcarbazepin,340
+80184,"",Assay of phenobarbital,340
+80185,"","Assay of phenytoin, total",340
+HCPCS,MOD,DESCRIPTION,"LABORATORY CERTIFICATION (LC) CODE"
+80188,"",Assay of primidone,340
+80190,"",Assay of procainamide,340
+80192,"",Assay of procainamide,340
+80194,"",Assay of quinidine,340
+80195,"",Assay of sirolimus,340
+80197,"",Assay of tacrolimus,340
+80198,"",Assay of theophylline,340
+80199,"",Drug screen quant tiagabine,340
+80200,"",Assay of tobramycin,340
+80201,"",Assay of topiramate,340
+80202,"",Assay of vancomycin,340
+80203,"",Drug screen quant zonisamide,340
+80299,"","Quantitative assay, drug",340
+80300,"",Drug screen non tlc devices - Not payable by Medicare,340
+80301,"",Drug screen class list a - Not payable by Medicare,340
+80302,"",Drug screen prsmptv 1 class - Not payable by Medicare,340
+80303,"",Drug screen one/mult class - Not payable by Medicare,340
+80304,"",Drug screen one/mult class - Not payable by Medicare,340
+80320,"",Drug screen quantalcohols - Not payable by Medicare,340
+80321,"",Alcohols biomarkers 1or 2 - Not payable by Medicare,340
+80322,"",Alcohols biomarkers 3/more - Not payable by Medicare,340
+80323,"",Alkaloids nos - Not payable by Medicare,340
+80324,"",Drug screen amphetamines 1/2 - Not payable by Medicare,340
+80325,"",Amphetamines 3or 4 - Not payable by Medicare,340
+80326,"",Amphetamines 5 or more - Not payable by Medicare,340
+80327,"",Anabolic steroid 1 or 2 - Not payable by Medicare,330
+80328,"",Anabolic steroid 3 or more - Not payable by Medicare,330
+80329,"",Analgesics non-opioid 1 or 2 - Not payable by Medicare,340
+80330,"",Analgesics non-opioid 3-5 - Not payable by Medicare,340
+80331,"",Analgesics non-opioid 6/more - Not payable by Medicare,340
+80332,"",Antidepressants class 1 or 2 - Not payable by Medicare,340
+80333,"",Antidepressants class 3-5 - Not payable by Medicare,340
+80334,"",Antidepressants class 6/more - Not payable by Medicare,340
+80335,"",Antidepressant tricyclic 1/2 - Not payable by Medicare,340
+80336,"",Antidepressant tricyclic 3-5 - Not payable by Medicare,340
+80337,"",Tricyclic & cyclicals 6/more - Not payable by Medicare,340
+80338,"",Antidepressant not specified - Not payable by Medicare,340
+80339,"",Antiepileptics nos 1-3 - Not payable by Medicare,340
+80340,"",Antiepileptics nos 4-6 - Not payable by Medicare,340
+80341,"",Antiepileptics nos 7/more - Not payable by Medicare,340
+80342,"",Antipsychotics nos 1-3 - Not payable by Medicare,340
+80343,"",Antipsychotics nos 4-6 - Not payable by Medicare,340
+80344,"",Antipsychotics nos 7/more - Not payable by Medicare,340
+80345,"",Drug screening barbiturates - Not payable by Medicare,340
+80346,"",Benzodiazepines1-12 - Not payable by Medicare,340
+80347,"",Benzodiazepines 13 or more - Not payable by Medicare,340
+80348,"",Drug screening buprenorphine - Not payable by Medicare,340
+80349,"",Cannabinoids natural - Not payable by Medicare,340
+80350,"",Cannabinoids synthetic 1-3 - Not payable by Medicare,340
+HCPCS,MOD,DESCRIPTION,"LABORATORY CERTIFICATION (LC) CODE"
+80352,"",Cannabinoid synthetic 7/more - Not payable by Medicare,340
+80353,"",Drug screening cocaine - Not payable by Medicare,340
+80354,"",Drug screening fentanyl - Not payable by Medicare,340
+80355,"",Gabapentin non-blood  - Not payable by Medicare,340
+80356,"",Heroin metabolite - Not payable by Medicare,340
+80357,"",Ketamine and norketamine - Not payable by Medicare,340
+80358,"",Drug screening methadone - Not payable by Medicare,340
+80359,"",Methylenedioxyamphetamines - Not payable by Medicare,340
+80360,"",Methylphenidate - Not payable by Medicare,340
+80361,"",Opiates 1 or more - Not payable by Medicare,340
+80362,"",Opioids & opiate analogs 1/2 - Not payable by Medicare,340
+80363,"",Opioids & opiate analogs 3/4 - Not payable by Medicare,340
+80364,"",Opioid &opiate analog 5/more - Not payable by Medicare,340
+80365,"",Drug screening oxycodone - Not payable by Medicare,340
+80366,"",Drug screening pregabalin - Not payable by Medicare,340
+80367,"",Drug screening propoxyphene - Not payable by Medicare,340
+80368,"",Sedative hypnotics - Not payable by Medicare,340
+80369,"",Skeletal muscle relaxant 1/2 - Not payable by Medicare,340
+80370,"",Skel musc relaxant 3 or more - Not payable by Medicare,340
+80371,"",Stimulants synthetic - Not payable by Medicare,340
+80372,"",Drug screening tapentadol - Not payable by Medicare,340
+80373,"",Drug screening tramadol - Not payable by Medicare,340
+80374,"",Stereoisomer analysis - Not payable by Medicare,340
+80375,"",Drug/substance nos 1-3 - Not payable by Medicare,340
+80376,"",Drug/substance nos 4-6 - Not payable by Medicare,340
+80377,"",Drug/substance nos 7/more - Not payable by Medicare,340
+80400,"",Acth stimulation panel,330
+80402,"",Acth stimulation panel,330
+80406,"",Acth stimulation panel,330
+80408,"",Aldosterone suppression eval,330
+80410,"",Calcitonin stimul panel,330
+80412,"",CRH stimulation panel,330
+80414,"",Testosterone response,330
+80415,"",Estradiol response panel,330
+80416,"",Renin stimulation panel,330
+80417,"",Renin stimulation panel,330
+80418,"",Pituitary evaluation panel,330
+80420,"",Dexamethasone panel,330
+80422,"",Glucagon tolerance panel,"310, 330"
+80424,"",Glucagon tolerance panel,"310, 330"
+80426,"",Gonadotropin hormone panel,330
+80428,"",Growth hormone panel,330
+80430,"",Growth hormone panel,"310, 330"
+80432,"",Insulin suppression panel,"310, 330"
+80434,"",Insulin tolerance panel,"310, 330"
+80435,"",Insulin tolerance panel,"310, 330"
+80436,"",Metyrapone panel,330
+80438,"",TRH stimulation panel,330
+80439,"",TRH stimulation panel,330
+HCPCS,MOD,DESCRIPTION,"LABORATORY CERTIFICATION (LC) CODE"
+81005,"",Urinalysis,320
+81007,"",Urine screen for bacteria,110
+81099,"",Urinalysis test procedure,320
+81161,"",Dmd dup/delet analysis,"220, 310"
+81162,"",Brca1&2 seq & full dup/del - Effective 1/1/2016,""
+81170,"",Abl1 gene  - Effective 1/1/2016,""
+81200,"",Aspa gene,"220, 310"
+81201,"",Apc gene full sequence,"220, 310"
+81202,"",Apc gene known fam variants,"220, 310"
+81203,"",Apc gene dup/delet variants,"220, 310"
+81205,"",Bckdhb gene,"220, 310"
+81206,"",Bcr/abl1 gene major bp,"220, 310, 900"
+81207,"",Bcr/abl1 gene minor bp,"220, 310, 900"
+81208,"",Bcr/abl1 gene other bp,"220, 310, 900"
+81209,"",Blm gene,"220, 310"
+81210,"",Braf gene,"220, 310"
+81211,"",Brca1&2 seq & com dup/del,"220, 310"
+81212,"",Brca1&2 185&5385&6174 var,"220, 310"
+81213,"",Brca1&2 uncom dup/del var,"220, 310"
+81214,"",Brca1 full seq & com dup/del,"220, 310"
+81215,"",Brca1 gene known fam variant,"220, 310"
+81216,"",Brca2 gene full sequence,"220, 310"
+81217,"",Brca2 gene known fam variant,"220, 310"
+81218,"",Cebpa gene full sequence - Effective 1/1/2016,"220, 310, 900"
+81219,"",Calr gene com variants - Effective 1/1/2016,"220, 310, 900"
+81220,"",Cftr gene com variants,"220, 310"
+81221,"",Cftr gene known fam variants,"220, 310"
+81222,"",Cftr gene dup/delet variants,"220, 310"
+81223,"",Cftr gene full sequence,"220, 310"
+81224,"",Cftr gene intron poly t,"220, 310"
+81225,"",Cyp2c19 gene com variants,"220, 310"
+81226,"",Cyp2d6 gene com variants,"220, 310"
+81227,"",Cyp2c9 gene com variants,"220, 310"
+81228,"",Cytogen micrarray copy nmbr,"220, 310, 900"
+81229,"",Cytogen m array copy no&snp,"220, 310, 900"
+81235,"",Egfr gene com variants,"220, 310"
+81240,"",F2 gene,400
+81241,"",F5 gene,400
+81242,"",Fancc gene,"220, 400"
+81243,"",Fmr1 gene detection,"220, 900"
+81244,"",Fmr1 gene characterization,"220, 900"
+81245,"",Flt3 gene,"220, 310, 900"
+81246,"",Flt3 gene analysis,"220, 310, 900"
+81250,"",G6pc gene,"220, 310"
+81251,"",Gba gene,"220, 310"
+81252,"",Gjb2 gene full sequence,"220, 310"
+81253,"",Gjb2 gene known fam variants,"220, 310"
+81254,"",Gjb6 gene com variants,"220, 310"
+81255,"",Hexa gene,"220, 310"
+HCPCS,MOD,DESCRIPTION,"LABORATORY CERTIFICATION (LC) CODE"
+81257,"",Hba1/hba2 gene,"310, 400"
+81260,"",Ikbkap gene,310
+81261,"",Igh gene rearrange amp meth,"220, 310, 900"
+81262,"",Igh gene rearrang dir probe,"220, 310, 900"
+81263,"",Igh vari regional mutation,"220, 310, 900"
+81264,"",Igk rearrangeabn clonal pop,"220, 310, 900"
+81265,"",Str markers specimen anal,"010, 220"
+81266,"",Str markers spec anal addl,"010, 220"
+81267,"",Chimerism anal no cell selec,"010, 220"
+81268,"",Chimerism anal w/cell select,"010, 220"
+81270,"",Jak2 gene,"220, 310, 900"
+81272,"",Kit gene targeted seq analys - Effective 1/1/2016,"220, 310, 900"
+81273,"",Kit gene analys d816 variant - Effective 1/1/2016,"220, 310, 900"
+81275,"",Kras gene variants exon 2,"220, 310, 900"
+81276,"",Kras gene addl variants - Effective 1/1/2016,"220, 310, 900"
+81280,"",Long qt synd gene full seq,"220, 310"
+81281,"",Long qt synd known fam var,"220, 310"
+81282,"",Long qt syn gene dup/dlt var,"220, 310"
+81287,"",Mgmt gene methylation anal,"220, 310"
+81288,"",Mlh1 gene,"220, 310"
+81290,"",Mcoln1 gene,"220, 310"
+81291,"",Mthfr gene,400
+81292,"",Mlh1 gene full seq,"220, 310"
+81293,"",Mlh1 gene known variants,"220, 310"
+81294,"",Mlh1 gene dup/delete variant,"220, 310"
+81295,"",Msh2 gene full seq,"220, 310"
+81296,"",Msh2 gene known variants,"220, 310"
+81297,"",Msh2 gene dup/delete variant,"220, 310"
+81298,"",Msh6 gene full seq,"220, 310"
+81299,"",Msh6 gene known variants,"220, 310"
+81300,"",Msh6 gene dup/delete variant,"220, 310"
+81301,"",Microsatellite instability,"220, 310"
+81302,"",Mecp2 gene full seq,"220, 310"
+81303,"",Mecp2 gene known variant,"220, 310"
+81304,"",Mecp2 gene dup/delet variant,"220, 310"
+81310,"",Npm1 gene,"220, 310, 900"
+81311,"",Nras gene variants exon 2&3 - Effective 1/1/2016,"220, 310, 900"
+81313,"",Pca3/klk3 antigen,"220, 310"
+81314,"",Pdgfra gene - Effective 1/1/2016,"220, 310"
+81315,"",Pml/raralpha com breakpoints,"220, 310, 900"
+81316,"",Pml/raralpha 1 breakpoint,"220, 310, 900"
+81317,"",Pms2 gene full seq analysis,"220, 310, 900"
+81318,"",Pms2 known familial variants,"220, 310, 900"
+81319,"",Pms2 gene dup/delet variants,"220, 310, 900"
+81321,"",Pten gene full sequence,"220, 310"
+81322,"",Pten gene known fam variant,"220, 310"
+81323,"",Pten gene dup/delet variant,"220, 310"
+81324,"",Pmp22 gene dup/delet,"220, 310"
+81325,"",Pmp22 gene full sequence,"220, 310"
+HCPCS,MOD,DESCRIPTION,"LABORATORY CERTIFICATION (LC) CODE"
+81330,"",Smpd1 gene common variants,"220, 310"
+81331,"",Snrpn/ube3a gene,"220, 310"
+81332,"",Serpina1 gene,"220, 310"
+81340,"",Trb@ gene rearrange amplify,"220, 310, 900"
+81341,"",Trb@ gene rearrange dirprobe,"220, 310, 900"
+81342,"",Trg gene rearrangement anal,"220, 310, 900"
+81350,"",Ugt1a1 gene,"220, 310"
+81355,"",Vkorc1 gene,"220, 400"
+81370,"",Hla i & ii typing lr,010
+81371,"",Hla i & ii type verify lr,010
+81372,"",Hla i typing complete lr,010
+81373,"",Hla i typing 1 locus lr,010
+81374,"",Hla i typing 1 antigen lr,010
+81375,"",Hla ii typing ag equiv lr,010
+81376,"",Hla ii typing 1 locus lr,010
+81377,"",Hla ii type 1 ag equiv lr,010
+81378,"",Hla i & ii typing hr,010
+81379,"",Hla i typing complete hr,010
+81380,"",Hla i typing 1 locus hr,010
+81381,"",Hla i typing 1 allele hr,010
+81382,"",Hla ii typing 1 loc hr,010
+81383,"",Hla ii typing 1 allele hr,010
+81400,"",Mopath procedure level 1,610
+81401,"",Mopath procedure level 2,"220, 310, 400, 610"
+81402,"",Mopath procedure level 3,"220, 310, 610"
+81403,"",Mopath procedure level 4,"220, 310, 400, 610"
+81404,"",Mopath procedure level 5,610
+81405,"",Mopath procedure level 6,"220, 310, 400, 610"
+81406,"",Mopath procedure level 7,610
+81407,"",Mopath procedure level 8,610
+81408,"",Mopath procedure level 9,610
+81410,"",Aortic dysfunction/dilation,"220, 310"
+81411,"",Aortic dysfunction/dilation,"220, 310"
+81412,"",Ashkenazi jewish assoc dis - Effective 1/1/2016,"220, 310"
+81415,"",Exome sequence analysis,"220, 310"
+81416,"",Exome sequence analysis,"220, 310"
+81417,"",Exome re-evaluation,"220, 310"
+81420,"",Fetal chrmoml aneuploidy,"220, 900"
+81425,"",Genome sequence analysis,"220, 310"
+81426,"",Genome sequence analysis,"220, 310"
+81427,"",Genome re-evaluation,"220, 310"
+81430,"",Hearing loss sequence analys,"220, 310"
+81431,"",Hearing loss dup/del analys,"220, 310"
+81432,"",Hrdtry brst ca-rlatd dsordrs - Effective 1/1/2016,"220, 310"
+81433,"",Hrdtry brst ca-rlatd dsordrs - Effective 1/1/2016,"220, 310"
+81434,"",Hereditary retinal disorders - Effective 1/1/2016,"220, 310"
+81435,"",Hereditary colon ca dsordrs,"220, 310"
+81436,"",Hereditary colon ca dsordrs,"220, 310"
+81437,"",Heredtry nurondcrn tum dsrdr - Effective 1/1/2016,"220, 310"
+HCPCS,MOD,DESCRIPTION,"LABORATORY CERTIFICATION (LC) CODE"
+81440,"",Mitochondrial gene,"220, 310"
+81442,"",Noonan spectrum disorders - Effective 1/1/2016,"220, 310"
+81445,"",Targeted genomic seq analys,"220, 310"
+81450,"",Targeted genomic seq analys,"220, 310"
+81455,"",Targeted genomic seq analys,"220, 310"
+81460,"",Whole mitochondrial genome,"220, 310"
+81465,"",Whole mitochondrial genome,"220, 310"
+81470,"",X-linked intellectual dblt,"220, 900"
+81471,"",X-linked intellectual dblt,"220, 900"
+81479,"",Unlisted molecular pathology,"010, 220, 310, 610"
+81490,"",Autoimmune rheumatoid arthr - Effective 1/1/2016,"220, 310"
+81493,"",Cor artery disease mrna - Effective 1/1/2016,"220, 310"
+81500,"",Onco (ovar) two proteins,310
+81503,"",Onco (ovar) five proteins,310
+80504,"",Oncology tissue of origin,"220, 310"
+81506,"",Endo assay seven anal,"220, 310, 330"
+81507,"",Fetal aneuploidy trisom risk,"220, 900"
+81508,"",Ftl cgen abnor two proteins,"310, 330"
+81509,"",Ftl cgen abnor 3 proteins,"310, 330"
+81510,"",Ftl cgen abnor three anal,"220, 310, 330"
+81511,"",Ftl cgen abnor four anal,"220, 310, 330"
+81512,"",Ftl cgen abnor five anal,"220, 310, 330"
+81519,"",Oncology breast mrna,"220, 310"
+81525,"",Oncology colon mrna - Effective 1/1/2016,"220, 310, 900"
+81528,"",Oncology colorectal scr - Effective 1/1/2016,"220, 310, 900"
+81535,"",Oncology gynecologic - Effective 1/1/2016,"220, 310"
+81536,"",Oncology gynecologic - Effective 1/1/2016,"220, 310"
+81538,"",Oncology lung - Effective 1/1/2016,"220, 310"
+81540,"",Oncology tum unknown origin - Effective 1/1/2016,"220, 310"
+81545,"",Oncology thyroid - Effective 1/1/2016,"220, 310"
+81595,"",Cardiology hrt trnspl mrna - Effective 1/1/2016,"220, 310"
+81599,"",Unlisted maaa,"220, 310, 330"
+82009,"",Test for acetone/ketones,310
+82010,"",Acetone assay,310
+82013,"",Acetylcholinesterase assay,310
+82016,"","Acylcarnitines, qual",310
+82017,"","Acylcarnitines, quant",310
+82024,"",Assay of acth,330
+82030,"",Assay of adp & amp,"310, 330"
+82040,"",Assay of serum albumin,310
+82042,"",Assay of urine albumin,310
+82043,"","Microalbumin, quantitative",310
+82044,"","Microalbumin, semiquant",310
+82045,"","Albumin, ischemia modified",310
+82085,"",Assay of aldolase,310
+82088,"",Assay of aldosterone,330
+82103,"","Alpha-1-antitrypsin, total",220
+82104,"","Alpha-1-antitrypsin, pheno",220
+82105,"",Alpha-fetoprotein serum,"220, 310"
+HCPCS,MOD,DESCRIPTION,"LABORATORY CERTIFICATION (LC) CODE"
+82107,"",Alpha-fetoprotein l3,"220, 310"
+82108,"",Assay of aluminum,340
+82120,"","Amines, vaginal fluid qual",310
+82127,"","Amino acid, single qual",310
+82128,"","Amino acids, mult qual",310
+82131,"","Amino acids, single quant",310
+82135,"","Assay, aminolevulinic acid","330, 340"
+82136,"","Amino acids, quant, 2-5",310
+82139,"","Amino acids, quan, 6 or more",310
+82140,"",Assay of ammonia,310
+82143,"",Amniotic fluid scan,310
+82150,"",Assay of amylase,310
+82154,"",Androstanediol glucuronide,330
+82157,"",Assay of androstenedione,330
+82160,"",Assay of androsterone,330
+82163,"",Assay of angiotensin II,330
+82164,"",Angiotensin I enzyme test,310
+82172,"",Assay of apolipoprotein,310
+82175,"",Assay of arsenic,340
+82180,"",Assay of ascorbic acid,310
+82190,"",Atomic absorption,"310, 340"
+82232,"",Assay of beta-2 protein,220
+82239,"","Bile acids, total",310
+82240,"","Bile acids, cholylglycine",310
+82247,"","Bilirubin, total",310
+82248,"","Bilirubin, direct",310
+82252,"",Fecal bilirubin test,310
+82261,"",Assay of biotinidase,310
+82271,"",Occult blood other sources,310
+82274,"",Assay test for blood fecal,"310, 400"
+82286,"",Assay of bradykinin,310
+82300,"",Assay of cadmium,340
+82306,"",Vitamin D 25 hydroxy,310
+82308,"",Assay of calcitonin,330
+82310,"",Assay of calcium,310
+82330,"",Assay of calcium,310
+82331,"",Calcium infusion test,310
+82340,"",Assay of calcium in urine,310
+82355,"","Calculus analysis, qual",310
+82360,"","Calculus assay, quant",310
+82365,"",Calculus spectroscopy,310
+82370,"","X-ray assay, calculus",310
+82373,"","Assay, c-d transfer measure",310
+82374,"","Assay, blood carbon dioxide",310
+82375,"",Assay blood carboxyhb quant,340
+82376,"",Assay blood carboxyhb qual,340
+82378,"",Carcinoembryonic antigen,310
+82379,"",Assay of carnitine,310
+82380,"",Assay of carotene,310
+HCPCS,MOD,DESCRIPTION,"LABORATORY CERTIFICATION (LC) CODE"
+82383,"","Assay, blood catecholamines",330
+82384,"","Assay, three catecholamines",330
+82387,"",Assay of cathepsin-d,330
+82390,"",Assay of ceruloplasmin,310
+82397,"",Chemiluminescent assay,"310, 330, 340"
+82415,"",Assay of chloramphenicol,340
+82435,"",Assay of blood chloride,310
+82436,"",Assay of urine chloride,310
+82438,"","Assay, other fluid chlorides",310
+82441,"",Test for chlorohydrocarbons,340
+82465,"","Assay, bld/serum cholesterol",310
+82480,"","Assay, serum cholinesterase",310
+82482,"","Assay, rbc cholinesterase",310
+82485,"","Assay, chondroitin sulfate",310
+82486,"",Gas/liquid chromatography - Discountinued 12/31/2015,"310, 330, 340"
+82487,"",Paper chromatography - Discountinued 12/31/2015,"310, 330, 340"
+82488,"",Paper chromatography - Discountinued 12/31/2015,"310, 330, 340"
+82489,"",Thin layer chromatography - Discountinued 12/31/2015,"310, 330, 340"
+82491,"","Chromotography, quant, sing - Discountinued 12/31/2015","310, 330, 340"
+82492,"","Chromotography, quant, mult - Discountinued 12/31/2015","310, 330, 340"
+82495,"",Assay of chromium,340
+82507,"",Assay of citrate,310
+82523,"",Collagen crosslinks,"310, 330"
+82525,"",Assay of copper,340
+82528,"",Assay of corticosterone,330
+82530,"","Cortisol, free",330
+82533,"",Total cortisol,330
+82540,"",Assay of creatine,310
+82541,"","Column chromotography, qual - Discountinued 12/31/2015","310, 330, 340"
+82542,"",Col chromotography qual/quant,"310, 330, 340"
+82543,"",Column chromotograph/isotope - Discountinued 12/31/2015,"310, 330, 340"
+82544,"",Column chromotograph/isotope - Discountinued 12/31/2015,"310, 330, 340"
+82550,"",Assay of ck (cpk),310
+82552,"",Assay of cpk in blood,310
+82553,"","Creatine, MB fraction",310
+82554,"","Creatine, isoforms",310
+82565,"",Assay of creatinine,310
+82570,"",Assay of urine creatinine,310
+82575,"",Creatinine clearance test,310
+82585,"",Assay of cryofibrinogen,400
+82595,"",Assay of cryoglobulin,310
+82600,"",Assay of cyanide,340
+82607,"",Vitamin B-12,310
+82608,"",B-12 binding capacity,310
+82610,"",Cystatin C,310
+82615,"",Test for urine cystines,310
+82626,"",Dehydroepiandrosterone,330
+82627,"",Dehydroepiandrosterone,330
+82633,"",Desoxycorticosterone,330
+HCPCS,MOD,DESCRIPTION,"LABORATORY CERTIFICATION (LC) CODE"
+82638,"",Assay of dibucaine number,310
+82652,"",Vit d 1 25-dihydroxy,310
+82656,"","Pancreatic elastase, fecal",310
+82657,"",Enzyme cell activity,310
+82658,"","Enzyme cell activity, ra",310
+82664,"",Electrophoretic test,"330, 340"
+82668,"",Assay of erythropoietin,330
+82670,"",Assay of estradiol,330
+82671,"",Assay of estrogens,330
+82672,"",Assay of estrogen,330
+82677,"",Assay of estriol,330
+82679,"",Assay of estrone,330
+82693,"",Assay of ethylene glycol,340
+82696,"",Assay of etiocholanolone,330
+82705,"","Fats/lipids, feces, qual",310
+82710,"","Fats/lipids, feces, quant",310
+82715,"",Assay of fecal fat,310
+82725,"",Assay of blood fatty acids,310
+82726,"",Long chain fatty acids,310
+82728,"",Assay of ferritin,310
+82731,"",Assay of fetal fibronectin,310
+82735,"",Assay of fluoride,340
+82746,"",Blood folic acid serum,310
+82747,"","Assay of folic acid, rbc",310
+82757,"",Assay of semen fructose,310
+82759,"",Assay of rbc galactokinase,310
+82760,"",Assay of galactose,310
+82775,"",Assay galactose transferase,310
+82776,"",Galactose transferase test,310
+82777,"",Galectin-3,310
+82784,"",Assay iga/igd/igg/igm each,220
+82785,"",Assay of ige,220
+82787,"","Igg 1, 2, 3 or 4, each",220
+82800,"",Blood pH,310
+82803,"",Blood gases any combination,310
+82805,"",Blood gases w/O2 saturation,310
+82810,"","Blood gases, O2 sat only",310
+82820,"",Hemoglobin-oxygen affinity,310
+82930,"",Gastric analy w/ph ea spec,310
+82938,"",Gastrin test,330
+82941,"",Assay of gastrin,330
+82943,"",Assay of glucagon,"310, 330"
+82945,"",Glucose other fluid,310
+82946,"",Glucagon tolerance test,"310, 330"
+82947,"","Assay, glucose, blood quant",310
+82948,"",Reagent strip/blood glucose,310
+82950,"",Glucose test,310
+82951,"",Glucose tolerance test (GTT),310
+82952,"",GTT-added samples,310
+HCPCS,MOD,DESCRIPTION,"LABORATORY CERTIFICATION (LC) CODE"
+82960,"",Test for G6PD enzyme,310
+82963,"",Assay of glucosidase,310
+82965,"",Assay of gdh enzyme,310
+82977,"",Assay of GGT,310
+82978,"",Assay of glutathione,310
+82979,"","Assay, rbc glutathione",310
+82985,"",Assay of glycated protein,310
+83001,"",Assay of gonadotropin (FSH),330
+83002,"",Assay of gonadotropin (LH),330
+83003,"","Assay, growth hormone (hgh)",330
+83006,"",Growth stimulation gene 2,"220, 310"
+83009,"","H pylori (c-13), blood",110
+83010,"","Assay of haptoglobin, quant",310
+83012,"",Assay of haptoglobins,310
+83015,"",Heavy metal screen,340
+83018,"","Quantitative screen, metals",340
+83020,"",Hemoglobin electrophoresis,"310, 400"
+83020,26,Hemoglobin electrophoresis,"310, 400"
+83021,"",Hemoglobin chromotography,"310, 400"
+83030,"","Fetal hemoglobin, chemical","310, 400"
+83033,"","Fetal hemoglobin assay, qual","310, 400"
+83036,"",Glycosylated hemoglobin test,"310, 400"
+83045,"",Blood methemoglobin test,"310, 400"
+83050,"",Blood methemoglobin assay,"310, 400"
+83051,"",Assay of plasma hemoglobin,"310, 400"
+83060,"",Blood sulfhemoglobin assay,"310, 400"
+83065,"",Assay of hemoglobin heat,"310, 400"
+83068,"",Hemoglobin stability screen,"310, 400"
+83069,"",Assay of urine hemoglobin,320
+83070,"","Assay of hemosiderin, qual","320, 400"
+83080,"",Assay of b hexosaminidase,310
+83088,"",Assay of histamine,340
+83090,"",Assay of homocystine,310
+83150,"",Assay of homovanillic acid,330
+83491,"",Assay of corticosteroids 17,330
+83497,"",Assay of 5-hiaa,330
+83498,"",Assay of progesterone 17-d,330
+83499,"",Assay of progesterone 20-,330
+83500,"","Assay, free hydroxyproline","310, 330"
+83505,"","Assay, total hydroxyproline","310, 330"
+83516,"","Immunoassay, nonantibody","310, 330, 340"
+83518,"","Immunoassay, dipstick","310, 330, 340"
+83519,"",Ria nonantibody,"220, 310, 330, 340"
+83520,"",Immunoassay quant nos nonab,"220, 310, 330, 340"
+83525,"",Assay of insulin,330
+83527,"",Assay of insulin,330
+83528,"",Assay of intrinsic factor,310
+83540,"",Assay of iron,310
+83550,"",Iron binding test,310
+HCPCS,MOD,DESCRIPTION,"LABORATORY CERTIFICATION (LC) CODE"
+83582,"",Assay of ketogenic steroids,330
+83586,"",Assay 17- ketosteroids,330
+83593,"","Fractionation, ketosteroids",330
+83605,"",Assay of lactic acid,310
+83615,"",Lactate (LD) (LDH) enzyme,310
+83625,"",Assay of ldh enzymes,310
+83630,"","Lactoferrin, fecal (qual)",310
+83631,"","Lactoferrin, fecal (quant)",310
+83632,"",Placental lactogen,330
+83633,"",Test urine for lactose,310
+83655,"",Assay of lead,340
+83661,"","L/s ratio, fetal lung",310
+83662,"","Foam stability, fetal lung",310
+83663,"","Fluoro polarize, fetal lung",310
+83664,"","Lamellar bdy, fetal lung",310
+83670,"",Assay of lap enzyme,310
+83690,"",Assay of lipase,310
+83695,"",Lipoprotein (a),310
+83698,"",Assay lipoprotein pla2,310
+83700,"","Lipopro bld, electrphoretic",310
+83701,"","Lipoprotein bld, hr fraction",310
+83704,"","Lipoprotein bld, by nmr",310
+83718,"",Assay of lipoprotein,310
+83719,"",Assay of blood lipoprotein,310
+83721,"",Assay of blood lipoprotein,310
+83727,"",Assay of lrh hormone,330
+83735,"",Assay of magnesium,310
+83775,"",Assay of md enzyme,310
+83785,"",Assay of manganese,310
+83788,"",Mass spectrometry qual - Discountinued 12/31/2015,"310, 330, 340"
+83789,"",Mass spectrometry qual/quant,"310, 330, 340"
+83825,"",Assay of mercury,340
+83835,"",Assay of metanephrines,330
+83857,"",Assay of methemalbumin,310
+83861,"",Microfluid analy tears,310
+83864,"",Mucopolysaccharides,310
+83872,"",Assay synovial fluid mucin,310
+83873,"",Assay of csf protein,310
+83874,"",Assay of myoglobin,310
+83876,"",Myeloperoxidase,310
+83880,"",Natriuretic peptide,310
+83883,"","Assay, nephelometry not spec","220, 310"
+83885,"",Assay of nickel,340
+83915,"",Assay of nucleotidase,310
+83916,"",Oligoclonal bands,"220, 310"
+83918,"","Organic acids, total, quant",340
+83919,"","Organic acids, qual, each","310, 340"
+83921,"","Organic acid, single, quant",340
+83930,"",Assay of blood osmolality,310
+HCPCS,MOD,DESCRIPTION,"LABORATORY CERTIFICATION (LC) CODE"
+83937,"",Assay of osteocalcin,310
+83945,"",Assay of oxalate,310
+83950,"","Oncoprotein, her-2/neu",310
+83951,"","Oncoprotein, dcp",310
+83970,"",Assay of parathormone,330
+83986,"",Assay of ph body fluid nos,310
+83992,"",Assay for phencyclidine,340
+83993,"","Calprotectin, fecal",310
+84030,"",Assay of blood pku,310
+84035,"",Assay of phenylketones,310
+84060,"",Assay acid phosphatase,310
+84066,"",Assay prostate phosphatase,310
+84075,"",Assay alkaline phosphatase,310
+84078,"",Assay alkaline phosphatase,310
+84080,"",Assay alkaline phosphatases,310
+84081,"",Assay phosphatidylglycerol,310
+84085,"",Assay of rbc pg6d enzyme,310
+84087,"",Assay phosphohexose enzymes,310
+84100,"",Assay of phosphorus,310
+84105,"",Assay of urine phosphorus,310
+84106,"",Test for porphobilinogen,310
+84110,"",Assay of porphobilinogen,310
+84112,"",Eval amniotic fluid protein,310
+84119,"",Test urine for porphyrins,310
+84120,"",Assay of urine porphyrins,310
+84126,"",Assay of feces porphyrins,310
+84132,"",Assay of serum potassium,310
+84133,"",Assay of urine potassium,310
+84134,"",Assay of prealbumin,310
+84135,"",Assay of pregnanediol,330
+84138,"",Assay of pregnanetriol,330
+84140,"",Assay of pregnenolone,330
+84143,"",Assay of 17-hydroxypregneno,330
+84144,"",Assay of progesterone,330
+84145,"",Procalcitonin (pct),330
+84146,"",Assay of prolactin,330
+84150,"",Assay of prostaglandin,310
+84152,"","Assay of psa, complexed",310
+84153,"","Assay of psa, total",310
+84154,"","Assay of psa, free",310
+84155,"","Assay of protein, serum",310
+84156,"","Assay of protein, urine",310
+84157,"","Assay of protein, other",310
+84160,"","Assay of protein, any source",310
+84163,"","Pappa, serum",310
+84165,"","Protein electrophoresis, serum",310
+84165,26,"Protein electrophoresis, serum",310
+84166,"","Protein electrophoresis, urine/csf",310
+84166,26,"Protein electrophoresis, urine, csf",310
+HCPCS,MOD,DESCRIPTION,"LABORATORY CERTIFICATION (LC) CODE"
+84181,26,Western blot test,220
+84182,"","Protein, western blot test",220
+84182,26,"Protein, western blot test",220
+84202,"",Assay RBC protoporphyrin,310
+84203,"",Test RBC protoporphyrin,310
+84206,"",Assay of proinsulin,330
+84207,"",Assay of vitamin b-6,310
+84210,"",Assay of pyruvate,310
+84220,"",Assay of pyruvate kinase,310
+84228,"",Assay of quinine,340
+84233,"",Assay of estrogen,330
+84234,"",Assay of progesterone,330
+84235,"",Assay of endocrine hormone,330
+84238,"","Assay, nonendocrine receptor","220, 330"
+84244,"",Assay of renin,330
+84252,"",Assay of vitamin b-2,310
+84255,"",Assay of selenium,340
+84260,"",Assay of serotonin,"310, 330"
+84270,"",Assay of sex hormone globul,330
+84275,"",Assay of sialic acid,310
+84285,"",Assay of silica,340
+84295,"",Assay of serum sodium,310
+84300,"",Assay of urine sodium,310
+84302,"",Assay of sweat sodium,310
+84305,"",Assay of somatomedin,330
+84307,"",Assay of somatostatin,330
+84311,"",Spectrophotometry,"140, 220, 310, 400"
+84315,"",Body fluid specific gravity,310
+84375,"","Chromatogram assay, sugars",310
+84376,"","Sugars, single, qual",310
+84377,"","Sugars, multiple, qual",310
+84378,"",Sugars single quant,310
+84379,"",Sugars multiple quant,310
+84392,"",Assay of urine sulfate,310
+84402,"",Assay of testosterone,330
+84403,"",Assay of total testosterone,330
+84425,"",Assay of vitamin b-1,310
+84430,"",Assay of thiocyanate,340
+84431,"","Thromboxane, urine",310
+84432,"",Assay of thyroglobulin,310
+84436,"",Assay of total thyroxine,330
+84437,"",Assay of neonatal thyroxine,330
+84439,"",Assay of free thyroxine,330
+84442,"",Assay of thyroid activity,330
+84443,"",Assay thyroid stim hormone,330
+84445,"",Assay of tsi globulin,330
+84446,"",Assay of vitamin e,310
+84449,"",Assay of transcortin,310
+84450,"",Transferase (AST) (SGOT),310
+HCPCS,MOD,DESCRIPTION,"LABORATORY CERTIFICATION (LC) CODE"
+84466,"",Assay of transferrin,310
+84478,"",Assay of triglycerides,310
+84479,"",Assay of thyroid (t3 or t4),330
+84480,"","Assay, triiodothyronine (t3)",330
+84481,"",Free assay (FT-3),330
+84482,"",T3 reverse,330
+84484,"","Assay of troponin, quant",310
+84485,"",Assay duodenal fluid trypsin,310
+84488,"",Test feces for trypsin,310
+84490,"",Assay of feces for trypsin,310
+84510,"",Assay of tyrosine,310
+84512,"","Assay of troponin, qual",310
+84520,"",Assay of urea nitrogen,310
+84525,"",Urea nitrogen semi-quant,310
+84540,"",Assay of urine/urea-n,310
+84545,"",Urea-N clearance test,310
+84550,"",Assay of blood/uric acid,310
+84560,"",Assay of urine/uric acid,310
+84577,"",Assay of feces/urobilinogen,310
+84578,"",Test urine urobilinogen,320
+84580,"",Assay of urine urobilinogen,310
+84583,"",Assay of urine urobilinogen,320
+84585,"",Assay of urine vma,330
+84586,"",Assay of vip,330
+84588,"",Assay of vasopressin,330
+84590,"",Assay of vitamin a,310
+84591,"",Assay of nos vitamin,310
+84597,"",Assay of vitamin k,310
+84600,"",Assay of volatiles,340
+84620,"",Xylose tolerance test,310
+84630,"",Assay of zinc,310
+84681,"",Assay of c-peptide,310
+84702,"",Chorionic gonadotropin test,330
+84703,"",Chorionic gonadotropin assay,330
+84704,"","hCG, free beta chain test",330
+84999,"",Clinical chemistry test,"310, 330, 340"
+85002,"",Bleeding time test,400
+85004,"",Automated diff WBC count,400
+85007,"",BI smear w/diff WBC count,400
+85008,"",BI smear w/o diff WBC count,400
+85009,"",Manual diff WBC count b-coat,400
+85014,"",Hematocrit,400
+85018,"",Hemoglobin,400
+85025,"",Complete CBC w/auto diff WBC,400
+85027,"","Complete CBC, automated",400
+85032,"","Manual cell count, each",400
+85041,"",Automated RBC count,400
+85044,"",Manual reticulocyte count,400
+85045,"",Automated reticulocyte count,400
+HCPCS,MOD,DESCRIPTION,"LABORATORY CERTIFICATION (LC) CODE"
+85048,"",Automated leukocyte count,400
+85049,"",Automated platelet count,400
+85055,"",Reticulated platelet assay,400
+85060,"",Blood smear interpretation,"400, 610"
+85097,"",Bone marrow interpretation,"400, 610"
+85130,"",Chromogenic substrate assay,400
+85170,"",Blood clot retraction,400
+85175,"",Blood clot lysis time,400
+85210,"",Clot factor II prothrom spec,400
+85220,"",Blood clot factor V test,400
+85230,"",Clot factor VII proconvertin,400
+85240,"",Clot factor VIII ahg 1 stage,400
+85244,"",Clot factor VIII reltd antgn,400
+85245,"",Clot factor VIII  vw ristoctn,400
+85246,"",Clot factor VIII vw antigen,400
+85247,"",Clot factor VIII multimetric,400
+85250,"",Clot factor IX ptc/chrstmas,400
+85260,"",Clot factor X stuart-power,400
+85270,"",clot factor XI pta,400
+85280,"",Clot factor XII hagerman,400
+85290,"",Clot factor XIII fibrin stab,400
+85291,"",Clot factor XIII fibrin scrn,400
+85292,"",Clot factor fletcher fact,400
+85293,"",Clot factor wght kininogen,400
+85300,"",Antithrombin III activity,400
+85301,"",Antithrombin III antigen,400
+85302,"",Clot inhib prot c antigen,400
+85303,"",Clot inhib prot c activity,400
+85305,"",Clot inhib prot s total,400
+85306,"",Clot inhib prot s free,400
+85307,"",Assay activated protein c,400
+85335,"",Factor inhibitor test,400
+85337,"",Thrombomodulin,400
+85345,"",Coagulation time lee & white,400
+85347,"",Coagulation time activated,400
+85348,"",Coagulation time otr method,400
+85360,"",Euglobulin lysis,400
+85362,"",Fibrin degradation products,400
+85366,"",Fibrinogen test,400
+85370,"",Fibrinogen test,400
+85378,"","Fibrin degrade, semiquant",400
+85379,"","Fibrin degradation, quant",400
+85380,"",Fibrin degradj d-dimer,400
+85384,"",Fibrinogen activity,400
+85385,"",Fibrinogen antigen,400
+85390,"",Fibrinolysins screen,400
+85390,26,Fibrinolysins screen,400
+85396,"","Clotting assay, whole blood",400
+85397,"",Clotting funct activity,400
+HCPCS,MOD,DESCRIPTION,"LABORATORY CERTIFICATION (LC) CODE"
+85410,"",Fibrinolytic antiplasmin,400
+85415,"",Fibrinolytic plasminogen,400
+85420,"",Fibrinolytic plasminogen,400
+85421,"",Fibrinolytic plasminogen,400
+85441,"","Heinz bodies, direct",400
+85445,"","Heinz bodies, induced",400
+85460,"","Hemoglobin, fetal",400
+85461,"","Hemoglobin, fetal","400, 510"
+85475,"",Hemolysin acid,220
+85520,"",Heparin assay,400
+85525,"",Heparin neutralization,400
+85530,"",Heparin-protamine tolerance,400
+85536,"",Iron stain peripheral blood,400
+85540,"",Wbc alkaline phosphatase,400
+85547,"",RBC mechanical fragility,400
+85549,"",Muramidase,310
+85555,"",RBC osmotic fragility,400
+85557,"",RBC osmotic fragility,400
+85576,"",Blood platelet aggregation,400
+85576,26,Blood platelet aggregation,400
+85597,"",Phospholipid pltlt neutraliz,400
+85598,"",Hexagnal phosph pltlt neutrl,"220, 400"
+85610,"",Prothrombin time,400
+85611,"",Prothrombin test,400
+85612,"",Viper venom prothrombin time,400
+85613,"","Russell viper venom, diluted",400
+85635,"",Reptilase test,400
+85652,"","Rbc sed rate, automated",400
+85660,"",RBC sickle cell test,400
+85670,"","Thrombin time, plasma",400
+85675,"","Thrombin time, titer",400
+85705,"",Thromboplastin inhibition,400
+85730,"","Thromboplastin time, partial",400
+85732,"","Thromboplastin time, partial",400
+85810,"",Blood viscosity examination,"310, 400"
+85999,"",Hematology procedure,400
+86000,"",Agglutinins febrile antigen,220
+86001,"",Allergen specific IgG,220
+86003,"",Allergen specific IgE,220
+86005,"",Allergen specific IgE,220
+86021,"",WBC antibody identification,010
+86022,"",Platelet antibodies,220
+86023,"",Immunoglobulin assay,"220, 520, 530"
+86038,"",Antinuclear antibodies,220
+86039,"",Antinuclear antibodies (ANA),220
+86060,"","Antistreptolysin o, titer",220
+86063,"","Antistreptolysin o, screen",220
+86140,"",C-reactive protein,220
+86141,"","C-reactive protein, hs",220
+HCPCS,MOD,DESCRIPTION,"LABORATORY CERTIFICATION (LC) CODE"
+86147,"",Cardiolipin antibody ea ig,"210, 220"
+86148,"",Anti-phospholipid antibody,220
+86152,"",Cell enumeration & id,"220, 400, 610"
+86153,"",Cell enumeration phys interp,"220, 400, 610"
+86153,26,Cell enumeration phys interp,"220, 400, 610"
+86155,"",Chemotaxis assay,220
+86156,"","Cold agglutinin, screen",220
+86157,"","Cold agglutinin, titer",220
+86160,"","Complement, antigen",220
+86161,"",Complement/function activity,220
+86162,"","Complement, total (CH50)",220
+86171,"","Complement fixation, each",220
+86185,"",Counterimmunoelectrophoresis,220
+86200,"",CCP antibody,220
+86215,"","Deoxyribonuclease, antibody",220
+86225,"",DNA antibody native,220
+86226,"","DNA antibody, single strand",220
+86235,"",Nuclear antigen antibody,220
+86243,"",Fc receptor,220
+86255,"","Fluorescent antibody, screen",220
+86255,26,"Fluorescent antibody, screen",220
+86256,"","Fluorescent antibody, titer",220
+86256,26,"Fluorescent antibody, titer",220
+86277,"",Growth hormone antibody,220
+86280,"",Hemagglutination inhibition,220
+86294,"","Immunoassay, tumor, qual","220, 310"
+86300,"","Immunoassay, tumor, ca 15-3","220, 310"
+86301,"","Immunoassay, tumor, ca 19-9","220, 310"
+86304,"","Immunoassay, tumor, ca 125","220, 310"
+86305,"",Human epididymis protein 4,"210, 310"
+86308,"",Heterophile antibodies screen,220
+86309,"",Heterophile antibodies titer,220
+86310,"",Heterophile antibodies absrbj,220
+86316,"","Immunoassay, tumor other","220, 310"
+86317,"","Immunoassay,infectious agent",220
+86318,"","Immunoassay,infectious agent",220
+86320,"",Serum immunoelectrophoresis,220
+86320,26,Serum immunoelectrophoresis,220
+86325,"",Other immunoelectrophoresis,220
+86325,26,Other immunoelectrophoresis,220
+86327,"",Immunoelectrophoresis assay,220
+86327,26,Immunoelectrophoresis assay,220
+86329,"",Immunodiffusion,220
+86331,"",Immunodiffusion ouchterlony,220
+86332,"",Immune complex assay,220
+86334,"","Immunofixation e-phoresis, serum",220
+86334,26,"Immunofixation e-phoresis, serum",220
+86335,"",Immunofixation e-phoresis/urine/csf,220
+86335,26,Immunofixation e-phoresis/urine/csf,220
+HCPCS,MOD,DESCRIPTION,"LABORATORY CERTIFICATION (LC) CODE"
+86337,"",Insulin antibodies,220
+86340,"",Intrinsic factor antibody,220
+86341,"",Islet cell antibody,220
+86343,"",Leukocyte histamine release,220
+86344,"",Leukocyte phagocytosis,220
+86352,"",Cell function assay w/stim,220
+86353,"",Lymphocyte transformation,"010, 220"
+86355,"","B cells, total count",220
+86356,"",Mononuclear cell antigen,220
+86357,"","Nk cells, total count",220
+86359,"","T cells, total count",220
+86360,"","T cell, absolute count/ratio",220
+86361,"","T cell, absolute count",220
+86367,"","Stem cells, total count",220
+86376,"",Microsomal antibody,220
+86378,"",Migration inhibitory factor,220
+86382,"","Neutralization test, viral",220
+86384,"",Nitroblue tetrazolium dye,220
+86386,"",Nuclear matrix protein 22,"220, 310"
+86403,"",Particle agglut antbdy scrn,220
+86406,"",Particle agglut antbdy titr,220
+86430,"",Rheumatoid factor test qual,220
+86431,"","Rheumatoid factor, quant",220
+86480,"","Tb test, cell immun measure",220
+86481,"",Tb ag response t-cell susp,220
+86590,"","Streptokinase, antibody",220
+86592,"",Syphilis test non-trep qual,210
+86593,"",Syphilis test non-trep quant,210
+86602,"",Antinomyces antibody,220
+86603,"",Adenovirus antibody,220
+86606,"",Aspergillus antibody,220
+86609,"",Bacterium antibody,220
+86611,"",Bartonella antibody,220
+86612,"",Blastomyces antibody,220
+86615,"",Bordetella antibody,220
+86617,"",Lyme disease antibody,220
+86618,"",Lyme disease antibody,220
+86619,"",Borrelia antibody,220
+86622,"",Brucella antibody,220
+86625,"",Campylobacter antibody,220
+86628,"",Candida antibody,220
+86631,"",Chlamydia antibody,220
+86632,"",Chlamydia igm antibody,220
+86635,"",Coccidioides antibody,220
+86638,"",Q fever antibody,220
+86641,"",Cryptococcus antibody,220
+86644,"",CMV antibody,220
+86645,"","CMV antibody, IgM",220
+86648,"",Diphtheria antibody,220
+HCPCS,MOD,DESCRIPTION,"LABORATORY CERTIFICATION (LC) CODE"
+86337,"",Insulin antibodies,220
+86340,"",Intrinsic factor antibody,220
+86341,"",Islet cell antibody,220
+86343,"",Leukocyte histamine release,220
+86344,"",Leukocyte phagocytosis,220
+86352,"",Cell function assay w/stim,220
+86353,"",Lymphocyte transformation,"010, 220"
+86355,"","B cells, total count",220
+86356,"",Mononuclear cell antigen,220
+86357,"","Nk cells, total count",220
+86359,"","T cells, total count",220
+86360,"","T cell, absolute count/ratio",220
+86361,"","T cell, absolute count",220
+86367,"","Stem cells, total count",220
+86376,"",Microsomal antibody,220
+86378,"",Migration inhibitory factor,220
+86382,"","Neutralization test, viral",220
+86384,"",Nitroblue tetrazolium dye,220
+86386,"",Nuclear matrix protein 22,"220, 310"
+86403,"",Particle agglut antbdy scrn,220
+86406,"",Particle agglut antbdy titr,220
+86430,"",Rheumatoid factor test qual,220
+86431,"","Rheumatoid factor, quant",220
+86480,"","Tb test, cell immun measure",220
+86481,"",Tb ag response t-cell susp,220
+86590,"","Streptokinase, antibody",220
+86592,"",Syphilis test non-trep qual,210
+86593,"",Syphilis test non-trep quant,210
+86602,"",Antinomyces antibody,220
+86603,"",Adenovirus antibody,220
+86606,"",Aspergillus antibody,220
+86609,"",Bacterium antibody,220
+86611,"",Bartonella antibody,220
+86612,"",Blastomyces antibody,220
+86615,"",Bordetella antibody,220
+86617,"",Lyme disease antibody,220
+86618,"",Lyme disease antibody,220
+86619,"",Borrelia antibody,220
+86622,"",Brucella antibody,220
+86625,"",Campylobacter antibody,220
+86628,"",Candida antibody,220
+86631,"",Chlamydia antibody,220
+86632,"",Chlamydia igm antibody,220
+86635,"",Coccidioides antibody,220
+86638,"",Q fever antibody,220
+86641,"",Cryptococcus antibody,220
+86644,"",CMV antibody,220
+86645,"","CMV antibody, IgM",220
+86648,"",Diphtheria antibody,220
+HCPCS,MOD,DESCRIPTION,"LABORATORY CERTIFICATION (LC) CODE"
+86652,"",Encephalitis east eqne antbdy,220
+86653,"",Encephalitis st louis antbdy,220
+86654,"",Encephalitis west eqne antbdy,220
+86658,"",Enterovirus antibody,220
+86663,"",Epstein-barr antibody,220
+86664,"",Epstein-barr nuclear antigen,220
+86665,"",Epstein-barr capsid vca,220
+86666,"",Ehrlichia antibody,220
+86668,"",Francisella tularensis,220
+86671,"",Fungus antibody,220
+86674,"",Giardia lamblia antibody,220
+86677,"",Helicobacter pylori,220
+86682,"",Helminth antibody,220
+86684,"",Hemophilus influenza,220
+86687,"",Htlv-i antibody,220
+86688,"",Htlv-ii antibody,220
+86689,"",HTLV/HIV confirmatory test,220
+86692,"","Hepatitis, delta agent",220
+86694,"",Herpes simplex test,220
+86695,"",Herpes simplex type 1 test,220
+86696,"",Herpes simplex type 2 test,220
+86698,"",Histoplasma antibody,220
+86701,"",HIV-1 antibody,220
+86702,"",HIV-2 antibody,220
+86703,"","HIV-1/HIV-2, single assay",220
+86704,"","Hep b core antibody, total",220
+86705,"","Hep b core antibody, igm",220
+86706,"",Hep b surface antibody,220
+86707,"",Hep be antibody,220
+86708,"","Hep a antibody, total",220
+86709,"","Hep a antibody, igm",220
+86710,"",Influenza virus antibody,220
+86711,"",John cunningham antibody,220
+86713,"",Legionella antibody,220
+86717,"",Leishmania antibody,220
+86720,"",Leptospira antibody,220
+86723,"",Listeria monocytogenes ab,220
+86727,"",Lymph choriomeningitis ab,220
+86729,"",Lympho venereum antibody,220
+86732,"",Mucormycosis antibody,220
+86735,"",Mumps antibody,220
+86738,"",Mycoplasma antibody,220
+86741,"",Neisseria meningitidis,220
+86744,"",Nocardia antibody,220
+86747,"",Parvovirus antibody,220
+86750,"",Malaria antibody,220
+86753,"",Protozoa antibody nos,220
+86756,"",Respiratory virus antibody,220
+86757,"",Rickettsia antibody,220
+HCPCS,MOD,DESCRIPTION,"LABORATORY CERTIFICATION (LC) CODE"
+86652,"",Encephalitis east eqne antbdy,220
+86653,"",Encephalitis st louis antbdy,220
+86654,"",Encephalitis west eqne antbdy,220
+86658,"",Enterovirus antibody,220
+86663,"",Epstein-barr antibody,220
+86664,"",Epstein-barr nuclear antigen,220
+86665,"",Epstein-barr capsid vca,220
+86666,"",Ehrlichia antibody,220
+86668,"",Francisella tularensis,220
+86671,"",Fungus antibody,220
+86674,"",Giardia lamblia antibody,220
+86677,"",Helicobacter pylori,220
+86682,"",Helminth antibody,220
+86684,"",Hemophilus influenza,220
+86687,"",Htlv-i antibody,220
+86688,"",Htlv-ii antibody,220
+86689,"",HTLV/HIV confirmatory test,220
+86692,"","Hepatitis, delta agent",220
+86694,"",Herpes simplex test,220
+86695,"",Herpes simplex type 1 test,220
+86696,"",Herpes simplex type 2 test,220
+86698,"",Histoplasma antibody,220
+86701,"",HIV-1 antibody,220
+86702,"",HIV-2 antibody,220
+86703,"","HIV-1/HIV-2, single assay",220
+86704,"","Hep b core antibody, total",220
+86705,"","Hep b core antibody, igm",220
+86706,"",Hep b surface antibody,220
+86707,"",Hep be antibody,220
+86708,"","Hep a antibody, total",220
+86709,"","Hep a antibody, igm",220
+86710,"",Influenza virus antibody,220
+86711,"",John cunningham antibody,220
+86713,"",Legionella antibody,220
+86717,"",Leishmania antibody,220
+86720,"",Leptospira antibody,220
+86723,"",Listeria monocytogenes ab,220
+86727,"",Lymph choriomeningitis ab,220
+86729,"",Lympho venereum antibody,220
+86732,"",Mucormycosis antibody,220
+86735,"",Mumps antibody,220
+86738,"",Mycoplasma antibody,220
+86741,"",Neisseria meningitidis,220
+86744,"",Nocardia antibody,220
+86747,"",Parvovirus antibody,220
+86750,"",Malaria antibody,220
+86753,"",Protozoa antibody nos,220
+86756,"",Respiratory virus antibody,220
+86757,"",Rickettsia antibody,220
+HCPCS,MOD,DESCRIPTION,"LABORATORY CERTIFICATION (LC) CODE"
+86762,"",Rubella antibody,220
+86765,"",Rubeola antibody,220
+86768,"",Salmonella antibody,220
+86771,"",Shigella antibody,220
+86774,"",Tetanus antibody,220
+86777,"",Toxoplasma antibody,220
+86778,"","Toxoplasma antibody, igm",220
+86780,"",Treponema pallidum,210
+86784,"",Trichinella antibody,220
+86787,"",Varicella-zoster antibody,220
+86788,"","West nile virus ab, igm",220
+86789,"",West nile virus antibody,220
+86790,"",Virus antibody nos,220
+86793,"",Yersinia antibody,220
+86800,"",Thyroglobulin antibody,220
+86803,"",Hepatitis c ab test,220
+86804,"","Hep c ab test, confirm",220
+86805,"",Lymphocytotoxicity assay,010
+86806,"",Lymphocytotoxicity assay,010
+86807,"",Cytotoxic antibody screening,010
+86808,"",Cytotoxic antibody screening,010
+86812,"","HLA typing, A, B, or C",010
+86813,"","HLA typing, A, B, or C",010
+86816,"","HLA typing, DR/DQ",010
+86817,"","HLA typing, DR/DQ",010
+86821,"","Lymphocyte culture, mixed",010
+86822,"","Lymphocyte culture, primed",010
+86825,"","Hla x-match, non-cytotoxic",010
+86826,"","Hla x-match, non-cyt add-on",010
+86828,"",Hla class i&ii antibody qual,010
+86829,"",Hla class i/ii antibody qual,010
+86830,"",Hla class i phenotype qual,010
+86831,"",Hla class ii phenotype qual,010
+86832,"",Hla class i high defin qual,010
+86833,"",Hla class ii high defin qual,010
+86834,"",Hla class i semiquant panel,010
+86835,"",Hla class ii semiquant panel,010
+86849,"",Immunology procedure,220
+86850,"",RBC antibody screen,"520, 530"
+86860,"",RBC antibody elution,540
+86870,"",RBC antibody identification,540
+86880,"","Coombs test, direct","520, 530"
+86885,"","Coombs test, indirect, qual","520, 530"
+86886,"","Coombs test, indirect, titer","520, 530"
+86890,"",Autologous blood process,"510, 530"
+86900,"",Blood typing serologic ABO,510
+86901,"",Blood typing serologic Rh (D),510
+86902,"",Blood type antigen donor ea,550
+86904,"","Blood typing, patient serum",550
+HCPCS,MOD,DESCRIPTION,"LABORATORY CERTIFICATION (LC) CODE"
+86762,"",Rubella antibody,220
+86765,"",Rubeola antibody,220
+86768,"",Salmonella antibody,220
+86771,"",Shigella antibody,220
+86774,"",Tetanus antibody,220
+86777,"",Toxoplasma antibody,220
+86778,"","Toxoplasma antibody, igm",220
+86780,"",Treponema pallidum,210
+86784,"",Trichinella antibody,220
+86787,"",Varicella-zoster antibody,220
+86788,"","West nile virus ab, igm",220
+86789,"",West nile virus antibody,220
+86790,"",Virus antibody nos,220
+86793,"",Yersinia antibody,220
+86800,"",Thyroglobulin antibody,220
+86803,"",Hepatitis c ab test,220
+86804,"","Hep c ab test, confirm",220
+86805,"",Lymphocytotoxicity assay,010
+86806,"",Lymphocytotoxicity assay,010
+86807,"",Cytotoxic antibody screening,010
+86808,"",Cytotoxic antibody screening,010
+86812,"","HLA typing, A, B, or C",010
+86813,"","HLA typing, A, B, or C",010
+86816,"","HLA typing, DR/DQ",010
+86817,"","HLA typing, DR/DQ",010
+86821,"","Lymphocyte culture, mixed",010
+86822,"","Lymphocyte culture, primed",010
+86825,"","Hla x-match, non-cytotoxic",010
+86826,"","Hla x-match, non-cyt add-on",010
+86828,"",Hla class i&ii antibody qual,010
+86829,"",Hla class i/ii antibody qual,010
+86830,"",Hla class i phenotype qual,010
+86831,"",Hla class ii phenotype qual,010
+86832,"",Hla class i high defin qual,010
+86833,"",Hla class ii high defin qual,010
+86834,"",Hla class i semiquant panel,010
+86835,"",Hla class ii semiquant panel,010
+86849,"",Immunology procedure,220
+86850,"",RBC antibody screen,"520, 530"
+86860,"",RBC antibody elution,540
+86870,"",RBC antibody identification,540
+86880,"","Coombs test, direct","520, 530"
+86885,"","Coombs test, indirect, qual","520, 530"
+86886,"","Coombs test, indirect, titer","520, 530"
+86890,"",Autologous blood process,"510, 530"
+86900,"",Blood typing serologic ABO,510
+86901,"",Blood typing serologic Rh (D),510
+86902,"",Blood type antigen donor ea,550
+86904,"","Blood typing, patient serum",550
+HCPCS,MOD,DESCRIPTION,"LABORATORY CERTIFICATION (LC) CODE"
+86906,"","Blood typing, Rh phenotype",510
+86920,"","Compatibility test, spin",550
+86921,"","Compatibility test, incubate",550
+86922,"","Compatibility test, antiglob",550
+86940,"","Hemolysins/agglutinins, auto",540
+86941,"",Hemolysins/agglutinins,540
+86970,"",RBC pretx incubatj w/chemicl,"520, 530, 540, 550"
+86971,"",RBC pretx incubatj w/enzymes,"520, 530, 540, 550"
+86972,"",RBC pretx incubatj w/density,"520, 530, 540, 550"
+86975,"",RBC serum pretx incubj drugs,540
+86976,"",RBC serum pretx id dilution,540
+86977,"",RBC serum pretx incubj/inhib,540
+86978,"",RBC pretreatment serum,540
+87003,"",Small animal inoculation,"110, 140, 150"
+87015,"",Specimen infect agnt conctj,"115, 130"
+87040,"",Blood culture for bacteria,110
+87045,"",Feces culture aerobic bact,110
+87046,"",Stool cultr aerobic bact ea,110
+87070,"",Culture othr specimn aerobic,110
+87071,"",Culture aerobic quant other,110
+87073,"",Culture bacteria anaerobic,110
+87075,"",Cultr bacteria except blood,110
+87076,"",Culture anaerobe ident each,110
+87077,"",Culture aerobic identify,110
+87081,"",Culture screen only,110
+87084,"",Culture of specimen by kit,110
+87086,"",Urine culture/colony count,110
+87088,"",Urine bacteria culture,110
+87101,"",Skin fungi culture,120
+87102,"",Fungus isolation culture,120
+87103,"",Blood fungus culture,120
+87106,"",Fungi identification yeast,120
+87107,"",Fungi identification mold,120
+87109,"",Mycoplasma,110
+87110,"",Chlamydia culture,110
+87116,"",Mycobacteria culture,115
+87118,"",Mycobacteric identification,115
+87140,"",Culture type immunofluoresc,"110, 120, 140"
+87143,"",Culture typing glc/hplc,"110, 115, 120"
+87147,"",Culture type immunologic,"110, 120, 140"
+87149,"",Dna/rna direct probe,"110, 115"
+87150,"",Dna/rna amplified probe,"110, 115, 120, 140"
+87152,"",Culture type pulse field gel,"110, 115"
+87153,"",Dna/rna sequencing,"110, 115, 120, 140"
+87158,"",Culture typing added method,"110, 115"
+87164,"",Dark field examination,"110, 210"
+87164,26,Dark field examination,"110, 210"
+87166,"",Dark field examination,"110, 210"
+87168,"",Macroscopic exam arthropod,130
+HCPCS,MOD,DESCRIPTION,"LABORATORY CERTIFICATION (LC) CODE"
+86906,"","Blood typing, Rh phenotype",510
+86920,"","Compatibility test, spin",550
+86921,"","Compatibility test, incubate",550
+86922,"","Compatibility test, antiglob",550
+86940,"","Hemolysins/agglutinins, auto",540
+86941,"",Hemolysins/agglutinins,540
+86970,"",RBC pretx incubatj w/chemicl,"520, 530, 540, 550"
+86971,"",RBC pretx incubatj w/enzymes,"520, 530, 540, 550"
+86972,"",RBC pretx incubatj w/density,"520, 530, 540, 550"
+86975,"",RBC serum pretx incubj drugs,540
+86976,"",RBC serum pretx id dilution,540
+86977,"",RBC serum pretx incubj/inhib,540
+86978,"",RBC pretreatment serum,540
+87003,"",Small animal inoculation,"110, 140, 150"
+87015,"",Specimen infect agnt conctj,"115, 130"
+87040,"",Blood culture for bacteria,110
+87045,"",Feces culture aerobic bact,110
+87046,"",Stool cultr aerobic bact ea,110
+87070,"",Culture othr specimn aerobic,110
+87071,"",Culture aerobic quant other,110
+87073,"",Culture bacteria anaerobic,110
+87075,"",Cultr bacteria except blood,110
+87076,"",Culture anaerobe ident each,110
+87077,"",Culture aerobic identify,110
+87081,"",Culture screen only,110
+87084,"",Culture of specimen by kit,110
+87086,"",Urine culture/colony count,110
+87088,"",Urine bacteria culture,110
+87101,"",Skin fungi culture,120
+87102,"",Fungus isolation culture,120
+87103,"",Blood fungus culture,120
+87106,"",Fungi identification yeast,120
+87107,"",Fungi identification mold,120
+87109,"",Mycoplasma,110
+87110,"",Chlamydia culture,110
+87116,"",Mycobacteria culture,115
+87118,"",Mycobacteric identification,115
+87140,"",Culture type immunofluoresc,"110, 120, 140"
+87143,"",Culture typing glc/hplc,"110, 115, 120"
+87147,"",Culture type immunologic,"110, 120, 140"
+87149,"",Dna/rna direct probe,"110, 115"
+87150,"",Dna/rna amplified probe,"110, 115, 120, 140"
+87152,"",Culture type pulse field gel,"110, 115"
+87153,"",Dna/rna sequencing,"110, 115, 120, 140"
+87158,"",Culture typing added method,"110, 115"
+87164,"",Dark field examination,"110, 210"
+87164,26,Dark field examination,"110, 210"
+87166,"",Dark field examination,"110, 210"
+87168,"",Macroscopic exam arthropod,130
+HCPCS,MOD,DESCRIPTION,"LABORATORY CERTIFICATION (LC) CODE"
+87172,"",Pinworm exam,130
+87176,"",Tissue homogenization cultr,150
+87177,"",Ova and parasites smears,130
+87181,"",Microbe susceptible diffuse,"110, 115, 120"
+87184,"",Microbe susceptible disk,"110, 115, 120"
+87185,"",Microbe susceptible enzyme,110
+87186,"",Microbe susceptible mic,"110, 115, 120"
+87187,"",Microbe susceptible mlc,"110, 120"
+87188,"",Microbe suscept macrobroth,"110, 115, 120"
+87190,"",Microbe suscept mycobacteri,115
+87197,"",Bactericidal level serum,110
+87205,"",Smear gram stain,"110, 120"
+87206,"",Smear fluorescent/acid stai,"110, 115, 120, 130,140"
+87207,"",Smear special stain,"130, 140"
+87207,26,Smear special stain,"130, 140"
+87209,"",Smear complex stain,130
+87210,"",Smear wet mount saline/ink,"110, 120, 130"
+87220,"",Tissue exam for fungi,"120, 130"
+87230,"",Assay toxin or antitoxin,110
+87250,"",Virus inoculate eggs/animal,140
+87252,"",Virus inoculation tissue,140
+87253,"",Virus inoculate tissue addl,140
+87254,"",Virus inoculation shell via,140
+87255,"",Genet virus isolate HSV,140
+87260,"","Adenovirus ag, if",140
+87265,"","Pertussis ag, if",110
+87267,"","Enterovirus antibody, DFA",220
+87269,"","Giardia ag, if",130
+87270,"","Chlamydia trachomatis ag, if",110
+87271,"",Cytomegalovirus dfa,220
+87272,"","Cryptosporidum ag, if",130
+87273,"","Herpes simplex 2, ag, if",140
+87274,"","Herpes simplex 1, ag, if",140
+87275,"","Influenza b, ag, if",140
+87276,"","Influenza a, ag, if",140
+87277,"","Legionella micdadei, ag, if",110
+87278,"","Legion pneumophilia ag, if",110
+87279,"","Parainfluenza, ag, if",140
+87280,"","Respiratory syncytial ag, if",140
+87281,"","Pneumocystis carinii, ag, if",130
+87283,"","Rubeola, ag, if",140
+87285,"","Treponema pallidum, ag, if",110
+87290,"","Varicella zoster, ag, if",140
+87299,"","Antibody detection, nos, if","110, 115, 120, 130, 140"
+87300,"","Ag detection, polyval, if",110
+87301,"",Adenovirus ag ia,140
+87305,"",Aspergillus ag ia,120
+87320,"",Chylmd trach ag ia,110
+87324,"",Clostridium ag ia,110
+HCPCS,MOD,DESCRIPTION,"LABORATORY CERTIFICATION (LC) CODE"
+87172,"",Pinworm exam,130
+87176,"",Tissue homogenization cultr,150
+87177,"",Ova and parasites smears,130
+87181,"",Microbe susceptible diffuse,"110, 115, 120"
+87184,"",Microbe susceptible disk,"110, 115, 120"
+87185,"",Microbe susceptible enzyme,110
+87186,"",Microbe susceptible mic,"110, 115, 120"
+87187,"",Microbe susceptible mlc,"110, 120"
+87188,"",Microbe suscept macrobroth,"110, 115, 120"
+87190,"",Microbe suscept mycobacteri,115
+87197,"",Bactericidal level serum,110
+87205,"",Smear gram stain,"110, 120"
+87206,"",Smear fluorescent/acid stai,"110, 115, 120, 130,140"
+87207,"",Smear special stain,"130, 140"
+87207,26,Smear special stain,"130, 140"
+87209,"",Smear complex stain,130
+87210,"",Smear wet mount saline/ink,"110, 120, 130"
+87220,"",Tissue exam for fungi,"120, 130"
+87230,"",Assay toxin or antitoxin,110
+87250,"",Virus inoculate eggs/animal,140
+87252,"",Virus inoculation tissue,140
+87253,"",Virus inoculate tissue addl,140
+87254,"",Virus inoculation shell via,140
+87255,"",Genet virus isolate HSV,140
+87260,"","Adenovirus ag, if",140
+87265,"","Pertussis ag, if",110
+87267,"","Enterovirus antibody, DFA",220
+87269,"","Giardia ag, if",130
+87270,"","Chlamydia trachomatis ag, if",110
+87271,"",Cytomegalovirus dfa,220
+87272,"","Cryptosporidum ag, if",130
+87273,"","Herpes simplex 2, ag, if",140
+87274,"","Herpes simplex 1, ag, if",140
+87275,"","Influenza b, ag, if",140
+87276,"","Influenza a, ag, if",140
+87277,"","Legionella micdadei, ag, if",110
+87278,"","Legion pneumophilia ag, if",110
+87279,"","Parainfluenza, ag, if",140
+87280,"","Respiratory syncytial ag, if",140
+87281,"","Pneumocystis carinii, ag, if",130
+87283,"","Rubeola, ag, if",140
+87285,"","Treponema pallidum, ag, if",110
+87290,"","Varicella zoster, ag, if",140
+87299,"","Antibody detection, nos, if","110, 115, 120, 130, 140"
+87300,"","Ag detection, polyval, if",110
+87301,"",Adenovirus ag ia,140
+87305,"",Aspergillus ag ia,120
+87320,"",Chylmd trach ag ia,110
+87324,"",Clostridium ag ia,110
+HCPCS,MOD,DESCRIPTION,"LABORATORY CERTIFICATION (LC) CODE"
+87328,"",Cryptosporidium ag ia,130
+87329,"",Giardia ag ia,130
+87332,"",Cytomegalovirus ag ia,140
+87335,"",E coli 0157 ag ia,110
+87336,"",Entamoeb hist dispr ag ia,130
+87337,"",Entamoeb hist group ag ia,130
+87338,"",Hpylori stool ia,110
+87339,"",H pylori ag ia,110
+87340,"",Hepatitis b surface ag ia,220
+87341,"",Hepatitis b surface ag ia,220
+87350,"",Hepatitis be ag ia,220
+87380,"",Hepatitis delta ag ia,220
+87385,"",Histoplasma capsul ag ia,120
+87389,"",Hiv-1 ag w/hiv-1 & hiv-2 ab,220
+87390,"",Hiv-1 ag ia,220
+87391,"",Hiv-2 ag ia,220
+87400,"",Influenza a/b ag ia,140
+87420,"",Resp syncytial ag ia,140
+87425,"",Rotavirus ag ia,140
+87427,"",Shiga-like toxin ag ia,110
+87430,"",Strep a ag ia,110
+87449,"",Ag detect nos ia mult,"110, 120, 130, 140"
+87450,"",Ag detect nos ia single,"110, 120, 130, 140"
+87451,"",Ag detect polyval ia mult,"110, 120, 130"
+87470,"","Bartonella, dna, dir probe",110
+87471,"","Bartonella, dna, amp probe",110
+87472,"","Bartonella, dna, quant",110
+87475,"","Lyme dis, dna, dir probe",110
+87476,"","Lyme dis, dna, amp probe",110
+87477,"","Lyme dis, dna, quant",110
+87480,"","Candida, dna, dir probe",120
+87481,"","Candida, dna, amp probe",120
+87482,"","Candida, dna, quant",120
+87485,"","Chylmd pneum, dna, dir probe",110
+87486,"","Chylmd pneum, dna, amp probe",110
+87487,"","Chylmd pneum, dna, quant",110
+87490,"","Chylmd trach, dna, dir probe",110
+87491,"","Chylmd trach, dna, amp probe",110
+87492,"","Chylmd trach, dna, quant",110
+87493,"",C diff amplified probe,110
+87495,"","Cytomeg, dna, dir probe",140
+87496,"","Cytomeg, dna, amp probe",140
+87497,"","Cytomeg, dna, quant",140
+87498,"",Enterovirus probe&revrs trns,140
+87500,"","Vanomycin, dna, amp probe",110
+87501,"",Influenza dna amp prob 1+,140
+87502,"",Influenza dna amp probe,140
+87503,"",Influenza dna amp prob addl,140
+87505,"",Nfct agent detection gi,"110, 140"
+HCPCS,MOD,DESCRIPTION,"LABORATORY CERTIFICATION (LC) CODE"
+87328,"",Cryptosporidium ag ia,130
+87329,"",Giardia ag ia,130
+87332,"",Cytomegalovirus ag ia,140
+87335,"",E coli 0157 ag ia,110
+87336,"",Entamoeb hist dispr ag ia,130
+87337,"",Entamoeb hist group ag ia,130
+87338,"",Hpylori stool ia,110
+87339,"",H pylori ag ia,110
+87340,"",Hepatitis b surface ag ia,220
+87341,"",Hepatitis b surface ag ia,220
+87350,"",Hepatitis be ag ia,220
+87380,"",Hepatitis delta ag ia,220
+87385,"",Histoplasma capsul ag ia,120
+87389,"",Hiv-1 ag w/hiv-1 & hiv-2 ab,220
+87390,"",Hiv-1 ag ia,220
+87391,"",Hiv-2 ag ia,220
+87400,"",Influenza a/b ag ia,140
+87420,"",Resp syncytial ag ia,140
+87425,"",Rotavirus ag ia,140
+87427,"",Shiga-like toxin ag ia,110
+87430,"",Strep a ag ia,110
+87449,"",Ag detect nos ia mult,"110, 120, 130, 140"
+87450,"",Ag detect nos ia single,"110, 120, 130, 140"
+87451,"",Ag detect polyval ia mult,"110, 120, 130"
+87470,"","Bartonella, dna, dir probe",110
+87471,"","Bartonella, dna, amp probe",110
+87472,"","Bartonella, dna, quant",110
+87475,"","Lyme dis, dna, dir probe",110
+87476,"","Lyme dis, dna, amp probe",110
+87477,"","Lyme dis, dna, quant",110
+87480,"","Candida, dna, dir probe",120
+87481,"","Candida, dna, amp probe",120
+87482,"","Candida, dna, quant",120
+87485,"","Chylmd pneum, dna, dir probe",110
+87486,"","Chylmd pneum, dna, amp probe",110
+87487,"","Chylmd pneum, dna, quant",110
+87490,"","Chylmd trach, dna, dir probe",110
+87491,"","Chylmd trach, dna, amp probe",110
+87492,"","Chylmd trach, dna, quant",110
+87493,"",C diff amplified probe,110
+87495,"","Cytomeg, dna, dir probe",140
+87496,"","Cytomeg, dna, amp probe",140
+87497,"","Cytomeg, dna, quant",140
+87498,"",Enterovirus probe&revrs trns,140
+87500,"","Vanomycin, dna, amp probe",110
+87501,"",Influenza dna amp prob 1+,140
+87502,"",Influenza dna amp probe,140
+87503,"",Influenza dna amp prob addl,140
+87505,"",Nfct agent detection gi,"110, 140"
+HCPCS,MOD,DESCRIPTION,"LABORATORY CERTIFICATION (LC) CODE"
+87507,"",Iadna-dna/rna probe tq 12-25,"110, 140"
+87510,"","Gardner vag, dna, dir probe",110
+87511,"","Gardner vag, dna, amp probe",110
+87512,"","Gardner vag, dna, quant",110
+87515,"",Hepatitis b dna dir probe,220
+87516,"",Hepatitis b dna amp probe,220
+87517,"",Hepatitis b dna quant,220
+87520,"",Hepatitis c rna dir probe,220
+87521,"",Hepatitis c probe&rvrs trnsc,220
+87522,"",Hepatitis c revrs trnscrpj,220
+87525,"",Hepatitis g dna dir probe,220
+87526,"",Hepatitis g dna amp probe,220
+87527,"",Hepatitis g dna quant,220
+87528,"",Hsv dna dir probe,140
+87529,"",Hsv dna amp probe,140
+87530,"",Hsv dna quant,140
+87531,"",Hhv-6 dna dir probe,140
+87532,"",Hhv-6 dna amp probe,140
+87533,"",Hhv-6 dna quant,140
+87534,"",Hiv-1 dna dir probe,"140, 220"
+87535,"",Hiv-1 probe&reverse trnscrpj,"140, 220"
+87536,"",Hiv-1 quant&revrse trnscrpj,"140, 220"
+87537,"",Hiv-2 dna dir probe,"140, 220"
+87538,"",Hiv-2 probe&revrse trnscripj,"140, 220"
+87539,"",Hiv-2 quant&revrse trnscripj,"140, 220"
+87540,"","Legion pneumo, dna, dir prob",110
+87541,"","Legion pneumo, dna, amp prob",110
+87542,"","Legion pneumo, dna, quant",110
+87550,"","Mycobacteria, dna, dir probe",115
+87551,"","Mycobacteria, dna, amp probe",115
+87552,"","Mycobacteria, dna, quant",115
+87555,"","M.tuberculo, dna, dir probe",115
+87556,"","M.tuberculo, dna, amp probe",115
+87557,"","M.tuberculo, dna, quant",115
+87560,"","M.avium-intra, dna, dir prob",115
+87561,"","M.avium-intra, dna, amp prob",115
+87562,"","M.avium-intra, dna, quant",115
+87580,"","M.pneumon, dna, dir probe",110
+87581,"","M.pneumon, dna, amp probe",110
+87582,"","M.pneumon, dna, quant",110
+87590,"","N.gonorrhoeae, dna, dir prob",110
+87591,"","N.gonorrhoeae, dna, amp prob",110
+87592,"","N.gonorrhoeae, dna, quant",110
+87623,"",Hpv low-risk types,140
+87624,"",Hpv high-risk types,140
+87625,"",Hpv types 16 & 18 only,140
+87631,"",Resp virus 3-5 targets,140
+87632,"",Resp virus 6-11 targets,140
+87633,"",Resp virus 12-25 targets,140
+HCPCS,MOD,DESCRIPTION,"LABORATORY CERTIFICATION (LC) CODE"
+87507,"",Iadna-dna/rna probe tq 12-25,"110, 140"
+87510,"","Gardner vag, dna, dir probe",110
+87511,"","Gardner vag, dna, amp probe",110
+87512,"","Gardner vag, dna, quant",110
+87515,"",Hepatitis b dna dir probe,220
+87516,"",Hepatitis b dna amp probe,220
+87517,"",Hepatitis b dna quant,220
+87520,"",Hepatitis c rna dir probe,220
+87521,"",Hepatitis c probe&rvrs trnsc,220
+87522,"",Hepatitis c revrs trnscrpj,220
+87525,"",Hepatitis g dna dir probe,220
+87526,"",Hepatitis g dna amp probe,220
+87527,"",Hepatitis g dna quant,220
+87528,"",Hsv dna dir probe,140
+87529,"",Hsv dna amp probe,140
+87530,"",Hsv dna quant,140
+87531,"",Hhv-6 dna dir probe,140
+87532,"",Hhv-6 dna amp probe,140
+87533,"",Hhv-6 dna quant,140
+87534,"",Hiv-1 dna dir probe,"140, 220"
+87535,"",Hiv-1 probe&reverse trnscrpj,"140, 220"
+87536,"",Hiv-1 quant&revrse trnscrpj,"140, 220"
+87537,"",Hiv-2 dna dir probe,"140, 220"
+87538,"",Hiv-2 probe&revrse trnscripj,"140, 220"
+87539,"",Hiv-2 quant&revrse trnscripj,"140, 220"
+87540,"","Legion pneumo, dna, dir prob",110
+87541,"","Legion pneumo, dna, amp prob",110
+87542,"","Legion pneumo, dna, quant",110
+87550,"","Mycobacteria, dna, dir probe",115
+87551,"","Mycobacteria, dna, amp probe",115
+87552,"","Mycobacteria, dna, quant",115
+87555,"","M.tuberculo, dna, dir probe",115
+87556,"","M.tuberculo, dna, amp probe",115
+87557,"","M.tuberculo, dna, quant",115
+87560,"","M.avium-intra, dna, dir prob",115
+87561,"","M.avium-intra, dna, amp prob",115
+87562,"","M.avium-intra, dna, quant",115
+87580,"","M.pneumon, dna, dir probe",110
+87581,"","M.pneumon, dna, amp probe",110
+87582,"","M.pneumon, dna, quant",110
+87590,"","N.gonorrhoeae, dna, dir prob",110
+87591,"","N.gonorrhoeae, dna, amp prob",110
+87592,"","N.gonorrhoeae, dna, quant",110
+87623,"",Hpv low-risk types,140
+87624,"",Hpv high-risk types,140
+87625,"",Hpv types 16 & 18 only,140
+87631,"",Resp virus 3-5 targets,140
+87632,"",Resp virus 6-11 targets,140
+87633,"",Resp virus 12-25 targets,140
+HCPCS,MOD,DESCRIPTION,"LABORATORY CERTIFICATION (LC) CODE"
+87641,"","Mr-staph, dna, amp probe",110
+87650,"",Strep a dna dir probe,110
+87651,"",Strep a dna amp probe,110
+87652,"",Strep a dna quant,110
+87653,"",Strep b dna amp probe,110
+87660,"",Trichomonas vagin dir probe,130
+87661,"",Trichomonas vaginalis amplif,130
+87797,"",Detect agent nos dna dir,"110, 115, 120, 130, 140"
+87798,"",Detect agent nos dna amp,"110, 115, 120, 130, 140"
+87799,"",Detect agent nos dna quant,"110, 115, 120, 130, 140"
+87800,"",Detect agnt mult dna direc,"110, 115, 120, 130, 140"
+87801,"",Detect agnt mult dna ampli,"110, 115, 120, 130, 140"
+87802,"",Strep b assay w/optic,110
+87803,"",Clostridium toxin a w/optic,110
+87804,"",Influenza assay w/optic,140
+87806,"",Hiv antigen w/hiv antibodies,"140, 220"
+87807,"",RSV assay w/optic,140
+87808,"",Trichomonas assay w/optic,130
+87809,"",Adenovirus assay w/optic,140
+87810,"",Chylmd trach assay w/optic,110
+87850,"",N. gonorrhoeae assay w/optic,110
+87880,"",Strep a assay w/optic,110
+87899,"",Agent nos assay w/optic,110
+87901,"",Genotype dna hiv reverse t,"140, 220"
+87902,"",Genotype dna hepatitis C,"140, 220"
+87903,"",Phenotype dna hiv w/culture,"140, 220"
+87904,"",Phenotype dna hiv w/clt add,"140, 220"
+87905,"",Sialidase enzyme assay,"110, 115, 120, 130"
+87906,"",Genotype dna hiv reverse t,"140, 220"
+87910,"",Genotype cytomegalovirus,140
+87912,"",Genotype dna hepatitis b,220
+87999,"",Microbiology procedure,"110, 115, 120, 130, 140"
+88104,"",Cytopath fl nongyn smears,630
+88104,TC,Cytopath fl nongyn smears,630
+88104,26,Cytopath fl nongyn smears,630
+88106,"",Cytopath fl nongyn filter,630
+88106,TC,Cytopath fl nongyn filter,630
+88106,26,Cytopath fl nongyn filter,630
+88108,"",Cytopath concentrate tech,630
+88108,TC,Cytopath concentrate tech,630
+88108,26,Cytopath concentrate tech,630
+88112,"",Cytopath cell enhance tech,630
+88112,TC,Cytopath cell enhance tech,630
+88112,26,Cytopath cell enhance tech,630
+88120,"",Cytp urne 3-5 probes ea spec,"610, 900"
+88120,TC,Cytp urne 3-5 probes ea spec,"610, 900"
+88120,26,Cytp urne 3-5 probes ea spec,"610, 900"
+88121,"",Cytp urine 3-5 probes cmptr,"610, 900"
+88121,TC,Cytp urine 3-5 probes cmptr,"610, 900"
+HCPCS,MOD,DESCRIPTION,"LABORATORY CERTIFICATION (LC) CODE"
+87641,"","Mr-staph, dna, amp probe",110
+87650,"",Strep a dna dir probe,110
+87651,"",Strep a dna amp probe,110
+87652,"",Strep a dna quant,110
+87653,"",Strep b dna amp probe,110
+87660,"",Trichomonas vagin dir probe,130
+87661,"",Trichomonas vaginalis amplif,130
+87797,"",Detect agent nos dna dir,"110, 115, 120, 130, 140"
+87798,"",Detect agent nos dna amp,"110, 115, 120, 130, 140"
+87799,"",Detect agent nos dna quant,"110, 115, 120, 130, 140"
+87800,"",Detect agnt mult dna direc,"110, 115, 120, 130, 140"
+87801,"",Detect agnt mult dna ampli,"110, 115, 120, 130, 140"
+87802,"",Strep b assay w/optic,110
+87803,"",Clostridium toxin a w/optic,110
+87804,"",Influenza assay w/optic,140
+87806,"",Hiv antigen w/hiv antibodies,"140, 220"
+87807,"",RSV assay w/optic,140
+87808,"",Trichomonas assay w/optic,130
+87809,"",Adenovirus assay w/optic,140
+87810,"",Chylmd trach assay w/optic,110
+87850,"",N. gonorrhoeae assay w/optic,110
+87880,"",Strep a assay w/optic,110
+87899,"",Agent nos assay w/optic,110
+87901,"",Genotype dna hiv reverse t,"140, 220"
+87902,"",Genotype dna hepatitis C,"140, 220"
+87903,"",Phenotype dna hiv w/culture,"140, 220"
+87904,"",Phenotype dna hiv w/clt add,"140, 220"
+87905,"",Sialidase enzyme assay,"110, 115, 120, 130"
+87906,"",Genotype dna hiv reverse t,"140, 220"
+87910,"",Genotype cytomegalovirus,140
+87912,"",Genotype dna hepatitis b,220
+87999,"",Microbiology procedure,"110, 115, 120, 130, 140"
+88104,"",Cytopath fl nongyn smears,630
+88104,TC,Cytopath fl nongyn smears,630
+88104,26,Cytopath fl nongyn smears,630
+88106,"",Cytopath fl nongyn filter,630
+88106,TC,Cytopath fl nongyn filter,630
+88106,26,Cytopath fl nongyn filter,630
+88108,"",Cytopath concentrate tech,630
+88108,TC,Cytopath concentrate tech,630
+88108,26,Cytopath concentrate tech,630
+88112,"",Cytopath cell enhance tech,630
+88112,TC,Cytopath cell enhance tech,630
+88112,26,Cytopath cell enhance tech,630
+88120,"",Cytp urne 3-5 probes ea spec,"610, 900"
+88120,TC,Cytp urne 3-5 probes ea spec,"610, 900"
+88120,26,Cytp urne 3-5 probes ea spec,"610, 900"
+88121,"",Cytp urine 3-5 probes cmptr,"610, 900"
+88121,TC,Cytp urine 3-5 probes cmptr,"610, 900"
+HCPCS,MOD,DESCRIPTION,"LABORATORY CERTIFICATION (LC) CODE"
+88130,"",Sex chromatin identification,900
+88140,"",Sex chromatin identification,900
+88141,"","Cytopath, c/v, interpret",630
+88142,"",Cytopath c/v thin layer,630
+88143,"",Cytopath c/v thin layer redo,630
+88147,"",Cytopath c/v automated,630
+88148,"",Cytopath c/v auto rescreen,630
+88150,"",Cytopath c/v manual,630
+88152,"",Cytopath c/v auto redo,630
+88153,"",Cytopath c/v redo,630
+88154,"",Cytopath c/v select,630
+88155,"",Cytopath c/v index add-on,630
+88160,"",Cytopath smear other source,630
+88160,TC,Cytopath smear other source,630
+88160,26,Cytopath smear other source,630
+88161,"",Cytopath smear other source,630
+88161,TC,Cytopath smear other source,630
+88161,26,Cytopath smear other source,630
+88162,"",Cytopath smear other source,630
+88162,TC,Cytopath smear other source,630
+88162,26,Cytopath smear other source,630
+88164,"",Cytopath tbs c/v manual,630
+88165,"",Cytopath tbs c/v redo,630
+88166,"",Cytopath tbs c/v auto redo,630
+88167,"",Cytopath tbs c/v select,630
+88172,"",Cytp dx eval fna 1st ea site,"610, 630"
+88172,TC,Cytp dx eval fna 1st ea site,"610, 630"
+88172,26,Cytp dx eval fna 1st ea site,"610, 630"
+88173,"",Cytopath eval fna report,"610, 630"
+88173,TC,Cytopath eval fna report,"610, 630"
+88173,26,Cytopath eval fna report,"610, 630"
+88174,"",Cytopath c/v auto in fluid,630
+88175,"",Cytopath c/v auto fluid redo,630
+88177,"",Cytp fna eval ea addl,"610, 630"
+88177,TC,Cytp fna eval ea addl,"610, 630"
+88177,26,Cytp fna eval ea addl,"610, 630"
+88182,"",Cell marker study,"220, 400, 610"
+88182,TC,Cell marker study,"220, 400, 610"
+88182,26,Cell marker study,"220, 400, 610"
+88184,"",Flowcytometry/ tc 1 marker,"220, 400, 610"
+88185,"",Flowcytometry/tc add-on,"220, 400, 610"
+88187,"",Flowcytometry/read 2-8,"220, 400, 610"
+88188,"",Flowcytometry/read 9-15,"220, 400, 610"
+88189,"",Flowcytometry/read 16 & >,"220, 400, 610"
+88199,"",Cytopathology procedure,630
+88199,TC,Cytopathology procedure,630
+88199,26,Cytopathology procedure,630
+88230,"",Tissue culture lymphocyte,900
+88233,"",Tissue culture skin/biopsy,900
+HCPCS,MOD,DESCRIPTION,"LABORATORY CERTIFICATION (LC) CODE"
+88130,"",Sex chromatin identification,900
+88140,"",Sex chromatin identification,900
+88141,"","Cytopath, c/v, interpret",630
+88142,"",Cytopath c/v thin layer,630
+88143,"",Cytopath c/v thin layer redo,630
+88147,"",Cytopath c/v automated,630
+88148,"",Cytopath c/v auto rescreen,630
+88150,"",Cytopath c/v manual,630
+88152,"",Cytopath c/v auto redo,630
+88153,"",Cytopath c/v redo,630
+88154,"",Cytopath c/v select,630
+88155,"",Cytopath c/v index add-on,630
+88160,"",Cytopath smear other source,630
+88160,TC,Cytopath smear other source,630
+88160,26,Cytopath smear other source,630
+88161,"",Cytopath smear other source,630
+88161,TC,Cytopath smear other source,630
+88161,26,Cytopath smear other source,630
+88162,"",Cytopath smear other source,630
+88162,TC,Cytopath smear other source,630
+88162,26,Cytopath smear other source,630
+88164,"",Cytopath tbs c/v manual,630
+88165,"",Cytopath tbs c/v redo,630
+88166,"",Cytopath tbs c/v auto redo,630
+88167,"",Cytopath tbs c/v select,630
+88172,"",Cytp dx eval fna 1st ea site,"610, 630"
+88172,TC,Cytp dx eval fna 1st ea site,"610, 630"
+88172,26,Cytp dx eval fna 1st ea site,"610, 630"
+88173,"",Cytopath eval fna report,"610, 630"
+88173,TC,Cytopath eval fna report,"610, 630"
+88173,26,Cytopath eval fna report,"610, 630"
+88174,"",Cytopath c/v auto in fluid,630
+88175,"",Cytopath c/v auto fluid redo,630
+88177,"",Cytp fna eval ea addl,"610, 630"
+88177,TC,Cytp fna eval ea addl,"610, 630"
+88177,26,Cytp fna eval ea addl,"610, 630"
+88182,"",Cell marker study,"220, 400, 610"
+88182,TC,Cell marker study,"220, 400, 610"
+88182,26,Cell marker study,"220, 400, 610"
+88184,"",Flowcytometry/ tc 1 marker,"220, 400, 610"
+88185,"",Flowcytometry/tc add-on,"220, 400, 610"
+88187,"",Flowcytometry/read 2-8,"220, 400, 610"
+88188,"",Flowcytometry/read 9-15,"220, 400, 610"
+88189,"",Flowcytometry/read 16 & >,"220, 400, 610"
+88199,"",Cytopathology procedure,630
+88199,TC,Cytopathology procedure,630
+88199,26,Cytopathology procedure,630
+88230,"",Tissue culture lymphocyte,900
+88233,"",Tissue culture skin/biopsy,900
+HCPCS,MOD,DESCRIPTION,"LABORATORY CERTIFICATION (LC) CODE"
+88237,"",Tissue culture bone marrow,900
+88239,"",Tissue culture tumor,900
+88245,"",Chromosome analysis 20-25,900
+88248,"",Chromosome analysis 50-100,900
+88249,"",Chromosome analysis 100,900
+88261,"",Chromosome analysis 5,900
+88262,"",Chromosome analysis 15-20,900
+88263,"",Chromosome analysis 45,900
+88264,"",Chromosome analysis 20-25,900
+88267,"",Chromosome analys placenta,900
+88269,"",Chromosome analys amniotic,900
+88271,"",Cytogenetics dna probe,900
+88272,"",Cytogenetics 3-5,900
+88273,"",Cytogenetics 10-30,900
+88274,"",Cytogenetics 25-99,900
+88275,"",Cytogenetics 100-300,900
+88280,"",Chromosome karyotype study,900
+88283,"",Chromosome banding study,900
+88285,"","Chromosome count, additional",900
+88289,"","Chromosome study, additional",900
+88291,"",Cyto/molecular report,900
+88299,"",Cytogenetic study,900
+88300,"",Surgical path gross,"610, 620"
+88300,TC,Surgical path gross,"610, 620"
+88300,26,Surgical path gross,"610, 620"
+88302,"",Tissue exam by pathologist,"610, 620"
+88302,TC,Tissue exam by pathologist,"610, 620"
+88302,26,Tissue exam by pathologist,"610, 620"
+88304,"",Tissue exam by pathologist,"610, 620"
+88304,26,Tissue exam by pathologist,"610, 620"
+88305,"",Tissue exam by pathologist,"610, 620, 630"
+88305,26,Tissue exam by pathologist,"610, 620, 630"
+88307,"",Tissue exam by pathologist,"610, 620"
+88307,TC,Tissue exam by pathologist,"610, 620"
+88307,26,Tissue exam by pathologist,"610, 620"
+88309,"",Tissue exam by pathologist,"610, 620"
+88309,TC,Tissue exam by pathologist,"610, 620"
+88309,26,Tissue exam by pathologist,"610, 620"
+88312,"",Special stains group 1,"610, 620, 630"
+88312,26,Special stains group 1,"610, 620, 630"
+88313,"",Special stains group 2,"130, 610, 620, 630"
+88313,26,Special stains group 2,"130, 610, 620, 630"
+88314,"",Histochemical stains add -on,"610, 620, 630"
+88314,26,Histochemical stains add -on,"610, 620, 630"
+88319,"",Enzyme histochemistry,"310, 630"
+88319,TC,Enzyme histochemistry,"310, 630"
+88319,26,Enzyme histochemistry,"310, 630"
+88321,"",Microslide consultation,"610, 620, 630"
+88323,"",Microslide consultation,"610, 620, 630"
+HCPCS,MOD,DESCRIPTION,"LABORATORY CERTIFICATION (LC) CODE"
+88237,"",Tissue culture bone marrow,900
+88239,"",Tissue culture tumor,900
+88245,"",Chromosome analysis 20-25,900
+88248,"",Chromosome analysis 50-100,900
+88249,"",Chromosome analysis 100,900
+88261,"",Chromosome analysis 5,900
+88262,"",Chromosome analysis 15-20,900
+88263,"",Chromosome analysis 45,900
+88264,"",Chromosome analysis 20-25,900
+88267,"",Chromosome analys placenta,900
+88269,"",Chromosome analys amniotic,900
+88271,"",Cytogenetics dna probe,900
+88272,"",Cytogenetics 3-5,900
+88273,"",Cytogenetics 10-30,900
+88274,"",Cytogenetics 25-99,900
+88275,"",Cytogenetics 100-300,900
+88280,"",Chromosome karyotype study,900
+88283,"",Chromosome banding study,900
+88285,"","Chromosome count, additional",900
+88289,"","Chromosome study, additional",900
+88291,"",Cyto/molecular report,900
+88299,"",Cytogenetic study,900
+88300,"",Surgical path gross,"610, 620"
+88300,TC,Surgical path gross,"610, 620"
+88300,26,Surgical path gross,"610, 620"
+88302,"",Tissue exam by pathologist,"610, 620"
+88302,TC,Tissue exam by pathologist,"610, 620"
+88302,26,Tissue exam by pathologist,"610, 620"
+88304,"",Tissue exam by pathologist,"610, 620"
+88304,26,Tissue exam by pathologist,"610, 620"
+88305,"",Tissue exam by pathologist,"610, 620, 630"
+88305,26,Tissue exam by pathologist,"610, 620, 630"
+88307,"",Tissue exam by pathologist,"610, 620"
+88307,TC,Tissue exam by pathologist,"610, 620"
+88307,26,Tissue exam by pathologist,"610, 620"
+88309,"",Tissue exam by pathologist,"610, 620"
+88309,TC,Tissue exam by pathologist,"610, 620"
+88309,26,Tissue exam by pathologist,"610, 620"
+88312,"",Special stains group 1,"610, 620, 630"
+88312,26,Special stains group 1,"610, 620, 630"
+88313,"",Special stains group 2,"130, 610, 620, 630"
+88313,26,Special stains group 2,"130, 610, 620, 630"
+88314,"",Histochemical stains add -on,"610, 620, 630"
+88314,26,Histochemical stains add -on,"610, 620, 630"
+88319,"",Enzyme histochemistry,"310, 630"
+88319,TC,Enzyme histochemistry,"310, 630"
+88319,26,Enzyme histochemistry,"310, 630"
+88321,"",Microslide consultation,"610, 620, 630"
+88323,"",Microslide consultation,"610, 620, 630"
+HCPCS,MOD,DESCRIPTION,"LABORATORY CERTIFICATION (LC) CODE"
+88323,26,Microslide consultation,"610, 620, 630"
+88325,"",Comprehensive review of data,"610, 620, 630"
+88331,"","Path consult intraop, 1 bloc","610, 620"
+88331,TC,"Path consult intraop, 1 bloc","610, 620"
+88331,26,"Path consult intraop, 1 bloc","610, 620"
+88332,"","Path consult intraop, add'l","610, 620"
+88332,TC,"Path consult intraop, add'l","610, 620"
+88332,26,"Path consult intraop, add'l","610, 620"
+88333,"",Intraop cyto path consult 1,"610, 620, 630"
+88333,TC,Intraop cyto path consult 1,"610, 620, 630"
+88333,26,Intraop cyto path consult 1,"610, 620, 630"
+88334,"",Intraop cyto path consult 2,"610, 620, 630"
+88334,TC,Intraop cyto path consult 2,"610, 620, 630"
+88334,26,Intraop cyto path consult 2,"610, 620, 630"
+88341,"",Immunohisto antd addl slide,"220, 610"
+88341,TC,Immunohisto antd addl slide,"220, 610"
+88341,26,Immunohisto antd addl slide,"220, 610"
+88342,"",Immunohisto antb 1st stain,"220, 610"
+88342,TC,Immunohisto antb 1st stain,"220, 610"
+88342,26,Immunohisto antb 1st stain,"220, 610"
+88344,"",Immunohisto antibody slide,"220, 610"
+88344,TC,Immunohisto antibody slide,"220, 610"
+88344,26,Immunohisto antibody slide,"220, 610"
+88346,"",Immunofluor antb 1st stain,"220, 610"
+88346,TC,Immunofluor antb 1st stain,"220, 610"
+88346,26,Immunofluor antb 1st stain,"220, 610"
+88347,"",Immunofluorescent study - Discountinued 12/31/2015,"220, 610"
+88347,TC,Immunofluorescent study - Discountinued 12/31/2015,"220, 610"
+88347,26,Immunofluorescent study - Discountinued 12/31/2015,"220, 610"
+88348,"",Electron microscopy,"610, 620, 630"
+88348,TC,Electron microscopy,"610, 620, 630"
+88348,26,Electron microscopy,"610, 620, 630"
+88350,"",Immunofluor antb addl stain - Effective 1/1/2016,220. 610
+88350,TC,Immunofluor antb addl stain - Effective 1/1/2016,220. 610
+88350,26,Immunofluor antb addl stain - Effective 1/1/2016,220. 610
+88355,"",Analysis skeletal muscle,610
+88355,TC,Analysis skeletal muscle,610
+88355,26,Analysis skeletal muscle,610
+88356,"",Analysis nerve,610
+88356,TC,Analysis nerve,610
+88356,26,Analysis nerve,610
+88358,"",Analysis tumor,610
+88358,TC,Analysis tumor,610
+88358,26,Analysis tumor,610
+88360,"",Tumor immunohistochem/manual,"220, 610"
+88360,TC,Tumor immunohistochem/manual,"220, 610"
+88360,26,Tumor immunohistochem/manual,"220, 610"
+88361,"",Tumor immunohistochem/comput,"220, 610"
+88361,TC,Tumor immunohistochem/comput,"220, 610"
+HCPCS,MOD,DESCRIPTION,"LABORATORY CERTIFICATION (LC) CODE"
+88323,26,Microslide consultation,"610, 620, 630"
+88325,"",Comprehensive review of data,"610, 620, 630"
+88331,"","Path consult intraop, 1 bloc","610, 620"
+88331,TC,"Path consult intraop, 1 bloc","610, 620"
+88331,26,"Path consult intraop, 1 bloc","610, 620"
+88332,"","Path consult intraop, add'l","610, 620"
+88332,TC,"Path consult intraop, add'l","610, 620"
+88332,26,"Path consult intraop, add'l","610, 620"
+88333,"",Intraop cyto path consult 1,"610, 620, 630"
+88333,TC,Intraop cyto path consult 1,"610, 620, 630"
+88333,26,Intraop cyto path consult 1,"610, 620, 630"
+88334,"",Intraop cyto path consult 2,"610, 620, 630"
+88334,TC,Intraop cyto path consult 2,"610, 620, 630"
+88334,26,Intraop cyto path consult 2,"610, 620, 630"
+88341,"",Immunohisto antd addl slide,"220, 610"
+88341,TC,Immunohisto antd addl slide,"220, 610"
+88341,26,Immunohisto antd addl slide,"220, 610"
+88342,"",Immunohisto antb 1st stain,"220, 610"
+88342,TC,Immunohisto antb 1st stain,"220, 610"
+88342,26,Immunohisto antb 1st stain,"220, 610"
+88344,"",Immunohisto antibody slide,"220, 610"
+88344,TC,Immunohisto antibody slide,"220, 610"
+88344,26,Immunohisto antibody slide,"220, 610"
+88346,"",Immunofluor antb 1st stain,"220, 610"
+88346,TC,Immunofluor antb 1st stain,"220, 610"
+88346,26,Immunofluor antb 1st stain,"220, 610"
+88347,"",Immunofluorescent study - Discountinued 12/31/2015,"220, 610"
+88347,TC,Immunofluorescent study - Discountinued 12/31/2015,"220, 610"
+88347,26,Immunofluorescent study - Discountinued 12/31/2015,"220, 610"
+88348,"",Electron microscopy,"610, 620, 630"
+88348,TC,Electron microscopy,"610, 620, 630"
+88348,26,Electron microscopy,"610, 620, 630"
+88350,"",Immunofluor antb addl stain - Effective 1/1/2016,220. 610
+88350,TC,Immunofluor antb addl stain - Effective 1/1/2016,220. 610
+88350,26,Immunofluor antb addl stain - Effective 1/1/2016,220. 610
+88355,"",Analysis skeletal muscle,610
+88355,TC,Analysis skeletal muscle,610
+88355,26,Analysis skeletal muscle,610
+88356,"",Analysis nerve,610
+88356,TC,Analysis nerve,610
+88356,26,Analysis nerve,610
+88358,"",Analysis tumor,610
+88358,TC,Analysis tumor,610
+88358,26,Analysis tumor,610
+88360,"",Tumor immunohistochem/manual,"220, 610"
+88360,TC,Tumor immunohistochem/manual,"220, 610"
+88360,26,Tumor immunohistochem/manual,"220, 610"
+88361,"",Tumor immunohistochem/comput,"220, 610"
+88361,TC,Tumor immunohistochem/comput,"220, 610"
+HCPCS,MOD,DESCRIPTION,"LABORATORY CERTIFICATION (LC) CODE"
+88362,"",Nerve teasing preparations,610
+88362,TC,Nerve teasing preparations,610
+88362,26,Nerve teasing preparations,610
+88363,"",Xm archive tissue molec anal,"610, 630"
+88364,"",Insitu hybridization (fish),"610, 630, 900"
+88364,TC,Insitu hybridization (fish),"610, 630, 900"
+88364,26,Insitu hybridization (fish),"610, 630, 900"
+88365,"",Insitu hybridization (fish),"610, 630, 900"
+88365,TC,Insitu hybridization (fish),"610, 630, 900"
+88365,26,Insitu hybridization (fish),"610, 630, 900"
+88366,"",Insitu hybridization (fish),"610, 630, 900"
+88366,TC,Insitu hybridization (fish),"610, 630, 900"
+88366,26,Insitu hybridization (fish),"610, 630, 900"
+88367,"",Insitu hybridization auto,"610, 630, 900"
+88367,TC,Insitu hybridization auto,"610, 630, 900"
+88367,26,Insitu hybridization auto,"610, 630, 900"
+88368,"",Insitu hybridization manual,"610, 630, 900"
+88368,TC,Insitu hybridization manual,"610, 630, 900"
+88368,26,Insitu hybridization manual,"610, 630, 900"
+88369,"",M/phmtrc alysishquant/semiq,"610, 630, 900"
+88369,TC,M/phmtrc alysishquant/semiq,"610, 630, 900"
+88369,26,M/phmtrc alysishquant/semiq,"610, 630, 900"
+88371,"","Protein, western blot tissue","220, 610"
+88371,26,"Protein, western blot tissue","220, 610"
+88372,"",Protein analysis w/probe,"220, 610"
+88372,26,Protein analysis w/probe,"220, 610"
+88373,"",M/phmtrc alys ishquant/semiq,"610, 630, 900"
+88373,TC,M/phmtrc alys ishquant/semiq,"610, 630, 900"
+88373,26,M/phmtrc alys ishquant/semiq,"610, 630, 900"
+88374,"",M/phmtrc alys ishquant/semiq,"610, 630, 900"
+88374,TC,M/phmtrc alys ishquant/semiq,"610, 630, 900"
+88374,26,M/phmtrc alys ishquant/semiq,"610, 630, 900"
+88375,"",Optical endomicroscpy interp,610
+88377,"",M/phmtrc alys ishquant/semiq,"610, 630, 900"
+88377,TC,M/phmtrc alys ishquant/semiq,"610, 630, 900"
+88377,26,M/phmtrc alys ishquant/semiq,"610, 630, 900"
+88380,"",Microdissection laser,610
+88380,TC,Microdissection laser,610
+88380,26,Microdissection laser,610
+88381,"",Microdissection manual,610
+88381,TC,Microdissection manual,610
+88381,26,Microdissection manual,610
+88387,"",Tiss exam molecular study,610
+88387,TC,Tiss exam molecular study,610
+88387,26,Tiss exam molecular study,610
+88388,"",Tiss ex molecul study add-on,610
+88388,TC,Tiss ex molecul study add-on,610
+88388,26,Tiss ex molecul study add-on,610
+88399,"",Surgical pathology procedure,"610, 620"
+HCPCS,MOD,DESCRIPTION,"LABORATORY CERTIFICATION (LC) CODE"
+88362,"",Nerve teasing preparations,610
+88362,TC,Nerve teasing preparations,610
+88362,26,Nerve teasing preparations,610
+88363,"",Xm archive tissue molec anal,"610, 630"
+88364,"",Insitu hybridization (fish),"610, 630, 900"
+88364,TC,Insitu hybridization (fish),"610, 630, 900"
+88364,26,Insitu hybridization (fish),"610, 630, 900"
+88365,"",Insitu hybridization (fish),"610, 630, 900"
+88365,TC,Insitu hybridization (fish),"610, 630, 900"
+88365,26,Insitu hybridization (fish),"610, 630, 900"
+88366,"",Insitu hybridization (fish),"610, 630, 900"
+88366,TC,Insitu hybridization (fish),"610, 630, 900"
+88366,26,Insitu hybridization (fish),"610, 630, 900"
+88367,"",Insitu hybridization auto,"610, 630, 900"
+88367,TC,Insitu hybridization auto,"610, 630, 900"
+88367,26,Insitu hybridization auto,"610, 630, 900"
+88368,"",Insitu hybridization manual,"610, 630, 900"
+88368,TC,Insitu hybridization manual,"610, 630, 900"
+88368,26,Insitu hybridization manual,"610, 630, 900"
+88369,"",M/phmtrc alysishquant/semiq,"610, 630, 900"
+88369,TC,M/phmtrc alysishquant/semiq,"610, 630, 900"
+88369,26,M/phmtrc alysishquant/semiq,"610, 630, 900"
+88371,"","Protein, western blot tissue","220, 610"
+88371,26,"Protein, western blot tissue","220, 610"
+88372,"",Protein analysis w/probe,"220, 610"
+88372,26,Protein analysis w/probe,"220, 610"
+88373,"",M/phmtrc alys ishquant/semiq,"610, 630, 900"
+88373,TC,M/phmtrc alys ishquant/semiq,"610, 630, 900"
+88373,26,M/phmtrc alys ishquant/semiq,"610, 630, 900"
+88374,"",M/phmtrc alys ishquant/semiq,"610, 630, 900"
+88374,TC,M/phmtrc alys ishquant/semiq,"610, 630, 900"
+88374,26,M/phmtrc alys ishquant/semiq,"610, 630, 900"
+88375,"",Optical endomicroscpy interp,610
+88377,"",M/phmtrc alys ishquant/semiq,"610, 630, 900"
+88377,TC,M/phmtrc alys ishquant/semiq,"610, 630, 900"
+88377,26,M/phmtrc alys ishquant/semiq,"610, 630, 900"
+88380,"",Microdissection laser,610
+88380,TC,Microdissection laser,610
+88380,26,Microdissection laser,610
+88381,"",Microdissection manual,610
+88381,TC,Microdissection manual,610
+88381,26,Microdissection manual,610
+88387,"",Tiss exam molecular study,610
+88387,TC,Tiss exam molecular study,610
+88387,26,Tiss exam molecular study,610
+88388,"",Tiss ex molecul study add-on,610
+88388,TC,Tiss ex molecul study add-on,610
+88388,26,Tiss ex molecul study add-on,610
+88399,"",Surgical pathology procedure,"610, 620"
+HCPCS,MOD,DESCRIPTION,"LABORATORY CERTIFICATION (LC) CODE"
+88399,26,Surgical pathology procedure,"610, 620"
+89050,"",Body fluid cell count,400
+89051,"",Body fluid cell count,400
+89060,"",Exam synovial fluid crystals,310
+89060,26,Exam synovial fluid crystals,310
+89125,"",Specimen fat stain,310
+89160,"",Exam feces for meat fibers,310
+89230,"",Collect sweat for test,310
+89240,"",Pathology lab procedure,"610, 620, 630"
+89300,"",Semen analysis w/huhner,400
+89310,"",Semen analysis w/count,400
+89320,"",Semen anal vol/count/mot,400
+89321,"",Semen analysis & motility,400
+89322,"","Semen anal, strict criteria",400
+89325,"",Sperm antibody test,220
+89329,"",Sperm evaluation test,400
+89330,"","Evaluation, cervical mucus",400
+89331,"",Retrograde ejaculation anal,400
+0009M,"",Fetal aneuploidy trisom risk - Effective 1/1 2016,"220, 900"
+HCPCS,MOD,DESCRIPTION,"LABORATORY CERTIFICATION (LC) CODE"
+88399,26,Surgical pathology procedure,"610, 620"
+89050,"",Body fluid cell count,400
+89051,"",Body fluid cell count,400
+89060,"",Exam synovial fluid crystals,310
+89060,26,Exam synovial fluid crystals,310
+89125,"",Specimen fat stain,310
+89160,"",Exam feces for meat fibers,310
+89230,"",Collect sweat for test,310
+89240,"",Pathology lab procedure,"610, 620, 630"
+89300,"",Semen analysis w/huhner,400
+89310,"",Semen analysis w/count,400
+89320,"",Semen anal vol/count/mot,400
+89321,"",Semen analysis & motility,400
+89322,"","Semen anal, strict criteria",400
+89325,"",Sperm antibody test,220
+89329,"",Sperm evaluation test,400
+89330,"","Evaluation, cervical mucus",400
+89331,"",Retrograde ejaculation anal,400
+0009M,"",Fetal aneuploidy trisom risk - Effective 1/1 2016,"220, 900"
+0010M,"",Onc prostate prob score - Effective 1/1 2016,"220, 310"
