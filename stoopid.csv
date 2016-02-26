@@ -2006,7 +2006,6 @@ Other Medical Services ,95956 ,"EEG monitoring, cable/radio"
 Other Medical Services ,95957 ,EEG digital analysis
 Other Medical Services ,95958 ,EEG monitoring/function test
 Other Medical Services ,95961 ,"Electrode stimulation, brain"
-Product Line ,Code ,CPT-4 Procedure
 Other Medical Services ,95962 ,"Electrode stim, brain add-on"
 Other Medical Services ,95965 ,"Meg, spontaneous"
 Other Medical Services ,95966 ,"Meg, evoked, single"
@@ -2037,8 +2036,7 @@ Other Medical Services ,96100 ,No Longer Valid - 06 Psychological testing
 Other Medical Services ,96105 ,Assessment of aphasia
 Other Medical Services ,96110 ,"Developmental test, lim"
 Other Medical Services ,96111 ,"Developmental test, extend"
-,,No Longer Valid - 06 Neurobehavior status
-Other Medical Services ,96115 ,exam
+Other Medical Services ,96115 ,No Longer Valid - 06 Neurobehavior status exam
 Other Medical Services ,96117 ,No Longer Valid - 06 Neuropsych test battery
 Other Medical Services ,96372 ,"Ther/proph/diag inj, sc/im"
 Other Medical Services ,96373 ,"Ther/proph/diag inj, ia"
@@ -2054,7 +2052,6 @@ Other Medical Services ,96902 ,Trichogram
 Other Medical Services ,96904 ,Whole Body Photography
 Other Medical Services ,96910 ,Photochemotherapy with UV-B
 Other Medical Services ,96912 ,Photochemotherapy with UV-A
-Product Line ,Code ,CPT-4 Procedure
 Other Medical Services ,96913 ,"Photochemotherapy, UV-A or B"
 Other Medical Services ,96920 ,"Laser tx, skin < 250 sq cm"
 Other Medical Services ,96921 ,"Laser tx, skin 250-500 sq cm"
@@ -2083,8 +2080,7 @@ Other Medical Services ,99050 ,Medical services after hrs
 Other Medical Services ,99051 ,"Med serv, eve/wkend/holiday"
 Other Medical Services ,99052 ,No Longer Valid - 06 Medical services at night
 Other Medical Services ,99053 ,"Med serv 10pm-8am, 24 hr fac"
-,,"No Longer Valid - 06 Medical servcs, unusual"
-Other Medical Services ,99054 ,hrs
+Other Medical Services ,99054 ,"No Longer Valid - 06 Medical servcs, unusual hrs"
 Other Medical Services ,99056 ,Med service out of office
 Other Medical Services ,99058 ,Office emergency care
 Other Medical Services ,99060 ,Out of office emerg med serv
@@ -2100,11 +2096,8 @@ Other Medical Services ,99100 ,Special anesthesia service
 Other Medical Services ,99116 ,Anesthesia with hypothermia
 Other Medical Services ,99135 ,Special anesthesia procedure
 Other Medical Services ,99140 ,Emergency anesthesia
-,,"No Longer Valid - 06 Sedation, iv/im or"
-Other Medical Services ,99141 ,inhalant
-Product Line ,Code ,CPT-4 Procedure
-,,"No Longer Valid - 06 Sedation,"
-Other Medical Services ,99142 ,oral/rectal/nasal
+Other Medical Services ,99141 , "No Longer Valid - 06 Sedation, iv/im or inhalant"
+Other Medical Services ,99142 ,"No Longer Valid - 06 Sedation, oral/rectal/nasal"
 Other Medical Services ,99150 ,Mod cs diff phys add-on
 Other Medical Services ,99151 ,No Longer Valid
 Other Medical Services ,99170 ,"Anogenital exam, child"
@@ -2143,30 +2136,21 @@ Other Medical Services ,99252 ,Inpatient Consultation
 Other Medical Services ,99253 ,Inpatient Consultation
 Other Medical Services ,99254 ,Inpatient Consultation
 Other Medical Services ,99255 ,Inpatient Consultation
-,,No Longer Valid - 06 Follow-up inpatient
-Other Medical Services ,99261 ,consult
-,,No Longer Valid - 06 Follow-up inpatient
-Other Medical Services ,99262 ,consult
-,,No Longer Valid - 06 Follow-up inpatient
-Other Medical Services ,99263 ,consult
+Other Medical Services ,99261 ,No Longer Valid - 06 Follow-up inpatient consult
+Other Medical Services ,99262 ,No Longer Valid - 06 Follow-up inpatient consult
+Other Medical Services ,99263 ,No Longer Valid - 06 Follow-up inpatient consult
 Other Medical Services ,99289 ,No Longer Valid - 09 Ped Crit Care Transport
-Product Line ,Code ,CPT-4 Procedure
-,,No Longer Valid - 09 Ped Crit Care Transport
-Other Medical Services ,99290 ,Addl
+Other Medical Services ,99290 ,No Longer Valid - 09 Ped Crit Care Transport Addl
 Other Medical Services ,99291 ,"Critical care, first hour"
 Other Medical Services ,99292 ,"Critical care, add'l 30 min"
 Other Medical Services ,99293 ,"No Longer Valid - 09 Ped critical care, initial"
 Other Medical Services ,99294 ,"No Longer Valid - 09 Ped critical care, subseq"
 Other Medical Services ,99295 ,"No Longer Valid - 09 Neonate Crit Care, Initial"
-,,No Longer Valid - 09 Neonate Critical Care
-Other Medical Services ,99296 ,Subseq
+Other Medical Services ,99296 ,No Longer Valid - 09 Neonate Critical Care Subseq
 Other Medical Services ,99297 ,No Longer Valid
-,,No Longer Valid - 09 Ic For Lbw Infant < 1500
-Other Medical Services ,99298 ,Gm
-,,"No Longer Valid - 09 Ic, lbw infant 1500-2500"
-Other Medical Services ,99299 ,gm
-,,"No Longer Valid - 09 Ic, infant pbw 2501-5000"
-Other Medical Services ,99300 ,gm
+Other Medical Services ,99298 ,No Longer Valid - 09 Ic For Lbw Infant < 1500 Gm
+Other Medical Services ,99299 ,"No Longer Valid - 09 Ic, lbw infant 1500-2500 gm"
+Other Medical Services ,99300 ,"No Longer Valid - 09 Ic, infant pbw 2501-5000 gm"
 Other Medical Services ,99301 ,No Longer Valid - 06 Nursing facility care
 Other Medical Services ,99302 ,No Longer Valid - 06 Nursing facility care
 Other Medical Services ,99303 ,No Longer Valid - 06 Nursing facility care
@@ -2183,17 +2167,13 @@ Other Medical Services ,99313 ,"No Longer Valid - 06 Nursing fac care, subseq"
 Other Medical Services ,99315 ,Nursing fac discharge day
 Other Medical Services ,99316 ,Nursing fac discharge day
 Other Medical Services ,99318 ,Annual nursing fac assessmnt
-,,"No Longer Valid - 06 Rest home visit, new"
-Other Medical Services ,99321 ,patient
-,,"No Longer Valid - 06 Rest home visit, new"
-Other Medical Services ,99322 ,patient
-,,"No Longer Valid - 06 Rest home visit, new"
-Other Medical Services ,99323 ,patient
+Other Medical Services ,99321 ,"No Longer Valid - 06 Rest home visit, new patient"
+Other Medical Services ,99322 ,,"No Longer Valid - 06 Rest home visit, new patient"
+Other Medical Services ,99323 ,"No Longer Valid - 06 Rest home visit, new patient"
 Other Medical Services ,99324 ,Domicil/r-home visit new pat
 Other Medical Services ,99325 ,Domicil/r-home visit new pat
 Other Medical Services ,99326 ,Domicil/r-home visit new pat
 Other Medical Services ,99327 ,Domicil/r-home visit new pat
-Product Line ,Code ,CPT-4 Procedure
 Other Medical Services ,99328 ,Domicil/r-home visit new pat
 Other Medical Services ,99331 ,"No Longer Valid - 06 Rest home visit, est pat"
 Other Medical Services ,99332 ,"No Longer Valid - 06 Rest home visit, est pat"
