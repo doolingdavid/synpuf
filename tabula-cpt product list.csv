@@ -1,4 +1,3 @@
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Acupuncture ,97780 ,No Longer Valid
 Acupuncture ,97781 ,No Longer Valid
@@ -48,7 +47,6 @@ Allergy Services ,95070 ,Bronchial allergy tests
 Allergy Services ,95071 ,Bronchial allergy tests
 Allergy Services ,95075 ,Ingestion challenge test
 Allergy Services ,95078 ,No Longer Valid - 07 Provocative testing
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Allergy Services ,95105 ,No Longer Valid
 Allergy Services ,95115 ,"Immunotherapy, one injection"
@@ -98,7 +96,6 @@ Anesthesia Services ,00190 ,"Anesth, face/skull bone surg"
 Anesthesia Services ,00192 ,"Anesth, facial bone surgery"
 Anesthesia Services ,00210 ,"Anesth, cranial surg nos"
 Anesthesia Services ,00211 ,"Anesth, cran surg, hemotoma"
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Anesthesia Services ,00212 ,"Anesth, skull drainage"
 Anesthesia Services ,00214 ,"Anesth, skull drainage"
@@ -148,7 +145,6 @@ Anesthesia Services ,00561 ,"Anesth, heart surg < age 1"
 Anesthesia Services ,00562 ,Anesth hrt surg w/pmp age 1+
 Anesthesia Services ,00563 ,"Anesth, Heart Surg W/Arrest"
 Anesthesia Services ,00566 ,"Anesth, cabg w/o pump"
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Anesthesia Services ,00567 ,"Anesth, cabg w/pump"
 Anesthesia Services ,00580 ,"Anesth, heart/lung transplnt"
@@ -164,7 +160,7 @@ Anesthesia Services ,00634 ,Anesth for chemonucleolysis
 Anesthesia Services ,00635 ,"Anesth, lumbar puncture"
 Anesthesia Services ,00640 ,"Anesth, spine manipulation"
 Anesthesia Services ,00670 ,"Anesth, spine, cord surgery"
-Anesthesia Services ,00700 ,"Anesth, abdominal w ll surg"
+Anesthesia Services ,00700 ,"Anesth, abdominal wall surg"
 Anesthesia Services ,00702 ,"Anesth, for liver biopsy"
 Anesthesia Services ,00730 ,"Anesth, abdominal wall surg"
 Anesthesia Services ,00740 ,"Anesth, upper gi visualize"
@@ -198,7 +194,6 @@ Anesthesia Services ,00855 ,No Longer Valid
 Anesthesia Services ,00857 ,No Longer Valid
 Anesthesia Services ,00860 ,"Anesth, surgery of abdomen"
 Anesthesia Services ,00862 ,"Anesth, kidney/ureter surg"
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Anesthesia Services ,00864 ,"Anesth, removal of bladder"
 Anesthesia Services ,00865 ,"Anesth, removal of prostate"
@@ -248,7 +243,6 @@ Anesthesia Services ,01130 ,"Anesth, body cast procedure"
 Anesthesia Services ,01140 ,"Anesth, amputation at pelvis"
 Anesthesia Services ,01150 ,"Anesth, pelvic tumor surgery"
 Anesthesia Services ,01160 ,"Anesth, pelvis procedure"
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Anesthesia Services ,01170 ,"Anesth, pelvis surgery"
 Anesthesia Services ,01173 ,"Anesth, fx repair, pelvis"
@@ -298,7 +292,6 @@ Anesthesia Services ,01482 ,"Anesth, radical leg surgery"
 Anesthesia Services ,01484 ,"Anesth, lower leg revision"
 Anesthesia Services ,01486 ,"Anesth, ankle replacement"
 Anesthesia Services ,01490 ,"Anesth, lower leg casting"
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Anesthesia Services ,01500 ,"Anesth, leg arteries surg"
 Anesthesia Services ,01502 ,"Anesth, lwr leg embolectomy"
@@ -348,7 +341,6 @@ Anesthesia Services ,01840 ,"Anesth, lwr arm artery surg"
 Anesthesia Services ,01842 ,"Anesth, lwr arm embolectomy"
 Anesthesia Services ,01844 ,"Anesth, vascular shunt surg"
 Anesthesia Services ,01850 ,"Anesth, lower arm vein surg"
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Anesthesia Services ,01852 ,"Anesth, lwr arm vein repair"
 Anesthesia Services ,01860 ,"Anesth, lower arm casting"
@@ -377,7 +369,7 @@ Anesthesia Services ,01933 ,"Anes, tx interv rad, cran v"
 Anesthesia Services ,01935 ,"Anesth, Perc Img Dx Sp Proc"
 Anesthesia Services ,01936 ,"Anesth, Perc Img Tx Sp Proc"
 Anesthesia Services ,01951 ,"Anesth, burn, less 4 percent"
-Anesthesia Services ,01952 ,"Anesth, burn, 4-9 percent"
+Anesthesia Services ,01952 ,"Anesth, burn, 4-9 p rcent"
 Anesthesia Services ,01953 ,"Anesth, burn, each 9 percent"
 Anesthesia Services ,01958 ,"Anesth, antepartum manipul"
 Anesthesia Services ,01960 ,"Anesth, vaginal delivery"
@@ -397,7 +389,6 @@ Anesthesia Services ,01992 ,"Anesth, n block/inj, prone"
 Anesthesia Services ,01995 ,No Longer Valid - 07 Regional anesthesia limb
 Anesthesia Services ,01996 ,Hosp manage cont drug admin
 Anesthesia Services ,01999 ,Unlisted anesth procedure
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Anesthesia Services ,99143 ,"Mod cs by same phys, < 5 yrs"
 Anesthesia Services ,99144 ,"Mod cs by same phys, 5 yrs +"
@@ -447,7 +438,6 @@ Behavioral Medicine ,90855 ,No Longer Valid
 Behavioral Medicine ,90857 ,Intac group psytx
 Behavioral Medicine ,90862 ,Medication management
 Behavioral Medicine ,90865 ,Narcosynthesis
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Behavioral Medicine ,90870 ,Electroconvulsive therapy
 "","",No Longer Valid - 06 Electroconvulsive
@@ -497,7 +487,6 @@ Cardiac Catheterization ,36583 ,Replace tunneled cv cath
 Cardiac Catheterization ,36584 ,Replace PICC Cath
 Cardiac Catheterization ,36585 ,Replace PICVAD Cath
 Cardiac Catheterization ,36589 ,Removal tunneled cv cath
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Cardiac Catheterization ,36590 ,Removal tunneled cv cath
 Cardiac Catheterization ,36595 ,Mech remov tunneled cv cath
@@ -546,7 +535,6 @@ Cardiac Catheterization ,93571 ,Heart flow reserve measure
 Cardiac Catheterization ,93572 ,Heart flow reserve measure
 Cardiac Rehabilitation ,93797 ,Cardiac rehab
 Cardiac Rehabilitation ,93798 ,Cardiac rehab/monitor
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Chemotherapy Administration ,96400 ,"No Longer Valid - 06 Chemotherapy, sc/im"
 Chemotherapy Administration ,96401 ,"Chemo, anti-neopl, sq/im"
@@ -576,7 +564,6 @@ Chemotherapy Administration ,96445 ,"Chemotherapy, intracavitary"
 Chemotherapy Administration ,96450 ,"Chemotherapy, into CNS"
 Chemotherapy Administration ,96500 ,No Longer Valid
 Chemotherapy Administration ,96520 ,No Longer Valid - 06 Port pump refill & main
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Chemotherapy Administration ,96521 ,"Refill/maint, portable pump"
 Chemotherapy Administration ,96522 ,Refill/maint pump/resvr syst
@@ -621,7 +608,6 @@ Computerized Axial Tomog,"",""
 (CAT) ,0151T ,CT Heart Funct Add-On
 Computerized Axial Tomog,"",""
 (CAT) ,70450 ,CT head/brain w/o dye
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Computerized Axial Tomog,"",""
 (CAT) ,70460 ,CT head/brain w/dye
@@ -671,7 +657,6 @@ Computerized Axial Tomog,"",""
 (CAT) ,72130 ,CT chest spine w/o & w/dye
 Computerized Axial Tomog,"",""
 (CAT) ,72131 ,CT lumbar spine w/o dye
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Computerized Axial Tomog,"",""
 (CAT) ,72132 ,CT lumbar spine w/dye
@@ -721,7 +706,6 @@ Computerized Axial Tomog ,"","No Longer Valid - 07 Ct bone density,"
 (CAT) ,76071 ,peripheral
 Computerized Axial Tomog,"",""
 (CAT) ,76355 ,No Longer Valid - 07 Ct scan for localization
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Computerized Axial Tomog,"",""
 (CAT) ,76360 ,No Longer Valid - 07 Ct scan for needle biopsy
@@ -770,7 +754,6 @@ Diagnostic Ultrasound ,76705 ,Echo exam of abdomen
 Diagnostic Ultrasound ,76770 ,"Us exam abdo back wall, comp"
 Diagnostic Ultrasound ,76775 ,"Us exam abdo back wall, lim"
 Diagnostic Ultrasound ,76776 ,Us exam k transpl w/doppler
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 "","",No Longer Valid - 07 Us exam kidney
 Diagnostic Ultrasound ,76778 ,transplant
@@ -820,7 +803,6 @@ Diagnostic Ultrasound ,76950 ,Echo guidance radiotherapy
 Diagnostic Ultrasound ,76960 ,No Longer Valid
 Diagnostic Ultrasound ,76965 ,Echo guidance radiotherapy
 Diagnostic Ultrasound ,76970 ,Ultrasound exam follow-up
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Diagnostic Ultrasound ,76975 ,GI endoscopic ultrasound
 Diagnostic Ultrasound ,76977 ,Us bone density measure
@@ -867,7 +849,6 @@ Dialysis ,90963 ,"ESRD home pt, serv p mo, <2"
 Dialysis ,90964 ,"ESRD home pt serv p mo, 2-11"
 Dialysis ,90965 ,ESRD home pt serv p mo 12-19
 Dialysis ,90966 ,"ESRD home pt, serv p mo, 20+"
-"","",CPT-4,""
 "",Product Line ,Code ,CPT-4 Procedure
 Dialysis ,"",90967 ,"ESRD home pt serv p day, <2"
 Dialysis ,"",90968 ,"ESRD home pt srv p day, 2-11"
@@ -917,7 +898,6 @@ Electrocardiogram ,"",93228 ,Remote 30 day ECG rev/report
 Electrocardiogram ,"",93229 ,Remote 30 day ECG tech supp
 Electrocardiogram ,"",93230 ,"ECG monitor/report, 24 hrs"
 Electrocardiogram ,"",93231 ,"ECG monitor/record, 24 hrs"
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Electrocardiogram ,93232 ,"ECG monitor/report, 24 hrs"
 Electrocardiogram ,93233 ,"ECG monitor/review, 24 hrs"
@@ -967,7 +947,6 @@ Infusion Care ,62355 ,Remove spinal canal catheter
 Infusion Care ,62360 ,Insert spine infusion device
 Infusion Care ,62361 ,Implant spine infusion pump
 Infusion Care ,62362 ,Implant spine infusion pump
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Infusion Care ,62365 ,Remove spine infusion device
 Infusion Care ,62367 ,Analyze spine infusion pump
@@ -1016,7 +995,6 @@ Laparoscopy ,43648 ,Lap revise/remv eltrd antrum
 Laparoscopy ,43651 ,"Laparoscopy, vagus nerve"
 Laparoscopy ,43652 ,"Laparoscopy, vagus nerve"
 Laparoscopy ,43653 ,"Laparoscopy, gastrostomy"
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Laparoscopy ,43659 ,"Laparoscope proc, stom"
 Laparoscopy ,43770 ,Lap place gastr adj device
@@ -1065,7 +1043,6 @@ Laparoscopy ,47564 ,Laparo cholecystectomy/explr
 Laparoscopy ,47570 ,Laparo cholecystoenterostomy
 Laparoscopy ,47579 ,"Laparoscope proc, biliary"
 Laparoscopy ,49310 ,No Longer Valid
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Laparoscopy ,49311 ,No Longer Valid
 Laparoscopy ,49315 ,No Longer Valid
@@ -1115,7 +1092,6 @@ Laparoscopy ,56303 ,No Longer Valid
 Laparoscopy ,56304 ,No Longer Valid
 Laparoscopy ,56305 ,No Longer Valid
 Laparoscopy ,56306 ,No Longer Valid
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Laparoscopy ,56307 ,No Longer Valid
 Laparoscopy ,56308 ,No Longer Valid
@@ -1165,7 +1141,6 @@ Laparoscopy ,58570 ,"Tlh, Uterus 250 G Or Less"
 Laparoscopy ,58571 ,Tlh W/T/O 250 G Or Less
 Laparoscopy ,58572 ,"Tlh, Uterus Over 250 G"
 Laparoscopy ,58573 ,Tlh W/T/O Uterus Over 250 G
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Laparoscopy ,58578 ,"Laparo proc, uterus"
 Laparoscopy ,58660 ,"Laparoscopy, lysis"
@@ -1198,7 +1173,6 @@ Magnetic Resonance Img (MRI) ,70552 ,MRI brain w/dye
 Magnetic Resonance Img (MRI) ,70553 ,MRI brain w/o & w/dye
 Magnetic Resonance Img (MRI) ,70554 ,FMRI brain by tech
 Magnetic Resonance Img (MRI) ,70555 ,FMRI brain by phys/psych
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Magnetic Resonance Img (MRI) ,70557 ,MRI brain w/o dye
 Magnetic Resonance Img (MRI) ,70558 ,MRI brain w/dye
@@ -1224,7 +1198,6 @@ Magnetic Resonance Img (MRI) ,72198 ,MR angio pelvis w/o & w/dye
 Magnetic Resonance Img (MRI) ,73218 ,MRI upper extremity w/o dye
 Magnetic Resonance Img (MRI) ,73219 ,MRI upper extremity w/dye
 Magnetic Resonance Img (MRI) ,73220 ,MRI uppr extremity w/o&w/dye
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Magnetic Resonance Img (MRI) ,73221 ,MRI joint upr extrem w/o dye
 Magnetic Resonance Img (MRI) ,73222 ,MRI joint upr extrem w/dye
@@ -1253,7 +1226,6 @@ Magnetic Resonance Img (MRI) ,75557 ,Cardiac MRI For Morph
 Magnetic Resonance Img (MRI) ,75558 ,Cardiac MRI Flow/Velocity
 Magnetic Resonance Img (MRI) ,75559 ,Cardiac MRI W/Stress Img
 Magnetic Resonance Img (MRI) ,75560 ,Cardiac MRI Flow/Vel/Stress
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Magnetic Resonance Img (MRI) ,75561 ,Cardiac MRI For Morph W/Dye
 Magnetic Resonance Img (MRI) ,75562 ,Card MRI Flow/Vel W/Dye
@@ -1288,7 +1260,6 @@ Mammogram ,77056 ,"Mammogram, Both Breasts"
 Mammogram ,77057 ,"Mammogram, Screening"
 Maternity Care and Delivery ,59000 ,"Amniocentesis, diagnostic"
 Maternity Care and Delivery ,59001 ,"Amniocentesis, therapeutic"
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Maternity Care and Delivery ,59012 ,"Fetal cord puncture,prenatal"
 Maternity Care and Delivery ,59015 ,Chorion biopsy
@@ -1338,7 +1309,6 @@ Maternity Care and Delivery ,59622 ,Attempted vbac after care
 Maternity Care and Delivery ,59812 ,Treatment of miscarriage
 Maternity Care and Delivery ,59820 ,Care of miscarriage
 Maternity Care and Delivery ,59821 ,Treatment of miscarriage
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Maternity Care and Delivery ,59830 ,Treat uterus infection
 Maternity Care and Delivery ,59840 ,Abortion
@@ -1387,7 +1357,6 @@ Nuclear Medicine ,78170 ,No Longer Valid - 06 Red cell iron utilization
 "","",No Longer Valid - 06 Total body iron
 Nuclear Medicine ,78172 ,estimation
 Nuclear Medicine ,78185 ,Spleen imaging
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Nuclear Medicine ,78190 ,"Platelet survival, kinetics"
 Nuclear Medicine ,78191 ,Platelet survival
@@ -1436,7 +1405,6 @@ Nuclear Medicine ,78455 ,No Longer Valid - 06 Venous thrombosis study
 Nuclear Medicine ,78457 ,Venous thrombosis imaging
 Nuclear Medicine ,78458 ,"Ven thrombosis images, bilat"
 Nuclear Medicine ,78459 ,Heart muscle imaging (PET)
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Nuclear Medicine ,78460 ,"Heart muscle blood, single"
 Nuclear Medicine ,78461 ,"Heart muscle blood, multiple"
@@ -1486,7 +1454,6 @@ Nuclear Medicine ,78647 ,Cerebrospinal fluid scan
 Nuclear Medicine ,78650 ,CSF leakage imaging
 Nuclear Medicine ,78652 ,No Longer Valid
 Nuclear Medicine ,78655 ,No Longer Valid
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Nuclear Medicine ,78660 ,Nuclear exam of tear flow
 Nuclear Medicine ,78699 ,Nervous system nuclear exam
@@ -1534,7 +1501,6 @@ Nuclear Medicine ,79403 ,Hematopoietic nuclear tx
 Nuclear Medicine ,79420 ,No Longer Valid
 Nuclear Medicine ,79440 ,"Nuclear Rx, Intra-Articular"
 Nuclear Medicine ,79900 ,No Longer Valid
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Nuclear Medicine ,79999 ,Nuclear medicine therapy
 Office Visit or Consult Claim ,90000 ,No Longer Valid
@@ -1583,7 +1549,6 @@ Office Visit or Consult Claim ,99244 ,Office consultation
 Office Visit or Consult Claim ,99245 ,Office consultation
 "","",No Longer Valid - 06 Confirmatory
 Office Visit or Consult Claim ,99271 ,consultation
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 "","",No Longer Valid - 06 Confirmatory
 Office Visit or Consult Claim ,99272 ,consultation
@@ -1630,7 +1595,6 @@ Other Medical Services ,0044T ,No Longer Valid - 07 Whole body photography
 Other Medical Services ,0045T ,No Longer Valid - 07 Whole body photography
 Other Medical Services ,0054T ,Bone surgery using computer
 Other Medical Services ,0055T ,Bone surgery using computer
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 "","",No Longer Valid - 09 Electrical impedance
 Other Medical Services ,0060T ,scan
@@ -1671,14 +1635,13 @@ Other Medical Services ,20985 ,Cptr-Asst Dir Ms Px
 "","",No Longer Valid - 09 Cptr-Asst Dir Ms Px Io
 Other Medical Services ,20986 ,Img
 "","",No Longer Valid - 09 Cptr-Asst Dir Ms Px Pre
-Other Me ical Services ,20987 ,Img
+Other Medical Services ,20987 ,Img
 Other Medical Services ,36400 ,Bl draw < 3 yrs fem/jugular
 Other Medical Services ,36405 ,Bl draw < 3 yrs scalp vein
 Other Medical Services ,36406 ,Bl draw < 3 yrs other vein
 Other Medical Services ,36410 ,Non-routine bl draw > 3 yrs
 Other Medical Services ,36415 ,Routine Venipuncture
 Other Medical Services ,36416 ,Capillary blood draw
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Other Medical Services ,36420 ,Vein access cutdown < 1 yr
 Other Medical Services ,36425 ,Vein access cutdown > 1 yr
@@ -1728,7 +1691,6 @@ Other Medical Services ,90581 ,"Anthrax vaccine, sc"
 Other Medical Services ,90585 ,"Bcg vaccine, percut"
 Other Medical Services ,90586 ,"Bcg vaccine, intravesical"
 Other Medical Services ,90592 ,No Longer Valid
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Other Medical Services ,90632 ,"Hep a vaccine, adult im"
 Other Medical Services ,90633 ,"Hep a vacc, ped/adol, 2 dose"
@@ -1778,7 +1740,6 @@ Other Medical Services ,90713 ,"Poliovirus, ipv, sc/im"
 Other Medical Services ,90714 ,Td vaccine no prsrv >/= 7 im
 Other Medical Services ,90715 ,Tdap vaccine >7 im
 Other Medical Services ,90716 ,"Chicken pox vaccine, sc"
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Other Medical Services ,90717 ,"Yellow fever vaccine, sc"
 Other Medical Services ,90718 ,"Td vaccine > 7, im"
@@ -1825,7 +1786,6 @@ Other Medical Services ,90776 ,Adon
 Other Medical Services ,90779 ,proc
 Other Medical Services ,90782 ,"No Longer Valid - 06 Injection, sc/im"
 Other Medical Services ,90783 ,"No Longer Valid - 06 Injection, ia"
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Other Medical Services ,90784 ,"No Longer Valid - 06 Injection, iv"
 Other Medical Services ,90788 ,No Longer Valid - 06 Injection of antibiotic
@@ -1874,14 +1834,13 @@ Other Medical Services ,92004 ,"Eye exam, new patient"
 Other Medical Services ,92012 ,Eye exam established pat
 Other Medical Services ,92014 ,Eye exam & treatment
 Other Medical Services ,92015 ,Refraction
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Other Medical Services ,92018 ,New eye exam & treatment
 Other Medical Services ,92019 ,Eye exam & treatment
 Other Medical Services ,92020 ,Special eye evaluation
 Other Medical Services ,92025 ,Corneal Topography
 Other Medical Services ,92060 ,Special eye evaluation
-Other Medical Services ,92065 ,Orthoptic/pleoptic tr ining
+Other Medical Services ,92065 ,Orthoptic/pleoptic training
 Other Medical Services ,92070 ,Fitting of contact lens
 Other Medical Services ,92081 ,Visual field examination(s)
 Other Medical Services ,92082 ,Visual field examination(s)
@@ -1922,7 +1881,6 @@ Other Medical Services ,92330 ,No Longer Valid - 06 Fitting of artificial eye
 Other Medical Services ,92335 ,No Longer Valid - 06 Fitting of artificial eye
 Other Medical Services ,92340 ,Fitting of spectacles
 Other Medical Services ,92341 ,Fitting of spectacles
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Other Medical Services ,92342 ,Fitting of spectacles
 Other Medical Services ,92352 ,Special spectacles fitting
@@ -1967,7 +1925,6 @@ Other Medical Services ,92555 ,Speech threshold audiometry
 Other Medical Services ,92556 ,"Speech audiometry, complete"
 Other Medical Services ,92557 ,Comprehensive hearing test
 Other Medical Services ,92559 ,Group audiometric testing
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Other Medical Services ,92560 ,"Bekesy audiometry, screen"
 Other Medical Services ,92561 ,"Bekesy audiometry, diagnosis"
@@ -2017,7 +1974,6 @@ Other Medical Services ,92607 ,"Ex for speech device rx, 1hr"
 Other Medical Services ,92608 ,Ex for speech device rx addl
 Other Medical Services ,92609 ,Use of speech device service
 Other Medical Services ,92610 ,Evaluate swallowing function
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Other Medical Services ,92611 ,Motion fluoroscopy/swallow
 Other Medical Services ,92612 ,Endoscopy swallow tst (fees)
@@ -2067,7 +2023,6 @@ Other Medical Services ,93282 ,"Icd device prog eval, 1 sngl"
 Other Medical Services ,93283 ,"Icd device progr eval, dual"
 Other Medical Services ,93284 ,"Icd device progr eval, mult"
 Other Medical Services ,93285 ,Ilr device eval progr
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Other Medical Services ,93286 ,Pre-op pm device eval
 Other Medical Services ,93287 ,Pre-op icd device eval
@@ -2117,7 +2072,6 @@ Other Medical Services ,93668 ,Peripheral vascular rehab
 Other Medical Services ,93701 ,"Bioimpedance, thoracic"
 Other Medical Services ,93720 ,Total body plethysmography
 Other Medical Services ,93721 ,Plethysmography tracing
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Other Medical Services ,93722 ,Plethysmography report
 Other Medical Services ,93724 ,Analyze pacemaker system
@@ -2166,7 +2120,6 @@ Other Medical Services ,94642 ,Aerosol inhalation treatment
 Other Medical Services ,94644 ,"Cbt, 1st hour"
 Other Medical Services ,94645 ,"Cbt, each addl hour"
 Other Medical Services ,94650 ,No Longer Valid
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Other Medical Services ,94651 ,No Longer Valid
 Other Medical Services ,94652 ,No Longer Valid
@@ -2215,7 +2168,6 @@ Other Medical Services ,95831 ,"Limb muscle testing, manual"
 Other Medical Services ,95832 ,"Hand muscle testing, manual"
 Other Medical Services ,95833 ,"Body muscle testing, manual"
 Other Medical Services ,95834 ,"Body muscle testing, manual"
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Other Medical Services ,95842 ,No Longer Valid
 Other Medical Services ,95851 ,Range of motion measurements
@@ -2264,7 +2216,6 @@ Other Medical Services ,95956 ,"EEG monitoring, cable/radio"
 Other Medical Services ,95957 ,EEG digital analysis
 Other Medical Services ,95958 ,EEG monitoring/function test
 Other Medical Services ,95961 ,"Electrode stimulation, brain"
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Other Medical Services ,95962 ,"Electrode stim, brain add-on"
 Other Medical Services ,95965 ,"Meg, spontaneous"
@@ -2313,7 +2264,6 @@ Other Medical Services ,96902 ,Trichogram
 Other Medical Services ,96904 ,Whole Body Photography
 Other Medical Services ,96910 ,Photochemotherapy with UV-B
 Other Medical Services ,96912 ,Photochemotherapy with UV-A
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Other Medical Services ,96913 ,"Photochemotherapy, UV-A or B"
 Other Medical Services ,96920 ,"Laser tx, skin < 250 sq cm"
@@ -2341,7 +2291,7 @@ Other Medical Services ,99026 ,In-hospital on call service
 Other Medical Services ,99027 ,Out-of-hosp on call service
 Other Medical Services ,99050 ,Medical services after hrs
 Other Medical Services ,99051 ,"Med serv, eve/wkend/holiday"
-Other Medical Services ,99052 ,No Longer Valid - 0 Medical services at night
+Other Medical Services ,99052 ,No Longer Valid - 06 Medical services at night
 Other Medical Services ,99053 ,"Med serv 10pm-8am, 24 hr fac"
 "","","No Longer Valid - 06 Medical servcs, unusual"
 Other Medical Services ,99054 ,hrs
@@ -2362,7 +2312,6 @@ Other Medical Services ,99135 ,Special anesthesia procedure
 Other Medical Services ,99140 ,Emergency anesthesia
 "","","No Longer Valid - 06 Sedation, iv/im or"
 Other Medical Services ,99141 ,inhalant
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 "","","No Longer Valid - 06 Sedation,"
 Other Medical Services ,99142 ,oral/rectal/nasal
@@ -2411,7 +2360,6 @@ Other Medical Services ,99262 ,consult
 "","",No Longer Valid - 06 Follow-up inpatient
 Other Medical Services ,99263 ,consult
 Other Medical Services ,99289 ,No Longer Valid - 09 Ped Crit Care Transport
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 "","",No Longer Valid - 09 Ped Crit Care Transport
 Other Medical Services ,99290 ,Addl
@@ -2455,7 +2403,6 @@ Other Medical Services ,99324 ,Domicil/r-home visit new pat
 Other Medical Services ,99325 ,Domicil/r-home visit new pat
 Other Medical Services ,99326 ,Domicil/r-home visit new pat
 Other Medical Services ,99327 ,Domicil/r-home visit new pat
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Other Medical Services ,99328 ,Domicil/r-home visit new pat
 Other Medical Services ,99331 ,"No Longer Valid - 06 Rest home visit, est pat"
@@ -2502,13 +2449,12 @@ Other Medical Services ,99374 ,Home health care supervision
 Other Medical Services ,99375 ,Home health care supervision
 Other Medical Services ,99376 ,No Longer Valid
 Other Medical Services ,99377 ,Hospice care supervision
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Other Medical Services ,99378 ,Hospice care supervision
 Other Medical Services ,99379 ,Nursing fac care supervision
 Other Medical Services ,99380 ,Nursing fac care supervision
 Other Medical Services ,99381 ,"Init pm e/m, new pat, inf"
-Other Medical Services ,9382 ,"Init pm e/m, new pat 1-4 yrs"
+Other Medical Services ,99382 ,"Init pm e/m, new pat 1-4 yrs"
 Other Medical Services ,99383 ,"Prev visit, new, age 5-11"
 Other Medical Services ,99384 ,"Prev visit, new, age 12-17"
 Other Medical Services ,99385 ,"Prev visit, new, age 18-39"
@@ -2551,7 +2497,6 @@ Other Medical Services ,99500 ,"Home visit, prenatal"
 Other Medical Services ,99501 ,"Home visit, postnatal"
 Other Medical Services ,99502 ,"Home visit, nb care"
 Other Medical Services ,99503 ,"Home visit, resp therapy"
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Other Medical Services ,99504 ,Home visit mech ventilator
 Other Medical Services ,99505 ,"Home visit, stoma care"
@@ -2598,7 +2543,6 @@ Pathology and Laboratory ,0043T ,No Longer Valid - 09 Co expired gas analysis
 Pathology and Laboratory ,0058T ,tiss
 Pathology and Laboratory ,0059T ,"No Longer Valid - 09 Cryopreservation, oocyte"
 Pathology and Laboratory ,0085T ,Breath test heart reject
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Pathology and Laboratory ,0087T ,Sperm eval hyaluronan
 Pathology and Laboratory ,0103T ,Holotranscobalamin
@@ -2648,7 +2592,6 @@ Pathology and Laboratory ,80069 ,Renal function panel
 Pathology and Laboratory ,80070 ,No Longer Valid
 Pathology and Laboratory ,80071 ,No Longer Valid
 Pathology and Laboratory ,80072 ,No Longer Valid
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Pathology and Laboratory ,80073 ,No Longer Valid
 Pathology and Laboratory ,80074 ,Acute hepatitis panel
@@ -2698,7 +2641,6 @@ Pathology and Laboratory ,80195 ,Assay of sirolimus
 Pathology and Laboratory ,80196 ,Assay of salicylate
 Pathology and Laboratory ,80197 ,Assay of tacrolimus
 Pathology and Laboratory ,80198 ,Assay of theophylline
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Pathology and Laboratory ,80200 ,Assay of tobramycin
 Pathology and Laboratory ,80201 ,Assay of topiramate
@@ -2748,7 +2690,6 @@ Pathology and Laboratory ,82009 ,Test for acetone/ketones
 Pathology and Laboratory ,82010 ,Acetone assay
 Pathology and Laboratory ,82011 ,No Longer Valid
 Pathology and Laboratory ,82012 ,No Longer Valid
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Pathology and Laboratory ,82013 ,Acetylcholinesterase assay
 Pathology and Laboratory ,82015 ,No Longer Valid
@@ -2772,7 +2713,7 @@ Pathology and Laboratory ,82076 ,No Longer Valid
 Pathology and Laboratory ,82078 ,No Longer Valid
 Pathology and Laboratory ,82085 ,Assay of aldolase
 Pathology and Laboratory ,82086 ,No Longer Valid
-Pathology and Laboratory ,82087 ,No Longer Valid
+Pathology and Laborator ,82087 ,No Longer Valid
 Pathology and Laboratory ,82088 ,Assay of aldosterone
 Pathology and Laboratory ,82089 ,No Longer Valid
 Pathology and Laboratory ,82091 ,No Longer Valid
@@ -2798,7 +2739,6 @@ Pathology and Laboratory ,82135 ,"Assay, aminolevulinic acid"
 Pathology and Laboratory ,82136 ,"Amino acids, quant, 2-5"
 Pathology and Laboratory ,82137 ,No Longer Valid
 Pathology and Laboratory ,82138 ,No Longer Valid
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Pathology and Laboratory ,82139 ,"Amino acids, quan, 6 or more"
 Pathology and Laboratory ,82140 ,Assay of ammonia
@@ -2848,7 +2788,6 @@ Pathology and Laboratory ,82272 ,"Occult bld feces, 1-3 tests"
 "","","No Longer Valid - 06 Test for blood, other"
 Pathology and Laboratory ,82273 ,source
 Pathology and Laboratory ,82274 ,"Assay test for blood, fecal"
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Pathology and Laboratory ,82280 ,No Longer Valid
 Pathology and Laboratory ,82285 ,No Longer Valid
@@ -2898,7 +2837,6 @@ Pathology and Laboratory ,82437 ,No Longer Valid
 Pathology and Laboratory ,82438 ,"Assay, other fluid chlorides"
 Pathology and Laboratory ,82441 ,Test for chlorohydrocarbons
 Pathology and Laboratory ,82443 ,No Longer Valid
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Pathology and Laboratory ,82465 ,"Assay, bld/serum cholesterol"
 Pathology and Laboratory ,82470 ,No Longer Valid
@@ -2948,7 +2886,6 @@ Pathology and Laboratory ,82575 ,Creatinine clearance test
 Pathology and Laboratory ,82585 ,Assay of cryofibrinogen
 Pathology and Laboratory ,82595 ,Assay of cryoglobulin
 Pathology and Laboratory ,82600 ,Assay of cyanide
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Pathology and Laboratory ,82601 ,No Longer Valid
 Pathology and Laboratory ,82606 ,No Longer Valid
@@ -2998,7 +2935,6 @@ Pathology and Laboratory ,82692 ,No Longer Valid
 Pathology and Laboratory ,82693 ,Assay of ethylene glycol
 Pathology and Laboratory ,82694 ,No Longer Valid
 Pathology and Laboratory ,82696 ,Assay of etiocholanolone
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Pathology and Laboratory ,82705 ,"Fats/lipids, feces, qual"
 Pathology and Laboratory ,82710 ,"Fats/lipids, feces, quant"
@@ -3048,7 +2984,6 @@ Pathology and Laboratory ,82812 ,No Longer Valid
 Pathology and Laboratory ,82817 ,No Longer Valid
 Pathology and Laboratory ,82820 ,Hemoglobin-oxygen affinity
 Pathology and Laboratory ,82926 ,Assay of gastric acid
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Pathology and Laboratory ,82927 ,No Longer Valid
 Pathology and Laboratory ,82928 ,Assay of gastric acid
@@ -3098,7 +3033,6 @@ Pathology and Laboratory ,83014 ,H pylori drug admin
 Pathology and Laboratory ,83015 ,Heavy metal screen
 Pathology and Laboratory ,83018 ,"Quantitative screen, metals"
 Pathology and Laboratory ,83019 ,No Longer Valid
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Pathology and Laboratory ,83020 ,Hemoglobin electrophoresis
 Pathology and Laboratory ,83021 ,Hemoglobin chromotography
@@ -3148,7 +3082,6 @@ Pathology and Laboratory ,83518 ,"Immunoassay, dipstick"
 Pathology and Laboratory ,83519 ,"Immunoassay, nonantibody"
 Pathology and Laboratory ,83520 ,"Immunoassay, RIA"
 Pathology and Laboratory ,83523 ,No Longer Valid
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Pathology and Laboratory ,83524 ,No Longer Valid
 Pathology and Laboratory ,83525 ,Assay of insulin
@@ -3198,14 +3131,13 @@ Pathology and Laboratory ,83655 ,Assay of lead
 Pathology and Laboratory ,83660 ,No Longer Valid
 Pathology and Laboratory ,83661 ,"L/s ratio, fetal lung"
 Pathology and Laboratory ,83662 ,"Foam stability, fetal lung"
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Pathology and Laboratory ,83663 ,"Fluoro polarize, fetal lung"
 Pathology and Laboratory ,83664 ,"Lamellar bdy, fetal lung"
 Pathology and Laboratory ,83670 ,Assay of lap enzyme
 Pathology and Laboratory ,83675 ,No Longer Valid
 Pathology and Laboratory ,83680 ,No Longer Valid
-Pathology and La oratory ,83681 ,No Longer Valid
+Pathology and Laboratory ,83681 ,No Longer Valid
 Pathology and Laboratory ,83685 ,No Longer Valid
 Pathology and Laboratory ,83690 ,Assay of lipase
 Pathology and Laboratory ,83695 ,Assay of lipoprotein(a)
@@ -3248,7 +3180,6 @@ Pathology and Laboratory ,83840 ,Assay of methadone
 Pathology and Laboratory ,83842 ,No Longer Valid
 Pathology and Laboratory ,83845 ,No Longer Valid
 Pathology and Laboratory ,83857 ,Assay of methemalbumin
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Pathology and Laboratory ,83858 ,Assay of methsuximide
 Pathology and Laboratory ,83859 ,No Longer Valid
@@ -3298,7 +3229,6 @@ Pathology and Laboratory ,83919 ,"Organic acids, qual, each"
 Pathology and Laboratory ,83920 ,No Longer Valid
 Pathology and Laboratory ,83921 ,"Organic acid, single, quant"
 Pathology and Laboratory ,83925 ,Assay of opiates
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Pathology and Laboratory ,83930 ,Assay of blood osmolality
 Pathology and Laboratory ,83935 ,Assay of urine osmolality
@@ -3348,7 +3278,6 @@ Pathology and Laboratory ,84085 ,Assay of rbc pg6d enzyme
 Pathology and Laboratory ,84087 ,Assay phosphohexose enzymes
 Pathology and Laboratory ,84090 ,No Longer Valid
 Pathology and Laboratory ,84100 ,Assay of phosphorus
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Pathology and Laboratory ,84105 ,Assay of urine phosphorus
 Pathology and Laboratory ,84106 ,Test for porphobilinogen
@@ -3398,7 +3327,6 @@ Pathology and Laboratory ,84195 ,No Longer Valid
 Pathology and Laboratory ,84200 ,No Longer Valid
 Pathology and Laboratory ,84201 ,No Longer Valid
 Pathology and Laboratory ,84202 ,Assay RBC protoporphyrin
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Pathology and Laboratory ,84203 ,Test RBC protoporphyrin
 Pathology and Laboratory ,84205 ,No Longer Valid
@@ -3448,7 +3376,6 @@ Pathology and Laboratory ,84406 ,No Longer Valid
 Pathology and Laboratory ,84407 ,No Longer Valid
 Pathology and Laboratory ,84408 ,No Longer Valid
 Pathology and Laboratory ,84409 ,No Longer Valid
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Pathology and Laboratory ,84410 ,No Longer Valid
 Pathology and Laboratory ,84420 ,No Longer Valid
@@ -3498,7 +3425,6 @@ Pathology and Laboratory ,84560 ,Assay of urine/uric acid
 Pathology and Laboratory ,84565 ,No Longer Valid
 Pathology and Laboratory ,84570 ,No Longer Valid
 Pathology and Laboratory ,84575 ,No Longer Valid
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Pathology and Laboratory ,84577 ,Assay of feces/urobilinogen
 Pathology and Laboratory ,84578 ,Test urine urobilinogen
@@ -3548,7 +3474,6 @@ Pathology and Laboratory ,85024 ,No Longer Valid
 Pathology and Laboratory ,85025 ,Complete Cbc W/Auto Diff Wbc
 Pathology and Laboratory ,85027 ,"Complete Cbc, Automated"
 Pathology and Laboratory ,85029 ,No Longer Valid
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Pathology and Laboratory ,85030 ,No Longer Valid
 Pathology and Laboratory ,85031 ,No Longer Valid
@@ -3598,7 +3523,6 @@ Pathology and Laboratory ,85303 ,Blood clot inhibitor test
 Pathology and Laboratory ,85305 ,Blood clot inhibitor assay
 Pathology and Laboratory ,85306 ,Blood clot inhibitor test
 Pathology and Laboratory ,85307 ,Assay activated protein c
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Pathology and Laboratory ,85310 ,No Longer Valid
 Pathology and Laboratory ,85311 ,No Longer Valid
@@ -3648,7 +3572,6 @@ Pathology and Laboratory ,85460 ,"Hemoglobin, fetal"
 Pathology and Laboratory ,85461 ,"Hemoglobin, fetal"
 Pathology and Laboratory ,85475 ,Hemolysin
 Pathology and Laboratory ,85520 ,Heparin assay
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Pathology and Laboratory ,85525 ,Heparin neutralization
 Pathology and Laboratory ,85530 ,Heparin-protamine tolerance
@@ -3698,7 +3621,6 @@ Pathology and Laboratory ,85730 ,"Thromboplastin time, partial"
 Pathology and Laboratory ,85732 ,"Thromboplastin time, partial"
 Pathology and Laboratory ,85810 ,Blood viscosity examination
 Pathology and Laboratory ,85820 ,No Longer Valid
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Pathology and Laboratory ,85999 ,Hematology procedure
 Pathology and Laboratory ,86000 ,"Agglutinins, febrile"
@@ -3748,7 +3670,6 @@ Pathology and Laboratory ,86105 ,No Longer Valid
 Pathology and Laboratory ,86115 ,No Longer Valid
 Pathology and Laboratory ,86128 ,No Longer Valid
 Pathology and Laboratory ,86130 ,No Longer Valid
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Pathology and Laboratory ,86140 ,C-reactive protein
 Pathology and Laboratory ,86141 ,"C-reactive protein, hs"
@@ -3798,7 +3719,6 @@ Pathology and Laboratory ,86296 ,No Longer Valid
 Pathology and Laboratory ,86298 ,No Longer Valid
 Pathology and Laboratory ,86299 ,No Longer Valid
 Pathology and Laboratory ,86300 ,"Immunoassay, tumor, ca 15-3"
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Pathology and Laboratory ,86301 ,"Immunoassay, tumor, ca 19-9"
 Pathology and Laboratory ,86302 ,No Longer Valid
@@ -3848,7 +3768,6 @@ Pathology and Laboratory ,86367 ,"Stem cells, total count"
 Pathology and Laboratory ,86376 ,Microsomal antibody
 Pathology and Laboratory ,86377 ,No Longer Valid
 Pathology and Laboratory ,86378 ,Migration inhibitory factor
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Pathology and Laboratory ,86379 ,"No Longer Valid - 06 Nk cells, total count"
 Pathology and Laboratory ,86382 ,"Neutralization test, viral"
@@ -3898,7 +3817,6 @@ Pathology and Laboratory ,86611 ,Bartonella antibody
 Pathology and Laboratory ,86612 ,Blastomyces antibody
 Pathology and Laboratory ,86615 ,Bordetella antibody
 Pathology and Laboratory ,86617 ,Lyme disease antibody
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Pathology and Laboratory ,86618 ,Lyme disease antibody
 Pathology and Laboratory ,86619 ,Borrelia antibody
@@ -3948,7 +3866,6 @@ Pathology and Laboratory ,86703 ,"HIV-1/HIV-2, single assay"
 Pathology and Laboratory ,86704 ,"Hep b core antibody, total"
 Pathology and Laboratory ,86705 ,"Hep b core antibody, igm"
 Pathology and Laboratory ,86706 ,Hep b surface antibody
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Pathology and Laboratory ,86707 ,Hep be antibody
 Pathology and Laboratory ,86708 ,"Hep a antibody, total"
@@ -3998,7 +3915,6 @@ Pathology and Laboratory ,86816 ,"HLA typing, DR/DQ"
 Pathology and Laboratory ,86817 ,"HLA typing, DR/DQ"
 Pathology and Laboratory ,86821 ,"Lymphocyte culture, mixed"
 Pathology and Laboratory ,86822 ,"Lymphocyte culture, primed"
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Pathology and Laboratory ,86849 ,Immunology procedure
 Pathology and Laboratory ,86850 ,RBC antibody screen
@@ -4048,7 +3964,6 @@ Pathology and Laboratory ,87040 ,Blood culture for bacteria
 Pathology and Laboratory ,87045 ,"Feces culture, bacteria"
 Pathology and Laboratory ,87046 ,"Stool cultr, bacteria, each"
 Pathology and Laboratory ,87060 ,No Longer Valid
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Pathology and Laboratory ,87070 ,"Culture, bacteria, other"
 Pathology and Laboratory ,87071 ,Culture bacteri aerobic othr
@@ -4098,7 +4013,6 @@ Pathology and Laboratory ,87178 ,No Longer Valid
 Pathology and Laboratory ,87179 ,No Longer Valid
 Pathology and Laboratory ,87181 ,"Microbe susceptible, diffuse"
 Pathology and Laboratory ,87184 ,"Microbe susceptible, disk"
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Pathology and Laboratory ,87185 ,"Microbe susceptible, enzyme"
 Pathology and Laboratory ,87186 ,"Microbe susceptible, mic"
@@ -4148,7 +4062,6 @@ Pathology and Laboratory ,87301 ,"Adenovirus ag, eia"
 Pathology and Laboratory ,87305 ,"Aspergillus ag, eia"
 Pathology and Laboratory ,87320 ,"Chylmd trach ag, eia"
 Pathology and Laboratory ,87324 ,"Clostridium ag, eia"
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Pathology and Laboratory ,87327 ,"Cryptococcus neoform ag, eia"
 Pathology and Laboratory ,87328 ,"Cryptosporidium ag, eia"
@@ -4168,7 +4081,7 @@ Pathology and Laboratory ,87390 ,"HIV-1 ag, eia"
 Pathology and Laboratory ,87391 ,"HIV-2 ag, eia"
 Pathology and Laboratory ,87400 ,"Influenza a/b, ag, eia"
 Pathology and Laboratory ,87420 ,"Resp syncytial ag, eia"
-Pathology and Laboratory ,87425 ,"Rotavirus ag, eia"
+Pathology and Labo atory ,87425 ,"Rotavirus ag, eia"
 Pathology and Laboratory ,87427 ,"Shiga-like toxin ag, eia"
 Pathology and Laboratory ,87430 ,"Strep a ag, eia"
 Pathology and Laboratory ,87449 ,"Ag detect nos, eia, mult"
@@ -4198,7 +4111,6 @@ Pathology and Laboratory ,87510 ,"Gardner vag, dna, dir probe"
 Pathology and Laboratory ,87511 ,"Gardner vag, dna, amp probe"
 Pathology and Laboratory ,87512 ,"Gardner vag, dna, quant"
 Pathology and Laboratory ,87515 ,"Hepatitis b, dna, dir probe"
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Pathology and Laboratory ,87516 ,"Hepatitis b, dna, amp probe"
 Pathology and Laboratory ,87517 ,"Hepatitis b, dna, quant"
@@ -4248,7 +4160,6 @@ Pathology and Laboratory ,87651 ,"Strep a, dna, amp probe"
 Pathology and Laboratory ,87652 ,"Strep a, dna, quant"
 Pathology and Laboratory ,87653 ,"Strep b, dna, amp probe"
 Pathology and Laboratory ,87660 ,"Trichomonas vagin, dir probe"
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Pathology and Laboratory ,87797 ,"Detect agent nos, dna, dir"
 Pathology and Laboratory ,87798 ,"Detect agent nos, dna, amp"
@@ -4298,7 +4209,6 @@ Pathology and Laboratory ,88130 ,Sex chromatin identification
 Pathology and Laboratory ,88140 ,Sex chromatin identification
 Pathology and Laboratory ,88141 ,"Cytopath, c/v, interpret"
 Pathology and Laboratory ,88142 ,"Cytopath, c/v, thin layer"
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Pathology and Laboratory ,88143 ,Cytopath c/v thin layer redo
 Pathology and Laboratory ,88144 ,No Longer Valid
@@ -4348,7 +4258,6 @@ Pathology and Laboratory ,88249 ,"Chromosome analysis, 100"
 Pathology and Laboratory ,88250 ,No Longer Valid
 Pathology and Laboratory ,88260 ,No Longer Valid
 Pathology and Laboratory ,88261 ,"Chromosome analysis, 5"
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Pathology and Laboratory ,88262 ,"Chromosome analysis, 15-20"
 Pathology and Laboratory ,88263 ,"Chromosome analysis, 45"
@@ -4398,7 +4307,6 @@ Pathology and Laboratory ,88360 ,Tumor immunohistochem/manual
 Pathology and Laboratory ,88361 ,Tumor immunohistochem/comput
 Pathology and Laboratory ,88362 ,Nerve teasing preparations
 Pathology and Laboratory ,88365 ,Insitu Hybridization (Fish)
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Pathology and Laboratory ,88367 ,"Insitu hybridization, auto"
 Pathology and Laboratory ,88368 ,"Insitu hybridization, manual"
@@ -4447,7 +4355,6 @@ Pathology and Laboratory ,89257 ,Sperm identification
 Pathology and Laboratory ,89258 ,Cryopreservation; embryo(s)
 Pathology and Laboratory ,89259 ,"Cryopreservation, sperm"
 Pathology and Laboratory ,89260 ,"Sperm isolation, simple"
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Pathology and Laboratory ,89261 ,"Sperm isolation, complex"
 Pathology and Laboratory ,89264 ,Identify sperm tissue
@@ -4497,7 +4404,6 @@ Pathology and Laboratory ,93931 ,Upper extremity study
 Pathology and Laboratory ,93965 ,Extremity study
 Pathology and Laboratory ,93970 ,Extremity study
 Pathology and Laboratory ,93971 ,Extremity study
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Pathology and Laboratory ,93975 ,Vascular study
 Pathology and Laboratory ,93976 ,Vascular study
@@ -4547,7 +4453,6 @@ Performance Measurement,"",""
 Codes ,0502F ,Subsequent prenatal care
 Performance Measurement,"",""
 Codes ,0503F ,Postpartum care visit
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Performance Measurement,"",""
 Codes ,0505F ,Hemodialysis Plan Doc'D
@@ -4597,7 +4502,6 @@ Performance Measurement,"",""
 Codes ,1015F ,COPD Symptoms Assess
 Performance Measurement,"",""
 Codes ,1018F ,Assess dyspnea not present
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Performance Measurement,"",""
 Codes ,1019F ,Assess dyspnea present
@@ -4647,7 +4551,6 @@ Performance Measurement,"",""
 Codes ,1101F ,PT Falls Assess-Doc'D LE1/Yr
 Performance Measurement,"",""
 Codes ,1110F ,PT Lft Inpt Fac W/In 60 Days
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Performance Measurement,"",""
 Codes ,1111F ,Dschrg Med/Current Med Merge
@@ -4697,7 +4600,6 @@ Performance Measurement,"",""
 Codes ,2014F ,Mental Status Assess
 Performance Measurement,"",""
 Codes ,2018F ,Hydration Status Assess
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Performance Measurement,"",""
 Codes ,2019F ,Dilated Macul Exam Done
@@ -4747,7 +4649,6 @@ Performance Measurement,"",""
 Codes ,3022F ,Lvef =40% systolic
 Performance Measurement,"",""
 Codes ,3023F ,Spirom doc rev
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Performance Measurement,"",""
 Codes ,3025F ,Spirom fev/fvc<70% w copd
@@ -4797,7 +4698,6 @@ Performance Measurement ,"",No Longer Valid - 08 Systolic Blood Pressure
 Codes ,3076F ,< 140 Mm Hg
 Performance Measurement,"",""
 Codes ,3077F ,Syst bp = 140 mm hg6 it
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Performance Measurement,"",""
 Codes ,3078F ,Diast bp < 80 mm hg
@@ -4847,7 +4747,6 @@ Performance Measurement,"",""
 Codes ,3140F ,Upper GI Endo Shows Barrtt'S
 Performance Measurement,"",""
 Codes ,3141F ,Upper GI Endo Not Barrtt'S
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Performance Measurement,"",""
 Codes ,3142F ,Barium Swallow Test Ordered
@@ -4897,7 +4796,6 @@ Performance Measurement,"",""
 Codes ,3278F ,Serum lvls ca/ipth/lpd ord
 Performance Measurement,"",""
 Codes ,3279F ,Hgb lvl >/= 13 g/dl
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Performance Measurement,"",""
 Codes ,3280F ,Hgb lvl 11-12.9 g/dl
@@ -4947,7 +4845,6 @@ Performance Measurement,"",""
 Codes ,3316F ,Er- or pr- breast cancer
 Performance Measurement,"",""
 Codes ,3317F ,Path rpt malig cancer docd
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Performance Measurement,"",""
 Codes ,3318F ,Path rpt malig cancer docd
@@ -4997,7 +4894,6 @@ Performance Measurement,"",""
 Codes ,4006F ,Beta-blocker therapy rx
 Performance Measurement,"",""
 Codes ,4007F ,No Longer Valid - 09 No Longer Valid
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Performance Measurement,"",""
 Codes ,4009F ,Ace/arb inhibitor therapy rx
@@ -5047,7 +4943,6 @@ Performance Measurement,"",""
 Codes ,4048F ,Doc Antibio Given B/4 Surg
 Performance Measurement,"",""
 Codes ,4049F ,Doc Order Given Stop Antibio
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Performance Measurement,"",""
 Codes ,4050F ,Ht Care Plan Doc
@@ -5097,7 +4992,6 @@ Performance Measurement,"",""
 Codes ,4100F ,Biphos Thxpy Vein Ord/Rec'Vd
 Performance Measurement,"",""
 Codes ,4110F ,Int. mam art used for cabg
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Performance Measurement,"",""
 Codes ,4115F ,Beta Blckr Admin W/In 24 Hrs
@@ -5147,7 +5041,6 @@ Performance Measurement,"",""
 Codes ,4165F ,3d-crt/imrt) received
 Performance Measurement,"",""
 Codes ,4167F ,Hd bed tilted 1st day vent
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Performance Measurement,"",""
 Codes ,4168F ,PT care icu&vent w/in 24hrs
@@ -5197,7 +5090,6 @@ Performance Measurement,"",""
 Codes ,4210F ,Ace/arb thxpy for >= 6 mons
 Performance Measurement,"",""
 Codes ,4220F ,Digoxin thxpy for >= 6 mons
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Performance Measurement,"",""
 Codes ,4221F ,Diuretic thxpy for >= 6 mons
@@ -5247,7 +5139,6 @@ Performance Measurement,"",""
 Codes ,7020F ,Mammo assess cat in dbase
 Performance Measurement,"",""
 Codes ,7025F ,PT infosys alarm 4 nxt mammo
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 "","",Future-Intradiscal electrothermal therapy-
 Physical Medicine and Rehab ,#0047 ,discogenic pain
@@ -5274,7 +5165,6 @@ Physical Medicine and Rehab ,97022 ,Whirlpool therapy
 Physical Medicine and Rehab ,97024 ,"Diathermy eg, microwave"
 Physical Medicine and Rehab ,97026 ,Infrared therapy
 Physical Medicine and Rehab ,97028 ,Ultraviolet therapy
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Physical Medicine and Rehab ,97032 ,Electrical stimulation
 Physical Medicine and Rehab ,97033 ,Electric current therapy
@@ -5300,7 +5190,6 @@ Physical Medicine and Rehab ,97150 ,Group therapeutic procedures
 Physical Medicine and Rehab ,97220 ,No Longer Valid
 Physical Medicine and Rehab ,97221 ,No Longer Valid
 Physical Medicine and Rehab ,97240 ,No Longer Valid
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Physical Medicine and Rehab ,97241 ,No Longer Valid
 Physical Medicine and Rehab ,97250 ,No Longer Valid
@@ -5326,7 +5215,6 @@ Physical Medicine and Rehab ,97546 ,Work hardening add-on
 Physical Medicine and Rehab ,97601 ,No Longer Valid
 Physical Medicine and Rehab ,97602 ,Wound(s) care non-selective
 Physical Medicine and Rehab ,97700 ,No Longer Valid
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Physical Medicine and Rehab ,97701 ,No Longer Valid
 Physical Medicine and Rehab ,97703 ,No Longer Valid - 06 Prosthetic checkout
@@ -5364,7 +5252,6 @@ Pulmonary Function Tests ,94700 ,No Longer Valid
 Pulmonary Function Tests ,94705 ,No Longer Valid
 Pulmonary Function Tests ,94710 ,No Longer Valid
 Pulmonary Function Tests ,94715 ,No Longer Valid
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 "","",Future- Intensity modulated radiation therapy
 Radiation Oncology ,#0063 ,for solid tumors
@@ -5413,12 +5300,11 @@ Radiation Oncology ,77399 ,External radiation dosimetry
 Radiation Oncology ,77401 ,Radiation treatment delivery
 Radiation Oncology ,77402 ,Radiation treatment delivery
 Radiation Oncology ,77403 ,Radiation treatment delivery
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Radiation Oncology ,77404 ,Radiation treatment delivery
 Radiation Oncology ,77406 ,Radiation treatment delivery
 Radiation Oncology ,77407 ,Radiation treatment delivery
-Radiation Oncology ,77408 ,Radiation treatment deliv ry
+Radiation Oncology ,77408 ,Radiation treatment delivery
 Radiation Oncology ,77409 ,Radiation treatment delivery
 Radiation Oncology ,77411 ,Radiation treatment delivery
 Radiation Oncology ,77412 ,Radiation treatment delivery
@@ -5437,7 +5323,7 @@ Radiation Oncology ,77427 ,"Radiation tx management, x5"
 Radiation Oncology ,77430 ,No Longer Valid
 Radiation Oncology ,77431 ,Radiation therapy management
 Radiation Oncology ,77432 ,Stereotactic radiation trmt
-Radiation Oncology ,77435 ,Sbrt management
+Radiation ncology ,77435 ,Sbrt management
 Radiation Oncology ,77470 ,Special radiation treatment
 Radiation Oncology ,77499 ,Radiation therapy management
 Radiation Oncology ,77520 ,"Proton trmt, simple w/o comp"
@@ -5462,7 +5348,6 @@ Radiation Oncology ,77781 ,brachytherapy
 Radiation Oncology ,77782 ,brachytherapy
 "","",No Longer Valid - 09 High intensity
 Radiation Oncology ,77783 ,brachytherapy
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 "","",No Longer Valid - 09 High intensity
 Radiation Oncology ,77784 ,brachytherapy
@@ -5510,7 +5395,6 @@ Radiology ,70328 ,X-ray exam of jaw joint
 Radiology ,70330 ,X-ray exam of jaw joints
 Radiology ,70332 ,X-ray exam of jaw joint
 Radiology ,70350 ,X-ray head for orthodontia
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Radiology ,70355 ,Panoramic x-ray of jaws
 Radiology ,70360 ,X-ray exam of neck
@@ -5560,7 +5444,6 @@ Radiology ,72200 ,X-ray exam sacroiliac joints
 Radiology ,72202 ,X-ray exam sacroiliac joints
 Radiology ,72220 ,X-ray exam of tailbone
 Radiology ,72240 ,Contrast x-ray of neck spine
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Radiology ,72255 ,"Contrast x-ray, thorax spine"
 Radiology ,72265 ,"Contrast x-ray, lower spine"
@@ -5610,7 +5493,6 @@ Radiology ,73630 ,X-ray exam of foot
 Radiology ,73650 ,X-ray exam of heel
 Radiology ,73660 ,X-ray exam of toe(s)
 Radiology ,74000 ,X-ray exam of abdomen
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Radiology ,74010 ,X-ray exam of abdomen
 Radiology ,74020 ,X-ray exam of abdomen
@@ -5660,10 +5542,9 @@ Radiology ,74445 ,X-ray exam of penis
 Radiology ,74450 ,"X-ray, urethra/bladder"
 Radiology ,74455 ,"X-ray, urethra/bladder"
 Radiology ,74470 ,X-ray exam of kidney lesion
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Radiology ,74475 ,"X-ray control, cath insert"
-Radiology ,74480 ,"X-ray control, cath insert"
+Radi logy ,74480 ,"X-ray control, cath insert"
 Radiology ,74485 ,"X-ray guide, GU dilation"
 Radiology ,74710 ,X-ray measurement of pelvis
 Radiology ,74740 ,"X-ray, female genital tract"
@@ -5710,7 +5591,6 @@ Radiology ,75803 ,"Lymph vessel x-ray,arms/legs"
 Radiology ,75805 ,"Lymph vessel x-ray, trunk"
 Radiology ,75807 ,"Lymph vessel x-ray, trunk"
 Radiology ,75809 ,"Nonvascular shunt, x-ray"
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Radiology ,75810 ,"Vein x-ray, spleen/liver"
 Radiology ,75820 ,"Vein x-ray, arm/leg"
@@ -5760,7 +5640,6 @@ Radiology ,75989 ,Abscess drainage under x-ray
 Radiology ,75992 ,"Atherectomy, x-ray exam"
 Radiology ,75993 ,"Atherectomy, x-ray exam"
 Radiology ,75994 ,"Atherectomy, x-ray exam"
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Radiology ,75995 ,"Atherectomy, x-ray exam"
 Radiology ,75996 ,"Atherectomy, x-ray exam"
@@ -5804,7 +5683,6 @@ Radiology ,76102 ,Complex body section x-rays
 Radiology ,76120 ,Cine/video x-rays
 Radiology ,76125 ,Cine/video x-rays add-on
 Radiology ,76140 ,X-ray consultation
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Radiology ,76150 ,"X-ray exam, dry process"
 Radiology ,76350 ,Special x-ray contrast study
@@ -5819,7 +5697,7 @@ Radiology ,77003 ,Fluoroguide For Spine Inject
 Radiology ,77031 ,Stereotact guide for brst bx
 Radiology ,77032 ,"Guidance For Needle, Breast"
 Radiology ,77051 ,Computer dx mammogram add-on
-Radiology ,77052 ,Comp screen mammogram add-on
+Radiology ,7052 ,Comp screen mammogram add-on
 Radiology ,77053 ,X-Ray Of Mammary Duct
 Radiology ,77054 ,X-Ray Of Mammary Ducts
 Radiology ,77071 ,X-Ray Stress View
@@ -5854,7 +5732,6 @@ Surgery - Auditory System ,69005 ,Drain external ear lesion
 Surgery - Auditory System ,69020 ,Drain outer ear canal lesion
 Surgery - Auditory System ,69090 ,Pierce earlobes
 Surgery - Auditory System ,69100 ,Biopsy of external ear
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Auditory System ,69105 ,Biopsy of external ear canal
 Surgery - Auditory System ,69110 ,"Remove external ear, partial"
@@ -5903,7 +5780,6 @@ Surgery - Auditory System ,69620 ,Repair of eardrum
 Surgery - Auditory System ,69631 ,Repair eardrum structures
 Surgery - Auditory System ,69632 ,Rebuild eardrum structures
 Surgery - Auditory System ,69633 ,Rebuild eardrum structures
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Auditory System ,69635 ,Repair eardrum structures
 Surgery - Auditory System ,69636 ,Rebuild eardrum structures
@@ -5953,7 +5829,6 @@ Surgery - Auditory System ,69979 ,Temporal bone surgery
 "","",Future- External counterpulsation (ECP) for
 Surgery - Cardiovascular Sys ,#0003 ,coronary indications
 Surgery - Cardiovascular Sys ,0001T ,No Longer Valid
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Cardiovascular Sys ,0005T ,No Longer Valid
 Surgery - Cardiovascular Sys ,0006T ,No Longer Valid
@@ -6003,7 +5878,6 @@ Surgery - Cardiovascular Sys ,33050 ,Removal of heart sac lesion
 Surgery - Cardiovascular Sys ,33100 ,No Longer Valid
 Surgery - Cardiovascular Sys ,33120 ,Removal of heart lesion
 Surgery - Cardiovascular Sys ,33130 ,Removal of heart lesion
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Cardiovascular Sys ,33140 ,Heart revascularize (tmr)
 Surgery - Cardiovascular Sys ,33141 ,Heart tmr w/other procedure
@@ -6038,7 +5912,7 @@ Surgery - Cardiovascular Sys ,33234 ,Removal of pacemaker system
 Surgery - Cardiovascular Sys ,33235 ,Removal pacemaker electrode
 Surgery - Cardiovascular Sys ,33236 ,Remove electrode/thoracotomy
 Surgery - Cardiovascular Sys ,33237 ,Remove electrode/thoracotomy
-Surgery - Cardiovascular Sys ,33238 ,Remove electrode/thora otomy
+Surgery - Cardiovascular Sys ,33238 ,Remove electrode/thoracotomy
 Surgery - Cardiovascular Sys ,33240 ,Insert pulse generator
 Surgery - Cardiovascular Sys ,33241 ,Remove pulse generator
 Surgery - Cardiovascular Sys ,33242 ,No Longer Valid
@@ -6053,7 +5927,6 @@ Surgery - Cardiovascular Sys ,33248 ,No Longer Valid
 Surgery - Cardiovascular Sys ,33249 ,Eltrd/insert pace-defib
 Surgery - Cardiovascular Sys ,33250 ,Ablate heart dysrhythm focus
 Surgery - Cardiovascular Sys ,33251 ,Ablate heart dysrhythm focus
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Cardiovascular Sys ,33253 ,No Longer Valid - 07 Reconstruct atria
 Surgery - Cardiovascular Sys ,33254 ,"Ablate atria, lmtd"
@@ -6103,7 +5976,6 @@ Surgery - Cardiovascular Sys ,33427 ,Repair of mitral valve
 Surgery - Cardiovascular Sys ,33430 ,Replacement of mitral valve
 Surgery - Cardiovascular Sys ,33452 ,No Longer Valid
 Surgery - Cardiovascular Sys ,33460 ,Revision of tricuspid valve
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Cardiovascular Sys ,33463 ,"Valvuloplasty, tricuspid"
 Surgery - Cardiovascular Sys ,33464 ,"Valvuloplasty, tricuspid"
@@ -6153,7 +6025,6 @@ Surgery - Cardiovascular Sys ,33600 ,Closure of valve
 Surgery - Cardiovascular Sys ,33602 ,Closure of valve
 Surgery - Cardiovascular Sys ,33606 ,Anastomosis/artery-aorta
 Surgery - Cardiovascular Sys ,33608 ,Repair anomaly w/conduit
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Cardiovascular Sys ,33610 ,Repair by enlargement
 Surgery - Cardiovascular Sys ,33611 ,Repair double ventricle
@@ -6203,7 +6074,6 @@ Surgery - Cardiovascular Sys ,33768 ,Cavopulmonary shunting
 Surgery - Cardiovascular Sys ,33770 ,Repair great vessels defect
 Surgery - Cardiovascular Sys ,33771 ,Repair great vessels defect
 Surgery - Cardiovascular Sys ,33774 ,Repair great vessels defect
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Cardiovascular Sys ,33775 ,Repair great vessels defect
 Surgery - Cardiovascular Sys ,33776 ,Repair great vessels defect
@@ -6251,7 +6121,6 @@ Surgery - Cardiovascular Sys ,33917 ,Repair pulmonary artery
 Surgery - Cardiovascular Sys ,33918 ,No Longer Valid - 06 Repair pulmonary atresia
 Surgery - Cardiovascular Sys ,33919 ,No Longer Valid - 06 Repair pulmonary atresia
 Surgery - Cardiovascular Sys ,33920 ,Repair pulmonary atresia
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Cardiovascular Sys ,33922 ,Transect pulmonary artery
 Surgery - Cardiovascular Sys ,33924 ,Remove pulmonary shunt
@@ -6266,7 +6135,7 @@ Surgery - Cardiovascular Sys ,33945 ,Transplantation of heart
 Surgery - Cardiovascular Sys ,33960 ,External circulation assist
 Surgery - Cardiovascular Sys ,33961 ,External circulation assist
 Surgery - Cardiovascular Sys ,33967 ,Insert ia percut device
-Surgery - Cardiovascular Sys ,33968 ,Remove aortic assist device
+Surgery - Cardiovascular Sys ,33968 ,emove aortic assist device
 Surgery - Cardiovascular Sys ,33970 ,Aortic circulation assist
 Surgery - Cardiovascular Sys ,33971 ,Aortic circulation assist
 Surgery - Cardiovascular Sys ,33972 ,No Longer Valid
@@ -6301,7 +6170,6 @@ Surgery - Cardiovascular Sys ,34802 ,Endovas AAA Repr W/2-P Part
 Surgery - Cardiovascular Sys ,34803 ,Endovas AAA repr w/3-p part
 Surgery - Cardiovascular Sys ,34804 ,Endovas AAA Repr W/1-P Part
 Surgery - Cardiovascular Sys ,34805 ,Endovas AAA Repr W/Long Tube
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Cardiovascular Sys ,34806 ,Aneurysm Press Sensor Add-On
 Surgery - Cardiovascular Sys ,34808 ,Endovas Iliac A Device Addon
@@ -6351,7 +6219,6 @@ Surgery - Cardiovascular Sys ,35190 ,Repair blood vessel lesion
 Surgery - Cardiovascular Sys ,35201 ,Repair blood vessel lesion
 Surgery - Cardiovascular Sys ,35206 ,Repair blood vessel lesion
 Surgery - Cardiovascular Sys ,35207 ,Repair blood vessel lesion
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Cardiovascular Sys ,35211 ,Repair blood vessel lesion
 Surgery - Cardiovascular Sys ,35216 ,Repair blood vessel lesion
@@ -6400,12 +6267,11 @@ Surgery - Cardiovascular Sys ,35471 ,Repair arterial blockage
 Surgery - Cardiovascular Sys ,35472 ,Repair arterial blockage
 Surgery - Cardiovascular Sys ,35473 ,Repair arterial blockage
 Surgery - Cardiovascular Sys ,35474 ,Repair arterial blockage
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Cardiovascular Sys ,35475 ,Repair arterial blockage
 Surgery - Cardiovascular Sys ,35476 ,Repair venous blockage
 Surgery - Cardiovascular Sys ,35480 ,"Atherectomy, open"
-Surgery - Cardiovascular Sys ,35481 ,"Atherectomy, open"
+Surgery - Cardiova cular Sys ,35481 ,"Atherectomy, open"
 Surgery - Cardiovascular Sys ,35482 ,"Atherectomy, open"
 Surgery - Cardiovascular Sys ,35483 ,"Atherectomy, open"
 Surgery - Cardiovascular Sys ,35484 ,"Atherectomy, open"
@@ -6450,7 +6316,6 @@ Surgery - Cardiovascular Sys ,35556 ,Artery bypass graft
 Surgery - Cardiovascular Sys ,35558 ,Artery bypass graft
 Surgery - Cardiovascular Sys ,35560 ,Artery bypass graft
 Surgery - Cardiovascular Sys ,35563 ,Artery bypass graft
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Cardiovascular Sys ,35565 ,Artery bypass graft
 Surgery - Cardiovascular Sys ,35566 ,Artery bypass graft
@@ -6500,13 +6365,12 @@ Surgery - Cardiovascular Sys ,35693 ,Arterial transposition
 Surgery - Cardiovascular Sys ,35694 ,Arterial transposition
 Surgery - Cardiovascular Sys ,35695 ,Arterial transposition
 Surgery - Cardiovascular Sys ,35697 ,Reimplant artery each
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Cardiovascular Sys ,35700 ,"Reoperation, bypass graft"
 Surgery - Cardiovascular Sys ,35701 ,"Exploration, carotid artery"
 Surgery - Cardiovascular Sys ,35721 ,"Exploration, femoral artery"
 Surgery - Cardiovascular Sys ,35741 ,Exploration popliteal artery
-Surgery - Cardiovascular Sys ,35761 ,Exploration of artery/vein
+Surgery - Cardiovascular Sys ,35761 ,Exploration of art ry/vein
 Surgery - Cardiovascular Sys ,35800 ,Explore neck vessels
 Surgery - Cardiovascular Sys ,35820 ,Explore chest vessels
 Surgery - Cardiovascular Sys ,35840 ,Explore abdominal vessels
@@ -6550,13 +6414,12 @@ Surgery - Cardiovascular Sys ,36247 ,Place catheter in artery
 Surgery - Cardiovascular Sys ,36248 ,Place catheter in artery
 Surgery - Cardiovascular Sys ,36299 ,Vessel injection procedure
 Surgery - Cardiovascular Sys ,36430 ,Blood transfusion service
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Cardiovascular Sys ,36440 ,"Bl push transfuse, 2 yr or <"
 Surgery - Cardiovascular Sys ,36450 ,"Bl exchange/transfuse, nb"
 Surgery - Cardiovascular Sys ,36455 ,Bl exchange/transfuse non-nb
 Surgery - Cardiovascular Sys ,36460 ,"Transfusion service, fetal"
-Surgery - Cardiovascular Sys ,36468 ,"Inj ction(s), spider veins"
+Surgery - Cardiovascular Sys ,36468 ,"Injection(s), spider veins"
 Surgery - Cardiovascular Sys ,36469 ,"Injection(s), spider veins"
 Surgery - Cardiovascular Sys ,36470 ,Injection therapy of vein
 Surgery - Cardiovascular Sys ,36471 ,Injection therapy of veins
@@ -6599,7 +6462,6 @@ Surgery - Cardiovascular Sys ,36625 ,"Insertion catheter, artery"
 Surgery - Cardiovascular Sys ,36640 ,"Insertion catheter, artery"
 Surgery - Cardiovascular Sys ,36660 ,"Insertion catheter, artery"
 Surgery - Cardiovascular Sys ,36680 ,"Insert needle, bone cavity"
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Cardiovascular Sys ,36800 ,Insertion of cannula
 Surgery - Cardiovascular Sys ,36810 ,Insertion of cannula
@@ -6649,7 +6511,6 @@ Surgery - Cardiovascular Sys ,37208 ,Transcath IV Stent/Open Addl
 Surgery - Cardiovascular Sys ,37209 ,Change IV Cath At Thromb Tx
 Surgery - Cardiovascular Sys ,37215 ,"Transcath stent, cca w/eps"
 Surgery - Cardiovascular Sys ,37216 ,"Transcath stent, cca w/o eps"
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Cardiovascular Sys ,37250 ,Iv us first vessel add-on
 Surgery - Cardiovascular Sys ,37251 ,Iv us each add vessel add-on
@@ -6698,7 +6559,6 @@ Surgery - Cardiovascular Sys ,92998 ,"Pul art balloon repr, percut"
 Surgery - Digestive System ,#0021 ,disease
 Surgery - Digestive System ,#0035 ,Future-Virtual Colonoscopy
 Surgery - Digestive System ,#0096 ,Future-Capsule endoscopy of the esophagus
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 "","",No Longer Valid - 07 Upper gi endoscopy
 Surgery - Digestive System ,0008T ,w/suture
@@ -6748,7 +6608,6 @@ Surgery - Digestive System ,40843 ,Reconstruction of mouth
 Surgery - Digestive System ,40844 ,Reconstruction of mouth
 Surgery - Digestive System ,40845 ,Reconstruction of mouth
 Surgery - Digestive System ,40899 ,Mouth surgery procedure
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Digestive System ,41000 ,Drainage of mouth lesion
 Surgery - Digestive System ,41005 ,Drainage of mouth lesion
@@ -6798,7 +6657,6 @@ Surgery - Digestive System ,41823 ,Excision of gum lesion
 Surgery - Digestive System ,41825 ,Excision of gum lesion
 Surgery - Digestive System ,41826 ,Excision of gum lesion
 Surgery - Digestive System ,41827 ,Excision of gum lesion
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Digestive System ,41828 ,Excision of gum lesion
 Surgery - Digestive System ,41830 ,Removal of gum tissue
@@ -6846,7 +6704,6 @@ Surgery - Digestive System ,42408 ,Excision of salivary cyst
 Surgery - Digestive System ,42409 ,Drainage of salivary cyst
 Surgery - Digestive System ,42410 ,Excise parotid gland/lesion
 Surgery - Digestive System ,42415 ,Excise parotid gland/lesion
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Digestive System ,42420 ,Excise parotid gland/lesion
 Surgery - Digestive System ,42425 ,Excise parotid gland/lesion
@@ -6896,7 +6753,6 @@ Surgery - Digestive System ,42894 ,Revision of pharyngeal walls
 Surgery - Digestive System ,42900 ,Repair throat wound
 Surgery - Digestive System ,42950 ,Reconstruction of throat
 Surgery - Digestive System ,42953 ,"Repair throat, esophagus"
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Digestive System ,42955 ,Surgical opening of throat
 Surgery - Digestive System ,42960 ,Control throat bleeding
@@ -6946,7 +6802,6 @@ Surgery - Digestive System ,43219 ,Esophagus endoscopy
 Surgery - Digestive System ,43220 ,"Esoph endoscopy, dilation"
 Surgery - Digestive System ,43226 ,"Esoph endoscopy, dilation"
 Surgery - Digestive System ,43227 ,"Esoph endoscopy, repair"
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Digestive System ,43228 ,"Esoph endoscopy, ablation"
 Surgery - Digestive System ,43231 ,Esoph endoscopy w/us exam
@@ -6996,7 +6851,6 @@ Surgery - Digestive System ,43320 ,Fuse esophagus & stomach
 Surgery - Digestive System ,43321 ,No Longer Valid
 Surgery - Digestive System ,43324 ,Revise esophagus & stomach
 Surgery - Digestive System ,43325 ,Revise esophagus & stomach
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Digestive System ,43326 ,Revise esophagus & stomach
 Surgery - Digestive System ,43330 ,Repair of esophagus
@@ -7045,7 +6899,6 @@ Surgery - Digestive System ,43634 ,"Removal of stomach, partial"
 Surgery - Digestive System ,43635 ,"Removal of stomach, partial"
 "","","No Longer Valid - 06 Removal of stomach,"
 Surgery - Digestive System ,43638 ,partial
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 "","","No Longer Valid - 06 Removal of stomach,"
 Surgery - Digestive System ,43639 ,partial
@@ -7057,7 +6910,7 @@ Surgery - Digestive System ,43750 ,No Longer Valid - 08 Place gastrostomy tube
 Surgery - Digestive System ,43752 ,Nasal/orogastric w/stent
 Surgery - Digestive System ,43760 ,Change gastrostomy tube
 Surgery - Digestive System ,43761 ,Reposition gastrostomy tube
-Surgery - Digestive System ,43800 ,Reconstruction of pylorus
+Surgery - Digestive System ,43800 ,R construction of pylorus
 Surgery - Digestive System ,43810 ,Fusion of stomach and bowel
 Surgery - Digestive System ,43820 ,Fusion of stomach and bowel
 Surgery - Digestive System ,43825 ,Fusion of stomach and bowel
@@ -7094,7 +6947,6 @@ Surgery - Digestive System ,44025 ,Incision of large bowel
 Surgery - Digestive System ,44040 ,No Longer Valid
 Surgery - Digestive System ,44050 ,Reduce bowel obstruction
 Surgery - Digestive System ,44055 ,Correct malrotation of bowel
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Digestive System ,44100 ,Biopsy of bowel
 Surgery - Digestive System ,44110 ,Excise intestine lesion(s)
@@ -7144,7 +6996,6 @@ Surgery - Digestive System ,44346 ,Revision of colostomy
 Surgery - Digestive System ,44360 ,Small bowel endoscopy
 Surgery - Digestive System ,44361 ,Small bowel endoscopy/biopsy
 Surgery - Digestive System ,44363 ,Small bowel endoscopy
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Digestive System ,44364 ,Small bowel endoscopy
 Surgery - Digestive System ,44365 ,Small bowel endoscopy
@@ -7194,7 +7045,6 @@ Surgery - Digestive System ,44721 ,Prep donor intestine/artery
 Surgery - Digestive System ,44799 ,Unlisted procedure intestine
 Surgery - Digestive System ,44800 ,Excision of bowel pouch
 Surgery - Digestive System ,44820 ,Excision of mesentery lesion
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Digestive System ,44850 ,Repair of mesentery
 Surgery - Digestive System ,44899 ,Bowel surgery procedure
@@ -7244,7 +7094,6 @@ Surgery - Digestive System ,45330 ,Diagnostic sigmoidoscopy
 Surgery - Digestive System ,45331 ,Sigmoidoscopy and biopsy
 Surgery - Digestive System ,45332 ,Sigmoidoscopy w/fb removal
 Surgery - Digestive System ,45333 ,Sigmoidoscopy & polypectomy
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Digestive System ,45334 ,Sigmoidoscopy for bleeding
 Surgery - Digestive System ,45335 ,Sigmoidoscopy w/submuc inj
@@ -7294,7 +7143,6 @@ Surgery - Digestive System ,46030 ,Removal of rectal marker
 Surgery - Digestive System ,46040 ,Incision of rectal abscess
 Surgery - Digestive System ,46045 ,Incision of rectal abscess
 Surgery - Digestive System ,46050 ,Incision of anal abscess
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Digestive System ,46060 ,Incision of rectal abscess
 Surgery - Digestive System ,46070 ,Incision of anal septum
@@ -7344,7 +7192,6 @@ Surgery - Digestive System ,46735 ,Construction of absent anus
 Surgery - Digestive System ,46740 ,Construction of absent anus
 Surgery - Digestive System ,46742 ,Repair of imperforated anus
 Surgery - Digestive System ,46744 ,Repair of cloacal anomaly
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Digestive System ,46746 ,Repair of cloacal anomaly
 Surgery - Digestive System ,46748 ,Repair of cloacal anomaly
@@ -7394,7 +7241,6 @@ Surgery - Digestive System ,47140 ,"Partial removal, donor liver"
 Surgery - Digestive System ,47141 ,"Partial removal, donor liver"
 Surgery - Digestive System ,47142 ,"Partial removal, donor liver"
 Surgery - Digestive System ,47143 ,"Prep donor liver, whole"
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Digestive System ,47144 ,"Prep donor liver, 3-segment"
 Surgery - Digestive System ,47145 ,"Prep donor liver, lobe split"
@@ -7442,7 +7288,6 @@ Surgery - Digestive System ,47711 ,Excision of bile duct tumor
 Surgery - Digestive System ,47712 ,Excision of bile duct tumor
 Surgery - Digestive System ,47715 ,Excision of bile duct cyst
 Surgery - Digestive System ,47716 ,No Longer Valid - 07 Fusion of bile duct cyst
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Digestive System ,47719 ,No Longer Valid - 08 Fusion Of Bile Duct Cyst
 Surgery - Digestive System ,47720 ,Fuse gallbladder & bowel
@@ -7452,7 +7297,7 @@ Surgery - Digestive System ,47741 ,Fuse gallbladder & bowel
 Surgery - Digestive System ,47760 ,Fuse bile ducts and bowel
 Surgery - Digestive System ,47765 ,Fuse liver ducts & bowel
 Surgery - Digestive System ,47780 ,Fuse bile ducts and bowel
-Surgery - Digestive System ,47785 ,Fuse bile ducts and bowel
+Surgery - Digesti e System ,47785 ,Fuse bile ducts and bowel
 Surgery - Digestive System ,47800 ,Reconstruction of bile ducts
 Surgery - Digestive System ,47801 ,"Placement, bile duct support"
 Surgery - Digestive System ,47802 ,Fuse liver duct & intestine
@@ -7489,7 +7334,6 @@ Surgery - Digestive System ,48547 ,Duodenal exclusion
 Surgery - Digestive System ,48548 ,Fuse Pancreas And Bowel
 Surgery - Digestive System ,48550 ,Donor pancreatectomy
 Surgery - Digestive System ,48551 ,Prep donor pancreas
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Digestive System ,48552 ,Prep donor pancreas/venous
 Surgery - Digestive System ,48554 ,Transpl allograft pancreas
@@ -7539,7 +7383,6 @@ Surgery - Digestive System ,49426 ,Revise abdomen-venous shunt
 Surgery - Digestive System ,49427 ,"Injection, abdominal shunt"
 Surgery - Digestive System ,49428 ,Ligation of shunt
 Surgery - Digestive System ,49429 ,Removal of shunt
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Digestive System ,49435 ,Insert subq exten to ip cath
 Surgery - Digestive System ,49436 ,Embedded ip cath exit-site
@@ -7589,7 +7432,6 @@ Surgery - Digestive System ,49587 ,"Rpr umbil hern, block > 5 yr"
 Surgery - Digestive System ,49590 ,Repair spigelian hernia
 Surgery - Digestive System ,49600 ,Repair umbilical lesion
 Surgery - Digestive System ,49605 ,Repair umbilical lesion
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Digestive System ,49606 ,Repair umbilical lesion
 Surgery - Digestive System ,49610 ,Repair umbilical lesion
@@ -7636,7 +7478,6 @@ Surgery - Endocrine System ,60699 ,Endocrine surgery procedure
 Surgery - Eye / Ocular Adnexa ,0016T ,Thermotx choroid vasc lesion
 Surgery - Eye / Ocular Adnexa ,0017T ,Photocoagulat macular drusen
 Surgery - Eye / Ocular Adnexa ,0098T ,Rev artific disc addl
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Eye / Ocular Adnexa ,0099T ,Implant corneal ring
 Surgery - Eye / Ocular Adnexa ,0100T ,Prosth retina receive&gen
@@ -7662,7 +7503,6 @@ Surgery - Eye / Ocular Adnexa ,65130 ,Insert ocular implant
 Surgery - Eye / Ocular Adnexa ,65135 ,Insert ocular implant
 Surgery - Eye / Ocular Adnexa ,65140 ,Attach ocular implant
 Surgery - Eye / Ocular Adnexa ,65150 ,Revise ocular implant
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Eye / Ocular Adnexa ,65155 ,Reinsert ocular implant
 Surgery - Eye / Ocular Adnexa ,65175 ,Removal of ocular implant
@@ -7688,7 +7528,6 @@ Surgery - Eye / Ocular Adnexa ,65426 ,Removal of eye lesion
 Surgery - Eye / Ocular Adnexa ,65430 ,Corneal smear
 Surgery - Eye / Ocular Adnexa ,65435 ,Curette/treat cornea
 Surgery - Eye / Ocular Adnexa ,65436 ,Curette/treat cornea
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Eye / Ocular Adnexa ,65450 ,Treatment of corneal lesion
 Surgery - Eye / Ocular Adnexa ,65600 ,Revision of cornea
@@ -7714,7 +7553,6 @@ Surgery - Eye / Ocular Adnexa ,65810 ,Drainage of eye
 Surgery - Eye / Ocular Adnexa ,65815 ,Drainage of eye
 Surgery - Eye / Ocular Adnexa ,65820 ,Relieve inner eye pressure
 Surgery - Eye / Ocular Adnexa ,65850 ,Incision of eye
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Eye / Ocular Adnexa ,65855 ,Laser surgery of eye
 Surgery - Eye / Ocular Adnexa ,65860 ,Incise inner eye adhesions
@@ -7740,7 +7578,6 @@ Surgery - Eye / Ocular Adnexa ,66220 ,Repair eye lesion
 Surgery - Eye / Ocular Adnexa ,66225 ,Repair/graft eye lesion
 Surgery - Eye / Ocular Adnexa ,66250 ,Follow-up surgery of eye
 Surgery - Eye / Ocular Adnexa ,66500 ,Incision of iris
-"",CPT-4,"",""
 Product Line ,Code ,"",CPT-4 Procedure
 Surgery - Eye / Ocular Adnexa ,66505 ,Incision of iris,""
 Surgery - Eye / Ocular Adnexa ,66600 ,Remove iris and lesion,""
@@ -7766,7 +7603,6 @@ Surgery - Eye / Ocular Adnexa ,66840 ,Removal of lens material,""
 Surgery - Eye / Ocular Adnexa ,66850 ,Removal of lens material,""
 Surgery - Eye / Ocular Adnexa ,66852 ,Removal of lens material,""
 Surgery - Eye / Ocular Adnexa ,66920 ,Extraction of lens,""
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Eye / Ocular Adnexa ,66930 ,Extraction of lens
 Surgery - Eye / Ocular Adnexa ,66940 ,Extraction of lens
@@ -7792,7 +7628,6 @@ Surgery - Eye / Ocular Adnexa ,67040 ,Laser treatment of retina
 Surgery - Eye / Ocular Adnexa ,67041 ,Vit For Macular Pucker
 Surgery - Eye / Ocular Adnexa ,67042 ,Vit For Macular Hole
 Surgery - Eye / Ocular Adnexa ,67043 ,Vit For Membrane Dissect
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Eye / Ocular Adnexa ,67101 ,Repair detached retina
 Surgery - Eye / Ocular Adnexa ,67105 ,Repair detached retina
@@ -7818,7 +7653,6 @@ Surgery - Eye / Ocular Adnexa ,67228 ,Treatment of retinal lesion
 Surgery - Eye / Ocular Adnexa ,67229 ,Tr Retinal Les Preterm Inf
 Surgery - Eye / Ocular Adnexa ,67250 ,Reinforce eye wall
 Surgery - Eye / Ocular Adnexa ,67255 ,Reinforce/graft eye wall
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Eye / Ocular Adnexa ,67299 ,Eye surgery procedure
 Surgery - Eye / Ocular Adnexa ,67311 ,Revise eye muscle
@@ -7844,7 +7678,6 @@ Surgery - Eye / Ocular Adnexa ,67413 ,Explore/treat eye socket
 Surgery - Eye / Ocular Adnexa ,67414 ,Explr/decompress eye socket
 Surgery - Eye / Ocular Adnexa ,67415 ,"Aspiration, orbital contents"
 Surgery - Eye / Ocular Adnexa ,67420 ,Explore/treat eye socket
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Eye / Ocular Adnexa ,67430 ,Explore/treat eye socket
 Surgery - Eye / Ocular Adnexa ,67440 ,Explore/drain eye socket
@@ -7870,7 +7703,6 @@ Surgery - Eye / Ocular Adnexa ,67825 ,Revise eyelashes
 Surgery - Eye / Ocular Adnexa ,67830 ,Revise eyelashes
 Surgery - Eye / Ocular Adnexa ,67835 ,Revise eyelashes
 Surgery - Eye / Ocular Adnexa ,67840 ,Remove eyelid lesion
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Eye / Ocular Adnexa ,67850 ,Treat eyelid lesion
 Surgery - Eye / Ocular Adnexa ,67875 ,Closure of eyelid by suture
@@ -7896,7 +7728,6 @@ Surgery - Eye / Ocular Adnexa ,67923 ,Repair eyelid defect
 Surgery - Eye / Ocular Adnexa ,67924 ,Repair eyelid defect
 Surgery - Eye / Ocular Adnexa ,67930 ,Repair eyelid wound
 Surgery - Eye / Ocular Adnexa ,67935 ,Repair eyelid wound
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Eye / Ocular Adnexa ,67938 ,Remove eyelid foreign body
 Surgery - Eye / Ocular Adnexa ,67950 ,Revision of eyelid
@@ -7922,7 +7753,6 @@ Surgery - Eye / Ocular Adnexa ,68328 ,Revise/graft eyelid lining
 Surgery - Eye / Ocular Adnexa ,68330 ,Revise eyelid lining
 Surgery - Eye / Ocular Adnexa ,68335 ,Revise/graft eyelid lining
 Surgery - Eye / Ocular Adnexa ,68340 ,Separate eyelid adhesions
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Eye / Ocular Adnexa ,68360 ,Revise eyelid lining
 Surgery - Eye / Ocular Adnexa ,68362 ,Revise eyelid lining
@@ -7948,7 +7778,6 @@ Surgery - Eye / Ocular Adnexa ,68760 ,Close tear duct opening
 Surgery - Eye / Ocular Adnexa ,68761 ,Close tear duct opening
 Surgery - Eye / Ocular Adnexa ,68770 ,Close tear system fistula
 Surgery - Eye / Ocular Adnexa ,68800 ,No Longer Valid
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Eye / Ocular Adnexa ,68801 ,Dilate tear duct opening
 Surgery - Eye / Ocular Adnexa ,68810 ,Probe nasolacrimal duct
@@ -7976,7 +7805,6 @@ Surgery - Female Genital Sys ,56000 ,No Longer Valid
 Surgery - Female Genital Sys ,56100 ,No Longer Valid
 Surgery - Female Genital Sys ,56200 ,No Longer Valid
 Surgery - Female Genital Sys ,56400 ,No Longer Valid
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Female Genital Sys ,56405 ,I & D of vulva/perineum
 Surgery - Female Genital Sys ,56420 ,Drainage of gland abscess
@@ -8002,7 +7830,6 @@ Surgery - Female Genital Sys ,56700 ,Partial removal of hymen
 Surgery - Female Genital Sys ,56720 ,No Longer Valid - 07 Incision of hymen
 Surgery - Female Genital Sys ,56740 ,Remove vagina gland lesion
 Surgery - Female Genital Sys ,56800 ,Repair of vagina
-"",CPT-4,"",""
 Product Line ,Code ,"",CPT-4 Procedure
 Surgery - Female Genital Sys ,56805 ,Repair clitoris,""
 Surgery - Female Genital Sys ,56810 ,Repair of perineum,""
@@ -8028,7 +7855,6 @@ Surgery - Female Genital Sys ,57120 ,Closure of vagina,""
 Surgery - Female Genital Sys ,57130 ,Remove vagina lesion,""
 Surgery - Female Genital Sys ,57135 ,Remove vagina lesion,""
 Surgery - Female Genital Sys ,57150 ,Treat vagina infection,""
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Female Genital Sys ,57155 ,Insert uteri tandems/ovoids
 Surgery - Female Genital Sys ,57160 ,Insert pessary/other device
@@ -8054,7 +7880,6 @@ Surgery - Female Genital Sys ,57287 ,Revise/remove sling repair
 Surgery - Female Genital Sys ,57288 ,Repair bladder defect
 Surgery - Female Genital Sys ,57289 ,Repair bladder & vagina
 Surgery - Female Genital Sys ,57291 ,Construction of vagina
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Female Genital Sys ,57292 ,Construct vagina with graft
 Surgery - Female Genital Sys ,57295 ,Revise Vag Graft Via Vagina
@@ -8080,7 +7905,6 @@ Surgery - Female Genital Sys ,57454 ,Bx/Curett Of Cervix W/Scope
 Surgery - Female Genital Sys ,57455 ,Biopsy of cervix w/scope
 Surgery - Female Genital Sys ,57456 ,Endocerv curettage w/scope
 Surgery - Female Genital Sys ,57460 ,"Bx Of Cervix W/Scope, Leep"
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Female Genital Sys ,57461 ,"Conz of cervix w/scope, leep"
 Surgery - Female Genital Sys ,57500 ,Biopsy of cervix
@@ -8106,7 +7930,6 @@ Surgery - Female Genital Sys ,58100 ,Biopsy of uterus lining
 Surgery - Female Genital Sys ,58102 ,No Longer Valid
 Surgery - Female Genital Sys ,58110 ,Bx done w/colposcopy add-on
 Surgery - Female Genital Sys ,58120 ,Dilation and curettage
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Female Genital Sys ,58140 ,Myomectomy Abdom Method
 Surgery - Female Genital Sys ,58145 ,Myomectomy vag method
@@ -8132,7 +7955,6 @@ Surgery - Female Genital Sys ,58293 ,"Vag hyst w/uro repair, compl"
 Surgery - Female Genital Sys ,58294 ,"Vag hyst w/enterocele, compl"
 Surgery - Female Genital Sys ,58300 ,Insert intrauterine device
 Surgery - Female Genital Sys ,58301 ,Remove intrauterine device
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Female Genital Sys ,58310 ,No Longer Valid
 Surgery - Female Genital Sys ,58311 ,No Longer Valid
@@ -8158,7 +7980,6 @@ Surgery - Female Genital Sys ,58562 ,"Hysteroscopy, remove fb"
 Surgery - Female Genital Sys ,58563 ,"Hysteroscopy, ablation"
 Surgery - Female Genital Sys ,58565 ,"Hysteroscopy, sterilization"
 Surgery - Female Genital Sys ,58579 ,Hysteroscope procedure
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Female Genital Sys ,58600 ,Division of fallopian tube
 Surgery - Female Genital Sys ,58605 ,Division of fallopian tube
@@ -8184,7 +8005,6 @@ Surgery - Female Genital Sys ,58940 ,Removal of ovary(s)
 Surgery - Female Genital Sys ,58943 ,Removal of ovary(s)
 Surgery - Female Genital Sys ,58950 ,Resect ovarian malignancy
 Surgery - Female Genital Sys ,58951 ,Resect ovarian malignancy
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Female Genital Sys ,58952 ,Resect ovarian malignancy
 Surgery - Female Genital Sys ,58953 ,"Tah, rad dissect for debulk"
@@ -8210,7 +8030,6 @@ Surgery - Female Genital Sys ,58992 ,No Longer Valid
 Surgery - Female Genital Sys ,58994 ,No Longer Valid
 Surgery - Female Genital Sys ,58996 ,No Longer Valid
 Surgery - Female Genital Sys ,58999 ,Genital surgery procedure
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 "","",No Longer Valid - 07 Fibroadenoma
 Surgery - General ,0120T ,"cryoablate, ea"
@@ -8260,7 +8079,6 @@ Surgery - Hemic and Lymph,"",""
 Sys ,38207 ,Cryopreserve stem cells
 Surgery - Hemic and Lymph,"",""
 Sys ,38208 ,Thaw preserved stem cells
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Hemic and Lymph,"",""
 Sys ,38209 ,Wash harvest stem cells
@@ -8310,7 +8128,6 @@ Surgery - Hemic and Lymph,"",""
 Sys ,38510 ,"Biopsy/removal, lymph nodes"
 Surgery - Hemic and Lymph,"",""
 Sys ,38520 ,"Biopsy/removal, lymph nodes"
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Hemic and Lymph,"",""
 Sys ,38525 ,"Biopsy/removal, lymph nodes"
@@ -8360,7 +8177,6 @@ Surgery - Integumentary,"",""
 System ,#0052 ,Future-Vacuum Assisted Closure
 Surgery - Integumentary ,"",Future-Cryosurgery for breast cancer and
 System ,#0097 ,breast fibroadenoma
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Integumentary ,"","No Longer Valid - 09 Cath lavage, mammary"
 System ,0046T ,duct(s)
@@ -8410,7 +8226,6 @@ Surgery - Integumentary,"",""
 System ,11012 ,"Debride skin/muscle/bone, fx"
 Surgery - Integumentary,"",""
 System ,11040 ,"Debride skin, partial"
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Integumentary,"",""
 System ,11041 ,"Debride skin, full"
@@ -8460,7 +8275,6 @@ Surgery - Integumentary,"",""
 System ,11306 ,Shave skin lesion
 Surgery - Integumentary,"",""
 System ,11307 ,Shave skin lesion
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Integumentary,"",""
 System ,11308 ,Shave skin lesion
@@ -8510,7 +8324,6 @@ Surgery - Integumentary,"",""
 System ,11446 ,Exc face-mm b9+marg > 4 cm
 Surgery - Integumentary,"",""
 System ,11450 ,"Removal, sweat gland lesion"
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Integumentary,"",""
 System ,11451 ,"Removal, sweat gland lesion"
@@ -8560,7 +8373,6 @@ Surgery - Integumentary,"",""
 System ,11646 ,Exc face-mm mlg+marg > 4 cm
 Surgery - Integumentary,"",""
 System ,11700 ,No Longer Valid
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Integumentary,"",""
 System ,11701 ,No Longer Valid
@@ -8610,7 +8422,6 @@ Surgery - Integumentary,"",""
 System ,11921 ,Correct skin color defects
 Surgery - Integumentary,"",""
 System ,11922 ,Correct skin color defects
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Integumentary,"",""
 System ,11950 ,Therapy for contour defects
@@ -8660,7 +8471,6 @@ Surgery - Integumentary,"",""
 System ,12014 ,Repair superficial wound(s)
 Surgery - Integumentary,"",""
 System ,12015 ,Repair superficial wound(s)
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Integumentary,"",""
 System ,12016 ,Repair superficial wound(s)
@@ -8710,7 +8520,6 @@ Surgery - Integumentary,"",""
 System ,12056 ,Intmd wnd repair face/mm
 Surgery - Integumentary,"",""
 System ,12057 ,Intmd wnd repair face/mm
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Integumentary,"",""
 System ,13100 ,Repair of wound or lesion
@@ -8760,7 +8569,6 @@ Surgery - Integumentary,"",""
 System ,14061 ,Skin tissue rearrangement
 Surgery - Integumentary,"",""
 System ,14300 ,Skin tissue rearrangement
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Integumentary,"",""
 System ,14350 ,Skin tissue rearrangement
@@ -8810,7 +8618,6 @@ Surgery - Integumentary,"",""
 System ,15151 ,Cult epiderm grft t/a/l addl
 Surgery - Integumentary,"",""
 System ,15152 ,Cult epiderm graft t/a/l +%
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Integumentary,"",""
 System ,15155 ,"Cult epiderm graft, f/n/hf/g"
@@ -8860,7 +8667,6 @@ Surgery - Integumentary,"",""
 System ,15336 ,Aply acell grft f/n/hf/g add
 Surgery - Integumentary,"",""
 System ,15340 ,Apply cult skin substitute
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Integumentary,"",""
 System ,15341 ,Apply cult skin sub add-on
@@ -8910,7 +8716,6 @@ Surgery - Integumentary,"",""
 System ,15620 ,Skin graft
 Surgery - Integumentary,"",""
 System ,15625 ,No Longer Valid
-"",CPT-4,"",""
 Product Line ,Code ,"",CPT-4 Procedure
 Surgery - Integumentary,"","",""
 System ,15630 ,Skin graft,""
@@ -8960,7 +8765,6 @@ Surgery - Integumentary,"","",""
 System ,15787 ,"Abrasion, lesions, add-on",""
 Surgery - Integumentary,"","",""
 System ,15788 ,"Chemical peel, face, epiderm",""
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Integumentary,"",""
 System ,15789 ,"Chemical peel, face, dermal"
@@ -9010,7 +8814,6 @@ Surgery - Integumentary,"",""
 System ,15835 ,Excise excessive skin tissue
 Surgery - Integumentary,"",""
 System ,15836 ,Excise excessive skin tissue
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Integumentary,"",""
 System ,15837 ,Excise excessive skin tissue
@@ -9060,7 +8863,6 @@ Surgery - Integumentary,"",""
 System ,15936 ,Remove sacrum pressure sore
 Surgery - Integumentary,"",""
 System ,15937 ,Remove sacrum pressure sore
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Integumentary,"",""
 System ,15940 ,Remove hip pressure sore
@@ -9110,7 +8912,6 @@ Surgery - Integumentary,"",""
 System ,16042 ,No Longer Valid
 Surgery - Integumentary,"",""
 System ,17000 ,Destruct Premalg Lesion
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Integumentary,"",""
 System ,17001 ,No Longer Valid
@@ -9160,7 +8961,6 @@ Surgery - Integumentary,"",""
 System ,17264 ,Destruction of skin lesions
 Surgery - Integumentary,"",""
 System ,17266 ,Destruction of skin lesions
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Integumentary,"",""
 System ,17270 ,Destruction of skin lesions
@@ -9210,7 +9010,6 @@ Surgery - Integumentary,"",""
 System ,17340 ,Cryotherapy of skin
 Surgery - Integumentary,"",""
 System ,17360 ,Skin peel therapy
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Integumentary,"",""
 System ,17380 ,Hair removal by electrolysis
@@ -9260,7 +9059,6 @@ Surgery - Integumentary,"",""
 System ,19220 ,No Longer Valid - 07 Removal of breast
 Surgery - Integumentary,"",""
 System ,19240 ,No Longer Valid - 07 Removal of breast
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Integumentary,"",""
 System ,19260 ,Removal of chest wall lesion
@@ -9310,7 +9108,6 @@ Surgery - Integumentary,"",""
 System ,19330 ,Removal of implant material
 Surgery - Integumentary,"",""
 System ,19340 ,Immediate breast prosthesis
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Integumentary,"",""
 System ,19342 ,Delayed breast prosthesis
@@ -9355,7 +9152,6 @@ Surgery - Male Genital System ,52402 ,Cystourethro cut ejacul duct
 Surgery - Male Genital System ,52649 ,Prostate Laser Enucleation
 Surgery - Male Genital System ,54000 ,Slitting of prepuce
 Surgery - Male Genital System ,54001 ,Slitting of prepuce
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Male Genital System ,54015 ,Drain penis lesion
 Surgery - Male Genital System ,54050 ,"Destruction, penis lesion(s)"
@@ -9381,7 +9177,6 @@ Surgery - Male Genital System ,54161 ,Circum 28 days or older
 Surgery - Male Genital System ,54162 ,Lysis penil circumic lesion
 Surgery - Male Genital System ,54163 ,Repair of circumcision
 Surgery - Male Genital System ,54164 ,Frenulotomy of penis
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Male Genital System ,54200 ,Treatment of penis lesion
 Surgery - Male Genital System ,54205 ,Treatment of penis lesion
@@ -9407,7 +9202,6 @@ Surgery - Male Genital System ,54340 ,Secondary urethral surgery
 Surgery - Male Genital System ,54344 ,Secondary urethral surgery
 Surgery - Male Genital System ,54348 ,Secondary urethral surgery
 Surgery - Male Genital System ,54352 ,Reconstruct urethra/penis
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Male Genital System ,54360 ,Penis plastic surgery
 Surgery - Male Genital System ,54380 ,Repair penis
@@ -9433,7 +9227,6 @@ Surgery - Male Genital System ,54440 ,Repair of penis
 Surgery - Male Genital System ,54450 ,Preputial stretching
 Surgery - Male Genital System ,54500 ,Biopsy of testis
 Surgery - Male Genital System ,54505 ,Biopsy of testis
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Male Genital System ,54510 ,No Longer Valid
 Surgery - Male Genital System ,54512 ,Excise lesion testis
@@ -9459,7 +9252,6 @@ Surgery - Male Genital System ,54840 ,Remove epididymis lesion
 Surgery - Male Genital System ,54860 ,Removal of epididymis
 Surgery - Male Genital System ,54861 ,Removal of epididymis
 Surgery - Male Genital System ,54865 ,Explore Epididymis
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Male Genital System ,54900 ,Fusion of spermatic ducts
 Surgery - Male Genital System ,54901 ,Fusion of spermatic ducts
@@ -9485,7 +9277,6 @@ Surgery - Male Genital System ,55535 ,Revise spermatic cord veins
 Surgery - Male Genital System ,55540 ,Revise hernia & sperm veins
 Surgery - Male Genital System ,55600 ,Incise sperm duct pouch
 Surgery - Male Genital System ,55605 ,Incise sperm duct pouch
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Male Genital System ,55650 ,Remove sperm duct pouch
 Surgery - Male Genital System ,55680 ,Remove sperm pouch lesion
@@ -9511,7 +9302,6 @@ Surgery - Male Genital System ,55865 ,Extensive prostate surgery
 Surgery - Male Genital System ,55870 ,Electroejaculation
 Surgery - Male Genital System ,55873 ,Cryoablate prostate
 Surgery - Male Genital System ,55875 ,"Transperi needle place, pros"
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Male Genital System ,55876 ,"Place rt device/marker, pros"
 Surgery - Male Genital System ,55899 ,Genital surgery procedure
@@ -9543,7 +9333,6 @@ Surgery - Musculoskeletal Sys ,0101T ,"Extracorp shockwv tx,hi enrg"
 Surgery - Musculoskeletal Sys ,0102T ,"Extracorp shockwv tx,anesth"
 Surgery - Musculoskeletal Sys ,0163T ,Lumb artif diskectomy addl
 Surgery - Musculoskeletal Sys ,0164T ,Remove lumb artif disc addl
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,0165T ,Revise lumb artif disc addl
 Surgery - Musculoskeletal Sys ,0171T ,Lumbar Spine Proces Distract
@@ -9569,7 +9358,6 @@ Surgery - Musculoskeletal Sys ,20251 ,Open bone biopsy
 Surgery - Musculoskeletal Sys ,20500 ,Injection of sinus tract
 Surgery - Musculoskeletal Sys ,20501 ,Inject sinus tract for x-ray
 Surgery - Musculoskeletal Sys ,20520 ,Removal of foreign body
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,20525 ,Removal of foreign body
 Surgery - Musculoskeletal Sys ,20526 ,"Ther injection, carp tunnel"
@@ -9595,7 +9383,6 @@ Surgery - Musculoskeletal Sys ,20680 ,Removal of support implant
 Surgery - Musculoskeletal Sys ,20690 ,Apply bone fixation device
 Surgery - Musculoskeletal Sys ,20692 ,Apply bone fixation device
 Surgery - Musculoskeletal Sys ,20693 ,Adjust bone fixation device
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,20694 ,Remove bone fixation device
 Surgery - Musculoskeletal Sys ,20696 ,Comp multiplane ext fixation
@@ -9621,7 +9408,6 @@ Surgery - Musculoskeletal Sys ,20840 ,No Longer Valid
 Surgery - Musculoskeletal Sys ,20900 ,Removal of bone for graft
 Surgery - Musculoskeletal Sys ,20902 ,Removal of bone for graft
 Surgery - Musculoskeletal Sys ,20910 ,Remove cartilage for graft
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,20912 ,Remove cartilage for graft
 Surgery - Musculoskeletal Sys ,20920 ,Removal of fascia for graft
@@ -9647,7 +9433,6 @@ Surgery - Musculoskeletal Sys ,20973 ,"Bone/skin graft, great toe"
 Surgery - Musculoskeletal Sys ,20974 ,Electrical bone stimulation
 Surgery - Musculoskeletal Sys ,20975 ,Electrical bone stimulation
 Surgery - Musculoskeletal Sys ,20979 ,Us bone stimulation
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,20982 ,"Ablate, bone tumor(s) perq"
 Surgery - Musculoskeletal Sys ,20999 ,Musculoskeletal surgery
@@ -9673,7 +9458,6 @@ Surgery - Musculoskeletal Sys ,21060 ,Remove jaw joint cartilage
 Surgery - Musculoskeletal Sys ,21070 ,Remove coronoid process
 Surgery - Musculoskeletal Sys ,21073 ,Mnpj Of Tmj W/Anesth
 Surgery - Musculoskeletal Sys ,21076 ,Prepare face/oral prosthesis
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,21077 ,Prepare face/oral prosthesis
 Surgery - Musculoskeletal Sys ,21079 ,Prepare face/oral prosthesis
@@ -9699,7 +9483,6 @@ Surgery - Musculoskeletal Sys ,21127 ,"Augmentation, lower jaw bone"
 Surgery - Musculoskeletal Sys ,21137 ,Reduction of forehead
 Surgery - Musculoskeletal Sys ,21138 ,Reduction of forehead
 Surgery - Musculoskeletal Sys ,21139 ,Reduction of forehead
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,21141 ,"Reconstruct midface, lefort"
 Surgery - Musculoskeletal Sys ,21142 ,"Reconstruct midface, lefort"
@@ -9725,7 +9508,6 @@ Surgery - Musculoskeletal Sys ,21184 ,Reconstruct cranial bone
 Surgery - Musculoskeletal Sys ,21188 ,Reconstruction of midface
 Surgery - Musculoskeletal Sys ,21193 ,Reconst lwr jaw w/o graft
 Surgery - Musculoskeletal Sys ,21194 ,Reconst lwr jaw w/graft
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,21195 ,Reconst lwr jaw w/o fixation
 Surgery - Musculoskeletal Sys ,21196 ,Reconst lwr jaw w/fixation
@@ -9751,7 +9533,6 @@ Surgery - Musculoskeletal Sys ,21255 ,Reconstruct lower jaw bone
 Surgery - Musculoskeletal Sys ,21256 ,Reconstruction of orbit
 Surgery - Musculoskeletal Sys ,21260 ,Revise eye sockets
 Surgery - Musculoskeletal Sys ,21261 ,Revise eye sockets
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,21263 ,Revise eye sockets
 Surgery - Musculoskeletal Sys ,21267 ,Revise eye sockets
@@ -9778,7 +9559,6 @@ Surgery - Musculoskeletal Sys ,21339 ,Treat nasoethmoid fracture
 Surgery - Musculoskeletal Sys ,21340 ,Treatment of nose fracture
 Surgery - Musculoskeletal Sys ,21343 ,Treatment of sinus fracture
 Surgery - Musculoskeletal Sys ,21344 ,Treatment of sinus fracture
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,21345 ,Treat nose/jaw fracture
 Surgery - Musculoskeletal Sys ,21346 ,Treat nose/jaw fracture
@@ -9804,7 +9584,6 @@ Surgery - Musculoskeletal Sys ,21422 ,Treat mouth roof fracture
 Surgery - Musculoskeletal Sys ,21423 ,Treat mouth roof fracture
 Surgery - Musculoskeletal Sys ,21431 ,Treat craniofacial fracture
 Surgery - Musculoskeletal Sys ,21432 ,Treat craniofacial fracture
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,21433 ,Treat craniofacial fracture
 Surgery - Musculoskeletal Sys ,21435 ,Treat craniofacial fracture
@@ -9830,7 +9609,6 @@ Surgery - Musculoskeletal Sys ,21495 ,Treat hyoid bone fracture
 Surgery - Musculoskeletal Sys ,21497 ,Interdental wiring
 Surgery - Musculoskeletal Sys ,21499 ,Head surgery procedure
 Surgery - Musculoskeletal Sys ,21501 ,Drain neck/chest lesion
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,21502 ,Drain chest lesion
 Surgery - Musculoskeletal Sys ,21510 ,Drainage of bone lesion
@@ -9856,7 +9634,6 @@ Surgery - Musculoskeletal Sys ,21740 ,Reconstruction of sternum
 Surgery - Musculoskeletal Sys ,21742 ,Repair stern/nuss w/o scope
 Surgery - Musculoskeletal Sys ,21743 ,Repair sternum/nuss w/scope
 Surgery - Musculoskeletal Sys ,21750 ,Repair of sternum separation
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,21800 ,Treatment of rib fracture
 Surgery - Musculoskeletal Sys ,21805 ,Treatment of rib fracture
@@ -9882,7 +9659,6 @@ Surgery - Musculoskeletal Sys ,22112 ,"Remove part, thorax vertebra"
 Surgery - Musculoskeletal Sys ,22114 ,"Remove part, lumbar vertebra"
 Surgery - Musculoskeletal Sys ,22116 ,Remove extra spine segment
 Surgery - Musculoskeletal Sys ,22140 ,No Longer Valid
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,22141 ,No Longer Valid
 Surgery - Musculoskeletal Sys ,22142 ,No Longer Valid
@@ -9908,7 +9684,6 @@ Surgery - Musculoskeletal Sys ,22310 ,Treat spine fracture
 Surgery - Musculoskeletal Sys ,22315 ,Treat spine fracture
 Surgery - Musculoskeletal Sys ,22318 ,Treat odontoid fx w/o graft
 Surgery - Musculoskeletal Sys ,22319 ,Treat odontoid fx w/graft
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,22325 ,Treat spine fracture
 Surgery - Musculoskeletal Sys ,22326 ,Treat neck spine fracture
@@ -9934,7 +9709,6 @@ Surgery - Musculoskeletal Sys ,22585 ,Additional spinal fusion
 Surgery - Musculoskeletal Sys ,22590 ,Spine & skull spinal fusion
 Surgery - Musculoskeletal Sys ,22595 ,Neck spinal fusion
 Surgery - Musculoskeletal Sys ,22600 ,Neck spine fusion
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,22610 ,Thorax spine fusion
 Surgery - Musculoskeletal Sys ,22612 ,Lumbar spine fusion
@@ -9960,7 +9734,6 @@ Surgery - Musculoskeletal Sys ,22843 ,Insert spine fixation device
 Surgery - Musculoskeletal Sys ,22844 ,Insert spine fixation device
 Surgery - Musculoskeletal Sys ,22845 ,Insert spine fixation device
 Surgery - Musculoskeletal Sys ,22846 ,Insert spine fixation device
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,22847 ,Insert spine fixation device
 Surgery - Musculoskeletal Sys ,22848 ,Insert pelv fixation device
@@ -9986,7 +9759,6 @@ Surgery - Musculoskeletal Sys ,23035 ,Drain shoulder bone lesion
 Surgery - Musculoskeletal Sys ,23040 ,Exploratory shoulder surgery
 Surgery - Musculoskeletal Sys ,23044 ,Exploratory shoulder surgery
 Surgery - Musculoskeletal Sys ,23065 ,Biopsy shoulder tissues
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,23066 ,Biopsy shoulder tissues
 Surgery - Musculoskeletal Sys ,23075 ,Removal of shoulder lesion
@@ -10012,7 +9784,6 @@ Surgery - Musculoskeletal Sys ,23174 ,Remove humerus lesion
 Surgery - Musculoskeletal Sys ,23180 ,Remove collar bone lesion
 Surgery - Musculoskeletal Sys ,23182 ,Remove shoulder blade lesion
 Surgery - Musculoskeletal Sys ,23184 ,Remove humerus lesion
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,23190 ,Partial removal of scapula
 Surgery - Musculoskeletal Sys ,23195 ,Removal of head of humerus
@@ -10038,7 +9809,6 @@ Surgery - Musculoskeletal Sys ,23430 ,Repair biceps tendon
 Surgery - Musculoskeletal Sys ,23440 ,Remove/transplant tendon
 Surgery - Musculoskeletal Sys ,23450 ,Repair shoulder capsule
 Surgery - Musculoskeletal Sys ,23455 ,Repair shoulder capsule
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,23460 ,Repair shoulder capsule
 Surgery - Musculoskeletal Sys ,23462 ,Repair shoulder capsule
@@ -10064,7 +9834,6 @@ Surgery - Musculoskeletal Sys ,23550 ,Treat clavicle dislocation
 Surgery - Musculoskeletal Sys ,23552 ,Treat clavicle dislocation
 Surgery - Musculoskeletal Sys ,23570 ,Treat shoulder blade fx
 Surgery - Musculoskeletal Sys ,23575 ,Treat shoulder blade fx
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,23580 ,No Longer Valid
 Surgery - Musculoskeletal Sys ,23585 ,Treat scapula fracture
@@ -10090,7 +9859,6 @@ Surgery - Musculoskeletal Sys ,23802 ,Fusion of shoulder joint
 Surgery - Musculoskeletal Sys ,23900 ,Amputation of arm & girdle
 Surgery - Musculoskeletal Sys ,23920 ,Amputation at shoulder joint
 Surgery - Musculoskeletal Sys ,23921 ,Amputation follow-up surgery
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,23929 ,Shoulder surgery procedure
 Surgery - Musculoskeletal Sys ,23930 ,Drainage of arm lesion
@@ -10116,7 +9884,6 @@ Surgery - Musculoskeletal Sys ,24126 ,Remove/graft bone lesion
 Surgery - Musculoskeletal Sys ,24130 ,Removal of head of radius
 Surgery - Musculoskeletal Sys ,24134 ,Removal of arm bone lesion
 Surgery - Musculoskeletal Sys ,24136 ,Remove radius bone lesion
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,24138 ,Remove elbow bone lesion
 Surgery - Musculoskeletal Sys ,24140 ,Partial removal of arm bone
@@ -10142,7 +9909,6 @@ Surgery - Musculoskeletal Sys ,24330 ,Revision of arm muscles
 Surgery - Musculoskeletal Sys ,24331 ,Revision of arm muscles
 Surgery - Musculoskeletal Sys ,24332 ,"Tenolysis, triceps"
 Surgery - Musculoskeletal Sys ,24340 ,Repair of biceps tendon
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,24341 ,Repair arm tendon/muscle
 Surgery - Musculoskeletal Sys ,24342 ,Repair of ruptured tendon
@@ -10168,7 +9934,6 @@ Surgery - Musculoskeletal Sys ,24400 ,Revision of humerus
 Surgery - Musculoskeletal Sys ,24410 ,Revision of humerus
 Surgery - Musculoskeletal Sys ,24420 ,Revision of humerus
 Surgery - Musculoskeletal Sys ,24430 ,Repair of humerus
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,24435 ,Repair humerus with graft
 Surgery - Musculoskeletal Sys ,24470 ,Revision of elbow joint
@@ -10194,7 +9959,6 @@ Surgery - Musculoskeletal Sys ,24565 ,Treat humerus fracture
 Surgery - Musculoskeletal Sys ,24566 ,Treat humerus fracture
 Surgery - Musculoskeletal Sys ,24570 ,No Longer Valid
 Surgery - Musculoskeletal Sys ,24575 ,Treat humerus fracture
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,24576 ,Treat humerus fracture
 Surgery - Musculoskeletal Sys ,24577 ,Treat humerus fracture
@@ -10220,7 +9984,6 @@ Surgery - Musculoskeletal Sys ,24650 ,Treat radius fracture
 Surgery - Musculoskeletal Sys ,24655 ,Treat radius fracture
 Surgery - Musculoskeletal Sys ,24660 ,No Longer Valid
 Surgery - Musculoskeletal Sys ,24665 ,Treat radius fracture
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,24666 ,Treat radius fracture
 Surgery - Musculoskeletal Sys ,24670 ,Treat ulnar fracture
@@ -10246,7 +10009,6 @@ Surgery - Musculoskeletal Sys ,25024 ,Decompress forearm 2 spaces
 Surgery - Musculoskeletal Sys ,25025 ,Decompress forearm 2 spaces
 Surgery - Musculoskeletal Sys ,25028 ,Drainage of forearm lesion
 Surgery - Musculoskeletal Sys ,25031 ,Drainage of forearm bursa
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,25035 ,Treat forearm bone lesion
 Surgery - Musculoskeletal Sys ,25040 ,Explore/treat wrist joint
@@ -10272,7 +10034,6 @@ Surgery - Musculoskeletal Sys ,25120 ,Removal of forearm lesion
 Surgery - Musculoskeletal Sys ,25125 ,Remove/graft forearm lesion
 Surgery - Musculoskeletal Sys ,25126 ,Remove/graft forearm lesion
 Surgery - Musculoskeletal Sys ,25130 ,Removal of wrist lesion
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,25135 ,Remove & graft wrist lesion
 Surgery - Musculoskeletal Sys ,25136 ,Remove & graft wrist lesion
@@ -10298,7 +10059,6 @@ Surgery - Musculoskeletal Sys ,25274 ,Repair forearm tendon/muscle
 Surgery - Musculoskeletal Sys ,25275 ,Repair forearm tendon sheath
 Surgery - Musculoskeletal Sys ,25280 ,Revise wrist/forearm tendon
 Surgery - Musculoskeletal Sys ,25290 ,Incise wrist/forearm tendon
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,25295 ,Release wrist/forearm tendon
 Surgery - Musculoskeletal Sys ,25300 ,Fusion of tendons at wrist
@@ -10324,7 +10084,6 @@ Surgery - Musculoskeletal Sys ,25375 ,Revise radius & ulna
 Surgery - Musculoskeletal Sys ,25390 ,Shorten radius or ulna
 Surgery - Musculoskeletal Sys ,25391 ,Lengthen radius or ulna
 Surgery - Musculoskeletal Sys ,25392 ,Shorten radius & ulna
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,25393 ,Lengthen radius & ulna
 Surgery - Musculoskeletal Sys ,25394 ,"Repair carpal bone, shorten"
@@ -10350,7 +10109,6 @@ Surgery - Musculoskeletal Sys ,25455 ,Revision of wrist joint
 Surgery - Musculoskeletal Sys ,25490 ,Reinforce radius
 Surgery - Musculoskeletal Sys ,25491 ,Reinforce ulna
 Surgery - Musculoskeletal Sys ,25492 ,Reinforce radius and ulna
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,25500 ,Treat fracture of radius
 Surgery - Musculoskeletal Sys ,25505 ,Treat fracture of radius
@@ -10376,7 +10134,6 @@ Surgery - Musculoskeletal Sys ,25608 ,Treat fx rad intra-articul
 Surgery - Musculoskeletal Sys ,25609 ,Treat fx radial 3+ frag
 Surgery - Musculoskeletal Sys ,25610 ,No Longer Valid
 Surgery - Musculoskeletal Sys ,25611 ,No Longer Valid - 07 Treat fracture radius/ulna
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,25615 ,No Longer Valid
 Surgery - Musculoskeletal Sys ,25620 ,No Longer Valid - 07 Treat fracture radius/ulna
@@ -10387,7 +10144,7 @@ Surgery - Musculoskeletal Sys ,25628 ,Treat wrist bone fracture
 Surgery - Musculoskeletal Sys ,25630 ,Treat wrist bone fracture
 Surgery - Musculoskeletal Sys ,25635 ,Treat wrist bone fracture
 Surgery - Musculoskeletal Sys ,25640 ,No Longer Valid
-Surgery - Musculoskeletal Sys ,25645 ,Treat wrist bone fracture
+Surgery - Musculoskeletal S s ,25645 ,Treat wrist bone fracture
 Surgery - Musculoskeletal Sys ,25650 ,Treat wrist bone fracture
 Surgery - Musculoskeletal Sys ,25651 ,Pin ulnar styloid fracture
 Surgery - Musculoskeletal Sys ,25652 ,Treat fracture ulnar styloid
@@ -10402,7 +10159,6 @@ Surgery - Musculoskeletal Sys ,25685 ,Treat wrist fracture
 Surgery - Musculoskeletal Sys ,25690 ,Treat wrist dislocation
 Surgery - Musculoskeletal Sys ,25695 ,Treat wrist dislocation
 Surgery - Musculoskeletal Sys ,25800 ,Fusion of wrist joint
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,25805 ,Fusion/graft of wrist joint
 Surgery - Musculoskeletal Sys ,25810 ,Fusion/graft of wrist joint
@@ -10428,7 +10184,6 @@ Surgery - Musculoskeletal Sys ,26025 ,Drainage of palm bursa
 Surgery - Musculoskeletal Sys ,26030 ,Drainage of palm bursa(s)
 Surgery - Musculoskeletal Sys ,26034 ,Treat hand bone lesion
 Surgery - Musculoskeletal Sys ,26035 ,Decompress fingers/hand
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,26037 ,Decompress fingers/hand
 Surgery - Musculoskeletal Sys ,26040 ,Release palm contracture
@@ -10454,7 +10209,6 @@ Surgery - Musculoskeletal Sys ,26145 ,"Tendon excision, palm/finger"
 Surgery - Musculoskeletal Sys ,26160 ,Remove tendon sheath lesion
 Surgery - Musculoskeletal Sys ,26170 ,"Removal of palm tendon, each"
 Surgery - Musculoskeletal Sys ,26180 ,Removal of finger tendon
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,26185 ,Remove finger bone
 Surgery - Musculoskeletal Sys ,26200 ,Remove hand bone lesion
@@ -10480,7 +10234,6 @@ Surgery - Musculoskeletal Sys ,26370 ,Repair finger/hand tendon
 Surgery - Musculoskeletal Sys ,26372 ,Repair/graft hand tendon
 Surgery - Musculoskeletal Sys ,26373 ,Repair finger/hand tendon
 Surgery - Musculoskeletal Sys ,26390 ,Revise hand/finger tendon
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,26392 ,Repair/graft hand tendon
 Surgery - Musculoskeletal Sys ,26410 ,Repair hand tendon
@@ -10506,7 +10259,6 @@ Surgery - Musculoskeletal Sys ,26471 ,Fusion of finger tendons
 Surgery - Musculoskeletal Sys ,26474 ,Fusion of finger tendons
 Surgery - Musculoskeletal Sys ,26476 ,Tendon lengthening
 Surgery - Musculoskeletal Sys ,26477 ,Tendon shortening
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,26478 ,Lengthening of hand tendon
 Surgery - Musculoskeletal Sys ,26479 ,Shortening of hand tendon
@@ -10533,7 +10285,6 @@ Surgery - Musculoskeletal Sys ,26518 ,Fusion of knuckle joints
 Surgery - Musculoskeletal Sys ,26520 ,Release knuckle contracture
 Surgery - Musculoskeletal Sys ,26525 ,Release finger contracture
 Surgery - Musculoskeletal Sys ,26527 ,No Longer Valid
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,26530 ,Revise knuckle joint
 Surgery - Musculoskeletal Sys ,26531 ,Revise knuckle with implant
@@ -10559,7 +10310,6 @@ Surgery - Musculoskeletal Sys ,26560 ,Repair of web finger
 Surgery - Musculoskeletal Sys ,26561 ,Repair of web finger
 Surgery - Musculoskeletal Sys ,26562 ,Repair of web finger
 Surgery - Musculoskeletal Sys ,26565 ,Correct metacarpal flaw
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,26567 ,Correct finger deformity
 Surgery - Musculoskeletal Sys ,26568 ,Lengthen metacarpal/finger
@@ -10585,7 +10335,6 @@ Surgery - Musculoskeletal Sys ,26660 ,No Longer Valid
 Surgery - Musculoskeletal Sys ,26665 ,Treat thumb fracture
 Surgery - Musculoskeletal Sys ,26670 ,Treat hand dislocation
 Surgery - Musculoskeletal Sys ,26675 ,Treat hand dislocation
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,26676 ,Pin hand dislocation
 Surgery - Musculoskeletal Sys ,26680 ,No Longer Valid
@@ -10611,7 +10360,6 @@ Surgery - Musculoskeletal Sys ,26756 ,"Pin finger fracture, each"
 Surgery - Musculoskeletal Sys ,26760 ,No Longer Valid
 Surgery - Musculoskeletal Sys ,26765 ,"Treat finger fracture, each"
 Surgery - Musculoskeletal Sys ,26770 ,Treat finger dislocation
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,26775 ,Treat finger dislocation
 Surgery - Musculoskeletal Sys ,26776 ,Pin finger dislocation
@@ -10637,7 +10385,6 @@ Surgery - Musculoskeletal Sys ,26991 ,Drainage of pelvis bursa
 Surgery - Musculoskeletal Sys ,26992 ,Drainage of bone lesion
 Surgery - Musculoskeletal Sys ,27000 ,Incision of hip tendon
 Surgery - Musculoskeletal Sys ,27001 ,Incision of hip tendon
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,27003 ,Incision of hip tendon
 Surgery - Musculoskeletal Sys ,27005 ,Incision of hip tendon
@@ -10663,7 +10410,6 @@ Surgery - Musculoskeletal Sys ,27065 ,Removal of hip bone lesion
 Surgery - Musculoskeletal Sys ,27066 ,Removal of hip bone lesion
 Surgery - Musculoskeletal Sys ,27067 ,Remove/graft hip bone lesion
 Surgery - Musculoskeletal Sys ,27070 ,Partial removal of hip bone
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,27071 ,Partial removal of hip bone
 Surgery - Musculoskeletal Sys ,27075 ,Extensive hip surgery
@@ -10689,7 +10435,6 @@ Surgery - Musculoskeletal Sys ,27120 ,Reconstruction of hip socket
 Surgery - Musculoskeletal Sys ,27122 ,Reconstruction of hip socket
 Surgery - Musculoskeletal Sys ,27125 ,Partial hip replacement
 Surgery - Musculoskeletal Sys ,27130 ,Total hip arthroplasty
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,27132 ,Total hip arthroplasty
 Surgery - Musculoskeletal Sys ,27134 ,Revise hip joint replacement
@@ -10715,7 +10460,6 @@ Surgery - Musculoskeletal Sys ,27187 ,Reinforce hip bones
 Surgery - Musculoskeletal Sys ,27190 ,No Longer Valid
 Surgery - Musculoskeletal Sys ,27192 ,No Longer Valid
 Surgery - Musculoskeletal Sys ,27193 ,Treat pelvic ring fracture
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,27194 ,Treat pelvic ring fracture
 Surgery - Musculoskeletal Sys ,27195 ,No Longer Valid
@@ -10741,7 +10485,6 @@ Surgery - Musculoskeletal Sys ,27230 ,Treat thigh fracture
 Surgery - Musculoskeletal Sys ,27232 ,Treat thigh fracture
 Surgery - Musculoskeletal Sys ,27234 ,No Longer Valid
 Surgery - Musculoskeletal Sys ,27235 ,Treat thigh fracture
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,27236 ,Treat thigh fracture
 Surgery - Musculoskeletal Sys ,27238 ,Treat thigh fracture
@@ -10767,7 +10510,6 @@ Surgery - Musculoskeletal Sys ,27268 ,Cltx Thigh Fx W/Mnpj
 Surgery - Musculoskeletal Sys ,27269 ,Optx Thigh Fx
 Surgery - Musculoskeletal Sys ,27275 ,Manipulation of hip joint
 Surgery - Musculoskeletal Sys ,27280 ,Fusion of sacroiliac joint
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,27282 ,Fusion of pubic bones
 Surgery - Musculoskeletal Sys ,27284 ,Fusion of hip joint
@@ -10795,7 +10537,6 @@ Surgery - Musculoskeletal Sys ,27331 ,Explore/treat knee joint
 Surgery - Musculoskeletal Sys ,27332 ,Removal of knee cartilage
 Surgery - Musculoskeletal Sys ,27333 ,Removal of knee cartilage
 Surgery - Musculoskeletal Sys ,27334 ,Remove knee joint lining
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,27335 ,Remove knee joint lining
 Surgery - Musculoskeletal Sys ,27340 ,Removal of kneecap bursa
@@ -10821,7 +10562,6 @@ Surgery - Musculoskeletal Sys ,27393 ,Lengthening of thigh tendon
 Surgery - Musculoskeletal Sys ,27394 ,Lengthening of thigh tendons
 Surgery - Musculoskeletal Sys ,27395 ,Lengthening of thigh tendons
 Surgery - Musculoskeletal Sys ,27396 ,Transplant of thigh tendon
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,27397 ,Transplants of thigh tendons
 Surgery - Musculoskeletal Sys ,27400 ,Revise thigh muscles/tendons
@@ -10847,7 +10587,6 @@ Surgery - Musculoskeletal Sys ,27438 ,Revise kneecap with implant
 Surgery - Musculoskeletal Sys ,27440 ,Revision of knee joint
 Surgery - Musculoskeletal Sys ,27441 ,Revision of knee joint
 Surgery - Musculoskeletal Sys ,27442 ,Revision of knee joint
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,27443 ,Revision of knee joint
 Surgery - Musculoskeletal Sys ,27445 ,Revision of knee joint
@@ -10873,7 +10612,6 @@ Surgery - Musculoskeletal Sys ,27488 ,Removal of knee prosthesis
 Surgery - Musculoskeletal Sys ,27495 ,Reinforce thigh
 Surgery - Musculoskeletal Sys ,27496 ,Decompression of thigh/knee
 Surgery - Musculoskeletal Sys ,27497 ,Decompression of thigh/knee
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,27498 ,Decompression of thigh/knee
 Surgery - Musculoskeletal Sys ,27499 ,Decompression of thigh/knee
@@ -10899,7 +10637,6 @@ Surgery - Musculoskeletal Sys ,27520 ,Treat kneecap fracture
 Surgery - Musculoskeletal Sys ,27522 ,No Longer Valid
 Surgery - Musculoskeletal Sys ,27524 ,Treat kneecap fracture
 Surgery - Musculoskeletal Sys ,27530 ,Treat knee fracture
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,27532 ,Treat knee fracture
 Surgery - Musculoskeletal Sys ,27534 ,No Longer Valid
@@ -10925,7 +10662,6 @@ Surgery - Musculoskeletal Sys ,27591 ,Amputate leg at thigh
 Surgery - Musculoskeletal Sys ,27592 ,Amputate leg at thigh
 Surgery - Musculoskeletal Sys ,27594 ,Amputation follow-up surgery
 Surgery - Musculoskeletal Sys ,27596 ,Amputation follow-up surgery
-"",CPT 4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,27598 ,Amputate lower leg at knee
 Surgery - Musculoskeletal Sys ,27599 ,Leg surgery procedure
@@ -10951,7 +10687,6 @@ Surgery - Musculoskeletal Sys ,27630 ,Removal of tendon lesion
 Surgery - Musculoskeletal Sys ,27635 ,Remove lower leg bone lesion
 Surgery - Musculoskeletal Sys ,27637 ,Remove/graft leg bone lesion
 Surgery - Musculoskeletal Sys ,27638 ,Remove/graft leg bone lesion
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,27640 ,Partial removal of tibia
 Surgery - Musculoskeletal Sys ,27641 ,Partial removal of fibula
@@ -10977,7 +10712,6 @@ Surgery - Musculoskeletal Sys ,27687 ,Revision of calf tendon
 Surgery - Musculoskeletal Sys ,27690 ,Revise lower leg tendon
 Surgery - Musculoskeletal Sys ,27691 ,Revise lower leg tendon
 Surgery - Musculoskeletal Sys ,27692 ,Revise additional leg tendon
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,27695 ,Repair of ankle ligament
 Surgery - Musculoskeletal Sys ,27696 ,Repair of ankle ligaments
@@ -11003,7 +10737,6 @@ Surgery - Musculoskeletal Sys ,27734 ,Repair lower leg epiphyses
 Surgery - Musculoskeletal Sys ,27740 ,Repair of leg epiphyses
 Surgery - Musculoskeletal Sys ,27742 ,Repair of leg epiphyses
 Surgery - Musculoskeletal Sys ,27745 ,Reinforce tibia
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,27750 ,Treatment of tibia fracture
 Surgery - Musculoskeletal Sys ,27752 ,Treatment of tibia fracture
@@ -11029,7 +10762,6 @@ Surgery - Musculoskeletal Sys ,27792 ,Treatment of ankle fracture
 Surgery - Musculoskeletal Sys ,27800 ,No Longer Valid
 Surgery - Musculoskeletal Sys ,27802 ,No Longer Valid
 Surgery - Musculoskeletal Sys ,27804 ,No Longer Valid
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,27806 ,No Longer Valid
 Surgery - Musculoskeletal Sys ,27808 ,Treatment of ankle fracture
@@ -11055,7 +10787,6 @@ Surgery - Musculoskeletal Sys ,27842 ,Treat ankle dislocation
 Surgery - Musculoskeletal Sys ,27844 ,No Longer Valid
 Surgery - Musculoskeletal Sys ,27846 ,Treat ankle dislocation
 Surgery - Musculoskeletal Sys ,27848 ,Treat ankle dislocation
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,27860 ,Fixation of ankle joint
 Surgery - Musculoskeletal Sys ,27870 ,"Fusion of ankle joint, open"
@@ -11081,7 +10812,6 @@ Surgery - Musculoskeletal Sys ,28011 ,Incision of toe tendons
 Surgery - Musculoskeletal Sys ,28020 ,Exploration of foot joint
 Surgery - Musculoskeletal Sys ,28022 ,Exploration of foot joint
 Surgery - Musculoskeletal Sys ,28024 ,Exploration of toe joint
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,28030 ,No Longer Valid - 07 Removal of foot nerve
 Surgery - Musculoskeletal Sys ,28035 ,Decompression of tibia nerve
@@ -11107,7 +10837,6 @@ Surgery - Musculoskeletal Sys ,28104 ,Removal of foot lesion
 Surgery - Musculoskeletal Sys ,28106 ,Remove/graft foot lesion
 Surgery - Musculoskeletal Sys ,28107 ,Remove/graft foot lesion
 Surgery - Musculoskeletal Sys ,28108 ,Removal of toe lesions
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,28110 ,Part removal of metatarsal
 Surgery - Musculoskeletal Sys ,28111 ,Part removal of metatarsal
@@ -11133,7 +10862,6 @@ Surgery - Musculoskeletal Sys ,28190 ,Removal of foot foreign body
 Surgery - Musculoskeletal Sys ,28192 ,Removal of foot foreign body
 Surgery - Musculoskeletal Sys ,28193 ,Removal of foot foreign body
 Surgery - Musculoskeletal Sys ,28200 ,Repair of foot tendon
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,28202 ,Repair/graft of foot tendon
 Surgery - Musculoskeletal Sys ,28208 ,Repair of foot tendon
@@ -11159,7 +10887,6 @@ Surgery - Musculoskeletal Sys ,28280 ,Fusion of toes
 Surgery - Musculoskeletal Sys ,28285 ,Repair of hammertoe
 Surgery - Musculoskeletal Sys ,28286 ,Repair of hammertoe
 Surgery - Musculoskeletal Sys ,28288 ,Partial removal of foot bone
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,28289 ,Repair hallux rigidus
 Surgery - Musculoskeletal Sys ,28290 ,Correction of bunion
@@ -11185,7 +10912,6 @@ Surgery - Musculoskeletal Sys ,28315 ,Removal of sesamoid bone
 Surgery - Musculoskeletal Sys ,28320 ,Repair of foot bones
 Surgery - Musculoskeletal Sys ,28322 ,Repair of metatarsals
 Surgery - Musculoskeletal Sys ,28340 ,Resect enlarged toe tissue
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,28341 ,Resect enlarged toe
 Surgery - Musculoskeletal Sys ,28344 ,Repair extra toe(s)
@@ -11211,7 +10937,6 @@ Surgery - Musculoskeletal Sys ,28465 ,"Treat midfoot fracture, each"
 Surgery - Musculoskeletal Sys ,28470 ,Treat metatarsal fracture
 Surgery - Musculoskeletal Sys ,28475 ,Treat metatarsal fracture
 Surgery - Musculoskeletal Sys ,28476 ,Treat metatarsal fracture
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,28480 ,No Longer Valid
 Surgery - Musculoskeletal Sys ,28485 ,Treat metatarsal fracture
@@ -11237,7 +10962,6 @@ Surgery - Musculoskeletal Sys ,28576 ,Treat foot dislocation
 Surgery - Musculoskeletal Sys ,28580 ,No Longer Valid
 Surgery - Musculoskeletal Sys ,28585 ,Repair foot dislocation
 Surgery - Musculoskeletal Sys ,28600 ,Treat foot dislocation
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,28605 ,Treat foot dislocation
 Surgery - Musculoskeletal Sys ,28606 ,Treat foot dislocation
@@ -11263,7 +10987,6 @@ Surgery - Musculoskeletal Sys ,28740 ,Fusion of foot bones
 Surgery - Musculoskeletal Sys ,28750 ,Fusion of big toe joint
 Surgery - Musculoskeletal Sys ,28755 ,Fusion of big toe joint
 Surgery - Musculoskeletal Sys ,28760 ,Fusion of big toe joint
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,28800 ,Amputation of midfoot
 Surgery - Musculoskeletal Sys ,28805 ,Amputation thru metatarsal
@@ -11289,7 +11012,6 @@ Surgery - Musculoskeletal Sys ,29075 ,Application of forearm cast
 Surgery - Musculoskeletal Sys ,29085 ,Apply hand/wrist cast
 Surgery - Musculoskeletal Sys ,29086 ,Apply finger cast
 Surgery - Musculoskeletal Sys ,29105 ,Apply long arm splint
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,29125 ,Apply forearm splint
 Surgery - Musculoskeletal Sys ,29126 ,Apply forearm splint
@@ -11315,7 +11037,6 @@ Surgery - Musculoskeletal Sys ,29450 ,Application of leg cast
 Surgery - Musculoskeletal Sys ,29505 ,"Application, long leg splint"
 Surgery - Musculoskeletal Sys ,29515 ,Application lower leg splint
 Surgery - Musculoskeletal Sys ,29520 ,Strapping of hip
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,29530 ,Strapping of knee
 Surgery - Musculoskeletal Sys ,29540 ,Strapping of ankle and/or ft
@@ -11341,7 +11062,6 @@ Surgery - Musculoskeletal Sys ,29819 ,Shoulder arthroscopy/surgery
 Surgery - Musculoskeletal Sys ,29820 ,Shoulder arthroscopy/surgery
 Surgery - Musculoskeletal Sys ,29821 ,Shoulder arthroscopy/surgery
 Surgery - Musculoskeletal Sys ,29822 ,Shoulder arthroscopy/surgery
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,29823 ,Shoulder arthroscopy/surgery
 Surgery - Musculoskeletal Sys ,29824 ,Shoulder arthroscopy/surgery
@@ -11367,7 +11087,6 @@ Surgery - Musculoskeletal Sys ,29851 ,Knee arthroscopy/surgery
 Surgery - Musculoskeletal Sys ,29855 ,Tibial arthroscopy/surgery
 Surgery - Musculoskeletal Sys ,29856 ,Tibial arthroscopy/surgery
 Surgery - Musculoskeletal Sys ,29860 ,"Hip arthroscopy, dx"
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,29861 ,Hip arthroscopy/surgery
 Surgery - Musculoskeletal Sys ,29862 ,Hip arthroscopy/surgery
@@ -11393,7 +11112,6 @@ Surgery - Musculoskeletal Sys ,29886 ,Knee arthroscopy/surgery
 Surgery - Musculoskeletal Sys ,29887 ,Knee arthroscopy/surgery
 Surgery - Musculoskeletal Sys ,29888 ,Knee arthroscopy/surgery
 Surgery - Musculoskeletal Sys ,29889 ,Knee arthroscopy/surgery
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,29891 ,Ankle arthroscopy/surgery
 Surgery - Musculoskeletal Sys ,29892 ,Ankle arthroscopy/surgery
@@ -11422,7 +11140,6 @@ Surgery - Nervous System ,0077T ,Cereb therm perfusion probe
 Surgery - Nervous System ,27325 ,"Neurectomy, Hamstring"
 Surgery - Nervous System ,27326 ,"Neurectomy, Popliteal"
 Surgery - Nervous System ,28055 ,"Neurectomy, Foot"
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Nervous System ,61000 ,Remove cranial cavity fluid
 Surgery - Nervous System ,61001 ,Remove cranial cavity fluid
@@ -11472,7 +11189,6 @@ Surgery - Nervous System ,61470 ,Incise skull for surgery
 Surgery - Nervous System ,61480 ,Incise skull for surgery
 Surgery - Nervous System ,61490 ,Incise skull for surgery
 Surgery - Nervous System ,61500 ,Removal of skull lesion
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Nervous System ,61501 ,Remove infected skull bone
 Surgery - Nervous System ,61510 ,Removal of brain lesion
@@ -11522,7 +11238,6 @@ Surgery - Nervous System ,61580 ,"Craniofacial approach, skull"
 Surgery - Nervous System ,61581 ,"Craniofacial approach, skull"
 Surgery - Nervous System ,61582 ,"Craniofacial approach, skull"
 Surgery - Nervous System ,61583 ,"Craniofacial approach, skull"
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Nervous System ,61584 ,Orbitocranial approach/skull
 Surgery - Nervous System ,61585 ,Orbitocranial approach/skull
@@ -11539,7 +11254,7 @@ Surgery - Nervous System ,61601 ,Resect/excise cranial lesion
 Surgery - Nervous System ,61605 ,Resect/excise cranial lesion
 Surgery - Nervous System ,61606 ,Resect/excise cranial lesion
 Surgery - Nervous System ,61607 ,Resect/excise cranial lesion
-Surgery - Nervou System ,61608 ,Resect/excise cranial lesion
+Surgery - Nervous System ,61608 ,Resect/excise cranial lesion
 Surgery - Nervous System ,61609 ,"Transect artery, sinus"
 Surgery - Nervous System ,61610 ,"Transect artery, sinus"
 Surgery - Nervous System ,61611 ,"Transect artery, sinus"
@@ -11572,7 +11287,6 @@ Surgery - Nervous System ,61705 ,Revise circulation to head
 Surgery - Nervous System ,61708 ,Revise circulation to head
 Surgery - Nervous System ,61710 ,Revise circulation to head
 Surgery - Nervous System ,61711 ,Fusion of skull arteries
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Nervous System ,61712 ,No Longer Valid
 Surgery - Nervous System ,61720 ,Incise skull/brain surgery
@@ -11622,7 +11336,6 @@ Surgery - Nervous System ,62148 ,Retr bone flap to fix skull
 Surgery - Nervous System ,62160 ,Neuroendoscopy add-on
 Surgery - Nervous System ,62161 ,Dissect brain w/scope
 Surgery - Nervous System ,62162 ,Remove colloid cyst w/scope
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Nervous System ,62163 ,Neuroendoscopy w/fb removal
 Surgery - Nervous System ,62164 ,Remove brain tumor w/scope
@@ -11672,7 +11385,6 @@ Surgery - Nervous System ,62318 ,"Inject spine w/cath, c/t"
 Surgery - Nervous System ,62319 ,Inject spine w/cath l/s (cd)
 Surgery - Nervous System ,63001 ,Removal of spinal lamina
 Surgery - Nervous System ,63003 ,Removal of spinal lamina
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Nervous System ,63005 ,Removal of spinal lamina
 Surgery - Nervous System ,63011 ,Removal of spinal lamina
@@ -11722,7 +11434,6 @@ Surgery - Nervous System ,63185 ,Incise spinal column/nerves
 Surgery - Nervous System ,63190 ,Incise spinal column/nerves
 Surgery - Nervous System ,63191 ,Incise spinal column/nerves
 Surgery - Nervous System ,63194 ,Incise spinal column & cord
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Nervous System ,63195 ,Incise spinal column & cord
 Surgery - Nervous System ,63196 ,Incise spinal column & cord
@@ -11772,7 +11483,6 @@ Surgery - Nervous System ,63657 ,No Longer Valid
 Surgery - Nervous System ,63658 ,No Longer Valid
 Surgery - Nervous System ,63660 ,Revise/remove neuroelectrode
 Surgery - Nervous System ,63685 ,Insrt/Redo Spine N Generator
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Nervous System ,63688 ,Revise/remove neuroreceiver
 Surgery - Nervous System ,63690 ,No Longer Valid
@@ -11822,7 +11532,6 @@ Surgery - Nervous System ,64472 ,Inj paravertebral c/t add-on
 Surgery - Nervous System ,64475 ,Inj paravertebral l/s
 Surgery - Nervous System ,64476 ,Inj paravertebral l/s add-on
 Surgery - Nervous System ,64479 ,Inj foramen epidural c/t
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Nervous System ,64480 ,Inj foramen epidural add-on
 Surgery - Nervous System ,64483 ,Inj foramen epidural l/s
@@ -11872,7 +11581,6 @@ Surgery - Nervous System ,64714 ,Revise low back nerve(s)
 Surgery - Nervous System ,64716 ,Revision of cranial nerve
 Surgery - Nervous System ,64718 ,Revise ulnar nerve at elbow
 Surgery - Nervous System ,64719 ,Revise ulnar nerve at wrist
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Nervous System ,64721 ,Carpal tunnel surgery
 Surgery - Nervous System ,64722 ,Relieve pressure on nerve(s)
@@ -11897,7 +11605,7 @@ Surgery - Nervous System ,64772 ,Incision of spinal nerve
 Surgery - Nervous System ,64774 ,Remove skin nerve lesion
 Surgery - Nervous System ,64776 ,Remove digit nerve lesion
 Surgery - Nervous System ,64778 ,Digit nerve surgery add-on
-Surgery - Nervous System ,64782 ,Remove limb nerve lesion
+Surgery - Nervous System ,64782 ,Re ove limb nerve lesion
 Surgery - Nervous System ,64783 ,Limb nerve surgery add-on
 Surgery - Nervous System ,64784 ,Remove nerve lesion
 Surgery - Nervous System ,64786 ,Remove sciatic nerve lesion
@@ -11922,7 +11630,6 @@ Surgery - Nervous System ,64835 ,Repair of hand or foot nerve
 Surgery - Nervous System ,64836 ,Repair of hand or foot nerve
 Surgery - Nervous System ,64837 ,Repair nerve add-on
 Surgery - Nervous System ,64840 ,Repair of leg nerve
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Nervous System ,64856 ,Repair/transpose nerve
 Surgery - Nervous System ,64857 ,Repair arm/leg nerve
@@ -11947,7 +11654,7 @@ Surgery - Nervous System ,64893 ,"Nerve graft, arm or leg"
 Surgery - Nervous System ,64895 ,"Nerve graft, hand or foot"
 Surgery - Nervous System ,64896 ,"Nerve graft, hand or foot"
 Surgery - Nervous System ,64897 ,"Nerve graft, arm or leg"
-Surgery - Nervous System ,64898 ,"Nerve graft, arm or leg"
+Surgery - Nervous System ,64898 ,"Nerve graft, arm or l g"
 Surgery - Nervous System ,64901 ,Nerve graft add-on
 Surgery - Nervous System ,64902 ,Nerve graft add-on
 Surgery - Nervous System ,64905 ,Nerve pedicle transfer
@@ -11964,7 +11671,6 @@ Surgery - Respiratory System ,30110 ,Removal of nose polyp(s)
 Surgery - Respiratory System ,30115 ,Removal of nose polyp(s)
 Surgery - Respiratory System ,30117 ,Removal of intranasal lesion
 Surgery - Respiratory System ,30118 ,Removal of intranasal lesion
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Respiratory System ,30120 ,Revision of nose
 Surgery - Respiratory System ,30124 ,Removal of nose lesion
@@ -11990,7 +11696,6 @@ Surgery - Respiratory System ,30462 ,Revision of nose
 Surgery - Respiratory System ,30465 ,Repair nasal stenosis
 Surgery - Respiratory System ,30520 ,Repair of nasal septum
 Surgery - Respiratory System ,30540 ,Repair nasal defect
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Respiratory System ,30545 ,Repair nasal defect
 Surgery - Respiratory System ,30560 ,Release of nasal adhesions
@@ -12016,7 +11721,6 @@ Surgery - Respiratory System ,31032 ,"Explore sinus, remove polyps"
 Surgery - Respiratory System ,31040 ,Exploration behind upper jaw
 Surgery - Respiratory System ,31050 ,"Exploration, sphenoid sinus"
 Surgery - Respiratory System ,31051 ,Sphenoid sinus surgery
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Respiratory System ,31070 ,Exploration of frontal sinus
 Surgery - Respiratory System ,31071 ,No Longer Valid
@@ -12042,7 +11746,6 @@ Surgery - Respiratory System ,31239 ,"Nasal/sinus endoscopy, surg"
 Surgery - Respiratory System ,31240 ,"Nasal/sinus endoscopy, surg"
 Surgery - Respiratory System ,31245 ,No Longer Valid
 Surgery - Respiratory System ,31246 ,No Longer Valid
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Respiratory System ,31247 ,No Longer Valid
 Surgery - Respiratory System ,31248 ,No Longer Valid
@@ -12068,7 +11771,6 @@ Surgery - Respiratory System ,31270 ,No Longer Valid
 Surgery - Respiratory System ,31271 ,No Longer Valid
 Surgery - Respiratory System ,31275 ,No Longer Valid
 Surgery - Respiratory System ,31276 ,"Sinus endoscopy, surgical"
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Respiratory System ,31277 ,No Longer Valid
 Surgery - Respiratory System ,31280 ,No Longer Valid
@@ -12094,7 +11796,6 @@ Surgery - Respiratory System ,31367 ,Partial removal of larynx
 Surgery - Respiratory System ,31368 ,Partial removal of larynx
 Surgery - Respiratory System ,31370 ,Partial removal of larynx
 Surgery - Respiratory System ,31375 ,Partial removal of larynx
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Respiratory System ,31380 ,Partial removal of larynx
 Surgery - Respiratory System ,31382 ,Partial removal of larynx
@@ -12115,12 +11816,11 @@ Surgery - Respiratory System ,31525 ,Dx laryngoscopy excl nb
 Surgery - Respiratory System ,31526 ,Dx laryngoscopy w/oper scope
 Surgery - Respiratory System ,31527 ,Laryngoscopy for treatment
 Surgery - Respiratory System ,31528 ,Laryngoscopy and dilation
-Surgery - Respiratory System ,315 9 ,Laryngoscopy and dilation
+Surgery - Respiratory System ,31529 ,Laryngoscopy and dilation
 Surgery - Respiratory System ,31530 ,Laryngoscopy w/fb removal
 Surgery - Respiratory System ,31531 ,Laryngoscopy w/fb & op scope
 Surgery - Respiratory System ,31535 ,Laryngoscopy w/biopsy
 Surgery - Respiratory System ,31536 ,Laryngoscopy w/bx & op scope
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Respiratory System ,31540 ,Laryngoscopy w/exc of tumor
 Surgery - Respiratory System ,31541 ,Larynscop w/tumr exc + scope
@@ -12146,7 +11846,6 @@ Surgery - Respiratory System ,31590 ,Reinnervate larynx
 Surgery - Respiratory System ,31595 ,Larynx nerve surgery
 Surgery - Respiratory System ,31599 ,Larynx surgery procedure
 Surgery - Respiratory System ,31600 ,Incision of windpipe
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Respiratory System ,31601 ,Incision of windpipe
 Surgery - Respiratory System ,31603 ,Incision of windpipe
@@ -12172,7 +11871,6 @@ Surgery - Respiratory System ,31635 ,Bronchoscopy w/fb removal
 Surgery - Respiratory System ,31636 ,"Bronchoscopy, bronch stents"
 Surgery - Respiratory System ,31637 ,"Bronchoscopy, stent add-on"
 Surgery - Respiratory System ,31638 ,"Bronchoscopy, revise stent"
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Respiratory System ,31640 ,Bronchoscopy w/tumor excise
 Surgery - Respiratory System ,31641 ,"Bronchoscopy, treat blockage"
@@ -12200,7 +11898,6 @@ Surgery - Respiratory System ,31770 ,Repair/graft of bronchus
 Surgery - Respiratory System ,31775 ,Reconstruct bronchus
 Surgery - Respiratory System ,31780 ,Reconstruct windpipe
 Surgery - Respiratory System ,31781 ,Reconstruct windpipe
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Respiratory System ,31785 ,Remove windpipe lesion
 Surgery - Respiratory System ,31786 ,Remove windpipe lesion
@@ -12228,7 +11925,6 @@ Surgery - Respiratory System ,32124 ,Explore chest free adhesions
 Surgery - Respiratory System ,32140 ,Removal of lung lesion(s)
 Surgery - Respiratory System ,32141 ,Remove/treat lung lesions
 Surgery - Respiratory System ,32150 ,Removal of lung lesion(s)
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Respiratory System ,32151 ,Remove lung foreign body
 Surgery - Respiratory System ,32160 ,Open chest heart massage
@@ -12254,7 +11950,6 @@ Surgery - Respiratory System ,32480 ,Partial removal of lung
 Surgery - Respiratory System ,32482 ,Bilobectomy
 Surgery - Respiratory System ,32484 ,Segmentectomy
 Surgery - Respiratory System ,32485 ,No Longer Valid
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Respiratory System ,32486 ,Sleeve lobectomy
 Surgery - Respiratory System ,32488 ,Completion pneumonectomy
@@ -12283,7 +11978,6 @@ Surgery - Respiratory System ,32605 ,"Thoracoscopy, diagnostic"
 Surgery - Respiratory System ,32606 ,"Thoracoscopy, diagnostic"
 Surgery - Respiratory System ,32650 ,"Thoracoscopy, surgical"
 Surgery - Respiratory System ,32651 ,"Thoracoscopy, surgical"
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Respiratory System ,32652 ,"Thoracoscopy, surgical"
 Surgery - Respiratory System ,32653 ,"Thoracoscopy, surgical"
@@ -12309,7 +12003,6 @@ Surgery - Respiratory System ,32850 ,Donor pneumonectomy
 Surgery - Respiratory System ,32851 ,"Lung transplant, single"
 Surgery - Respiratory System ,32852 ,Lung transplant with bypass
 Surgery - Respiratory System ,32853 ,"Lung transplant, double"
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Respiratory System ,32854 ,Lung transplant with bypass
 Surgery - Respiratory System ,32855 ,"Prepare donor lung, single"
@@ -12348,7 +12041,6 @@ Surgery - Urinary System ,50200 ,Biopsy of kidney
 Surgery - Urinary System ,50205 ,Biopsy of kidney
 Surgery - Urinary System ,50220 ,"Remove kidney, open"
 Surgery - Urinary System ,50225 ,"Removal kidney open, complex"
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Urinary System ,50230 ,"Removal kidney open, radical"
 Surgery - Urinary System ,50234 ,Removal of kidney & ureter
@@ -12398,7 +12090,6 @@ Surgery - Urinary System ,50559 ,No Longer Valid
 Surgery - Urinary System ,50561 ,Kidney endoscopy & treatment
 Surgery - Urinary System ,50562 ,Renal scope w/tumor resect
 Surgery - Urinary System ,50570 ,Kidney endoscopy
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Urinary System ,50572 ,Kidney endoscopy
 Surgery - Urinary System ,50574 ,Kidney endoscopy & biopsy
@@ -12448,7 +12139,6 @@ Surgery - Urinary System ,50920 ,Closure ureter/skin fistula
 Surgery - Urinary System ,50930 ,Closure ureter/bowel fistula
 Surgery - Urinary System ,50940 ,Release of ureter
 Surgery - Urinary System ,50951 ,Endoscopy of ureter
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Urinary System ,50953 ,Endoscopy of ureter
 Surgery - Urinary System ,50955 ,Ureter endoscopy & biopsy
@@ -12498,7 +12188,6 @@ Surgery - Urinary System ,51700 ,Irrigation of bladder
 Surgery - Urinary System ,51701 ,Insert bladder catheter
 Surgery - Urinary System ,51702 ,Insert temp bladder cath
 Surgery - Urinary System ,51703 ,"Insert bladder cath, complex"
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Urinary System ,51705 ,Change of bladder tube
 Surgery - Urinary System ,51710 ,Change of bladder tube
@@ -12548,7 +12237,6 @@ Surgery - Urinary System ,52270 ,Cystoscopy & revise urethra
 Surgery - Urinary System ,52275 ,Cystoscopy & revise urethra
 Surgery - Urinary System ,52276 ,Cystoscopy and treatment
 Surgery - Urinary System ,52277 ,Cystoscopy and treatment
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Urinary System ,52281 ,Cystoscopy and treatment
 Surgery - Urinary System ,52282 ,"Cystoscopy, implant stent"
@@ -12595,7 +12283,6 @@ Surgery - Urinary System ,52606 ,No Longer Valid - 09 Control postop bleeding
 Surgery - Urinary System ,52612 ,"No Longer Valid - 09 Prostatectomy, first stage"
 "","","No Longer Valid - 09 Prostatectomy, second"
 Surgery - Urinary System ,52614 ,stage
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Urinary System ,52620 ,No Longer Valid - 09 Remove residual prostate
 Surgery - Urinary System ,52630 ,Remove prostate regrowth
@@ -12644,7 +12331,6 @@ Surgery - Urinary System ,53449 ,Repair uro sphincter
 Surgery - Urinary System ,53450 ,Revision of urethra
 Surgery - Urinary System ,53460 ,Revision of urethra
 Surgery - Urinary System ,53500 ,"Urethrlys, transvag w/ scope"
-"",CPT-4,""
 Product Line ,Code ,CPT-4 Procedure
 Surgery - Urinary System ,53502 ,Repair of urethra injury
 Surgery - Urinary System ,53505 ,Repair of urethra injury
