@@ -4129,731 +4129,361 @@ Pathology and Laboratory ,95251 ,"Gluc monitor, cont, phys i&r"
 Pathology and Laboratory ,99000 ,Specimen handling
 Pathology and Laboratory ,99001 ,Specimen handling
 Pathology and Laboratory ,99002 ,Device handling
-Performance Measurement,,
-Codes ,0001F ,Heart Failure Composite
-Performance Measurement,,
-Codes ,0002F ,No Longer Valid
-Performance Measurement,,
-Codes ,0003F ,No Longer Valid
-Performance Measurement,,
-Codes ,0004F ,No Longer Valid
-Performance Measurement,,
-Codes ,0005F ,Osteoarthritis Composite
-Performance Measurement,,
-Codes ,0006F ,No Longer Valid
-Performance Measurement,,
-Codes ,0007F ,No Longer Valid
-Performance Measurement,,
-Codes ,0008F ,No Longer Valid
-Performance Measurement,,
-Codes ,0009F ,No Longer Valid
-Performance Measurement,,
-Codes ,0010F ,No Longer Valid
-Performance Measurement,,
-Codes ,0011F ,No Longer Valid
-Performance Measurement,,
-Codes ,0012F ,Cap bacterial assess
-Performance Measurement,,
-Codes ,0014F ,Comp preop assess cat surg
-Performance Measurement,,
-Codes ,0015F ,Melan follow-up complete
-Performance Measurement,,
-Codes ,0500F ,Initial prenatal care visit
-Performance Measurement,,
-Codes ,0501F ,Prenatal flow sheet
-Performance Measurement,,
-Codes ,0502F ,Subsequent prenatal care
-Performance Measurement,,
-Codes ,0503F ,Postpartum care visit
-Product Line ,Code ,CPT-4 Procedure
-Performance Measurement,,
-Codes ,0505F ,Hemodialysis Plan Doc'D
-Performance Measurement,,
-Codes ,0507F ,Periton Dialysis Plan Doc'D
-Performance Measurement,,
-Codes ,0509F ,Urine Incon Plan Doc'D
-Performance Measurement,,
-Codes ,0513F ,Elev bp plan of care docd
-Performance Measurement,,
-Codes ,0514F ,Care plan hgb docd esa pt
-Performance Measurement,,
-Codes ,0516F ,Anemia plan of care docd
-Performance Measurement,,
-Codes ,0517F ,Glaucoma plan of care docd
-Performance Measurement,,
-Codes ,0518F ,Fall plan of care docd
-Performance Measurement,,
-Codes ,0519F ,Pland chemo docd b/4 txmnt
-Performance Measurement,,
-Codes ,0520F ,Rad dos limts b/4 3d rad
-Performance Measurement,,
-Codes ,0521F ,Plan of care 4 pain docd
-Performance Measurement,,
-Codes ,0525F ,Initial visit for episode
-Performance Measurement,,
-Codes ,0526F ,Subs visit for episode
-Performance Measurement,,
-Codes ,1000F ,Tobacco use assessed
-Performance Measurement ,,"No Longer Valid - 07 Tobacco use, non-"
-Codes ,1001F ,smoking
-Performance Measurement,,
-Codes ,1002F ,Assess anginal symptom/level
-Performance Measurement,,
-Codes ,1003F ,Level of activity assess
-Performance Measurement,,
-Codes ,1004F ,Clin symp vol ovrld assess
-Performance Measurement,,
-Codes ,1005F ,Asthma symptoms evaluate
-Performance Measurement,,
-Codes ,1006F ,Osteoarthritis assess
-Performance Measurement,,
-Codes ,1007F ,Anti-inflm/anlgsc otc assess
-Performance Measurement,,
-Codes ,1008F ,Gi/renal risk assess
-Performance Measurement,,
-Codes ,1015F ,COPD Symptoms Assess
-Performance Measurement,,
-Codes ,1018F ,Assess dyspnea not present
-Product Line ,Code ,CPT-4 Procedure
-Performance Measurement,,
-Codes ,1019F ,Assess dyspnea present
-Performance Measurement,,
-Codes ,1022F ,Pneumo imm status assess
-Performance Measurement,,
-Codes ,1026F ,Co-Morbid Condition Assess
-Performance Measurement,,
-Codes ,1030F ,Influenza imm status assess
-Performance Measurement,,
-Codes ,1034F ,Current Tobacco Smoker
-Performance Measurement,,
-Codes ,1035F ,Smokeless Tobacco User
-Performance Measurement,,
-Codes ,1036F ,Tobacco Non-User
-Performance Measurement,,
-Codes ,1038F ,Persistent Asthma
-Performance Measurement,,
-Codes ,1039F ,Intermittent Asthma
-Performance Measurement,,
-Codes ,1040F ,DSM-IV Info Mdd Doc'D
-Performance Measurement,,
-Codes ,1050F ,History Of Mole Changes
-Performance Measurement,,
-Codes ,1055F ,Visual Funct Status Assess
-Performance Measurement,,
-Codes ,1060F ,Doc perm/cont/parox atr. fib
-Performance Measurement,,
-Codes ,1061F ,Doc Lack Perm+Cont+Parox Fib
-Performance Measurement,,
-Codes ,1065F ,Ischm Stroke Symp LT3 Hrsb/4
-Performance Measurement,,
-Codes ,1066F ,Ischm Stroke Symp GE3 Hrsb/4
-Performance Measurement,,
-Codes ,1070F ,Alarm Symp Assessed-Absent
-Performance Measurement,,
-Codes ,1071F ,Alarm Symp Assessed-1+ Prsnt
-Performance Measurement ,,No Longer Valid - 09 Decis Mkr/Advncd Plan
-Codes ,1080F ,Doc'D
-Performance Measurement,,
-Codes ,1090F ,Pres/Absn Urine Incon Assess
-Performance Measurement,,
-Codes ,1091F ,Urine Incon Characterized
-Performance Measurement,,
-Codes ,1100F ,Ptfalls Assess-Doc'D GE2+/Yr
-Performance Measurement,,
-Codes ,1101F ,PT Falls Assess-Doc'D LE1/Yr
-Performance Measurement,,
-Codes ,1110F ,PT Lft Inpt Fac W/In 60 Days
-Product Line ,Code ,CPT-4 Procedure
-Performance Measurement,,
-Codes ,1111F ,Dschrg Med/Current Med Merge
-Performance Measurement,,
-Codes ,1116F ,Auric/peri pain assessed
-Performance Measurement,,
-Codes ,1118F ,Gerd symps assessed 12 month
-Performance Measurement,,
-Codes ,1119F ,Init eval for condition
-Performance Measurement,,
-Codes ,1121F ,Subs eval for condition
-Performance Measurement,,
-Codes ,1123F ,Acp discuss/dscn mkr docd
-Performance Measurement,,
-Codes ,1124F ,Acp discuss-no dscnmkr docd
-Performance Measurement,,
-Codes ,1125F ,Amnt pain noted pain prsnt
-Performance Measurement,,
-Codes ,1126F ,Amnt pain noted none prsnt
-Performance Measurement,,
-Codes ,1127F ,New episode for condition
-Performance Measurement,,
-Codes ,1128F ,Subs episode for condition
-Performance Measurement,,
-Codes ,1130F ,Bk pain + fxn assessed
-Performance Measurement,,
-Codes ,1134F ,Epsd bk pain for =< 6 wks
-Performance Measurement,,
-Codes ,1135F ,Epsd bk pain for > 6 wks
-Performance Measurement,,
-Codes ,1136F ,Epsd bk pain for <= 12 wks
-Performance Measurement,,
-Codes ,1137F ,Epsd bk pain for > 12 wks
-Performance Measurement,,
-Codes ,2000F ,Blood pressure measure
-Performance Measurement,,
-Codes ,2001F ,Weight record
-Performance Measurement,,
-Codes ,2002F ,Clin sign vol ovrld assess
-Performance Measurement ,,No Longer Valid - 07 Auscultation heart
-Codes ,2003F ,perform
-Performance Measurement,,
-Codes ,2004F ,Initial exam involved joints
-Performance Measurement,,
-Codes ,2010F ,Vital Signs Recorded
-Performance Measurement,,
-Codes ,2014F ,Mental Status Assess
-Performance Measurement,,
-Codes ,2018F ,Hydration Status Assess
-Product Line ,Code ,CPT-4 Procedure
-Performance Measurement,,
-Codes ,2019F ,Dilated Macul Exam Done
-Performance Measurement,,
-Codes ,2020F ,Dilated Fundus Eval Done
-Performance Measurement,,
-Codes ,2021F ,Dilat Macul+ Exam Done
-Performance Measurement,,
-Codes ,2022F ,Dil retina exam interp rev
-Performance Measurement,,
-Codes ,2024F ,7 field photo interp doc rev
-Performance Measurement,,
-Codes ,2026F ,Eye image valid to dx rev
-Performance Measurement,,
-Codes ,2027F ,Optic Nerve Head Eval Done
-Performance Measurement,,
-Codes ,2028F ,Foot Exam Performed
-Performance Measurement,,
-Codes ,2029F ,Complete Phys Skin Exam Done
-Performance Measurement,,
-Codes ,2030F ,"H2O Stat Doc'D, Normal"
-Performance Measurement,,
-Codes ,2031F ,"H2O Stat Doc'D, Dehydrated"
-Performance Measurement,,
-Codes ,2035F ,Tymp memb motion examd
-Performance Measurement,,
-Codes ,2040F ,Bk pn xm on init visit date
-Performance Measurement,,
-Codes ,2044F ,Doc mntl tst b/4 bk trxmnt
-Performance Measurement ,,No Longer Valid - 07 Blood press </= 140/90
-Codes ,3000F ,mmhg
-Performance Measurement ,,No Longer Valid - 07 Blood pressure > 140/90
-Codes ,3002F ,mmhg
-Performance Measurement,,
-Codes ,3006F ,Cxr doc rev
-Performance Measurement,,
-Codes ,3011F ,Lipid panel doc rev
-Performance Measurement,,
-Codes ,3014F ,Screen mammo doc rev
-Performance Measurement,,
-Codes ,3017F ,Colorectal ca screen doc rev
-Performance Measurement,,
-Codes ,3020F ,Lvf assess
-Performance Measurement,,
-Codes ,3021F ,Lvef mod/sever deprs syst
-Performance Measurement,,
-Codes ,3022F ,Lvef =40% systolic
-Performance Measurement,,
-Codes ,3023F ,Spirom doc rev
-Product Line ,Code ,CPT-4 Procedure
-Performance Measurement,,
-Codes ,3025F ,Spirom fev/fvc<70% w copd
-Performance Measurement,,
-Codes ,3027F ,Spirom fev/fvc=70%/ w/o copd
-Performance Measurement,,
-Codes ,3028F ,O2 saturation doc rev
-Performance Measurement,,
-Codes ,3035F ,O2 Saturation =88% /Pa0 =55
-Performance Measurement,,
-Codes ,3037F ,O2 Saturation> 88% /Pao>55
-Performance Measurement,,
-Codes ,3040F ,Fev<40% predicted value
-Performance Measurement,,
-Codes ,3042F ,Fev= 40% predicted value
-Performance Measurement,,
-Codes ,3044F ,HG A1C Level Lt 7.0%
-Performance Measurement,,
-Codes ,3045F ,HG A1C Level 7.0-9.0%
-Performance Measurement,,
-Codes ,3046F ,Hemoglobin A1C Level > 9.0%
-Performance Measurement ,,No Longer Valid - 08 Hemoglobin A1C Level =
-Codes ,3047F ,9.0%
-Performance Measurement,,
-Codes ,3048F ,LDL-C <100 Mg/Dl
-Performance Measurement,,
-Codes ,3049F ,LDL-C 100-129 Mg/Dl
-Performance Measurement,,
-Codes ,3050F ,LDL-C = 130 Mg/Dl
-Performance Measurement,,
-Codes ,3060F ,Pos microalbuminuria rev
-Performance Measurement,,
-Codes ,3061F ,Neg microalbuminuria rev
-Performance Measurement,,
-Codes ,3062F ,Pos macroalbuminuria rev
-Performance Measurement,,
-Codes ,3066F ,Nephropathy doc tx
-Performance Measurement,,
-Codes ,3072F ,Low Risk For Retinopathy
-Performance Measurement,,
-Codes ,3073F ,Pre-Surg Eye Measures Doc'D
-Performance Measurement,,
-Codes ,3074F ,Syst Bp Lt 130 Mm Hg
-Performance Measurement,,
-Codes ,3075F ,Syst Bp Ge 130 - 139Mm Hg
-Performance Measurement ,,No Longer Valid - 08 Systolic Blood Pressure
-Codes ,3076F ,< 140 Mm Hg
-Performance Measurement,,
-Codes ,3077F ,Syst bp = 140 mm hg6 it
-Product Line ,Code ,CPT-4 Procedure
-Performance Measurement,,
-Codes ,3078F ,Diast bp < 80 mm hg
-Performance Measurement,,
-Codes ,3079F ,Diast bp 80-89 mm hg
-Performance Measurement,,
-Codes ,3080F ,Diast bp = 90 mm hg
-Performance Measurement,,
-Codes ,3082F ,Kt/V Lt 1.2
-Performance Measurement,,
-Codes ,3083F ,Kt/V Ge 1.2 And <1.7
-Performance Measurement,,
-Codes ,3084F ,Kt/V Ge 1.7
-Performance Measurement,,
-Codes ,3085F ,Suicide Risk Assessed
-Performance Measurement,,
-Codes ,3088F ,"MDD, Mild"
-Performance Measurement,,
-Codes ,3089F ,"MDD, Moderate"
-Performance Measurement,,
-Codes ,3090F ,"MDD, Severe; W/O Psych"
-Performance Measurement,,
-Codes ,3091F ,"MDD, Severe; W/ Psych"
-Performance Measurement,,
-Codes ,3092F ,"MDD, In Remission"
-Performance Measurement,,
-Codes ,3093F ,Doc new diag 1st/addl. mdd
-Performance Measurement,,
-Codes ,3095F ,Central Dexa Results Doc'D
-Performance Measurement,,
-Codes ,3096F ,Central Dexa Ordered
-Performance Measurement,,
-Codes ,3100F ,Image Test Ref Carot Diam
-Performance Measurement,,
-Codes ,3110F ,Pres/Absn Hmrhg/Lesion Doc'D
-Performance Measurement,,
-Codes ,3111F ,CT/MRI Brain Done W/In 24Hrs
-Performance Measurement,,
-Codes ,3112F ,CT/MRI brain done gt24 hrs
-Performance Measurement,,
-Codes ,3120F ,12-Lead ECG Performed
-Performance Measurement,,
-Codes ,3130F ,Upper GI Endoscopy Performed
-Performance Measurement,,
-Codes ,3132F ,Doc ref. upper gi endoscopy
-Performance Measurement,,
-Codes ,3140F ,Upper GI Endo Shows Barrtt'S
-Performance Measurement,,
-Codes ,3141F ,Upper GI Endo Not Barrtt'S
-Product Line ,Code ,CPT-4 Procedure
-Performance Measurement,,
-Codes ,3142F ,Barium Swallow Test Ordered
-Performance Measurement,,
-Codes ,3150F ,Forceps Esoph Biopsy Done
-Performance Measurement,,
-Codes ,3155F ,Cytogen Test Marrow B/4 Tx
-Performance Measurement,,
-Codes ,3160F ,Doc Fe+ Stores B/4 Epo Thx
-Performance Measurement,,
-Codes ,3170F ,Flow Cyto Done B/4 Tx
-Performance Measurement,,
-Codes ,3200F ,Barium Swallow Test Not Req
-Performance Measurement,,
-Codes ,3210F ,Grp A Strep Test Performed
-Performance Measurement,,
-Codes ,3215F ,PT immunity to hep a docd
-Performance Measurement,,
-Codes ,3216F ,PT immunity to hep b docd
-Performance Measurement,,
-Codes ,3218F ,Rna tstng hep c docd-done
-Performance Measurement,,
-Codes ,3220F ,Hep c quant rna tstng docd
-Performance Measurement,,
-Codes ,3230F ,Note hring tst w/in 6 mon
-Performance Measurement,,
-Codes ,3260F ,PT cat/pn cat/hist grd docd
-Performance Measurement,,
-Codes ,3265F ,Rna tstng hepc vir ord/docd
-Performance Measurement,,
-Codes ,3266F ,Hepc gn tstng docd b/4txmnt
-Performance Measurement,,
-Codes ,3268F ,Psa/t/glsc docd b/4 txmnt
-Performance Measurement,,
-Codes ,3269F ,Bone scn b/4 txmnt/aftr dx
-Performance Measurement,,
-Codes ,3270F ,No bone scn b/4 txmnt/aftrdx
-Performance Measurement,,
-Codes ,3271F ,Low risk prostate cancer
-Performance Measurement,,
-Codes ,3272F ,Med risk prostate cancer
-Performance Measurement,,
-Codes ,3273F ,High risk prostate cancer
-Performance Measurement,,
-Codes ,3274F ,Prost cncr rsk not lw/md/hgh
-Performance Measurement,,
-Codes ,3278F ,Serum lvls ca/ipth/lpd ord
-Performance Measurement,,
-Codes ,3279F ,Hgb lvl >/= 13 g/dl
-Product Line ,Code ,CPT-4 Procedure
-Performance Measurement,,
-Codes ,3280F ,Hgb lvl 11-12.9 g/dl
-Performance Measurement,,
-Codes ,3281F ,Hgb lvl < 11 g/dl
-Performance Measurement,,
-Codes ,3284F ,Iop down >15% of pre-svc lvl
-Performance Measurement,,
-Codes ,3285F ,Iop down <15% of pre-svc lvl
-Performance Measurement,,
-Codes ,3288F ,Iop down <15% of pre-svc lvl
-Performance Measurement,,
-Codes ,3290F ,Pt=d(rh)- and unsensitized
-Performance Measurement,,
-Codes ,3291F ,Pt=d(rh)+ or sensitized
-Performance Measurement,,
-Codes ,3292F ,HIV tstng asked/docd/revwd
-Performance Measurement,,
-Codes ,3300F ,Ajcc stage docd b/4 thxpy
-Performance Measurement,,
-Codes ,3301F ,Cancer stage docd metast
-Performance Measurement,,
-Codes ,3302F ,Ajcc stage 0 doc'd
-Performance Measurement,,
-Codes ,3303F ,Ajcc stage ia docd
-Performance Measurement,,
-Codes ,3304F ,Ajcc stage ib docd
-Performance Measurement,,
-Codes ,3305F ,Ajcc stage ic docd
-Performance Measurement,,
-Codes ,3306F ,Ajcc stage iia docd
-Performance Measurement,,
-Codes ,3307F ,Ajcc stage iib docd
-Performance Measurement,,
-Codes ,3308F ,Ajcc stage iic docd
-Performance Measurement,,
-Codes ,3309F ,Ajcc stage iiia docd
-Performance Measurement,,
-Codes ,3310F ,Ajcc stage iiib docd
-Performance Measurement,,
-Codes ,3311F ,Ajcc stage iiic docd
-Performance Measurement,,
-Codes ,3312F ,Ajcc stage iva docd
-Performance Measurement,,
-Codes ,3315F ,Er+ or pr+ breast cancer
-Performance Measurement,,
-Codes ,3316F ,Er- or pr- breast cancer
-Performance Measurement,,
-Codes ,3317F ,Path rpt malig cancer docd
-Product Line ,Code ,CPT-4 Procedure
-Performance Measurement,,
-Codes ,3318F ,Path rpt malig cancer docd
-Performance Measurement,,
-Codes ,3319F ,X-ray/ct/ultrsnd et al ord
-Performance Measurement,,
-Codes ,3320F ,No xray/ct/ et al ordd
-Performance Measurement,,
-Codes ,3325F ,Preop asses 4 cataract surg
-Performance Measurement,,
-Codes ,3330F ,Imaging study ordered (bkp)
-Performance Measurement,,
-Codes ,3331F ,Bk imaging tst not ordered
-Performance Measurement,,
-Codes ,3340F ,Mammo assess inc xray docd
-Performance Measurement,,
-Codes ,3341F ,Mammo assess negative docd
-Performance Measurement,,
-Codes ,3342F ,Mammo assess bengn docd
-Performance Measurement,,
-Codes ,3343F ,Mammo probably bengn docd
-Performance Measurement,,
-Codes ,3344F ,"Mammo assess susp, docd"
-Performance Measurement,,
-Codes ,3345F ,Mammo assess hghlymalig doc
-Performance Measurement,,
-Codes ,3350F ,Mammo bx proven malig docd
-Performance Measurement,,
-Codes ,3351F ,Neg scrn dep symp by deptool
-Performance Measurement,,
-Codes ,3352F ,No sig dep symp by dep tool
-Performance Measurement,,
-Codes ,3353F ,Mild-mod dep symp by deptool
-Performance Measurement,,
-Codes ,3354F ,Clin sig dep sym by dep tool
-Performance Measurement,,
-Codes ,4000F ,Tobacco use txmnt counseling
-Performance Measurement,,
-Codes ,4001F ,"Tobacco use txmnt, pharmacol"
-Performance Measurement,,
-Codes ,4002F ,"Statin therapy, rx"
-Performance Measurement,,
-Codes ,4003F ,"PT ed write/oral, pts w/ hf"
-Performance Measurement,,
-Codes ,4005F ,Pharm Thx For Op Rx'D
-Performance Measurement,,
-Codes ,4006F ,Beta-blocker therapy rx
-Performance Measurement,,
-Codes ,4007F ,No Longer Valid - 09 No Longer Valid
-Product Line ,Code ,CPT-4 Procedure
-Performance Measurement,,
-Codes ,4009F ,Ace/arb inhibitor therapy rx
-Performance Measurement,,
-Codes ,4011F ,Oral antiplatelet therapy rx
-Performance Measurement,,
-Codes ,4012F ,Warfarin therapy rx
-Performance Measurement,,
-Codes ,4014F ,Written discharge instr prvd
-Performance Measurement,,
-Codes ,4015F ,Persist asthma medicine ctrl
-Performance Measurement,,
-Codes ,4016F ,Anti-inflm/anlgsc agent rx
-Performance Measurement,,
-Codes ,4017F ,Gi prophylaxis for nsaid rx
-Performance Measurement,,
-Codes ,4018F ,Therapy exercise joint rx
-Performance Measurement,,
-Codes ,4019F ,Doc Recpt Counsl Vit D/Calc+
-Performance Measurement,,
-Codes ,4025F ,Inhaled bronchodilator rx
-Performance Measurement,,
-Codes ,4030F ,Oxygen therapy rx
-Performance Measurement,,
-Codes ,4033F ,Pulmonary rehab rec
-Performance Measurement,,
-Codes ,4035F ,Influenza imm rec
-Performance Measurement,,
-Codes ,4037F ,Influenza imm order/admin
-Performance Measurement,,
-Codes ,4040F ,Pneumoc vac/admin/rcvd
-Performance Measurement,,
-Codes ,4041F ,Doc Order Cefazolin/Cefurox
-Performance Measurement,,
-Codes ,4042F ,Doc Antibio Not Given
-Performance Measurement,,
-Codes ,4043F ,Doc Order Given Stop Antibio
-Performance Measurement,,
-Codes ,4044F ,Doc Order Given Vte Prophylx
-Performance Measurement,,
-Codes ,4045F ,Empiric antibiotic rx
-Performance Measurement,,
-Codes ,4046F ,Doc Antibio Given B/4 Surg
-Performance Measurement,,
-Codes ,4047F ,Doc Antibio Given B/4 Surg
-Performance Measurement,,
-Codes ,4048F ,Doc Antibio Given B/4 Surg
-Performance Measurement,,
-Codes ,4049F ,Doc Order Given Stop Antibio
-Product Line ,Code ,CPT-4 Procedure
-Performance Measurement,,
-Codes ,4050F ,Ht Care Plan Doc
-Performance Measurement,,
-Codes ,4051F ,Referred For An Av Fistula
-Performance Measurement,,
-Codes ,4052F ,Hemodialysis Via Av Fistula
-Performance Measurement,,
-Codes ,4053F ,Hemodialysis Via Av Graft
-Performance Measurement,,
-Codes ,4054F ,Hemodialysis Via Catheter
-Performance Measurement,,
-Codes ,4055F ,Pt. rcvng periton dialysis
-Performance Measurement,,
-Codes ,4056F ,Approp. oral rehyd. recomm'd
-Performance Measurement,,
-Codes ,4058F ,"Ped Gastro Ed Given, Caregvr"
-Performance Measurement,,
-Codes ,4060F ,Psych Svcs Provided
-Performance Measurement,,
-Codes ,4062F ,PT Referral Psych Doc'D
-Performance Measurement,,
-Codes ,4064F ,Antidepressant Rx
-Performance Measurement,,
-Codes ,4065F ,Antipsychotic Rx
-Performance Measurement,,
-Codes ,4066F ,Ect Provided
-Performance Measurement,,
-Codes ,4067F ,PT Referral For Ect Doc'D
-Performance Measurement,,
-Codes ,4070F ,DVT Prophylx Recv'D Day 2
-Performance Measurement,,
-Codes ,4073F ,Oral Antiplat Thx Rx Dischrg
-Performance Measurement,,
-Codes ,4075F ,Anticoag Thx Rx At Dischrg
-Performance Measurement,,
-Codes ,4077F ,Doc T-Pa Admin Considered
-Performance Measurement,,
-Codes ,4079F ,Doc Rehab Svcs Considered
-Performance Measurement,,
-Codes ,4084F ,Aspirin Recv'D W/In 24 Hrs
-Performance Measurement,,
-Codes ,4090F ,PT Rcvng Epo Thxpy
-Performance Measurement,,
-Codes ,4095F ,PT Not Rcvng Epo Thxpy
-Performance Measurement,,
-Codes ,4100F ,Biphos Thxpy Vein Ord/Rec'Vd
-Performance Measurement,,
-Codes ,4110F ,Int. mam art used for cabg
-Product Line ,Code ,CPT-4 Procedure
-Performance Measurement,,
-Codes ,4115F ,Beta Blckr Admin W/In 24 Hrs
-Performance Measurement,,
-Codes ,4120F ,Antibiot Rx'D/Given
-Performance Measurement,,
-Codes ,4124F ,Antibiot Not Rx'D/Given
-Performance Measurement,,
-Codes ,4130F ,Topical prep rx aoe
-Performance Measurement,,
-Codes ,4131F ,Syst antimicrobial thx rx
-Performance Measurement,,
-Codes ,4132F ,No syst antimicrobial thx rx
-Performance Measurement,,
-Codes ,4133F ,Antihist/decong rx/recom
-Performance Measurement,,
-Codes ,4134F ,No antihist/decong rx/recom
-Performance Measurement,,
-Codes ,4135F ,Systemic corticosteroids rx
-Performance Measurement,,
-Codes ,4136F ,Syst corticosteroids not rx
-Performance Measurement,,
-Codes ,4150F ,PT recvng antivir txmnt hepc
-Performance Measurement,,
-Codes ,4151F ,PT not recvng antiv hep c
-Performance Measurement,,
-Codes ,4152F ,Docd pegintf/rib thxy consd
-Performance Measurement,,
-Codes ,4153F ,Combo pegintf/rib rx
-Performance Measurement,,
-Codes ,4154F ,Hep a vac series recommended
-Performance Measurement,,
-Codes ,4155F ,Hep a vac series prev recvd
-Performance Measurement,,
-Codes ,4156F ,Hep b vac series recommended
-Performance Measurement,,
-Codes ,4157F ,Hep b vac series prev recvd
-Performance Measurement,,
-Codes ,4158F ,PT edu re alcoh drnkng done
-Performance Measurement,,
-Codes ,4159F ,Contrcp talk b/4 antiv txmnt
-Performance Measurement,,
-Codes ,4163F ,PT couns 4 txmnt opt prost
-Performance Measurement,,
-Codes ,4164F ,Adjv hrmnl thxpy rxd
-Performance Measurement,,
-Codes ,4165F ,3d-crt/imrt) received
-Performance Measurement,,
-Codes ,4167F ,Hd bed tilted 1st day vent
-Product Line ,Code ,CPT-4 Procedure
-Performance Measurement,,
-Codes ,4168F ,PT care icu&vent w/in 24hrs
-Performance Measurement,,
-Codes ,4169F ,No pt care icu/vent in 24hrs
-Performance Measurement,,
-Codes ,4171F ,PT rcvng esa thxpy
-Performance Measurement,,
-Codes ,4172F ,PT not rcvng esa thxpy
-Performance Measurement,,
-Codes ,4174F ,Couns potent glauc impct
-Performance Measurement,,
-Codes ,4175F ,Vis of >= 20/40 w/in 90 days
-Performance Measurement,,
-Codes ,4176F ,Talk re uv light pt/crgvr
-Performance Measurement,,
-Codes ,4177F ,Talk pt/crgvr re areds prev
-Performance Measurement,,
-Codes ,4178F ,Antid glbln rcvd w/in 26wks
-Performance Measurement,,
-Codes ,4179F ,Tamoxifen/ai prescribed
-Performance Measurement,,
-Codes ,4180F ,Adjv thxpyrxd/rcvd stg3a-c
-Performance Measurement,,
-Codes ,4181F ,Conformal radn thxpy rcvd
-Performance Measurement,,
-Codes ,4182F ,No conformal radn thxpy
-Performance Measurement,,
-Codes ,4185F ,Continuous ppi or h2ra rcvd
-Performance Measurement,,
-Codes ,4186F ,No cont ppi or h2ra rcvd
-Performance Measurement,,
-Codes ,4187F ,Anti rheum drugthxpyrxd/gvn
-Performance Measurement,,
-Codes ,4188F ,Approp ace/arb tstng done
-Performance Measurement,,
-Codes ,4189F ,Approp digoxin tstng done
-Performance Measurement,,
-Codes ,4190F ,Approp diuretic tstng done
-Performance Measurement,,
-Codes ,4191F ,Approp anticonvuls tstng
-Performance Measurement,,
-Codes ,4200F ,External beam to prost only
-Performance Measurement,,
-Codes ,4201F ,Extrnl beam other than prost
-Performance Measurement,,
-Codes ,4210F ,Ace/arb thxpy for >= 6 mons
-Performance Measurement,,
-Codes ,4220F ,Digoxin thxpy for >= 6 mons
-Product Line ,Code ,CPT-4 Procedure
-Performance Measurement,,
-Codes ,4221F ,Diuretic thxpy for >= 6 mons
-Performance Measurement,,
-Codes ,4230F ,Anticonv thxpy for >= 6 mons
-Performance Measurement,,
-Codes ,4240F ,Instr xrcz 4bk pn >12 weeks
-Performance Measurement,,
-Codes ,4242F ,Sprvsd xrcz bk pn >12 weeks
-Performance Measurement,,
-Codes ,4245F ,PT instr nrml lifest
-Performance Measurement,,
-Codes ,4248F ,PT instr-no bd rest>= 4 days
-Performance Measurement,,
-Codes ,4250F ,Wrmng 4 surg - normothermia
-Performance Measurement,,
-Codes ,5005F ,PT Counsld On Exam For Moles
-Performance Measurement,,
-Codes ,5010F ,Macul+ Fndngs To Dr Mng Dm
-Performance Measurement,,
-Codes ,5015F ,Doc Fx & Test/Txmnt For Op
-Performance Measurement,,
-Codes ,5020F ,Txmnts 2 main dr by 1 mon
-Performance Measurement,,
-Codes ,5050F ,Plan 2 main dr. by 1 month
-Performance Measurement,,
-Codes ,5060F ,Fndngs mammo 2pt w/in 3 days
-Performance Measurement,,
-Codes ,5062F ,Doc f2fmammo fndng in 5 days
-Performance Measurement,,
-Codes ,6005F ,Care Level Rationale Doc
-Performance Measurement,,
-Codes ,6010F ,Dysphag Test Done B/4 Eating
-Performance Measurement,,
-Codes ,6015F ,Dysphag Test Done B/4 Eating
-Performance Measurement,,
-Codes ,6020F ,NPO (Nothing-Mouth) Ordered
-Performance Measurement,,
-Codes ,6030F ,Max sterile barriers follwd
-Performance Measurement,,
-Codes ,6040F ,Appro rad ds dvcs techs docd
-Performance Measurement,,
-Codes ,6045F ,Radxps in end rprt4fluro pxd
-Performance Measurement,,
-Codes ,7010F ,PT info into recall system
-Performance Measurement,,
-Codes ,7020F ,Mammo assess cat in dbase
-Performance Measurement,,
-Codes ,7025F ,PT infosys alarm 4 nxt mammo
-Product Line ,Code ,CPT-4 Procedure
-,,Future-Intradiscal electrothermal therapy-
-Physical Medicine and Rehab ,#0047 ,discogenic pain
+Performance Measurement Codes ,0001F ,Heart Failure Composite
+Performance Measurement Codes ,0002F ,No Longer Valid
+Performance Measurement Codes ,0003F ,No Longer Valid
+Performance Measurement Codes ,0004F ,No Longer Valid
+Performance Measurement Codes ,0005F ,Osteoarthritis Composite
+Performance Measurement Codes ,0006F ,No Longer Valid
+Performance Measurement Codes ,0007F ,No Longer Valid
+Performance Measurement Codes ,0008F ,No Longer Valid
+Performance Measurement Codes ,0009F ,No Longer Valid
+Performance Measurement Codes ,0010F ,No Longer Valid
+Performance Measurement Codes ,0011F ,No Longer Valid
+Performance Measurement Codes ,0012F ,Cap bacterial assess
+Performance Measurement Codes ,0014F ,Comp preop assess cat surg
+Performance Measurement Codes ,0015F ,Melan follow-up complete
+Performance Measurement Codes ,0500F ,Initial prenatal care visit
+Performance Measurement Codes ,0501F ,Prenatal flow sheet
+Performance Measurement Codes ,0502F ,Subsequent prenatal care
+Performance Measurement Codes ,0503F ,Postpartum care visit
+Performance Measurement Codes ,0505F ,Hemodialysis Plan Doc'D
+Performance Measurement Codes ,0507F ,Periton Dialysis Plan Doc'D
+Performance Measurement Codes ,0509F ,Urine Incon Plan Doc'D
+Performance Measurement Codes ,0513F ,Elev bp plan of care docd
+Performance Measurement Codes ,0514F ,Care plan hgb docd esa pt
+Performance Measurement Codes ,0516F ,Anemia plan of care docd
+Performance Measurement Codes ,0517F ,Glaucoma plan of care docd
+Performance Measurement Codes ,0518F ,Fall plan of care docd
+Performance Measurement Codes ,0519F ,Pland chemo docd b/4 txmnt
+Performance Measurement Codes ,0520F ,Rad dos limts b/4 3d rad
+Performance Measurement Codes ,0521F ,Plan of care 4 pain docd
+Performance Measurement Codes ,0525F ,Initial visit for episode
+Performance Measurement Codes ,0526F ,Subs visit for episode
+Performance Measurement Codes ,1000F ,Tobacco use assessed
+Performance Measurement Codes ,1001F ,"No Longer Valid - 07 Tobacco use, non-smoking"
+Performance Measurement Codes ,1002F ,Assess anginal symptom/level
+Performance Measurement Codes ,1003F ,Level of activity assess
+Performance Measurement Codes ,1004F ,Clin symp vol ovrld assess
+Performance Measurement Codes ,1005F ,Asthma symptoms evaluate
+Performance Measurement Codes ,1006F ,Osteoarthritis assess
+Performance Measurement Codes ,1007F ,Anti-inflm/anlgsc otc assess
+Performance Measurement Codes ,1008F ,Gi/renal risk assess
+Performance Measurement Codes ,1015F ,COPD Symptoms Assess
+Performance Measurement Codes ,1018F ,Assess dyspnea not present
+Performance Measurement Codes ,1019F ,Assess dyspnea present
+Performance Measurement Codes ,1022F ,Pneumo imm status assess
+Performance Measurement Codes ,1026F ,Co-Morbid Condition Assess
+Performance Measurement Codes ,1030F ,Influenza imm status assess
+Performance Measurement Codes ,1034F ,Current Tobacco Smoker
+Performance Measurement Codes ,1035F ,Smokeless Tobacco User
+Performance Measurement Codes ,1036F ,Tobacco Non-User
+Performance Measurement Codes ,1038F ,Persistent Asthma
+Performance Measurement Codes ,1039F ,Intermittent Asthma
+Performance Measurement Codes ,1040F ,DSM-IV Info Mdd Doc'D
+Performance Measurement Codes ,1050F ,History Of Mole Changes
+Performance Measurement Codes ,1055F ,Visual Funct Status Assess
+Performance Measurement Codes ,1060F ,Doc perm/cont/parox atr. fib
+Performance Measurement Codes ,1061F ,Doc Lack Perm+Cont+Parox Fib
+Performance Measurement Codes ,1065F ,Ischm Stroke Symp LT3 Hrsb/4
+Performance Measurement Codes ,1066F ,Ischm Stroke Symp GE3 Hrsb/4
+Performance Measurement Codes ,1070F ,Alarm Symp Assessed-Absent
+Performance Measurement Codes ,1071F ,Alarm Symp Assessed-1+ Prsnt
+Performance Measurement Codes ,1080F ,No Longer Valid - 09 Decis Mkr/Advncd Plan Doc'D
+Performance Measurement Codes ,1090F ,Pres/Absn Urine Incon Assess
+Performance Measurement Codes ,1091F ,Urine Incon Characterized
+Performance Measurement Codes ,1100F ,Ptfalls Assess-Doc'D GE2+/Yr
+Performance Measurement Codes ,1101F ,PT Falls Assess-Doc'D LE1/Yr
+Performance Measurement Codes ,1110F ,PT Lft Inpt Fac W/In 60 Days
+Performance Measurement Codes ,1111F ,Dschrg Med/Current Med Merge
+Performance Measurement Codes ,1116F ,Auric/peri pain assessed
+Performance Measurement Codes ,1118F ,Gerd symps assessed 12 month
+Performance Measurement Codes ,1119F ,Init eval for condition
+Performance Measurement Codes ,1121F ,Subs eval for condition
+Performance Measurement Codes ,1123F ,Acp discuss/dscn mkr docd
+Performance Measurement Codes ,1124F ,Acp discuss-no dscnmkr docd
+Performance Measurement Codes ,1125F ,Amnt pain noted pain prsnt
+Performance Measurement Codes ,1126F ,Amnt pain noted none prsnt
+Performance Measurement Codes ,1127F ,New episode for condition
+Performance Measurement Codes ,1128F ,Subs episode for condition
+Performance Measurement Codes ,1130F ,Bk pain + fxn assessed
+Performance Measurement Codes ,1134F ,Epsd bk pain for =< 6 wks
+Performance Measurement Codes ,1135F ,Epsd bk pain for > 6 wks
+Performance Measurement Codes ,1136F ,Epsd bk pain for <= 12 wks
+Performance Measurement Codes ,1137F ,Epsd bk pain for > 12 wks
+Performance Measurement Codes ,2000F ,Blood pressure measure
+Performance Measurement Codes ,2001F ,Weight record
+Performance Measurement Codes ,2002F ,Clin sign vol ovrld assess
+Performance Measurement Codes ,2003F ,No Longer Valid - 07 Auscultation hear perform
+Performance Measurement Codes ,2004F ,Initial exam involved joints
+Performance Measurement Codes ,2010F ,Vital Signs Recorded
+Performance Measurement Codes ,2014F ,Mental Status Assess
+Performance Measurement Codes ,2018F ,Hydration Status Assess
+Performance Measurement Codes ,2019F ,Dilated Macul Exam Done
+Performance Measurement Codes ,2020F ,Dilated Fundus Eval Done
+Performance Measurement Codes ,2021F ,Dilat Macul+ Exam Done
+Performance Measurement Codes ,2022F ,Dil retina exam interp rev
+Performance Measurement Codes ,2024F ,7 field photo interp doc rev
+Performance Measurement Codes ,2026F ,Eye image valid to dx rev
+Performance Measurement Codes ,2027F ,Optic Nerve Head Eval Done
+Performance Measurement Codes ,2028F ,Foot Exam Performed
+Performance Measurement Codes ,2029F ,Complete Phys Skin Exam Done
+Performance Measurement Codes ,2030F ,"H2O Stat Doc'D, Normal"
+Performance Measurement Codes ,2031F ,"H2O Stat Doc'D, Dehydrated"
+Performance Measurement Codes ,2035F ,Tymp memb motion examd
+Performance Measurement Codes ,2040F ,Bk pn xm on init visit date
+Performance Measurement Codes ,2044F ,Doc mntl tst b/4 bk trxmnt
+Performance Measurement Codes ,3000F ,No Longer Valid - 07 Blood press </= 140/90 mmhg
+Performance Measurement Codes ,3002F ,No Longer Valid - 07 Blood pressure > 140/90 mmhg
+Performance Measurement Codes ,3006F ,Cxr doc rev
+Performance Measurement Codes ,3011F ,Lipid panel doc rev
+Performance Measurement Codes ,3014F ,Screen mammo doc rev
+Performance Measurement Codes ,3017F ,Colorectal ca screen doc rev
+Performance Measurement Codes ,3020F ,Lvf assess
+Performance Measurement Codes ,3021F ,Lvef mod/sever deprs syst
+Performance Measurement Codes ,3022F ,Lvef =40% systolic
+Performance Measurement Codes ,3023F ,Spirom doc rev
+Performance Measurement Codes ,3025F ,Spirom fev/fvc<70% w copd
+Performance Measurement Codes ,3027F ,Spirom fev/fvc=70%/ w/o copd
+Performance Measurement Codes ,3028F ,O2 saturation doc rev
+Performance Measurement Codes ,3035F ,O2 Saturation =88% /Pa0 =55
+Performance Measurement Codes ,3037F ,O2 Saturation> 88% /Pao>55
+Performance Measurement Codes ,3040F ,Fev<40% predicted value
+Performance Measurement Codes ,3042F ,Fev= 40% predicted value
+Performance Measurement Codes ,3044F ,HG A1C Level Lt 7.0%
+Performance Measurement Codes ,3045F ,HG A1C Level 7.0-9.0%
+Performance Measurement Codes ,3046F ,Hemoglobin A1C Level > 9.0%
+Performance Measurement Codes ,3047F ,No Longer Valid - 08 Hemoglobin A1C Level = 9.0%
+Performance Measurement Codes ,3048F ,LDL-C <100 Mg/Dl
+Performance Measurement Codes ,3049F ,LDL-C 100-129 Mg/Dl
+Performance Measurement Codes ,3050F ,LDL-C = 130 Mg/Dl
+Performance Measurement Codes ,3060F ,Pos microalbuminuria rev
+Performance Measurement Codes ,3061F ,Neg microalbuminuria rev
+Performance Measurement Codes ,3062F ,Pos macroalbuminuria rev
+Performance Measurement Codes ,3066F ,Nephropathy doc tx
+Performance Measurement Codes ,3072F ,Low Risk For Retinopathy
+Performance Measurement Codes ,3073F ,Pre-Surg Eye Measures Doc'D
+Performance Measurement Codes ,3074F ,Syst Bp Lt 130 Mm Hg
+Performance Measurement Codes ,3075F ,Syst Bp Ge 130 - 139Mm Hg
+Performance Measurement Codes ,3076F ,,No Longer Valid - 08 Systolic Blood Pressure < 140 Mm Hg
+Performance Measurement Codes ,3077F ,Syst bp = 140 mm hg6 it
+Performance Measurement Codes ,3078F ,Diast bp < 80 mm hg
+Performance Measurement Codes ,3079F ,Diast bp 80-89 mm hg
+Performance Measurement Codes ,3080F ,Diast bp = 90 mm hg
+Performance Measurement Codes ,3082F ,Kt/V Lt 1.2
+Performance Measurement Codes ,3083F ,Kt/V Ge 1.2 And <1.7
+Performance Measurement Codes ,3084F ,Kt/V Ge 1.7
+Performance Measurement Codes ,3085F ,Suicide Risk Assessed
+Performance Measurement Codes ,3088F ,"MDD, Mild"
+Performance Measurement Codes ,3089F ,"MDD, Moderate"
+Performance Measurement Codes ,3090F ,"MDD, Severe; W/O Psych"
+Performance Measurement Codes ,3091F ,"MDD, Severe; W/ Psych"
+Performance Measurement Codes ,3092F ,"MDD, In Remission"
+Performance Measurement Codes ,3093F ,Doc new diag 1st/addl. mdd
+Performance Measurement Codes ,3095F ,Central Dexa Results Doc'D
+Performance Measurement Codes ,3096F ,Central Dexa Ordered
+Performance Measurement Codes ,3100F ,Image Test Ref Carot Diam
+Performance Measurement Codes ,3110F ,Pres/Absn Hmrhg/Lesion Doc'D
+Performance Measurement Codes ,3111F ,CT/MRI Brain Done W/In 24Hrs
+Performance Measurement Codes ,3112F ,CT/MRI brain done gt24 hrs
+Performance Measurement Codes ,3120F ,12-Lead ECG Performed
+Performance Measurement Codes ,3130F ,Upper GI Endoscopy Performed
+Performance Measurement Codes ,3132F ,Doc ref. upper gi endoscopy
+Performance Measurement Codes ,3140F ,Upper GI Endo Shows Barrtt'S
+Performance Measurement Codes ,3141F ,Upper GI Endo Not Barrtt'S
+Performance Measurement Codes ,3142F ,Barium Swallow Test Ordered
+Performance Measurement Codes ,3150F ,Forceps Esoph Biopsy Done
+Performance Measurement Codes ,3155F ,Cytogen Test Marrow B/4 Tx
+Performance Measurement Codes ,3160F ,Doc Fe+ Stores B/4 Epo Thx
+Performance Measurement Codes ,3170F ,Flow Cyto Done B/4 Tx
+Performance Measurement Codes ,3200F ,Barium Swallow Test Not Req
+Performance Measurement Codes ,3210F ,Grp A Strep Test Performed
+Performance Measurement Codes ,3215F ,PT immunity to hep a docd
+Performance Measurement Codes ,3216F ,PT immunity to hep b docd
+Performance Measurement Codes ,3218F ,Rna tstng hep c docd-done
+Performance Measurement Codes ,3220F ,Hep c quant rna tstng docd
+Performance Measurement Codes ,3230F ,Note hring tst w/in 6 mon
+Performance Measurement Codes ,3260F ,PT cat/pn cat/hist grd docd
+Performance Measurement Codes ,3265F ,Rna tstng hepc vir ord/docd
+Performance Measurement Codes ,3266F ,Hepc gn tstng docd b/4txmnt
+Performance Measurement Codes ,3268F ,Psa/t/glsc docd b/4 txmnt
+Performance Measurement Codes ,3269F ,Bone scn b/4 txmnt/aftr dx
+Performance Measurement Codes ,3270F ,No bone scn b/4 txmnt/aftrdx
+Performance Measurement Codes ,3271F ,Low risk prostate cancer
+Performance Measurement Codes ,3272F ,Med risk prostate cancer
+Performance Measurement Codes ,3273F ,High risk prostate cancer
+Performance Measurement Codes ,3274F ,Prost cncr rsk not lw/md/hgh
+Performance Measurement Codes ,3278F ,Serum lvls ca/ipth/lpd ord
+Performance Measurement Codes ,3279F ,Hgb lvl >/= 13 g/dl
+Performance Measurement Codes ,3280F ,Hgb lvl 11-12.9 g/dl
+Performance Measurement Codes ,3281F ,Hgb lvl < 11 g/dl
+Performance Measurement Codes ,3284F ,Iop down >15% of pre-svc lvl
+Performance Measurement Codes ,3285F ,Iop down <15% of pre-svc lvl
+Performance Measurement Codes ,3288F ,Iop down <15% of pre-svc lvl
+Performance Measurement Codes ,3290F ,Pt=d(rh)- and unsensitized
+Performance Measurement Codes ,3291F ,Pt=d(rh)+ or sensitized
+Performance Measurement Codes ,3292F ,HIV tstng asked/docd/revwd
+Performance Measurement Codes ,3300F ,Ajcc stage docd b/4 thxpy
+Performance Measurement Codes ,3301F ,Cancer stage docd metast
+Performance Measurement Codes ,3302F ,Ajcc stage 0 doc'd
+Performance Measurement Codes ,3303F ,Ajcc stage ia docd
+Performance Measurement Codes ,3304F ,Ajcc stage ib docd
+Performance Measurement Codes ,3305F ,Ajcc stage ic docd
+Performance Measurement Codes ,3306F ,Ajcc stage iia docd
+Performance Measurement Codes ,3307F ,Ajcc stage iib docd
+Performance Measurement Codes ,3308F ,Ajcc stage iic docd
+Performance Measurement Codes ,3309F ,Ajcc stage iiia docd
+Performance Measurement Codes ,3310F ,Ajcc stage iiib docd
+Performance Measurement Codes ,3311F ,Ajcc stage iiic docd
+Performance Measurement Codes ,3312F ,Ajcc stage iva docd
+Performance Measurement Codes ,3315F ,Er+ or pr+ breast cancer
+Performance Measurement Codes ,3316F ,Er- or pr- breast cancer
+Performance Measurement Codes ,3317F ,Path rpt malig cancer docd
+Performance Measurement Codes ,3318F ,Path rpt malig cancer docd
+Performance Measurement Codes ,3319F ,X-ray/ct/ultrsnd et al ord
+Performance Measurement Codes ,3320F ,No xray/ct/ et al ordd
+Performance Measurement Codes ,3325F ,Preop asses 4 cataract surg
+Performance Measurement Codes ,3330F ,Imaging study ordered (bkp)
+Performance Measurement Codes ,3331F ,Bk imaging tst not ordered
+Performance Measurement Codes ,3340F ,Mammo assess inc xray docd
+Performance Measurement Codes ,3341F ,Mammo assess negative docd
+Performance Measurement Codes ,3342F ,Mammo assess bengn docd
+Performance Measurement Codes ,3343F ,Mammo probably bengn docd
+Performance Measurement Codes ,3344F ,"Mammo assess susp, docd"
+Performance Measurement Codes ,3345F ,Mammo assess hghlymalig doc
+Performance Measurement Codes ,3350F ,Mammo bx proven malig docd
+Performance Measurement Codes ,3351F ,Neg scrn dep symp by deptool
+Performance Measurement Codes ,3352F ,No sig dep symp by dep tool
+Performance Measurement Codes ,3353F ,Mild-mod dep symp by deptool
+Performance Measurement Codes ,3354F ,Clin sig dep sym by dep tool
+Performance Measurement Codes ,4000F ,Tobacco use txmnt counseling
+Performance Measurement Codes ,4001F ,"Tobacco use txmnt, pharmacol"
+Performance Measurement Codes ,4002F ,"Statin therapy, rx"
+Performance Measurement Codes ,4003F ,"PT ed write/oral, pts w/ hf"
+Performance Measurement Codes ,4005F ,Pharm Thx For Op Rx'D
+Performance Measurement Codes ,4006F ,Beta-blocker therapy rx
+Performance Measurement Codes ,4007F ,No Longer Valid - 09 No Longer Valid
+Performance Measurement Codes ,4009F ,Ace/arb inhibitor therapy rx
+Performance Measurement Codes ,4011F ,Oral antiplatelet therapy rx
+Performance Measurement Codes ,4012F ,Warfarin therapy rx
+Performance Measurement Codes ,4014F ,Written discharge instr prvd
+Performance Measurement Codes ,4015F ,Persist asthma medicine ctrl
+Performance Measurement Codes ,4016F ,Anti-inflm/anlgsc agent rx
+Performance Measurement Codes ,4017F ,Gi prophylaxis for nsaid rx
+Performance Measurement Codes ,4018F ,Therapy exercise joint rx
+Performance Measurement Codes ,4019F ,Doc Recpt Counsl Vit D/Calc+
+Performance Measurement Codes ,4025F ,Inhaled bronchodilator rx
+Performance Measurement Codes ,4030F ,Oxygen therapy rx
+Performance Measurement Codes ,4033F ,Pulmonary rehab rec
+Performance Measurement Codes ,4035F ,Influenza imm rec
+Performance Measurement Codes ,4037F ,Influenza imm order/admin
+Performance Measurement Codes ,4040F ,Pneumoc vac/admin/rcvd
+Performance Measurement Codes ,4041F ,Doc Order Cefazolin/Cefurox
+Performance Measurement Codes ,4042F ,Doc Antibio Not Given
+Performance Measurement Codes ,4043F ,Doc Order Given Stop Antibio
+Performance Measurement Codes ,4044F ,Doc Order Given Vte Prophylx
+Performance Measurement Codes ,4045F ,Empiric antibiotic rx
+Performance Measurement Codes ,4046F ,Doc Antibio Given B/4 Surg
+Performance Measurement Codes ,4047F ,Doc Antibio Given B/4 Surg
+Performance Measurement Codes ,4048F ,Doc Antibio Given B/4 Surg
+Performance Measurement Codes ,4049F ,Doc Order Given Stop Antibio
+Performance Measurement Codes ,4050F ,Ht Care Plan Doc
+Performance Measurement Codes ,4051F ,Referred For An Av Fistula
+Performance Measurement Codes ,4052F ,Hemodialysis Via Av Fistula
+Performance Measurement Codes ,4053F ,Hemodialysis Via Av Graft
+Performance Measurement Codes ,4054F ,Hemodialysis Via Catheter
+Performance Measurement Codes ,4055F ,Pt. rcvng periton dialysis
+Performance Measurement Codes ,4056F ,Approp. oral rehyd. recomm'd
+Performance Measurement Codes ,4058F ,"Ped Gastro Ed Given, Caregvr"
+Performance Measurement Codes ,4060F ,Psych Svcs Provided
+Performance Measurement Codes ,4062F ,PT Referral Psych Doc'D
+Performance Measurement Codes ,4064F ,Antidepressant Rx
+Performance Measurement Codes ,4065F ,Antipsychotic Rx
+Performance Measurement Codes ,4066F ,Ect Provided
+Performance Measurement Codes ,4067F ,PT Referral For Ect Doc'D
+Performance Measurement Codes ,4070F ,DVT Prophylx Recv'D Day 2
+Performance Measurement Codes ,4073F ,Oral Antiplat Thx Rx Dischrg
+Performance Measurement Codes ,4075F ,Anticoag Thx Rx At Dischrg
+Performance Measurement Codes ,4077F ,Doc T-Pa Admin Considered
+Performance Measurement Codes ,4079F ,Doc Rehab Svcs Considered
+Performance Measurement Codes ,4084F ,Aspirin Recv'D W/In 24 Hrs
+Performance Measurement Codes ,4090F ,PT Rcvng Epo Thxpy
+Performance Measurement Codes ,4095F ,PT Not Rcvng Epo Thxpy
+Performance Measurement Codes ,4100F ,Biphos Thxpy Vein Ord/Rec'Vd
+Performance Measurement Codes ,4110F ,Int. mam art used for cabg
+Performance Measurement Codes ,4115F ,Beta Blckr Admin W/In 24 Hrs
+Performance Measurement Codes ,4120F ,Antibiot Rx'D/Given
+Performance Measurement Codes ,4124F ,Antibiot Not Rx'D/Given
+Performance Measurement Codes ,4130F ,Topical prep rx aoe
+Performance Measurement Codes ,4131F ,Syst antimicrobial thx rx
+Performance Measurement Codes ,4132F ,No syst antimicrobial thx rx
+Performance Measurement Codes ,4133F ,Antihist/decong rx/recom
+Performance Measurement Codes ,4134F ,No antihist/decong rx/recom
+Performance Measurement Codes ,4135F ,Systemic corticosteroids rx
+Performance Measurement Codes ,4136F ,Syst corticosteroids not rx
+Performance Measurement Codes ,4150F ,PT recvng antivir txmnt hepc
+Performance Measurement Codes ,4151F ,PT not recvng antiv hep c
+Performance Measurement Codes ,4152F ,Docd pegintf/rib thxy consd
+Performance Measurement Codes ,4153F ,Combo pegintf/rib rx
+Performance Measurement Codes ,4154F ,Hep a vac series recommended
+Performance Measurement Codes ,4155F ,Hep a vac series prev recvd
+Performance Measurement Codes ,4156F ,Hep b vac series recommended
+Performance Measurement Codes ,4157F ,Hep b vac series prev recvd
+Performance Measurement Codes ,4158F ,PT edu re alcoh drnkng done
+Performance Measurement Codes ,4159F ,Contrcp talk b/4 antiv txmnt
+Performance Measurement Codes ,4163F ,PT couns 4 txmnt opt prost
+Performance Measurement Codes ,4164F ,Adjv hrmnl thxpy rxd
+Performance Measurement Codes ,4165F ,3d-crt/imrt) received
+Performance Measurement Codes ,4167F ,Hd bed tilted 1st day vent
+Performance Measurement Codes ,4168F ,PT care icu&vent w/in 24hrs
+Performance Measurement Codes ,4169F ,No pt care icu/vent in 24hrs
+Performance Measurement Codes ,4171F ,PT rcvng esa thxpy
+Performance Measurement Codes ,4172F ,PT not rcvng esa thxpy
+Performance Measurement Codes ,4174F ,Couns potent glauc impct
+Performance Measurement Codes ,4175F ,Vis of >= 20/40 w/in 90 days
+Performance Measurement Codes ,4176F ,Talk re uv light pt/crgvr
+Performance Measurement Codes ,4177F ,Talk pt/crgvr re areds prev
+Performance Measurement Codes ,4178F ,Antid glbln rcvd w/in 26wks
+Performance Measurement Codes ,4179F ,Tamoxifen/ai prescribed
+Performance Measurement Codes ,4180F ,Adjv thxpyrxd/rcvd stg3a-c
+Performance Measurement Codes ,4181F ,Conformal radn thxpy rcvd
+Performance Measurement Codes ,4182F ,No conformal radn thxpy
+Performance Measurement Codes ,4185F ,Continuous ppi or h2ra rcvd
+Performance Measurement Codes ,4186F ,No cont ppi or h2ra rcvd
+Performance Measurement Codes ,4187F ,Anti rheum drugthxpyrxd/gvn
+Performance Measurement Codes ,4188F ,Approp ace/arb tstng done
+Performance Measurement Codes ,4189F ,Approp digoxin tstng done
+Performance Measurement Codes ,4190F ,Approp diuretic tstng done
+Performance Measurement Codes ,4191F ,Approp anticonvuls tstng
+Performance Measurement Codes ,4200F ,External beam to prost only
+Performance Measurement Codes ,4201F ,Extrnl beam other than prost
+Performance Measurement Codes ,4210F ,Ace/arb thxpy for >= 6 mons
+Performance Measurement Codes ,4220F ,Digoxin thxpy for >= 6 mons
+Performance Measurement Codes ,4221F ,Diuretic thxpy for >= 6 mons
+Performance Measurement Codes ,4230F ,Anticonv thxpy for >= 6 mons
+Performance Measurement Codes ,4240F ,Instr xrcz 4bk pn >12 weeks
+Performance Measurement Codes ,4242F ,Sprvsd xrcz bk pn >12 weeks
+Performance Measurement Codes ,4245F ,PT instr nrml lifest
+Performance Measurement Codes ,4248F ,PT instr-no bd rest>= 4 days
+Performance Measurement Codes ,4250F ,Wrmng 4 surg - normothermia
+Performance Measurement Codes ,5005F ,PT Counsld On Exam For Moles
+Performance Measurement Codes ,5010F ,Macul+ Fndngs To Dr Mng Dm
+Performance Measurement Codes ,5015F ,Doc Fx & Test/Txmnt For Op
+Performance Measurement Codes ,5020F ,Txmnts 2 main dr by 1 mon
+Performance Measurement Codes ,5050F ,Plan 2 main dr. by 1 month
+Performance Measurement Codes ,5060F ,Fndngs mammo 2pt w/in 3 days
+Performance Measurement Codes ,5062F ,Doc f2fmammo fndng in 5 days
+Performance Measurement Codes ,6005F ,Care Level Rationale Doc
+Performance Measurement Codes ,6010F ,Dysphag Test Done B/4 Eating
+Performance Measurement Codes ,6015F ,Dysphag Test Done B/4 Eating
+Performance Measurement Codes ,6020F ,NPO (Nothing-Mouth) Ordered
+Performance Measurement Codes ,6030F ,Max sterile barriers follwd
+Performance Measurement Codes ,6040F ,Appro rad ds dvcs techs docd
+Performance Measurement Codes ,6045F ,Radxps in end rprt4fluro pxd
+Performance Measurement Codes ,7010F ,PT info into recall system
+Performance Measurement Codes ,7020F ,Mammo assess cat in dbase
+Performance Measurement Codes ,7025F ,PT infosys alarm 4 nxt mammo
+Physical Medicine and Rehab ,#0047 ,Future-Intradiscal electrothermal therapy-discogenic pain
 Physical Medicine and Rehab ,92506 ,Speech/hearing evaluation
 Physical Medicine and Rehab ,92507 ,Speech/hearing therapy
 Physical Medicine and Rehab ,92508 ,Speech/hearing therapy
