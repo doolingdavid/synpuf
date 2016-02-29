@@ -8701,7 +8701,6 @@ Surgery - Musculoskeletal Sys ,25375 ,Revise radius & ulna
 Surgery - Musculoskeletal Sys ,25390 ,Shorten radius or ulna
 Surgery - Musculoskeletal Sys ,25391 ,Lengthen radius or ulna
 Surgery - Musculoskeletal Sys ,25392 ,Shorten radius & ulna
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,25393 ,Lengthen radius & ulna
 Surgery - Musculoskeletal Sys ,25394 ,"Repair carpal bone, shorten"
 Surgery - Musculoskeletal Sys ,25400 ,Repair radius or ulna
@@ -8726,7 +8725,6 @@ Surgery - Musculoskeletal Sys ,25455 ,Revision of wrist joint
 Surgery - Musculoskeletal Sys ,25490 ,Reinforce radius
 Surgery - Musculoskeletal Sys ,25491 ,Reinforce ulna
 Surgery - Musculoskeletal Sys ,25492 ,Reinforce radius and ulna
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,25500 ,Treat fracture of radius
 Surgery - Musculoskeletal Sys ,25505 ,Treat fracture of radius
 Surgery - Musculoskeletal Sys ,25510 ,No Longer Valid
@@ -8751,7 +8749,6 @@ Surgery - Musculoskeletal Sys ,25608 ,Treat fx rad intra-articul
 Surgery - Musculoskeletal Sys ,25609 ,Treat fx radial 3+ frag
 Surgery - Musculoskeletal Sys ,25610 ,No Longer Valid
 Surgery - Musculoskeletal Sys ,25611 ,No Longer Valid - 07 Treat fracture radius/ulna
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,25615 ,No Longer Valid
 Surgery - Musculoskeletal Sys ,25620 ,No Longer Valid - 07 Treat fracture radius/ulna
 Surgery - Musculoskeletal Sys ,25622 ,Treat wrist bone fracture
@@ -8776,7 +8773,6 @@ Surgery - Musculoskeletal Sys ,25685 ,Treat wrist fracture
 Surgery - Musculoskeletal Sys ,25690 ,Treat wrist dislocation
 Surgery - Musculoskeletal Sys ,25695 ,Treat wrist dislocation
 Surgery - Musculoskeletal Sys ,25800 ,Fusion of wrist joint
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,25805 ,Fusion/graft of wrist joint
 Surgery - Musculoskeletal Sys ,25810 ,Fusion/graft of wrist joint
 Surgery - Musculoskeletal Sys ,25820 ,Fusion of hand bones
@@ -8801,7 +8797,6 @@ Surgery - Musculoskeletal Sys ,26025 ,Drainage of palm bursa
 Surgery - Musculoskeletal Sys ,26030 ,Drainage of palm bursa(s)
 Surgery - Musculoskeletal Sys ,26034 ,Treat hand bone lesion
 Surgery - Musculoskeletal Sys ,26035 ,Decompress fingers/hand
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,26037 ,Decompress fingers/hand
 Surgery - Musculoskeletal Sys ,26040 ,Release palm contracture
 Surgery - Musculoskeletal Sys ,26045 ,Release palm contracture
@@ -8826,7 +8821,6 @@ Surgery - Musculoskeletal Sys ,26145 ,"Tendon excision, palm/finger"
 Surgery - Musculoskeletal Sys ,26160 ,Remove tendon sheath lesion
 Surgery - Musculoskeletal Sys ,26170 ,"Removal of palm tendon, each"
 Surgery - Musculoskeletal Sys ,26180 ,Removal of finger tendon
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,26185 ,Remove finger bone
 Surgery - Musculoskeletal Sys ,26200 ,Remove hand bone lesion
 Surgery - Musculoskeletal Sys ,26205 ,Remove/graft bone lesion
@@ -8851,7 +8845,6 @@ Surgery - Musculoskeletal Sys ,26370 ,Repair finger/hand tendon
 Surgery - Musculoskeletal Sys ,26372 ,Repair/graft hand tendon
 Surgery - Musculoskeletal Sys ,26373 ,Repair finger/hand tendon
 Surgery - Musculoskeletal Sys ,26390 ,Revise hand/finger tendon
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,26392 ,Repair/graft hand tendon
 Surgery - Musculoskeletal Sys ,26410 ,Repair hand tendon
 Surgery - Musculoskeletal Sys ,26412 ,Repair/graft hand tendon
@@ -8876,7 +8869,6 @@ Surgery - Musculoskeletal Sys ,26471 ,Fusion of finger tendons
 Surgery - Musculoskeletal Sys ,26474 ,Fusion of finger tendons
 Surgery - Musculoskeletal Sys ,26476 ,Tendon lengthening
 Surgery - Musculoskeletal Sys ,26477 ,Tendon shortening
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,26478 ,Lengthening of hand tendon
 Surgery - Musculoskeletal Sys ,26479 ,Shortening of hand tendon
 Surgery - Musculoskeletal Sys ,26480 ,Transplant hand tendon
@@ -8892,8 +8884,7 @@ Surgery - Musculoskeletal Sys ,26498 ,Finger tendon transfer
 Surgery - Musculoskeletal Sys ,26499 ,Revision of finger
 Surgery - Musculoskeletal Sys ,26500 ,Hand tendon reconstruction
 Surgery - Musculoskeletal Sys ,26502 ,Hand tendon reconstruction
-,,No Longer Valid - 07 Hand tendon
-Surgery - Musculoskeletal Sys ,26504 ,reconstruction
+Surgery - Musculoskeletal Sys ,26504 ,No Longer Valid - 07 Hand tendon reconstruction
 Surgery - Musculoskeletal Sys ,26508 ,Release thumb contracture
 Surgery - Musculoskeletal Sys ,26510 ,Thumb tendon transfer
 Surgery - Musculoskeletal Sys ,26516 ,Fusion of knuckle joint
@@ -8902,7 +8893,6 @@ Surgery - Musculoskeletal Sys ,26518 ,Fusion of knuckle joints
 Surgery - Musculoskeletal Sys ,26520 ,Release knuckle contracture
 Surgery - Musculoskeletal Sys ,26525 ,Release finger contracture
 Surgery - Musculoskeletal Sys ,26527 ,No Longer Valid
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,26530 ,Revise knuckle joint
 Surgery - Musculoskeletal Sys ,26531 ,Revise knuckle with implant
 Surgery - Musculoskeletal Sys ,26535 ,Revise finger joint
@@ -8927,7 +8917,6 @@ Surgery - Musculoskeletal Sys ,26560 ,Repair of web finger
 Surgery - Musculoskeletal Sys ,26561 ,Repair of web finger
 Surgery - Musculoskeletal Sys ,26562 ,Repair of web finger
 Surgery - Musculoskeletal Sys ,26565 ,Correct metacarpal flaw
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,26567 ,Correct finger deformity
 Surgery - Musculoskeletal Sys ,26568 ,Lengthen metacarpal/finger
 Surgery - Musculoskeletal Sys ,26580 ,Repair hand deformity
@@ -8952,7 +8941,6 @@ Surgery - Musculoskeletal Sys ,26660 ,No Longer Valid
 Surgery - Musculoskeletal Sys ,26665 ,Treat thumb fracture
 Surgery - Musculoskeletal Sys ,26670 ,Treat hand dislocation
 Surgery - Musculoskeletal Sys ,26675 ,Treat hand dislocation
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,26676 ,Pin hand dislocation
 Surgery - Musculoskeletal Sys ,26680 ,No Longer Valid
 Surgery - Musculoskeletal Sys ,26685 ,Treat hand dislocation
@@ -8977,7 +8965,6 @@ Surgery - Musculoskeletal Sys ,26756 ,"Pin finger fracture, each"
 Surgery - Musculoskeletal Sys ,26760 ,No Longer Valid
 Surgery - Musculoskeletal Sys ,26765 ,"Treat finger fracture, each"
 Surgery - Musculoskeletal Sys ,26770 ,Treat finger dislocation
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,26775 ,Treat finger dislocation
 Surgery - Musculoskeletal Sys ,26776 ,Pin finger dislocation
 Surgery - Musculoskeletal Sys ,26780 ,No Longer Valid
@@ -9002,7 +8989,6 @@ Surgery - Musculoskeletal Sys ,26991 ,Drainage of pelvis bursa
 Surgery - Musculoskeletal Sys ,26992 ,Drainage of bone lesion
 Surgery - Musculoskeletal Sys ,27000 ,Incision of hip tendon
 Surgery - Musculoskeletal Sys ,27001 ,Incision of hip tendon
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,27003 ,Incision of hip tendon
 Surgery - Musculoskeletal Sys ,27005 ,Incision of hip tendon
 Surgery - Musculoskeletal Sys ,27006 ,Incision of hip tendons
@@ -9027,7 +9013,6 @@ Surgery - Musculoskeletal Sys ,27065 ,Removal of hip bone lesion
 Surgery - Musculoskeletal Sys ,27066 ,Removal of hip bone lesion
 Surgery - Musculoskeletal Sys ,27067 ,Remove/graft hip bone lesion
 Surgery - Musculoskeletal Sys ,27070 ,Partial removal of hip bone
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,27071 ,Partial removal of hip bone
 Surgery - Musculoskeletal Sys ,27075 ,Extensive hip surgery
 Surgery - Musculoskeletal Sys ,27076 ,Extensive hip surgery
@@ -9052,7 +9037,6 @@ Surgery - Musculoskeletal Sys ,27120 ,Reconstruction of hip socket
 Surgery - Musculoskeletal Sys ,27122 ,Reconstruction of hip socket
 Surgery - Musculoskeletal Sys ,27125 ,Partial hip replacement
 Surgery - Musculoskeletal Sys ,27130 ,Total hip arthroplasty
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,27132 ,Total hip arthroplasty
 Surgery - Musculoskeletal Sys ,27134 ,Revise hip joint replacement
 Surgery - Musculoskeletal Sys ,27137 ,Revise hip joint replacement
@@ -9077,7 +9061,6 @@ Surgery - Musculoskeletal Sys ,27187 ,Reinforce hip bones
 Surgery - Musculoskeletal Sys ,27190 ,No Longer Valid
 Surgery - Musculoskeletal Sys ,27192 ,No Longer Valid
 Surgery - Musculoskeletal Sys ,27193 ,Treat pelvic ring fracture
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,27194 ,Treat pelvic ring fracture
 Surgery - Musculoskeletal Sys ,27195 ,No Longer Valid
 Surgery - Musculoskeletal Sys ,27196 ,No Longer Valid
@@ -9102,7 +9085,6 @@ Surgery - Musculoskeletal Sys ,27230 ,Treat thigh fracture
 Surgery - Musculoskeletal Sys ,27232 ,Treat thigh fracture
 Surgery - Musculoskeletal Sys ,27234 ,No Longer Valid
 Surgery - Musculoskeletal Sys ,27235 ,Treat thigh fracture
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,27236 ,Treat thigh fracture
 Surgery - Musculoskeletal Sys ,27238 ,Treat thigh fracture
 Surgery - Musculoskeletal Sys ,27240 ,Treat thigh fracture
@@ -9127,7 +9109,6 @@ Surgery - Musculoskeletal Sys ,27268 ,Cltx Thigh Fx W/Mnpj
 Surgery - Musculoskeletal Sys ,27269 ,Optx Thigh Fx
 Surgery - Musculoskeletal Sys ,27275 ,Manipulation of hip joint
 Surgery - Musculoskeletal Sys ,27280 ,Fusion of sacroiliac joint
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,27282 ,Fusion of pubic bones
 Surgery - Musculoskeletal Sys ,27284 ,Fusion of hip joint
 Surgery - Musculoskeletal Sys ,27286 ,Fusion of hip joint
@@ -9140,10 +9121,8 @@ Surgery - Musculoskeletal Sys ,27305 ,Incise thigh tendon & fascia
 Surgery - Musculoskeletal Sys ,27306 ,Incision of thigh tendon
 Surgery - Musculoskeletal Sys ,27307 ,Incision of thigh tendons
 Surgery - Musculoskeletal Sys ,27310 ,Exploration of knee joint
-,,"No Longer Valid - 07 Partial removal, thigh"
-Surgery - Musculoskeletal Sys ,27315 ,nerve
-,,"No Longer Valid - 07 Partial removal, thigh"
-Surgery - Musculoskeletal Sys ,27320 ,nerve
+Surgery - Musculoskeletal Sys ,27315 ,"No Longer Valid - 07 Partial removal, thigh nerve"
+Surgery - Musculoskeletal Sys ,27320 ,"No Longer Valid - 07 Partial removal, thigh nerve"
 Surgery - Musculoskeletal Sys ,27323 ,"Biopsy, thigh soft tissues"
 Surgery - Musculoskeletal Sys ,27324 ,"Biopsy, thigh soft tissues"
 Surgery - Musculoskeletal Sys ,27327 ,Removal of thigh lesion
@@ -9154,7 +9133,6 @@ Surgery - Musculoskeletal Sys ,27331 ,Explore/treat knee joint
 Surgery - Musculoskeletal Sys ,27332 ,Removal of knee cartilage
 Surgery - Musculoskeletal Sys ,27333 ,Removal of knee cartilage
 Surgery - Musculoskeletal Sys ,27334 ,Remove knee joint lining
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,27335 ,Remove knee joint lining
 Surgery - Musculoskeletal Sys ,27340 ,Removal of kneecap bursa
 Surgery - Musculoskeletal Sys ,27345 ,Removal of knee cyst
@@ -9179,7 +9157,6 @@ Surgery - Musculoskeletal Sys ,27393 ,Lengthening of thigh tendon
 Surgery - Musculoskeletal Sys ,27394 ,Lengthening of thigh tendons
 Surgery - Musculoskeletal Sys ,27395 ,Lengthening of thigh tendons
 Surgery - Musculoskeletal Sys ,27396 ,Transplant of thigh tendon
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,27397 ,Transplants of thigh tendons
 Surgery - Musculoskeletal Sys ,27400 ,Revise thigh muscles/tendons
 Surgery - Musculoskeletal Sys ,27403 ,Repair of knee cartilage
@@ -9204,7 +9181,6 @@ Surgery - Musculoskeletal Sys ,27438 ,Revise kneecap with implant
 Surgery - Musculoskeletal Sys ,27440 ,Revision of knee joint
 Surgery - Musculoskeletal Sys ,27441 ,Revision of knee joint
 Surgery - Musculoskeletal Sys ,27442 ,Revision of knee joint
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,27443 ,Revision of knee joint
 Surgery - Musculoskeletal Sys ,27445 ,Revision of knee joint
 Surgery - Musculoskeletal Sys ,27446 ,Revision of knee joint
@@ -9229,7 +9205,6 @@ Surgery - Musculoskeletal Sys ,27488 ,Removal of knee prosthesis
 Surgery - Musculoskeletal Sys ,27495 ,Reinforce thigh
 Surgery - Musculoskeletal Sys ,27496 ,Decompression of thigh/knee
 Surgery - Musculoskeletal Sys ,27497 ,Decompression of thigh/knee
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,27498 ,Decompression of thigh/knee
 Surgery - Musculoskeletal Sys ,27499 ,Decompression of thigh/knee
 Surgery - Musculoskeletal Sys ,27500 ,Treatment of thigh fracture
@@ -9254,7 +9229,6 @@ Surgery - Musculoskeletal Sys ,27520 ,Treat kneecap fracture
 Surgery - Musculoskeletal Sys ,27522 ,No Longer Valid
 Surgery - Musculoskeletal Sys ,27524 ,Treat kneecap fracture
 Surgery - Musculoskeletal Sys ,27530 ,Treat knee fracture
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,27532 ,Treat knee fracture
 Surgery - Musculoskeletal Sys ,27534 ,No Longer Valid
 Surgery - Musculoskeletal Sys ,27535 ,Treat knee fracture
@@ -9279,7 +9253,6 @@ Surgery - Musculoskeletal Sys ,27591 ,Amputate leg at thigh
 Surgery - Musculoskeletal Sys ,27592 ,Amputate leg at thigh
 Surgery - Musculoskeletal Sys ,27594 ,Amputation follow-up surgery
 Surgery - Musculoskeletal Sys ,27596 ,Amputation follow-up surgery
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,27598 ,Amputate lower leg at knee
 Surgery - Musculoskeletal Sys ,27599 ,Leg surgery procedure
 Surgery - Musculoskeletal Sys ,27600 ,Decompression of lower leg
@@ -9304,7 +9277,6 @@ Surgery - Musculoskeletal Sys ,27630 ,Removal of tendon lesion
 Surgery - Musculoskeletal Sys ,27635 ,Remove lower leg bone lesion
 Surgery - Musculoskeletal Sys ,27637 ,Remove/graft leg bone lesion
 Surgery - Musculoskeletal Sys ,27638 ,Remove/graft leg bone lesion
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,27640 ,Partial removal of tibia
 Surgery - Musculoskeletal Sys ,27641 ,Partial removal of fibula
 Surgery - Musculoskeletal Sys ,27645 ,Extensive lower leg surgery
@@ -9329,7 +9301,6 @@ Surgery - Musculoskeletal Sys ,27687 ,Revision of calf tendon
 Surgery - Musculoskeletal Sys ,27690 ,Revise lower leg tendon
 Surgery - Musculoskeletal Sys ,27691 ,Revise lower leg tendon
 Surgery - Musculoskeletal Sys ,27692 ,Revise additional leg tendon
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,27695 ,Repair of ankle ligament
 Surgery - Musculoskeletal Sys ,27696 ,Repair of ankle ligaments
 Surgery - Musculoskeletal Sys ,27698 ,Repair of ankle ligament
@@ -9354,7 +9325,6 @@ Surgery - Musculoskeletal Sys ,27734 ,Repair lower leg epiphyses
 Surgery - Musculoskeletal Sys ,27740 ,Repair of leg epiphyses
 Surgery - Musculoskeletal Sys ,27742 ,Repair of leg epiphyses
 Surgery - Musculoskeletal Sys ,27745 ,Reinforce tibia
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,27750 ,Treatment of tibia fracture
 Surgery - Musculoskeletal Sys ,27752 ,Treatment of tibia fracture
 Surgery - Musculoskeletal Sys ,27754 ,No Longer Valid
@@ -9379,7 +9349,6 @@ Surgery - Musculoskeletal Sys ,27792 ,Treatment of ankle fracture
 Surgery - Musculoskeletal Sys ,27800 ,No Longer Valid
 Surgery - Musculoskeletal Sys ,27802 ,No Longer Valid
 Surgery - Musculoskeletal Sys ,27804 ,No Longer Valid
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,27806 ,No Longer Valid
 Surgery - Musculoskeletal Sys ,27808 ,Treatment of ankle fracture
 Surgery - Musculoskeletal Sys ,27810 ,Treatment of ankle fracture
@@ -9404,7 +9373,6 @@ Surgery - Musculoskeletal Sys ,27842 ,Treat ankle dislocation
 Surgery - Musculoskeletal Sys ,27844 ,No Longer Valid
 Surgery - Musculoskeletal Sys ,27846 ,Treat ankle dislocation
 Surgery - Musculoskeletal Sys ,27848 ,Treat ankle dislocation
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,27860 ,Fixation of ankle joint
 Surgery - Musculoskeletal Sys ,27870 ,"Fusion of ankle joint, open"
 Surgery - Musculoskeletal Sys ,27871 ,Fusion of tibiofibular joint
@@ -9429,7 +9397,6 @@ Surgery - Musculoskeletal Sys ,28011 ,Incision of toe tendons
 Surgery - Musculoskeletal Sys ,28020 ,Exploration of foot joint
 Surgery - Musculoskeletal Sys ,28022 ,Exploration of foot joint
 Surgery - Musculoskeletal Sys ,28024 ,Exploration of toe joint
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,28030 ,No Longer Valid - 07 Removal of foot nerve
 Surgery - Musculoskeletal Sys ,28035 ,Decompression of tibia nerve
 Surgery - Musculoskeletal Sys ,28043 ,Excision of foot lesion
@@ -9454,7 +9421,6 @@ Surgery - Musculoskeletal Sys ,28104 ,Removal of foot lesion
 Surgery - Musculoskeletal Sys ,28106 ,Remove/graft foot lesion
 Surgery - Musculoskeletal Sys ,28107 ,Remove/graft foot lesion
 Surgery - Musculoskeletal Sys ,28108 ,Removal of toe lesions
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,28110 ,Part removal of metatarsal
 Surgery - Musculoskeletal Sys ,28111 ,Part removal of metatarsal
 Surgery - Musculoskeletal Sys ,28112 ,Part removal of metatarsal
@@ -9479,7 +9445,6 @@ Surgery - Musculoskeletal Sys ,28190 ,Removal of foot foreign body
 Surgery - Musculoskeletal Sys ,28192 ,Removal of foot foreign body
 Surgery - Musculoskeletal Sys ,28193 ,Removal of foot foreign body
 Surgery - Musculoskeletal Sys ,28200 ,Repair of foot tendon
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,28202 ,Repair/graft of foot tendon
 Surgery - Musculoskeletal Sys ,28208 ,Repair of foot tendon
 Surgery - Musculoskeletal Sys ,28210 ,Repair/graft of foot tendon
@@ -9504,7 +9469,6 @@ Surgery - Musculoskeletal Sys ,28280 ,Fusion of toes
 Surgery - Musculoskeletal Sys ,28285 ,Repair of hammertoe
 Surgery - Musculoskeletal Sys ,28286 ,Repair of hammertoe
 Surgery - Musculoskeletal Sys ,28288 ,Partial removal of foot bone
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,28289 ,Repair hallux rigidus
 Surgery - Musculoskeletal Sys ,28290 ,Correction of bunion
 Surgery - Musculoskeletal Sys ,28292 ,Correction of bunion
@@ -9529,7 +9493,6 @@ Surgery - Musculoskeletal Sys ,28315 ,Removal of sesamoid bone
 Surgery - Musculoskeletal Sys ,28320 ,Repair of foot bones
 Surgery - Musculoskeletal Sys ,28322 ,Repair of metatarsals
 Surgery - Musculoskeletal Sys ,28340 ,Resect enlarged toe tissue
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,28341 ,Resect enlarged toe
 Surgery - Musculoskeletal Sys ,28344 ,Repair extra toe(s)
 Surgery - Musculoskeletal Sys ,28345 ,Repair webbed toe(s)
@@ -9554,7 +9517,6 @@ Surgery - Musculoskeletal Sys ,28465 ,"Treat midfoot fracture, each"
 Surgery - Musculoskeletal Sys ,28470 ,Treat metatarsal fracture
 Surgery - Musculoskeletal Sys ,28475 ,Treat metatarsal fracture
 Surgery - Musculoskeletal Sys ,28476 ,Treat metatarsal fracture
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,28480 ,No Longer Valid
 Surgery - Musculoskeletal Sys ,28485 ,Treat metatarsal fracture
 Surgery - Musculoskeletal Sys ,28490 ,Treat big toe fracture
@@ -9579,7 +9541,6 @@ Surgery - Musculoskeletal Sys ,28576 ,Treat foot dislocation
 Surgery - Musculoskeletal Sys ,28580 ,No Longer Valid
 Surgery - Musculoskeletal Sys ,28585 ,Repair foot dislocation
 Surgery - Musculoskeletal Sys ,28600 ,Treat foot dislocation
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,28605 ,Treat foot dislocation
 Surgery - Musculoskeletal Sys ,28606 ,Treat foot dislocation
 Surgery - Musculoskeletal Sys ,28610 ,No Longer Valid
@@ -9604,7 +9565,6 @@ Surgery - Musculoskeletal Sys ,28740 ,Fusion of foot bones
 Surgery - Musculoskeletal Sys ,28750 ,Fusion of big toe joint
 Surgery - Musculoskeletal Sys ,28755 ,Fusion of big toe joint
 Surgery - Musculoskeletal Sys ,28760 ,Fusion of big toe joint
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,28800 ,Amputation of midfoot
 Surgery - Musculoskeletal Sys ,28805 ,Amputation thru metatarsal
 Surgery - Musculoskeletal Sys ,28810 ,Amputation toe & metatarsal
@@ -9629,7 +9589,6 @@ Surgery - Musculoskeletal Sys ,29075 ,Application of forearm cast
 Surgery - Musculoskeletal Sys ,29085 ,Apply hand/wrist cast
 Surgery - Musculoskeletal Sys ,29086 ,Apply finger cast
 Surgery - Musculoskeletal Sys ,29105 ,Apply long arm splint
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,29125 ,Apply forearm splint
 Surgery - Musculoskeletal Sys ,29126 ,Apply forearm splint
 Surgery - Musculoskeletal Sys ,29130 ,Application of finger splint
@@ -9654,7 +9613,6 @@ Surgery - Musculoskeletal Sys ,29450 ,Application of leg cast
 Surgery - Musculoskeletal Sys ,29505 ,"Application, long leg splint"
 Surgery - Musculoskeletal Sys ,29515 ,Application lower leg splint
 Surgery - Musculoskeletal Sys ,29520 ,Strapping of hip
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,29530 ,Strapping of knee
 Surgery - Musculoskeletal Sys ,29540 ,Strapping of ankle and/or ft
 Surgery - Musculoskeletal Sys ,29550 ,Strapping of toes
@@ -9679,7 +9637,6 @@ Surgery - Musculoskeletal Sys ,29819 ,Shoulder arthroscopy/surgery
 Surgery - Musculoskeletal Sys ,29820 ,Shoulder arthroscopy/surgery
 Surgery - Musculoskeletal Sys ,29821 ,Shoulder arthroscopy/surgery
 Surgery - Musculoskeletal Sys ,29822 ,Shoulder arthroscopy/surgery
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,29823 ,Shoulder arthroscopy/surgery
 Surgery - Musculoskeletal Sys ,29824 ,Shoulder arthroscopy/surgery
 Surgery - Musculoskeletal Sys ,29825 ,Shoulder arthroscopy/surgery
@@ -9704,7 +9661,6 @@ Surgery - Musculoskeletal Sys ,29851 ,Knee arthroscopy/surgery
 Surgery - Musculoskeletal Sys ,29855 ,Tibial arthroscopy/surgery
 Surgery - Musculoskeletal Sys ,29856 ,Tibial arthroscopy/surgery
 Surgery - Musculoskeletal Sys ,29860 ,"Hip arthroscopy, dx"
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,29861 ,Hip arthroscopy/surgery
 Surgery - Musculoskeletal Sys ,29862 ,Hip arthroscopy/surgery
 Surgery - Musculoskeletal Sys ,29863 ,Hip arthroscopy/surgery
@@ -9729,7 +9685,6 @@ Surgery - Musculoskeletal Sys ,29886 ,Knee arthroscopy/surgery
 Surgery - Musculoskeletal Sys ,29887 ,Knee arthroscopy/surgery
 Surgery - Musculoskeletal Sys ,29888 ,Knee arthroscopy/surgery
 Surgery - Musculoskeletal Sys ,29889 ,Knee arthroscopy/surgery
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,29891 ,Ankle arthroscopy/surgery
 Surgery - Musculoskeletal Sys ,29892 ,Ankle arthroscopy/surgery
 Surgery - Musculoskeletal Sys ,29893 ,"Scope, plantar fasciotomy"
@@ -9751,13 +9706,11 @@ Surgery - Musculoskeletal Sys ,95865 ,"Muscle test, larynx"
 Surgery - Musculoskeletal Sys ,95866 ,"Muscle test, hemidiaphragm"
 Surgery - Musculoskeletal Sys ,95873 ,"Guide nerv destr, elec stim"
 Surgery - Musculoskeletal Sys ,95874 ,"Guide nerv destr, needle emg"
-,,No Longer Valid - 09 Endoscopic epidural
-Surgery - Nervous System ,0027T ,lysis
+Surgery - Nervous System ,0027T ,No Longer Valid - 09 Endoscopic epidural lysis
 Surgery - Nervous System ,0077T ,Cereb therm perfusion probe
 Surgery - Nervous System ,27325 ,"Neurectomy, Hamstring"
 Surgery - Nervous System ,27326 ,"Neurectomy, Popliteal"
 Surgery - Nervous System ,28055 ,"Neurectomy, Foot"
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Nervous System ,61000 ,Remove cranial cavity fluid
 Surgery - Nervous System ,61001 ,Remove cranial cavity fluid
 Surgery - Nervous System ,61020 ,Remove brain cavity fluid
@@ -9806,7 +9759,6 @@ Surgery - Nervous System ,61470 ,Incise skull for surgery
 Surgery - Nervous System ,61480 ,Incise skull for surgery
 Surgery - Nervous System ,61490 ,Incise skull for surgery
 Surgery - Nervous System ,61500 ,Removal of skull lesion
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Nervous System ,61501 ,Remove infected skull bone
 Surgery - Nervous System ,61510 ,Removal of brain lesion
 Surgery - Nervous System ,61512 ,Remove brain lining lesion
@@ -9855,7 +9807,6 @@ Surgery - Nervous System ,61580 ,"Craniofacial approach, skull"
 Surgery - Nervous System ,61581 ,"Craniofacial approach, skull"
 Surgery - Nervous System ,61582 ,"Craniofacial approach, skull"
 Surgery - Nervous System ,61583 ,"Craniofacial approach, skull"
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Nervous System ,61584 ,Orbitocranial approach/skull
 Surgery - Nervous System ,61585 ,Orbitocranial approach/skull
 Surgery - Nervous System ,61586 ,"Resect nasopharynx, skull"
@@ -9904,7 +9855,6 @@ Surgery - Nervous System ,61705 ,Revise circulation to head
 Surgery - Nervous System ,61708 ,Revise circulation to head
 Surgery - Nervous System ,61710 ,Revise circulation to head
 Surgery - Nervous System ,61711 ,Fusion of skull arteries
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Nervous System ,61712 ,No Longer Valid
 Surgery - Nervous System ,61720 ,Incise skull/brain surgery
 Surgery - Nervous System ,61735 ,Incise skull/brain surgery
@@ -9953,7 +9903,6 @@ Surgery - Nervous System ,62148 ,Retr bone flap to fix skull
 Surgery - Nervous System ,62160 ,Neuroendoscopy add-on
 Surgery - Nervous System ,62161 ,Dissect brain w/scope
 Surgery - Nervous System ,62162 ,Remove colloid cyst w/scope
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Nervous System ,62163 ,Neuroendoscopy w/fb removal
 Surgery - Nervous System ,62164 ,Remove brain tumor w/scope
 Surgery - Nervous System ,62165 ,Remove pituit tumor w/scope
@@ -10002,7 +9951,6 @@ Surgery - Nervous System ,62318 ,"Inject spine w/cath, c/t"
 Surgery - Nervous System ,62319 ,Inject spine w/cath l/s (cd)
 Surgery - Nervous System ,63001 ,Removal of spinal lamina
 Surgery - Nervous System ,63003 ,Removal of spinal lamina
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Nervous System ,63005 ,Removal of spinal lamina
 Surgery - Nervous System ,63011 ,Removal of spinal lamina
 Surgery - Nervous System ,63012 ,Removal of spinal lamina
@@ -10051,7 +9999,6 @@ Surgery - Nervous System ,63185 ,Incise spinal column/nerves
 Surgery - Nervous System ,63190 ,Incise spinal column/nerves
 Surgery - Nervous System ,63191 ,Incise spinal column/nerves
 Surgery - Nervous System ,63194 ,Incise spinal column & cord
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Nervous System ,63195 ,Incise spinal column & cord
 Surgery - Nervous System ,63196 ,Incise spinal column & cord
 Surgery - Nervous System ,63197 ,Incise spinal column & cord
@@ -10100,7 +10047,6 @@ Surgery - Nervous System ,63657 ,No Longer Valid
 Surgery - Nervous System ,63658 ,No Longer Valid
 Surgery - Nervous System ,63660 ,Revise/remove neuroelectrode
 Surgery - Nervous System ,63685 ,Insrt/Redo Spine N Generator
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Nervous System ,63688 ,Revise/remove neuroreceiver
 Surgery - Nervous System ,63690 ,No Longer Valid
 Surgery - Nervous System ,63691 ,No Longer Valid
@@ -10149,7 +10095,6 @@ Surgery - Nervous System ,64472 ,Inj paravertebral c/t add-on
 Surgery - Nervous System ,64475 ,Inj paravertebral l/s
 Surgery - Nervous System ,64476 ,Inj paravertebral l/s add-on
 Surgery - Nervous System ,64479 ,Inj foramen epidural c/t
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Nervous System ,64480 ,Inj foramen epidural add-on
 Surgery - Nervous System ,64483 ,Inj foramen epidural l/s
 Surgery - Nervous System ,64484 ,Inj foramen epidural add-on
@@ -10198,7 +10143,6 @@ Surgery - Nervous System ,64714 ,Revise low back nerve(s)
 Surgery - Nervous System ,64716 ,Revision of cranial nerve
 Surgery - Nervous System ,64718 ,Revise ulnar nerve at elbow
 Surgery - Nervous System ,64719 ,Revise ulnar nerve at wrist
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Nervous System ,64721 ,Carpal tunnel surgery
 Surgery - Nervous System ,64722 ,Relieve pressure on nerve(s)
 Surgery - Nervous System ,64726 ,Release foot/toe nerve
@@ -10247,7 +10191,6 @@ Surgery - Nervous System ,64835 ,Repair of hand or foot nerve
 Surgery - Nervous System ,64836 ,Repair of hand or foot nerve
 Surgery - Nervous System ,64837 ,Repair nerve add-on
 Surgery - Nervous System ,64840 ,Repair of leg nerve
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Nervous System ,64856 ,Repair/transpose nerve
 Surgery - Nervous System ,64857 ,Repair arm/leg nerve
 Surgery - Nervous System ,64858 ,Repair sciatic nerve
@@ -10279,8 +10222,7 @@ Surgery - Nervous System ,64907 ,Nerve pedicle transfer
 Surgery - Nervous System ,64910 ,Nerve Repair W/Allograft
 Surgery - Nervous System ,64911 ,Neurorraphy W/Vein Autograft
 Surgery - Nervous System ,64999 ,Nervous system surgery
-,,No Longer Valid - 09 Rf tongue base vol
-Surgery - Respiratory System ,0088T ,reduxn
+Surgery - Respiratory System ,0088T ,No Longer Valid - 09 Rf tongue base vol reduxn
 Surgery - Respiratory System ,30000 ,Drainage of nose lesion
 Surgery - Respiratory System ,30020 ,Drainage of nose lesion
 Surgery - Respiratory System ,30100 ,Intranasal biopsy
@@ -10288,7 +10230,6 @@ Surgery - Respiratory System ,30110 ,Removal of nose polyp(s)
 Surgery - Respiratory System ,30115 ,Removal of nose polyp(s)
 Surgery - Respiratory System ,30117 ,Removal of intranasal lesion
 Surgery - Respiratory System ,30118 ,Removal of intranasal lesion
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Respiratory System ,30120 ,Revision of nose
 Surgery - Respiratory System ,30124 ,Removal of nose lesion
 Surgery - Respiratory System ,30125 ,Removal of nose lesion
@@ -10313,7 +10254,6 @@ Surgery - Respiratory System ,30462 ,Revision of nose
 Surgery - Respiratory System ,30465 ,Repair nasal stenosis
 Surgery - Respiratory System ,30520 ,Repair of nasal septum
 Surgery - Respiratory System ,30540 ,Repair nasal defect
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Respiratory System ,30545 ,Repair nasal defect
 Surgery - Respiratory System ,30560 ,Release of nasal adhesions
 Surgery - Respiratory System ,30580 ,Repair upper jaw fistula
@@ -10338,7 +10278,6 @@ Surgery - Respiratory System ,31032 ,"Explore sinus, remove polyps"
 Surgery - Respiratory System ,31040 ,Exploration behind upper jaw
 Surgery - Respiratory System ,31050 ,"Exploration, sphenoid sinus"
 Surgery - Respiratory System ,31051 ,Sphenoid sinus surgery
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Respiratory System ,31070 ,Exploration of frontal sinus
 Surgery - Respiratory System ,31071 ,No Longer Valid
 Surgery - Respiratory System ,31075 ,Exploration of frontal sinus
@@ -10363,7 +10302,6 @@ Surgery - Respiratory System ,31239 ,"Nasal/sinus endoscopy, surg"
 Surgery - Respiratory System ,31240 ,"Nasal/sinus endoscopy, surg"
 Surgery - Respiratory System ,31245 ,No Longer Valid
 Surgery - Respiratory System ,31246 ,No Longer Valid
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Respiratory System ,31247 ,No Longer Valid
 Surgery - Respiratory System ,31248 ,No Longer Valid
 Surgery - Respiratory System ,31249 ,No Longer Valid
@@ -10388,7 +10326,6 @@ Surgery - Respiratory System ,31270 ,No Longer Valid
 Surgery - Respiratory System ,31271 ,No Longer Valid
 Surgery - Respiratory System ,31275 ,No Longer Valid
 Surgery - Respiratory System ,31276 ,"Sinus endoscopy, surgical"
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Respiratory System ,31277 ,No Longer Valid
 Surgery - Respiratory System ,31280 ,No Longer Valid
 Surgery - Respiratory System ,31281 ,No Longer Valid
@@ -10413,7 +10350,6 @@ Surgery - Respiratory System ,31367 ,Partial removal of larynx
 Surgery - Respiratory System ,31368 ,Partial removal of larynx
 Surgery - Respiratory System ,31370 ,Partial removal of larynx
 Surgery - Respiratory System ,31375 ,Partial removal of larynx
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Respiratory System ,31380 ,Partial removal of larynx
 Surgery - Respiratory System ,31382 ,Partial removal of larynx
 Surgery - Respiratory System ,31390 ,Removal of larynx & pharynx
@@ -10438,7 +10374,6 @@ Surgery - Respiratory System ,31530 ,Laryngoscopy w/fb removal
 Surgery - Respiratory System ,31531 ,Laryngoscopy w/fb & op scope
 Surgery - Respiratory System ,31535 ,Laryngoscopy w/biopsy
 Surgery - Respiratory System ,31536 ,Laryngoscopy w/bx & op scope
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Respiratory System ,31540 ,Laryngoscopy w/exc of tumor
 Surgery - Respiratory System ,31541 ,Larynscop w/tumr exc + scope
 Surgery - Respiratory System ,31545 ,Remove vc lesion w/scope
@@ -10463,7 +10398,6 @@ Surgery - Respiratory System ,31590 ,Reinnervate larynx
 Surgery - Respiratory System ,31595 ,Larynx nerve surgery
 Surgery - Respiratory System ,31599 ,Larynx surgery procedure
 Surgery - Respiratory System ,31600 ,Incision of windpipe
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Respiratory System ,31601 ,Incision of windpipe
 Surgery - Respiratory System ,31603 ,Incision of windpipe
 Surgery - Respiratory System ,31605 ,Incision of windpipe
@@ -10488,7 +10422,6 @@ Surgery - Respiratory System ,31635 ,Bronchoscopy w/fb removal
 Surgery - Respiratory System ,31636 ,"Bronchoscopy, bronch stents"
 Surgery - Respiratory System ,31637 ,"Bronchoscopy, stent add-on"
 Surgery - Respiratory System ,31638 ,"Bronchoscopy, revise stent"
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Respiratory System ,31640 ,Bronchoscopy w/tumor excise
 Surgery - Respiratory System ,31641 ,"Bronchoscopy, treat blockage"
 Surgery - Respiratory System ,31643 ,Diag bronchoscope/catheter
@@ -10496,11 +10429,9 @@ Surgery - Respiratory System ,31645 ,"Bronchoscopy, clear airways"
 Surgery - Respiratory System ,31646 ,"Bronchoscopy, reclear airway"
 Surgery - Respiratory System ,31656 ,"Bronchoscopy, inj for x-ray"
 Surgery - Respiratory System ,31659 ,No Longer Valid
-,,No Longer Valid - 07 Insertion of airway
-Surgery - Respiratory System ,31700 ,catheter
+Surgery - Respiratory System ,31700 ,No Longer Valid - 07 Insertion of airway catheter
 Surgery - Respiratory System ,31708 ,No Longer Valid - 07 Instill airway contrast dye
-,,No Longer Valid - 07 Insertion of airway
-Surgery - Respiratory System ,31710 ,catheter
+Surgery - Respiratory System ,31710 ,No Longer Valid - 07 Insertion of airway catheter
 Surgery - Respiratory System ,31715 ,Injection for bronchus x-ray
 Surgery - Respiratory System ,31717 ,Bronchial brush biopsy
 Surgery - Respiratory System ,31719 ,No Longer Valid
