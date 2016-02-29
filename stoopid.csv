@@ -7808,13 +7808,11 @@ Surgery - Integumentary System ,19499 ,Breast surgery procedure
 Surgery - Integumentary System ,64650 ,Chemodenerv eccrine glands
 Surgery - Integumentary System ,64653 ,Chemodenerv eccrine glands
 Surgery - Male Genital System ,0084T ,Temp prostate urethral stent
-,,No Longer Valid - 09 Prostate saturation
-Surgery - Male Genital System ,0137T ,sampling
+Surgery - Male Genital System ,0137T ,No Longer Valid - 09 Prostate saturation sampling
 Surgery - Male Genital System ,52402 ,Cystourethro cut ejacul duct
 Surgery - Male Genital System ,52649 ,Prostate Laser Enucleation
 Surgery - Male Genital System ,54000 ,Slitting of prepuce
 Surgery - Male Genital System ,54001 ,Slitting of prepuce
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Male Genital System ,54015 ,Drain penis lesion
 Surgery - Male Genital System ,54050 ,"Destruction, penis lesion(s)"
 Surgery - Male Genital System ,54055 ,"Destruction, penis lesion(s)"
@@ -7839,7 +7837,6 @@ Surgery - Male Genital System ,54161 ,Circum 28 days or older
 Surgery - Male Genital System ,54162 ,Lysis penil circumic lesion
 Surgery - Male Genital System ,54163 ,Repair of circumcision
 Surgery - Male Genital System ,54164 ,Frenulotomy of penis
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Male Genital System ,54200 ,Treatment of penis lesion
 Surgery - Male Genital System ,54205 ,Treatment of penis lesion
 Surgery - Male Genital System ,54220 ,Treatment of penis lesion
@@ -7864,7 +7861,6 @@ Surgery - Male Genital System ,54340 ,Secondary urethral surgery
 Surgery - Male Genital System ,54344 ,Secondary urethral surgery
 Surgery - Male Genital System ,54348 ,Secondary urethral surgery
 Surgery - Male Genital System ,54352 ,Reconstruct urethra/penis
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Male Genital System ,54360 ,Penis plastic surgery
 Surgery - Male Genital System ,54380 ,Repair penis
 Surgery - Male Genital System ,54385 ,Repair penis
@@ -7889,7 +7885,6 @@ Surgery - Male Genital System ,54440 ,Repair of penis
 Surgery - Male Genital System ,54450 ,Preputial stretching
 Surgery - Male Genital System ,54500 ,Biopsy of testis
 Surgery - Male Genital System ,54505 ,Biopsy of testis
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Male Genital System ,54510 ,No Longer Valid
 Surgery - Male Genital System ,54512 ,Excise lesion testis
 Surgery - Male Genital System ,54520 ,Removal of testis
@@ -7914,7 +7909,6 @@ Surgery - Male Genital System ,54840 ,Remove epididymis lesion
 Surgery - Male Genital System ,54860 ,Removal of epididymis
 Surgery - Male Genital System ,54861 ,Removal of epididymis
 Surgery - Male Genital System ,54865 ,Explore Epididymis
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Male Genital System ,54900 ,Fusion of spermatic ducts
 Surgery - Male Genital System ,54901 ,Fusion of spermatic ducts
 Surgery - Male Genital System ,55000 ,Drainage of hydrocele
@@ -7939,7 +7933,6 @@ Surgery - Male Genital System ,55535 ,Revise spermatic cord veins
 Surgery - Male Genital System ,55540 ,Revise hernia & sperm veins
 Surgery - Male Genital System ,55600 ,Incise sperm duct pouch
 Surgery - Male Genital System ,55605 ,Incise sperm duct pouch
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Male Genital System ,55650 ,Remove sperm duct pouch
 Surgery - Male Genital System ,55680 ,Remove sperm pouch lesion
 Surgery - Male Genital System ,55700 ,Biopsy of prostate
@@ -7964,21 +7957,16 @@ Surgery - Male Genital System ,55865 ,Extensive prostate surgery
 Surgery - Male Genital System ,55870 ,Electroejaculation
 Surgery - Male Genital System ,55873 ,Cryoablate prostate
 Surgery - Male Genital System ,55875 ,"Transperi needle place, pros"
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Male Genital System ,55876 ,"Place rt device/marker, pros"
-Surgery - Male Genital System ,55899 ,Genital surgery procedure
-,,Future-Minimally invasive total knee
-Surgery - Musculoskeletal Sys ,#0064 ,arthroplasty
-,,Future-Minimally invasive unicompartmental
+Surgery - Male Genital System ,55899 ,Genital surgery procedure Future-Minimally invasive total knee
+Surgery - Musculoskeletal Sys ,#0064 ,arthroplasty Future-Minimally invasive unicompartmental
 Surgery - Musculoskeletal Sys ,#0065 ,knee arthroplasty
-Surgery - Musculoskeletal Sys ,#0066 ,Future-Minimally invasive hip replacement
-,,Future-Shockwave lithotripsy for orthopedic
+Surgery - Musculoskeletal Sys ,#0066 ,Future-Minimally invasive hip replacement Future-Shockwave lithotripsy for orthopedic
 Surgery - Musculoskeletal Sys ,#0089 ,conditions
 Surgery - Musculoskeletal Sys ,0012T ,No Longer Valid
 Surgery - Musculoskeletal Sys ,0013T ,No Longer Valid
 Surgery - Musculoskeletal Sys ,0014T ,No Longer Valid
-,,No Longer Valid - 08 Bone surgery using
-Surgery - Musculoskeletal Sys ,0056T ,computer
+Surgery - Musculoskeletal Sys ,0056T ,No Longer Valid - 08 Bone surgery using computer
 Surgery - Musculoskeletal Sys ,0062T ,Rep intradisc annulus;1 lev
 Surgery - Musculoskeletal Sys ,0063T ,Rep intradisc annulus;>1lev
 Surgery - Musculoskeletal Sys ,0090T ,No Longer Valid - 09 Cervical artific disc
