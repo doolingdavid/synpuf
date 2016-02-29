@@ -10446,7 +10446,6 @@ Surgery - Respiratory System ,31770 ,Repair/graft of bronchus
 Surgery - Respiratory System ,31775 ,Reconstruct bronchus
 Surgery - Respiratory System ,31780 ,Reconstruct windpipe
 Surgery - Respiratory System ,31781 ,Reconstruct windpipe
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Respiratory System ,31785 ,Remove windpipe lesion
 Surgery - Respiratory System ,31786 ,Remove windpipe lesion
 Surgery - Respiratory System ,31800 ,Repair of windpipe injury
@@ -10457,10 +10456,8 @@ Surgery - Respiratory System ,31830 ,Revise windpipe scar
 Surgery - Respiratory System ,31899 ,Airways surgical procedure
 Surgery - Respiratory System ,32000 ,No Longer Valid - 08 Drainage of chest
 Surgery - Respiratory System ,32001 ,No Longer Valid
-,,No Longer Valid - 08 Treatment of collapsed
-Surgery - Respiratory System ,32002 ,lung
-,,No Longer Valid - 08 Treat lung lining
-Surgery - Respiratory System ,32005 ,chemically
+Surgery - Respiratory System ,32002 ,No Longer Valid - 08 Treatment of collapsed lung
+Surgery - Respiratory System ,32005 ,No Longer Valid - 08 Treat lung lining chemically
 Surgery - Respiratory System ,32019 ,No Longer Valid - 08 Insert pleural catheter
 Surgery - Respiratory System ,32020 ,No Longer Valid - 08 Insertion of chest tube
 Surgery - Respiratory System ,32035 ,Exploration of chest
@@ -10473,7 +10470,6 @@ Surgery - Respiratory System ,32124 ,Explore chest free adhesions
 Surgery - Respiratory System ,32140 ,Removal of lung lesion(s)
 Surgery - Respiratory System ,32141 ,Remove/treat lung lesions
 Surgery - Respiratory System ,32150 ,Removal of lung lesion(s)
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Respiratory System ,32151 ,Remove lung foreign body
 Surgery - Respiratory System ,32160 ,Open chest heart massage
 Surgery - Respiratory System ,32200 ,"Drain, open, lung lesion"
@@ -10498,7 +10494,6 @@ Surgery - Respiratory System ,32480 ,Partial removal of lung
 Surgery - Respiratory System ,32482 ,Bilobectomy
 Surgery - Respiratory System ,32484 ,Segmentectomy
 Surgery - Respiratory System ,32485 ,No Longer Valid
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Respiratory System ,32486 ,Sleeve lobectomy
 Surgery - Respiratory System ,32488 ,Completion pneumonectomy
 Surgery - Respiratory System ,32490 ,No Longer Valid
@@ -10507,12 +10502,9 @@ Surgery - Respiratory System ,32500 ,Partial removal of lung
 Surgery - Respiratory System ,32501 ,Repair bronchus add-on
 Surgery - Respiratory System ,32503 ,Resect apical lung tumor
 Surgery - Respiratory System ,32504 ,Resect apical lung tum/chest
-,,No Longer Valid - 06 Remove lung & revise
-Surgery - Respiratory System ,32520 ,chest
-,,No Longer Valid - 06 Remove lung & revise
-Surgery - Respiratory System ,32522 ,chest
-,,No Longer Valid - 06 Remove lung & revise
-Surgery - Respiratory System ,32525 ,chest
+Surgery - Respiratory System ,32520 ,No Longer Valid - 06 Remove lung & revise chest
+Surgery - Respiratory System ,32522 ,No Longer Valid - 06 Remove lung & revise chest
+Surgery - Respiratory System ,32525 ,No Longer Valid - 06 Remove lung & revise chest
 Surgery - Respiratory System ,32540 ,Removal of lung lesion
 Surgery - Respiratory System ,32545 ,No Longer Valid
 Surgery - Respiratory System ,32550 ,Insert Pleural Cath
@@ -10526,7 +10518,6 @@ Surgery - Respiratory System ,32605 ,"Thoracoscopy, diagnostic"
 Surgery - Respiratory System ,32606 ,"Thoracoscopy, diagnostic"
 Surgery - Respiratory System ,32650 ,"Thoracoscopy, surgical"
 Surgery - Respiratory System ,32651 ,"Thoracoscopy, surgical"
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Respiratory System ,32652 ,"Thoracoscopy, surgical"
 Surgery - Respiratory System ,32653 ,"Thoracoscopy, surgical"
 Surgery - Respiratory System ,32654 ,"Thoracoscopy, surgical"
@@ -10551,7 +10542,6 @@ Surgery - Respiratory System ,32850 ,Donor pneumonectomy
 Surgery - Respiratory System ,32851 ,"Lung transplant, single"
 Surgery - Respiratory System ,32852 ,Lung transplant with bypass
 Surgery - Respiratory System ,32853 ,"Lung transplant, double"
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Respiratory System ,32854 ,Lung transplant with bypass
 Surgery - Respiratory System ,32855 ,"Prepare donor lung, single"
 Surgery - Respiratory System ,32856 ,"Prepare donor lung, double"
@@ -10564,10 +10554,8 @@ Surgery - Respiratory System ,32997 ,Total lung lavage
 Surgery - Respiratory System ,32998 ,"Perq rf ablate tx, pul tumor"
 Surgery - Respiratory System ,32999 ,Chest surgery procedure
 Surgery - Urinary System ,#0027 ,Future-Transurethral Needle Ablation
-,,No Longer Valid - 09 Magnetic tx for
-Surgery - Urinary System ,0029T ,incontinence
-,,No Longer Valid - 08 Perq cryoablate renal
-Surgery - Urinary System ,0135T ,tumor
+Surgery - Urinary System ,0029T ,No Longer Valid - 09 Magnetic tx for incontinence
+Surgery - Urinary System ,0135T ,No Longer Valid - 08 Perq cryoablate renal tumor
 Surgery - Urinary System ,0193T ,Rf bladder neck microremodel
 Surgery - Urinary System ,50010 ,Exploration of kidney
 Surgery - Urinary System ,50020 ,"Renal abscess, open drain"
@@ -10589,7 +10577,6 @@ Surgery - Urinary System ,50200 ,Biopsy of kidney
 Surgery - Urinary System ,50205 ,Biopsy of kidney
 Surgery - Urinary System ,50220 ,"Remove kidney, open"
 Surgery - Urinary System ,50225 ,"Removal kidney open, complex"
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Urinary System ,50230 ,"Removal kidney open, radical"
 Surgery - Urinary System ,50234 ,Removal of kidney & ureter
 Surgery - Urinary System ,50236 ,Removal of kidney & ureter
@@ -10638,7 +10625,6 @@ Surgery - Urinary System ,50559 ,No Longer Valid
 Surgery - Urinary System ,50561 ,Kidney endoscopy & treatment
 Surgery - Urinary System ,50562 ,Renal scope w/tumor resect
 Surgery - Urinary System ,50570 ,Kidney endoscopy
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Urinary System ,50572 ,Kidney endoscopy
 Surgery - Urinary System ,50574 ,Kidney endoscopy & biopsy
 Surgery - Urinary System ,50575 ,Kidney endoscopy
@@ -10687,7 +10673,6 @@ Surgery - Urinary System ,50920 ,Closure ureter/skin fistula
 Surgery - Urinary System ,50930 ,Closure ureter/bowel fistula
 Surgery - Urinary System ,50940 ,Release of ureter
 Surgery - Urinary System ,50951 ,Endoscopy of ureter
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Urinary System ,50953 ,Endoscopy of ureter
 Surgery - Urinary System ,50955 ,Ureter endoscopy & biopsy
 Surgery - Urinary System ,50957 ,Ureter endoscopy & treatment
@@ -10736,7 +10721,6 @@ Surgery - Urinary System ,51700 ,Irrigation of bladder
 Surgery - Urinary System ,51701 ,Insert bladder catheter
 Surgery - Urinary System ,51702 ,Insert temp bladder cath
 Surgery - Urinary System ,51703 ,"Insert bladder cath, complex"
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Urinary System ,51705 ,Change of bladder tube
 Surgery - Urinary System ,51710 ,Change of bladder tube
 Surgery - Urinary System ,51715 ,Endoscopic injection/implant
@@ -10785,7 +10769,6 @@ Surgery - Urinary System ,52270 ,Cystoscopy & revise urethra
 Surgery - Urinary System ,52275 ,Cystoscopy & revise urethra
 Surgery - Urinary System ,52276 ,Cystoscopy and treatment
 Surgery - Urinary System ,52277 ,Cystoscopy and treatment
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Urinary System ,52281 ,Cystoscopy and treatment
 Surgery - Urinary System ,52282 ,"Cystoscopy, implant stent"
 Surgery - Urinary System ,52283 ,Cystoscopy and treatment
@@ -10829,9 +10812,7 @@ Surgery - Urinary System ,52510 ,No Longer Valid - 08 Dilation prostatic urethra
 Surgery - Urinary System ,52601 ,Prostatectomy (TURP)
 Surgery - Urinary System ,52606 ,No Longer Valid - 09 Control postop bleeding
 Surgery - Urinary System ,52612 ,"No Longer Valid - 09 Prostatectomy, first stage"
-,,"No Longer Valid - 09 Prostatectomy, second"
-Surgery - Urinary System ,52614 ,stage
-Product Line ,Code ,CPT-4 Procedure
+Surgery - Urinary System ,52614 ,"No Longer Valid - 09 Prostatectomy, second stage"
 Surgery - Urinary System ,52620 ,No Longer Valid - 09 Remove residual prostate
 Surgery - Urinary System ,52630 ,Remove prostate regrowth
 Surgery - Urinary System ,52640 ,Relieve bladder contracture
@@ -10879,7 +10860,6 @@ Surgery - Urinary System ,53449 ,Repair uro sphincter
 Surgery - Urinary System ,53450 ,Revision of urethra
 Surgery - Urinary System ,53460 ,Revision of urethra
 Surgery - Urinary System ,53500 ,"Urethrlys, transvag w/ scope"
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Urinary System ,53502 ,Repair of urethra injury
 Surgery - Urinary System ,53505 ,Repair of urethra injury
 Surgery - Urinary System ,53510 ,Repair of urethra injury
@@ -10899,6 +10879,5 @@ Surgery - Urinary System ,53675 ,No Longer Valid
 Surgery - Urinary System ,53800 ,No Longer Valid
 Surgery - Urinary System ,53850 ,Prostatic microwave thermotx
 Surgery - Urinary System ,53852 ,Prostatic rf thermotx
-,,No Longer Valid - 09 Prostatic water
-Surgery - Urinary System ,53853 ,thermother
+Surgery - Urinary System ,53853 ,No Longer Valid - 09 Prostatic water thermother
 Surgery - Urinary System ,53899 ,Urology surgery procedure
