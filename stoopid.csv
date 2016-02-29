@@ -7972,10 +7972,8 @@ Surgery - Musculoskeletal Sys ,0063T ,Rep intradisc annulus;>1lev
 Surgery - Musculoskeletal Sys ,0090T ,No Longer Valid - 09 Cervical artific disc
 Surgery - Musculoskeletal Sys ,0091T ,No Longer Valid - 07 Lumbar artific disc
 Surgery - Musculoskeletal Sys ,0092T ,Artific disc addl
-,,No Longer Valid - 09 Cervical artific
-Surgery - Musculoskeletal Sys ,0093T ,diskectomy
-,,No Longer Valid - 07 Lumbar artific
-Surgery - Musculoskeletal Sys ,0094T ,diskectomy
+Surgery - Musculoskeletal Sys ,0093T ,No Longer Valid - 09 Cervical artific diskectomy
+Surgery - Musculoskeletal Sys ,0094T ,No Longer Valid - 07 Lumbar artific diskectomy
 Surgery - Musculoskeletal Sys ,0095T ,Artific diskectomy addl
 Surgery - Musculoskeletal Sys ,0096T ,No Longer Valid - 09 Rev cervical artific disc
 Surgery - Musculoskeletal Sys ,0097T ,No Longer Valid - 07 Rev lumbar artific disc
@@ -7983,7 +7981,6 @@ Surgery - Musculoskeletal Sys ,0101T ,"Extracorp shockwv tx,hi enrg"
 Surgery - Musculoskeletal Sys ,0102T ,"Extracorp shockwv tx,anesth"
 Surgery - Musculoskeletal Sys ,0163T ,Lumb artif diskectomy addl
 Surgery - Musculoskeletal Sys ,0164T ,Remove lumb artif disc addl
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,0165T ,Revise lumb artif disc addl
 Surgery - Musculoskeletal Sys ,0171T ,Lumbar Spine Proces Distract
 Surgery - Musculoskeletal Sys ,0172T ,Lumbar Spine Process Addl
@@ -8008,7 +8005,6 @@ Surgery - Musculoskeletal Sys ,20251 ,Open bone biopsy
 Surgery - Musculoskeletal Sys ,20500 ,Injection of sinus tract
 Surgery - Musculoskeletal Sys ,20501 ,Inject sinus tract for x-ray
 Surgery - Musculoskeletal Sys ,20520 ,Removal of foreign body
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,20525 ,Removal of foreign body
 Surgery - Musculoskeletal Sys ,20526 ,"Ther injection, carp tunnel"
 Surgery - Musculoskeletal Sys ,20550 ,Inj tendon sheath/ligament
@@ -8033,7 +8029,6 @@ Surgery - Musculoskeletal Sys ,20680 ,Removal of support implant
 Surgery - Musculoskeletal Sys ,20690 ,Apply bone fixation device
 Surgery - Musculoskeletal Sys ,20692 ,Apply bone fixation device
 Surgery - Musculoskeletal Sys ,20693 ,Adjust bone fixation device
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,20694 ,Remove bone fixation device
 Surgery - Musculoskeletal Sys ,20696 ,Comp multiplane ext fixation
 Surgery - Musculoskeletal Sys ,20697 ,Comp ext fixate strut change
@@ -8058,7 +8053,6 @@ Surgery - Musculoskeletal Sys ,20840 ,No Longer Valid
 Surgery - Musculoskeletal Sys ,20900 ,Removal of bone for graft
 Surgery - Musculoskeletal Sys ,20902 ,Removal of bone for graft
 Surgery - Musculoskeletal Sys ,20910 ,Remove cartilage for graft
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,20912 ,Remove cartilage for graft
 Surgery - Musculoskeletal Sys ,20920 ,Removal of fascia for graft
 Surgery - Musculoskeletal Sys ,20922 ,Removal of fascia for graft
@@ -8083,7 +8077,6 @@ Surgery - Musculoskeletal Sys ,20973 ,"Bone/skin graft, great toe"
 Surgery - Musculoskeletal Sys ,20974 ,Electrical bone stimulation
 Surgery - Musculoskeletal Sys ,20975 ,Electrical bone stimulation
 Surgery - Musculoskeletal Sys ,20979 ,Us bone stimulation
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,20982 ,"Ablate, bone tumor(s) perq"
 Surgery - Musculoskeletal Sys ,20999 ,Musculoskeletal surgery
 Surgery - Musculoskeletal Sys ,21010 ,Incision of jaw joint
@@ -8108,7 +8101,6 @@ Surgery - Musculoskeletal Sys ,21060 ,Remove jaw joint cartilage
 Surgery - Musculoskeletal Sys ,21070 ,Remove coronoid process
 Surgery - Musculoskeletal Sys ,21073 ,Mnpj Of Tmj W/Anesth
 Surgery - Musculoskeletal Sys ,21076 ,Prepare face/oral prosthesis
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,21077 ,Prepare face/oral prosthesis
 Surgery - Musculoskeletal Sys ,21079 ,Prepare face/oral prosthesis
 Surgery - Musculoskeletal Sys ,21080 ,Prepare face/oral prosthesis
@@ -8133,7 +8125,6 @@ Surgery - Musculoskeletal Sys ,21127 ,"Augmentation, lower jaw bone"
 Surgery - Musculoskeletal Sys ,21137 ,Reduction of forehead
 Surgery - Musculoskeletal Sys ,21138 ,Reduction of forehead
 Surgery - Musculoskeletal Sys ,21139 ,Reduction of forehead
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,21141 ,"Reconstruct midface, lefort"
 Surgery - Musculoskeletal Sys ,21142 ,"Reconstruct midface, lefort"
 Surgery - Musculoskeletal Sys ,21143 ,"Reconstruct midface, lefort"
@@ -8158,7 +8149,6 @@ Surgery - Musculoskeletal Sys ,21184 ,Reconstruct cranial bone
 Surgery - Musculoskeletal Sys ,21188 ,Reconstruction of midface
 Surgery - Musculoskeletal Sys ,21193 ,Reconst lwr jaw w/o graft
 Surgery - Musculoskeletal Sys ,21194 ,Reconst lwr jaw w/graft
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,21195 ,Reconst lwr jaw w/o fixation
 Surgery - Musculoskeletal Sys ,21196 ,Reconst lwr jaw w/fixation
 Surgery - Musculoskeletal Sys ,21198 ,Reconstr lwr jaw segment
@@ -8183,7 +8173,6 @@ Surgery - Musculoskeletal Sys ,21255 ,Reconstruct lower jaw bone
 Surgery - Musculoskeletal Sys ,21256 ,Reconstruction of orbit
 Surgery - Musculoskeletal Sys ,21260 ,Revise eye sockets
 Surgery - Musculoskeletal Sys ,21261 ,Revise eye sockets
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,21263 ,Revise eye sockets
 Surgery - Musculoskeletal Sys ,21267 ,Revise eye sockets
 Surgery - Musculoskeletal Sys ,21268 ,Revise eye sockets
@@ -8194,8 +8183,7 @@ Surgery - Musculoskeletal Sys ,21282 ,Revision of eyelid
 Surgery - Musculoskeletal Sys ,21295 ,Revision of jaw muscle/bone
 Surgery - Musculoskeletal Sys ,21296 ,Revision of jaw muscle/bone
 Surgery - Musculoskeletal Sys ,21299 ,Cranio/maxillofacial surgery
-,,No Longer Valid - 07 Treatment of skull
-Surgery - Musculoskeletal Sys ,21300 ,fracture
+Surgery - Musculoskeletal Sys ,21300 ,No Longer Valid - 07 Treatment of skull fracture
 Surgery - Musculoskeletal Sys ,21310 ,Treatment of nose fracture
 Surgery - Musculoskeletal Sys ,21315 ,Treatment of nose fracture
 Surgery - Musculoskeletal Sys ,21320 ,Treatment of nose fracture
@@ -8209,7 +8197,6 @@ Surgery - Musculoskeletal Sys ,21339 ,Treat nasoethmoid fracture
 Surgery - Musculoskeletal Sys ,21340 ,Treatment of nose fracture
 Surgery - Musculoskeletal Sys ,21343 ,Treatment of sinus fracture
 Surgery - Musculoskeletal Sys ,21344 ,Treatment of sinus fracture
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,21345 ,Treat nose/jaw fracture
 Surgery - Musculoskeletal Sys ,21346 ,Treat nose/jaw fracture
 Surgery - Musculoskeletal Sys ,21347 ,Treat nose/jaw fracture
@@ -8234,7 +8221,6 @@ Surgery - Musculoskeletal Sys ,21422 ,Treat mouth roof fracture
 Surgery - Musculoskeletal Sys ,21423 ,Treat mouth roof fracture
 Surgery - Musculoskeletal Sys ,21431 ,Treat craniofacial fracture
 Surgery - Musculoskeletal Sys ,21432 ,Treat craniofacial fracture
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,21433 ,Treat craniofacial fracture
 Surgery - Musculoskeletal Sys ,21435 ,Treat craniofacial fracture
 Surgery - Musculoskeletal Sys ,21436 ,Treat craniofacial fracture
@@ -8259,7 +8245,6 @@ Surgery - Musculoskeletal Sys ,21495 ,Treat hyoid bone fracture
 Surgery - Musculoskeletal Sys ,21497 ,Interdental wiring
 Surgery - Musculoskeletal Sys ,21499 ,Head surgery procedure
 Surgery - Musculoskeletal Sys ,21501 ,Drain neck/chest lesion
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,21502 ,Drain chest lesion
 Surgery - Musculoskeletal Sys ,21510 ,Drainage of bone lesion
 Surgery - Musculoskeletal Sys ,21550 ,Biopsy of neck/chest
@@ -8284,7 +8269,6 @@ Surgery - Musculoskeletal Sys ,21740 ,Reconstruction of sternum
 Surgery - Musculoskeletal Sys ,21742 ,Repair stern/nuss w/o scope
 Surgery - Musculoskeletal Sys ,21743 ,Repair sternum/nuss w/scope
 Surgery - Musculoskeletal Sys ,21750 ,Repair of sternum separation
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,21800 ,Treatment of rib fracture
 Surgery - Musculoskeletal Sys ,21805 ,Treatment of rib fracture
 Surgery - Musculoskeletal Sys ,21810 ,Treatment of rib fracture(s)
@@ -8309,7 +8293,6 @@ Surgery - Musculoskeletal Sys ,22112 ,"Remove part, thorax vertebra"
 Surgery - Musculoskeletal Sys ,22114 ,"Remove part, lumbar vertebra"
 Surgery - Musculoskeletal Sys ,22116 ,Remove extra spine segment
 Surgery - Musculoskeletal Sys ,22140 ,No Longer Valid
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,22141 ,No Longer Valid
 Surgery - Musculoskeletal Sys ,22142 ,No Longer Valid
 Surgery - Musculoskeletal Sys ,22145 ,No Longer Valid
@@ -8334,7 +8317,6 @@ Surgery - Musculoskeletal Sys ,22310 ,Treat spine fracture
 Surgery - Musculoskeletal Sys ,22315 ,Treat spine fracture
 Surgery - Musculoskeletal Sys ,22318 ,Treat odontoid fx w/o graft
 Surgery - Musculoskeletal Sys ,22319 ,Treat odontoid fx w/graft
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,22325 ,Treat spine fracture
 Surgery - Musculoskeletal Sys ,22326 ,Treat neck spine fracture
 Surgery - Musculoskeletal Sys ,22327 ,Treat thorax spine fracture
@@ -8359,7 +8341,6 @@ Surgery - Musculoskeletal Sys ,22585 ,Additional spinal fusion
 Surgery - Musculoskeletal Sys ,22590 ,Spine & skull spinal fusion
 Surgery - Musculoskeletal Sys ,22595 ,Neck spinal fusion
 Surgery - Musculoskeletal Sys ,22600 ,Neck spine fusion
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,22610 ,Thorax spine fusion
 Surgery - Musculoskeletal Sys ,22612 ,Lumbar spine fusion
 Surgery - Musculoskeletal Sys ,22614 ,"Spine fusion, extra segment"
@@ -8384,7 +8365,6 @@ Surgery - Musculoskeletal Sys ,22843 ,Insert spine fixation device
 Surgery - Musculoskeletal Sys ,22844 ,Insert spine fixation device
 Surgery - Musculoskeletal Sys ,22845 ,Insert spine fixation device
 Surgery - Musculoskeletal Sys ,22846 ,Insert spine fixation device
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,22847 ,Insert spine fixation device
 Surgery - Musculoskeletal Sys ,22848 ,Insert pelv fixation device
 Surgery - Musculoskeletal Sys ,22849 ,Reinsert spinal fixation
@@ -8409,7 +8389,6 @@ Surgery - Musculoskeletal Sys ,23035 ,Drain shoulder bone lesion
 Surgery - Musculoskeletal Sys ,23040 ,Exploratory shoulder surgery
 Surgery - Musculoskeletal Sys ,23044 ,Exploratory shoulder surgery
 Surgery - Musculoskeletal Sys ,23065 ,Biopsy shoulder tissues
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,23066 ,Biopsy shoulder tissues
 Surgery - Musculoskeletal Sys ,23075 ,Removal of shoulder lesion
 Surgery - Musculoskeletal Sys ,23076 ,Removal of shoulder lesion
@@ -8434,7 +8413,6 @@ Surgery - Musculoskeletal Sys ,23174 ,Remove humerus lesion
 Surgery - Musculoskeletal Sys ,23180 ,Remove collar bone lesion
 Surgery - Musculoskeletal Sys ,23182 ,Remove shoulder blade lesion
 Surgery - Musculoskeletal Sys ,23184 ,Remove humerus lesion
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,23190 ,Partial removal of scapula
 Surgery - Musculoskeletal Sys ,23195 ,Removal of head of humerus
 Surgery - Musculoskeletal Sys ,23200 ,Removal of collar bone
@@ -8459,7 +8437,6 @@ Surgery - Musculoskeletal Sys ,23430 ,Repair biceps tendon
 Surgery - Musculoskeletal Sys ,23440 ,Remove/transplant tendon
 Surgery - Musculoskeletal Sys ,23450 ,Repair shoulder capsule
 Surgery - Musculoskeletal Sys ,23455 ,Repair shoulder capsule
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,23460 ,Repair shoulder capsule
 Surgery - Musculoskeletal Sys ,23462 ,Repair shoulder capsule
 Surgery - Musculoskeletal Sys ,23465 ,Repair shoulder capsule
@@ -8484,7 +8461,6 @@ Surgery - Musculoskeletal Sys ,23550 ,Treat clavicle dislocation
 Surgery - Musculoskeletal Sys ,23552 ,Treat clavicle dislocation
 Surgery - Musculoskeletal Sys ,23570 ,Treat shoulder blade fx
 Surgery - Musculoskeletal Sys ,23575 ,Treat shoulder blade fx
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,23580 ,No Longer Valid
 Surgery - Musculoskeletal Sys ,23585 ,Treat scapula fracture
 Surgery - Musculoskeletal Sys ,23600 ,Treat humerus fracture
@@ -8509,7 +8485,6 @@ Surgery - Musculoskeletal Sys ,23802 ,Fusion of shoulder joint
 Surgery - Musculoskeletal Sys ,23900 ,Amputation of arm & girdle
 Surgery - Musculoskeletal Sys ,23920 ,Amputation at shoulder joint
 Surgery - Musculoskeletal Sys ,23921 ,Amputation follow-up surgery
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,23929 ,Shoulder surgery procedure
 Surgery - Musculoskeletal Sys ,23930 ,Drainage of arm lesion
 Surgery - Musculoskeletal Sys ,23931 ,Drainage of arm bursa
@@ -8534,7 +8509,6 @@ Surgery - Musculoskeletal Sys ,24126 ,Remove/graft bone lesion
 Surgery - Musculoskeletal Sys ,24130 ,Removal of head of radius
 Surgery - Musculoskeletal Sys ,24134 ,Removal of arm bone lesion
 Surgery - Musculoskeletal Sys ,24136 ,Remove radius bone lesion
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,24138 ,Remove elbow bone lesion
 Surgery - Musculoskeletal Sys ,24140 ,Partial removal of arm bone
 Surgery - Musculoskeletal Sys ,24145 ,Partial removal of radius
@@ -8559,7 +8533,6 @@ Surgery - Musculoskeletal Sys ,24330 ,Revision of arm muscles
 Surgery - Musculoskeletal Sys ,24331 ,Revision of arm muscles
 Surgery - Musculoskeletal Sys ,24332 ,"Tenolysis, triceps"
 Surgery - Musculoskeletal Sys ,24340 ,Repair of biceps tendon
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,24341 ,Repair arm tendon/muscle
 Surgery - Musculoskeletal Sys ,24342 ,Repair of ruptured tendon
 Surgery - Musculoskeletal Sys ,24343 ,Repr elbow lat ligmnt w/tiss
@@ -8584,7 +8557,6 @@ Surgery - Musculoskeletal Sys ,24400 ,Revision of humerus
 Surgery - Musculoskeletal Sys ,24410 ,Revision of humerus
 Surgery - Musculoskeletal Sys ,24420 ,Revision of humerus
 Surgery - Musculoskeletal Sys ,24430 ,Repair of humerus
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,24435 ,Repair humerus with graft
 Surgery - Musculoskeletal Sys ,24470 ,Revision of elbow joint
 Surgery - Musculoskeletal Sys ,24495 ,Decompression of forearm
@@ -8609,7 +8581,6 @@ Surgery - Musculoskeletal Sys ,24565 ,Treat humerus fracture
 Surgery - Musculoskeletal Sys ,24566 ,Treat humerus fracture
 Surgery - Musculoskeletal Sys ,24570 ,No Longer Valid
 Surgery - Musculoskeletal Sys ,24575 ,Treat humerus fracture
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,24576 ,Treat humerus fracture
 Surgery - Musculoskeletal Sys ,24577 ,Treat humerus fracture
 Surgery - Musculoskeletal Sys ,24578 ,No Longer Valid
@@ -8634,7 +8605,6 @@ Surgery - Musculoskeletal Sys ,24650 ,Treat radius fracture
 Surgery - Musculoskeletal Sys ,24655 ,Treat radius fracture
 Surgery - Musculoskeletal Sys ,24660 ,No Longer Valid
 Surgery - Musculoskeletal Sys ,24665 ,Treat radius fracture
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,24666 ,Treat radius fracture
 Surgery - Musculoskeletal Sys ,24670 ,Treat ulnar fracture
 Surgery - Musculoskeletal Sys ,24675 ,Treat ulnar fracture
@@ -8659,7 +8629,6 @@ Surgery - Musculoskeletal Sys ,25024 ,Decompress forearm 2 spaces
 Surgery - Musculoskeletal Sys ,25025 ,Decompress forearm 2 spaces
 Surgery - Musculoskeletal Sys ,25028 ,Drainage of forearm lesion
 Surgery - Musculoskeletal Sys ,25031 ,Drainage of forearm bursa
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,25035 ,Treat forearm bone lesion
 Surgery - Musculoskeletal Sys ,25040 ,Explore/treat wrist joint
 Surgery - Musculoskeletal Sys ,25065 ,Biopsy forearm soft tissues
@@ -8684,7 +8653,6 @@ Surgery - Musculoskeletal Sys ,25120 ,Removal of forearm lesion
 Surgery - Musculoskeletal Sys ,25125 ,Remove/graft forearm lesion
 Surgery - Musculoskeletal Sys ,25126 ,Remove/graft forearm lesion
 Surgery - Musculoskeletal Sys ,25130 ,Removal of wrist lesion
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,25135 ,Remove & graft wrist lesion
 Surgery - Musculoskeletal Sys ,25136 ,Remove & graft wrist lesion
 Surgery - Musculoskeletal Sys ,25145 ,Remove forearm bone lesion
@@ -8709,7 +8677,6 @@ Surgery - Musculoskeletal Sys ,25274 ,Repair forearm tendon/muscle
 Surgery - Musculoskeletal Sys ,25275 ,Repair forearm tendon sheath
 Surgery - Musculoskeletal Sys ,25280 ,Revise wrist/forearm tendon
 Surgery - Musculoskeletal Sys ,25290 ,Incise wrist/forearm tendon
-Product Line ,Code ,CPT-4 Procedure
 Surgery - Musculoskeletal Sys ,25295 ,Release wrist/forearm tendon
 Surgery - Musculoskeletal Sys ,25300 ,Fusion of tendons at wrist
 Surgery - Musculoskeletal Sys ,25301 ,Fusion of tendons at wrist
