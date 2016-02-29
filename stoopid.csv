@@ -7335,969 +7335,478 @@ Surgery - Integumentary System ,#0052 ,Future-Vacuum Assisted Closure
 Surgery - Integumentary System ,#0097 ,Future-Cryosurgery for breast cancer and breast filbroadenoma
 Surgery - Integumentary System ,0046T,"No Longer Valid - 09 Cath lavage, mammary duct(s)"
 Surgery - Integumentary System,0047T,"No Longer Valid - 09 Cath lavage, mammary duct(s)"
-Surgery - Integumentary,,
-System ,0183T ,Wound Ultrasound
-Surgery - Integumentary,,
-System ,10040 ,Acne surgery
-Surgery - Integumentary,,
-System ,10060 ,Drainage of skin abscess
-Surgery - Integumentary,,
-System ,10061 ,Drainage of skin abscess
-Surgery - Integumentary,,
-System ,10080 ,Drainage of pilonidal cyst
-Surgery - Integumentary,,
-System ,10081 ,Drainage of pilonidal cyst
-Surgery - Integumentary,,
-System ,10120 ,Remove foreign body
-Surgery - Integumentary,,
-System ,10121 ,Remove foreign body
-Surgery - Integumentary,,
-System ,10140 ,Drainage of hematoma/fluid
-Surgery - Integumentary,,
-System ,10141 ,No Longer Valid
-Surgery - Integumentary,,
-System ,10160 ,Puncture drainage of lesion
-Surgery - Integumentary,,
-System ,10180 ,"Complex drainage, wound"
-Surgery - Integumentary,,
-System ,11000 ,Debrid infected skin
-Surgery - Integumentary,,
-System ,11001 ,Debride infected skin add-on
-Surgery - Integumentary,,
-System ,11004 ,Debride genitalia & perineum
-Surgery - Integumentary,,
-System ,11005 ,Debride abdom wall
-Surgery - Integumentary,,
-System ,11006 ,Debride genit/per/abdom wall
-Surgery - Integumentary,,
-System ,11008 ,Remove mesh from abd wall
-Surgery - Integumentary,,
-System ,11010 ,"Debride skin, fx"
-Surgery - Integumentary,,
-System ,11011 ,"Debride skin/muscle, fx"
-Surgery - Integumentary,,
-System ,11012 ,"Debride skin/muscle/bone, fx"
-Surgery - Integumentary,,
-System ,11040 ,"Debride skin, partial"
-Product Line ,Code ,CPT-4 Procedure
-Surgery - Integumentary,,
-System ,11041 ,"Debride skin, full"
-Surgery - Integumentary,,
-System ,11042 ,Debride skin/tissue
-Surgery - Integumentary,,
-System ,11043 ,Debride tissue/muscle
-Surgery - Integumentary,,
-System ,11044 ,Debride tissue/muscle/bone
-Surgery - Integumentary,,
-System ,11050 ,No Longer Valid
-Surgery - Integumentary,,
-System ,11051 ,No Longer Valid
-Surgery - Integumentary,,
-System ,11052 ,No Longer Valid
-Surgery - Integumentary,,
-System ,11055 ,Trim skin lesion
-Surgery - Integumentary,,
-System ,11056 ,"Trim skin lesions, 2 to 4"
-Surgery - Integumentary,,
-System ,11057 ,"Trim skin lesions, over 4"
-Surgery - Integumentary,,
-System ,11060 ,No Longer Valid
-Surgery - Integumentary,,
-System ,11061 ,No Longer Valid
-Surgery - Integumentary,,
-System ,11062 ,No Longer Valid
-Surgery - Integumentary,,
-System ,11100 ,"Biopsy, skin lesion"
-Surgery - Integumentary,,
-System ,11101 ,"Biopsy, skin add-on"
-Surgery - Integumentary,,
-System ,11200 ,Removal of skin tags
-Surgery - Integumentary,,
-System ,11201 ,Remove skin tags add-on
-Surgery - Integumentary,,
-System ,11300 ,Shave skin lesion
-Surgery - Integumentary,,
-System ,11301 ,Shave skin lesion
-Surgery - Integumentary,,
-System ,11302 ,Shave skin lesion
-Surgery - Integumentary,,
-System ,11303 ,Shave skin lesion
-Surgery - Integumentary,,
-System ,11305 ,Shave skin lesion
-Surgery - Integumentary,,
-System ,11306 ,Shave skin lesion
-Surgery - Integumentary,,
-System ,11307 ,Shave skin lesion
-Product Line ,Code ,CPT-4 Procedure
-Surgery - Integumentary,,
-System ,11308 ,Shave skin lesion
-Surgery - Integumentary,,
-System ,11310 ,Shave skin lesion
-Surgery - Integumentary,,
-System ,11311 ,Shave skin lesion
-Surgery - Integumentary,,
-System ,11312 ,Shave skin lesion
-Surgery - Integumentary,,
-System ,11313 ,Shave skin lesion
-Surgery - Integumentary,,
-System ,11400 ,Exc tr-ext b9+marg 0.5 < cm
-Surgery - Integumentary,,
-System ,11401 ,Exc tr-ext b9+marg 0.6-1 cm
-Surgery - Integumentary,,
-System ,11402 ,Exc tr-ext b9+marg 1.1-2 cm
-Surgery - Integumentary,,
-System ,11403 ,Exc tr-ext b9+marg 2.1-3 cm
-Surgery - Integumentary,,
-System ,11404 ,Exc tr-ext b9+marg 3.1-4 cm
-Surgery - Integumentary,,
-System ,11406 ,Exc tr-ext b9+marg > 4.0 cm
-Surgery - Integumentary,,
-System ,11420 ,Exc h-f-nk-sp b9+marg 0.5 <
-Surgery - Integumentary,,
-System ,11421 ,Exc h-f-nk-sp b9+marg 0.6-1
-Surgery - Integumentary,,
-System ,11422 ,Exc h-f-nk-sp b9+marg 1.1-2
-Surgery - Integumentary,,
-System ,11423 ,Exc h-f-nk-sp b9+marg 2.1-3
-Surgery - Integumentary,,
-System ,11424 ,Exc h-f-nk-sp b9+marg 3.1-4
-Surgery - Integumentary,,
-System ,11426 ,Exc h-f-nk-sp b9+marg > 4 cm
-Surgery - Integumentary,,
-System ,11440 ,Exc face-mm b9+marg 0.5 < cm
-Surgery - Integumentary,,
-System ,11441 ,Exc face-mm b9+marg 0.6-1 cm
-Surgery - Integumentary,,
-System ,11442 ,Exc face-mm b9+marg 1.1-2 cm
-Surgery - Integumentary,,
-System ,11443 ,Exc face-mm b9+marg 2.1-3 cm
-Surgery - Integumentary,,
-System ,11444 ,Exc face-mm b9+marg 3.1-4 cm
-Surgery - Integumentary,,
-System ,11446 ,Exc face-mm b9+marg > 4 cm
-Surgery - Integumentary,,
-System ,11450 ,"Removal, sweat gland lesion"
-Product Line ,Code ,CPT-4 Procedure
-Surgery - Integumentary,,
-System ,11451 ,"Removal, sweat gland lesion"
-Surgery - Integumentary,,
-System ,11462 ,"Removal, sweat gland lesion"
-Surgery - Integumentary,,
-System ,11463 ,"Removal, sweat gland lesion"
-Surgery - Integumentary,,
-System ,11470 ,"Removal, sweat gland lesion"
-Surgery - Integumentary,,
-System ,11471 ,"Removal, sweat gland lesion"
-Surgery - Integumentary,,
-System ,11600 ,Exc tr-ext mlg+marg 0.5 < cm
-Surgery - Integumentary,,
-System ,11601 ,Exc tr-ext mlg+marg 0.6-1 cm
-Surgery - Integumentary,,
-System ,11602 ,Exc tr-ext mlg+marg 1.1-2 cm
-Surgery - Integumentary,,
-System ,11603 ,Exc tr-ext mlg+marg 2.1-3 cm
-Surgery - Integumentary,,
-System ,11604 ,Exc tr-ext mlg+marg 3.1-4 cm
-Surgery - Integumentary,,
-System ,11606 ,Exc tr-ext mlg+marg > 4 cm
-Surgery - Integumentary,,
-System ,11620 ,Exc h-f-nk-sp mlg+marg 0.5 <
-Surgery - Integumentary,,
-System ,11621 ,Exc h-f-nk-sp mlg+marg 0.6-1
-Surgery - Integumentary,,
-System ,11622 ,Exc h-f-nk-sp mlg+marg 1.1-2
-Surgery - Integumentary,,
-System ,11623 ,Exc h-f-nk-sp mlg+marg 2.1-3
-Surgery - Integumentary,,
-System ,11624 ,Exc h-f-nk-sp mlg+marg 3.1-4
-Surgery - Integumentary,,
-System ,11626 ,Exc h-f-nk-sp mlg+mar > 4 cm
-Surgery - Integumentary,,
-System ,11640 ,Exc face-mm malig+marg 0.5 <
-Surgery - Integumentary,,
-System ,11641 ,Exc face-mm malig+marg 0.6-1
-Surgery - Integumentary,,
-System ,11642 ,Exc face-mm malig+marg 1.1-2
-Surgery - Integumentary,,
-System ,11643 ,Exc face-mm malig+marg 2.1-3
-Surgery - Integumentary,,
-System ,11644 ,Exc face-mm malig+marg 3.1-4
-Surgery - Integumentary,,
-System ,11646 ,Exc face-mm mlg+marg > 4 cm
-Surgery - Integumentary,,
-System ,11700 ,No Longer Valid
-Product Line ,Code ,CPT-4 Procedure
-Surgery - Integumentary,,
-System ,11701 ,No Longer Valid
-Surgery - Integumentary,,
-System ,11710 ,No Longer Valid
-Surgery - Integumentary,,
-System ,11711 ,No Longer Valid
-Surgery - Integumentary,,
-System ,11719 ,Trim nail(s)
-Surgery - Integumentary,,
-System ,11720 ,"Debride nail, 1-5"
-Surgery - Integumentary,,
-System ,11721 ,"Debride nail, 6 or more"
-Surgery - Integumentary,,
-System ,11730 ,Removal of nail plate
-Surgery - Integumentary,,
-System ,11731 ,No Longer Valid
-Surgery - Integumentary,,
-System ,11732 ,"Remove nail plate, add-on"
-Surgery - Integumentary,,
-System ,11740 ,Drain blood from under nail
-Surgery - Integumentary,,
-System ,11750 ,Removal of nail bed
-Surgery - Integumentary,,
-System ,11752 ,Remove nail bed/finger tip
-Surgery - Integumentary,,
-System ,11755 ,"Biopsy, nail unit"
-Surgery - Integumentary,,
-System ,11760 ,Repair of nail bed
-Surgery - Integumentary,,
-System ,11762 ,Reconstruction of nail bed
-Surgery - Integumentary,,
-System ,11765 ,"Excision of nail fold, toe"
-Surgery - Integumentary,,
-System ,11770 ,Removal of pilonidal lesion
-Surgery - Integumentary,,
-System ,11771 ,Removal of pilonidal lesion
-Surgery - Integumentary,,
-System ,11772 ,Removal of pilonidal lesion
-Surgery - Integumentary,,
-System ,11900 ,Injection into skin lesions
-Surgery - Integumentary,,
-System ,11901 ,Added skin lesions injection
-Surgery - Integumentary,,
-System ,11920 ,Correct skin color defects
-Surgery - Integumentary,,
-System ,11921 ,Correct skin color defects
-Surgery - Integumentary,,
-System ,11922 ,Correct skin color defects
-Product Line ,Code ,CPT-4 Procedure
-Surgery - Integumentary,,
-System ,11950 ,Therapy for contour defects
-Surgery - Integumentary,,
-System ,11951 ,Therapy for contour defects
-Surgery - Integumentary,,
-System ,11952 ,Therapy for contour defects
-Surgery - Integumentary,,
-System ,11954 ,Therapy for contour defects
-Surgery - Integumentary,,
-System ,11960 ,Insert tissue expander(s)
-Surgery - Integumentary,,
-System ,11970 ,Replace tissue expander
-Surgery - Integumentary,,
-System ,11971 ,Remove tissue expander(s)
-Surgery - Integumentary,,
-System ,11975 ,Insert contraceptive cap
-Surgery - Integumentary,,
-System ,11976 ,Removal of contraceptive cap
-Surgery - Integumentary,,
-System ,11977 ,Removal/reinsert contra cap
-Surgery - Integumentary,,
-System ,11980 ,Implant hormone pellet(s)
-Surgery - Integumentary,,
-System ,11981 ,Insert drug implant device
-Surgery - Integumentary,,
-System ,11982 ,Remove drug implant device
-Surgery - Integumentary,,
-System ,11983 ,Remove/insert drug implant
-Surgery - Integumentary,,
-System ,12001 ,Repair superficial wound(s)
-Surgery - Integumentary,,
-System ,12002 ,Repair superficial wound(s)
-Surgery - Integumentary,,
-System ,12004 ,Repair superficial wound(s)
-Surgery - Integumentary,,
-System ,12005 ,Repair superficial wound(s)
-Surgery - Integumentary,,
-System ,12006 ,Repair superficial wound(s)
-Surgery - Integumentary,,
-System ,12007 ,Repair superficial wound(s)
-Surgery - Integumentary,,
-System ,12011 ,Repair superficial wound(s)
-Surgery - Integumentary,,
-System ,12013 ,Repair superficial wound(s)
-Surgery - Integumentary,,
-System ,12014 ,Repair superficial wound(s)
-Surgery - Integumentary,,
-System ,12015 ,Repair superficial wound(s)
-Product Line ,Code ,CPT-4 Procedure
-Surgery - Integumentary,,
-System ,12016 ,Repair superficial wound(s)
-Surgery - Integumentary,,
-System ,12017 ,Repair superficial wound(s)
-Surgery - Integumentary,,
-System ,12018 ,Repair superficial wound(s)
-Surgery - Integumentary,,
-System ,12020 ,Closure of split wound
-Surgery - Integumentary,,
-System ,12021 ,Closure of split wound
-Surgery - Integumentary,,
-System ,12031 ,Intmd wnd repair s/tr/ext
-Surgery - Integumentary,,
-System ,12032 ,Intmd wnd repair s/tr/ext
-Surgery - Integumentary,,
-System ,12034 ,Intmd wnd repair s/tr/ext
-Surgery - Integumentary,,
-System ,12035 ,Intmd wnd repair s/tr/ext
-Surgery - Integumentary,,
-System ,12036 ,Intmd wnd repair s/tr/ext
-Surgery - Integumentary,,
-System ,12037 ,Intmd wnd repair s/tr/ext
-Surgery - Integumentary,,
-System ,12041 ,Intmd wnd repair n-hf/genit
-Surgery - Integumentary,,
-System ,12042 ,Intmd wnd repair n-hg/genit
-Surgery - Integumentary,,
-System ,12044 ,Intmd wnd repair n-hg/genit
-Surgery - Integumentary,,
-System ,12045 ,Intmd wnd repair n-hg/genit
-Surgery - Integumentary,,
-System ,12046 ,Intmd wnd repair n-hg/genit
-Surgery - Integumentary,,
-System ,12047 ,Intmd wnd repair n-hg/genit
-Surgery - Integumentary,,
-System ,12051 ,Intmd wnd repair face/mm
-Surgery - Integumentary,,
-System ,12052 ,Intmd wnd repair face/mm
-Surgery - Integumentary,,
-System ,12053 ,Intmd wnd repair face/mm
-Surgery - Integumentary,,
-System ,12054 ,"Intmd wnd repair, face/mm"
-Surgery - Integumentary,,
-System ,12055 ,Intmd wnd repair face/mm
-Surgery - Integumentary,,
-System ,12056 ,Intmd wnd repair face/mm
-Surgery - Integumentary,,
-System ,12057 ,Intmd wnd repair face/mm
-Product Line ,Code ,CPT-4 Procedure
-Surgery - Integumentary,,
-System ,13100 ,Repair of wound or lesion
-Surgery - Integumentary,,
-System ,13101 ,Repair of wound or lesion
-Surgery - Integumentary,,
-System ,13102 ,Repair wound/lesion add-on
-Surgery - Integumentary,,
-System ,13120 ,Repair of wound or lesion
-Surgery - Integumentary,,
-System ,13121 ,Repair of wound or lesion
-Surgery - Integumentary,,
-System ,13122 ,Repair wound/lesion add-on
-Surgery - Integumentary,,
-System ,13131 ,Repair of wound or lesion
-Surgery - Integumentary,,
-System ,13132 ,Repair of wound or lesion
-Surgery - Integumentary,,
-System ,13133 ,Repair wound/lesion add-on
-Surgery - Integumentary,,
-System ,13150 ,Repair of wound or lesion
-Surgery - Integumentary,,
-System ,13151 ,Repair of wound or lesion
-Surgery - Integumentary,,
-System ,13152 ,Repair of wound or lesion
-Surgery - Integumentary,,
-System ,13153 ,Repair wound/lesion add-on
-Surgery - Integumentary,,
-System ,13160 ,Late closure of wound
-Surgery - Integumentary,,
-System ,13300 ,No Longer Valid
-Surgery - Integumentary,,
-System ,14000 ,Skin tissue rearrangement
-Surgery - Integumentary,,
-System ,14001 ,Skin tissue rearrangement
-Surgery - Integumentary,,
-System ,14020 ,Skin tissue rearrangement
-Surgery - Integumentary,,
-System ,14021 ,Skin tissue rearrangement
-Surgery - Integumentary,,
-System ,14040 ,Skin tissue rearrangement
-Surgery - Integumentary,,
-System ,14041 ,Skin tissue rearrangement
-Surgery - Integumentary,,
-System ,14060 ,Skin tissue rearrangement
-Surgery - Integumentary,,
-System ,14061 ,Skin tissue rearrangement
-Surgery - Integumentary,,
-System ,14300 ,Skin tissue rearrangement
-Product Line ,Code ,CPT-4 Procedure
-Surgery - Integumentary,,
-System ,14350 ,Skin tissue rearrangement
-Surgery - Integumentary ,,"No Longer Valid - 07 Wound prep, 1st 100 sq"
-System ,15000 ,cm
-Surgery - Integumentary,,
-System ,15001 ,No Longer Valid - 07 Skin graft add-on
-Surgery - Integumentary,,
-System ,15002 ,"Wound prep, trk/arm/leg"
-Surgery - Integumentary,,
-System ,15003 ,"Wound prep, addl 100 cm"
-Surgery - Integumentary,,
-System ,15004 ,"Wound prep, f/n/hf/g"
-Surgery - Integumentary,,
-System ,15005 ,"Wnd prep, f/n/hf/g, addl cm"
-Surgery - Integumentary,,
-System ,15040 ,Harvest cultured skin graft
-Surgery - Integumentary,,
-System ,15050 ,Skin pinch graft
-Surgery - Integumentary,,
-System ,15100 ,"Skin splt grft, trnk/arm/leg"
-Surgery - Integumentary,,
-System ,15101 ,"Skin splt grft t/a/l, add-on"
-Surgery - Integumentary,,
-System ,15110 ,Epidrm autogrft trnk/arm/leg
-Surgery - Integumentary,,
-System ,15111 ,Epidrm autogrft t/a/l add-on
-Surgery - Integumentary,,
-System ,15115 ,Epidrm a-grft face/nck/hf/g
-Surgery - Integumentary,,
-System ,15116 ,Epidrm a-grft f/n/hf/g addl
-Surgery - Integumentary,,
-System ,15120 ,Skn splt a-grft fac/nck/hf/g
-Surgery - Integumentary,,
-System ,15121 ,Skn splt a-grft f/n/hf/g add
-Surgery - Integumentary,,
-System ,15130 ,"Derm autograft, trnk/arm/leg"
-Surgery - Integumentary,,
-System ,15131 ,Derm autograft t/a/l add-on
-Surgery - Integumentary,,
-System ,15135 ,Derm autograft face/nck/hf/g
-Surgery - Integumentary,,
-System ,15136 ,"Derm autograft, f/n/hf/g add"
-Surgery - Integumentary,,
-System ,15150 ,Cult epiderm grft t/arm/leg
-Surgery - Integumentary,,
-System ,15151 ,Cult epiderm grft t/a/l addl
-Surgery - Integumentary,,
-System ,15152 ,Cult epiderm graft t/a/l +%
-Product Line ,Code ,CPT-4 Procedure
-Surgery - Integumentary,,
-System ,15155 ,"Cult epiderm graft, f/n/hf/g"
-Surgery - Integumentary,,
-System ,15156 ,Cult epidrm grft f/n/hfg add
-Surgery - Integumentary,,
-System ,15157 ,Cult epiderm grft f/n/hfg +%
-Surgery - Integumentary,,
-System ,15170 ,Acell graft trunk/arms/legs
-Surgery - Integumentary,,
-System ,15171 ,Acell graft t/arm/leg add-on
-Surgery - Integumentary,,
-System ,15175 ,"Acellular graft, f/n/hf/g"
-Surgery - Integumentary,,
-System ,15176 ,"Acell graft, f/n/hf/g add-on"
-Surgery - Integumentary,,
-System ,15200 ,"Skin full graft, trunk"
-Surgery - Integumentary,,
-System ,15201 ,Skin full graft trunk add-on
-Surgery - Integumentary,,
-System ,15220 ,Skin full graft sclp/arm/leg
-Surgery - Integumentary,,
-System ,15221 ,Skin full graft add-on
-Surgery - Integumentary,,
-System ,15240 ,Skin full grft face/genit/hf
-Surgery - Integumentary,,
-System ,15241 ,Skin full graft add-on
-Surgery - Integumentary,,
-System ,15260 ,Skin full graft een & lips
-Surgery - Integumentary,,
-System ,15261 ,Skin full graft add-on
-Surgery - Integumentary,,
-System ,15300 ,"Apply skinallogrft, t/arm/lg"
-Surgery - Integumentary,,
-System ,15301 ,Apply sknallogrft t/a/l addl
-Surgery - Integumentary,,
-System ,15320 ,Apply skin allogrft f/n/hf/g
-Surgery - Integumentary,,
-System ,15321 ,Aply sknallogrft f/n/hfg add
-Surgery - Integumentary,,
-System ,15330 ,Aply acell alogrft t/arm/leg
-Surgery - Integumentary,,
-System ,15331 ,Aply acell grft t/a/l add-on
-Surgery - Integumentary,,
-System ,15335 ,"Apply acell graft, f/n/hf/g"
-Surgery - Integumentary,,
-System ,15336 ,Aply acell grft f/n/hf/g add
-Surgery - Integumentary,,
-System ,15340 ,Apply cult skin substitute
-Product Line ,Code ,CPT-4 Procedure
-Surgery - Integumentary,,
-System ,15341 ,Apply cult skin sub add-on
-Surgery - Integumentary,,
-System ,15342 ,"No Longer Valid - 06 Cultured skin graft, 25 cm"
-Surgery - Integumentary ,,No Longer Valid - 06 Culture skn graft addl 25
-System ,15343 ,cm
-Surgery - Integumentary,,
-System ,15350 ,No Longer Valid - 06 Skin homograft
-Surgery - Integumentary,,
-System ,15351 ,No Longer Valid - 06 Skin homograft add-on
-Surgery - Integumentary,,
-System ,15360 ,"Apply cult derm sub, t/a/l"
-Surgery - Integumentary,,
-System ,15361 ,Aply cult derm sub t/a/l add
-Surgery - Integumentary,,
-System ,15365 ,Apply cult derm sub f/n/hf/g
-Surgery - Integumentary,,
-System ,15366 ,Apply cult derm f/hf/g add
-Surgery - Integumentary,,
-System ,15400 ,"Apply skin xenograft, t/a/l"
-Surgery - Integumentary,,
-System ,15401 ,Apply skn xenogrft t/a/l add
-Surgery - Integumentary,,
-System ,15420 ,"Apply skin xgraft, f/n/hf/g"
-Surgery - Integumentary,,
-System ,15421 ,Apply skn xgrft f/n/hf/g add
-Surgery - Integumentary,,
-System ,15430 ,Apply acellular xenograft
-Surgery - Integumentary,,
-System ,15431 ,Apply acellular xgraft add
-Surgery - Integumentary,,
-System ,15570 ,Form skin pedicle flap
-Surgery - Integumentary,,
-System ,15572 ,Form skin pedicle flap
-Surgery - Integumentary,,
-System ,15574 ,Form skin pedicle flap
-Surgery - Integumentary,,
-System ,15576 ,Form skin pedicle flap
-Surgery - Integumentary,,
-System ,15580 ,No Longer Valid
-Surgery - Integumentary,,
-System ,15600 ,Skin graft
-Surgery - Integumentary,,
-System ,15610 ,Skin graft
-Surgery - Integumentary,,
-System ,15620 ,Skin graft
-Surgery - Integumentary,,
-System ,15625 ,No Longer Valid
-Product Line ,Code ,,CPT-4 Procedure
-Surgery - Integumentary,,,
-System ,15630 ,Skin graft,
-Surgery - Integumentary,,,
-System ,15650 ,Transfer skin pedicle flap,
-Surgery - Integumentary,,,
-System ,15731 ,Forehead Flap W/Vasc Pedicle,
-Surgery - Integumentary,,,
-System ,15732 ,"Muscle-skin graft, head/neck",
-Surgery - Integumentary,,,
-System ,15734 ,"Muscle-skin graft, trunk",
-Surgery - Integumentary,,,
-System ,15736 ,"Muscle-skin graft, arm",
-Surgery - Integumentary,,,
-System ,15738 ,"Muscle-skin graft, leg",
-Surgery - Integumentary,,,
-System ,15740 ,Island pedicle flap graft,
-Surgery - Integumentary,,,
-System ,15750 ,Neurovascular pedicle graft,
-Surgery - Integumentary,,,
-System ,15755 ,No Longer Valid,
-Surgery - Integumentary,,,
-System ,15756 ,Free myo/skin flap microvasc,
-Surgery - Integumentary,,,
-System ,15757 ,"Free skin flap, microvasc",
-Surgery - Integumentary,,,
-System ,15758 ,"Free fascial flap, microvasc",
-Surgery - Integumentary,,,
-System ,15760 ,Composite skin graft,
-Surgery - Integumentary,,,
-System ,15770 ,Derma-fat-fascia graft,
-Surgery - Integumentary,,,
-System ,15775 ,Hair transplant punch grafts,
-Surgery - Integumentary,,,
-System ,15776 ,Hair transplant punch grafts,
-Surgery - Integumentary,,,
-System ,15780 ,Abrasion treatment of skin,
-Surgery - Integumentary,,,
-System ,15781 ,Abrasion treatment of skin,
-Surgery - Integumentary,,,
-System ,15782 ,Abrasion Treatment Of Skin,
-Surgery - Integumentary,,,
-System ,15783 ,Abrasion treatment of skin,
-Surgery - Integumentary,,,
-System ,15786 ,"Abrasion, lesion, single",
-Surgery - Integumentary,,,
-System ,15787 ,"Abrasion, lesions, add-on",
-Surgery - Integumentary,,,
-System ,15788 ,"Chemical peel, face, epiderm",
-Product Line ,Code ,CPT-4 Procedure
-Surgery - Integumentary,,
-System ,15789 ,"Chemical peel, face, dermal"
-Surgery - Integumentary,,
-System ,15790 ,No Longer Valid
-Surgery - Integumentary,,
-System ,15791 ,No Longer Valid
-Surgery - Integumentary,,
-System ,15792 ,"Chemical peel, nonfacial"
-Surgery - Integumentary,,
-System ,15793 ,"Chemical peel, nonfacial"
-Surgery - Integumentary,,
-System ,15810 ,No Longer Valid - 06 Salabrasion
-Surgery - Integumentary,,
-System ,15811 ,No Longer Valid - 06 Salabrasion
-Surgery - Integumentary,,
-System ,15819 ,"Plastic surgery, neck"
-Surgery - Integumentary,,
-System ,15820 ,Revision of lower eyelid
-Surgery - Integumentary,,
-System ,15821 ,Revision of lower eyelid
-Surgery - Integumentary,,
-System ,15822 ,Revision of upper eyelid
-Surgery - Integumentary,,
-System ,15823 ,Revision of upper eyelid
-Surgery - Integumentary,,
-System ,15824 ,Removal of forehead wrinkles
-Surgery - Integumentary,,
-System ,15825 ,Removal of neck wrinkles
-Surgery - Integumentary,,
-System ,15826 ,Removal of brow wrinkles
-Surgery - Integumentary,,
-System ,15828 ,Removal of face wrinkles
-Surgery - Integumentary,,
-System ,15829 ,Removal of skin wrinkles
-Surgery - Integumentary,,
-System ,15830 ,Exc skin abd
-Surgery - Integumentary ,,No Longer Valid - 07 Excise excessive skin
-System ,15831 ,tissue
-Surgery - Integumentary,,
-System ,15832 ,Excise excessive skin tissue
-Surgery - Integumentary,,
-System ,15833 ,Excise excessive skin tissue
-Surgery - Integumentary,,
-System ,15834 ,Excise excessive skin tissue
-Surgery - Integumentary,,
-System ,15835 ,Excise excessive skin tissue
-Surgery - Integumentary,,
-System ,15836 ,Excise excessive skin tissue
-Product Line ,Code ,CPT-4 Procedure
-Surgery - Integumentary,,
-System ,15837 ,Excise excessive skin tissue
-Surgery - Integumentary,,
-System ,15838 ,Excise excessive skin tissue
-Surgery - Integumentary,,
-System ,15839 ,Excise excessive skin tissue
-Surgery - Integumentary,,
-System ,15840 ,Graft for face nerve palsy
-Surgery - Integumentary,,
-System ,15841 ,Graft for face nerve palsy
-Surgery - Integumentary,,
-System ,15842 ,Flap for face nerve palsy
-Surgery - Integumentary,,
-System ,15845 ,"Skin and muscle repair, face"
-Surgery - Integumentary,,
-System ,15847 ,Exc skin abd add-on
-Surgery - Integumentary,,
-System ,15850 ,Removal of sutures
-Surgery - Integumentary,,
-System ,15851 ,Removal of sutures
-Surgery - Integumentary,,
-System ,15852 ,Dressing change not for burn
-Surgery - Integumentary,,
-System ,15860 ,Test for blood flow in graft
-Surgery - Integumentary,,
-System ,15876 ,Suction assisted lipectomy
-Surgery - Integumentary,,
-System ,15877 ,Suction assisted lipectomy
-Surgery - Integumentary,,
-System ,15878 ,Suction assisted lipectomy
-Surgery - Integumentary,,
-System ,15879 ,Suction assisted lipectomy
-Surgery - Integumentary,,
-System ,15920 ,Removal of tail bone ulcer
-Surgery - Integumentary,,
-System ,15922 ,Removal of tail bone ulcer
-Surgery - Integumentary,,
-System ,15931 ,Remove sacrum pressure sore
-Surgery - Integumentary,,
-System ,15933 ,Remove sacrum pressure sore
-Surgery - Integumentary,,
-System ,15934 ,Remove sacrum pressure sore
-Surgery - Integumentary,,
-System ,15935 ,Remove sacrum pressure sore
-Surgery - Integumentary,,
-System ,15936 ,Remove sacrum pressure sore
-Surgery - Integumentary,,
-System ,15937 ,Remove sacrum pressure sore
-Product Line ,Code ,CPT-4 Procedure
-Surgery - Integumentary,,
-System ,15940 ,Remove hip pressure sore
-Surgery - Integumentary,,
-System ,15941 ,Remove hip pressure sore
-Surgery - Integumentary,,
-System ,15944 ,Remove hip pressure sore
-Surgery - Integumentary,,
-System ,15945 ,Remove hip pressure sore
-Surgery - Integumentary,,
-System ,15946 ,Remove hip pressure sore
-Surgery - Integumentary,,
-System ,15950 ,Remove thigh pressure sore
-Surgery - Integumentary,,
-System ,15951 ,Remove thigh pressure sore
-Surgery - Integumentary,,
-System ,15952 ,Remove thigh pressure sore
-Surgery - Integumentary,,
-System ,15953 ,Remove thigh pressure sore
-Surgery - Integumentary,,
-System ,15956 ,Remove thigh pressure sore
-Surgery - Integumentary,,
-System ,15958 ,Remove thigh pressure sore
-Surgery - Integumentary,,
-System ,15999 ,Removal of pressure sore
-Surgery - Integumentary,,
-System ,16000 ,Initial treatment of burn(s)
-Surgery - Integumentary,,
-System ,16010 ,No Longer Valid - 06 Treatment of burn(s)
-Surgery - Integumentary,,
-System ,16015 ,No Longer Valid - 06 Treatment of burn(s)
-Surgery - Integumentary,,
-System ,16020 ,"Dress/debrid p-thick burn, s"
-Surgery - Integumentary,,
-System ,16025 ,"Dress/debrid p-thick burn, m"
-Surgery - Integumentary,,
-System ,16030 ,"Dress/debrid p-thick burn, l"
-Surgery - Integumentary,,
-System ,16035 ,"Incision of burn scab, initi"
-Surgery - Integumentary,,
-System ,16036 ,Escharotomy; add'l incision
-Surgery - Integumentary,,
-System ,16040 ,No Longer Valid
-Surgery - Integumentary,,
-System ,16041 ,No Longer Valid
-Surgery - Integumentary,,
-System ,16042 ,No Longer Valid
-Surgery - Integumentary,,
-System ,17000 ,Destruct Premalg Lesion
-Product Line ,Code ,CPT-4 Procedure
-Surgery - Integumentary,,
-System ,17001 ,No Longer Valid
-Surgery - Integumentary,,
-System ,17002 ,No Longer Valid
-Surgery - Integumentary,,
-System ,17003 ,"Destruct Premalg Les, 2-14"
-Surgery - Integumentary,,
-System ,17004 ,Destroy Premlg Lesions 15+
-Surgery - Integumentary,,
-System ,17010 ,No Longer Valid
-Surgery - Integumentary,,
-System ,17100 ,No Longer Valid
-Surgery - Integumentary,,
-System ,17101 ,No Longer Valid
-Surgery - Integumentary,,
-System ,17102 ,No Longer Valid
-Surgery - Integumentary,,
-System ,17104 ,No Longer Valid
-Surgery - Integumentary,,
-System ,17105 ,No Longer Valid
-Surgery - Integumentary,,
-System ,17106 ,Destruction of skin lesions
-Surgery - Integumentary,,
-System ,17107 ,Destruction of skin lesions
-Surgery - Integumentary,,
-System ,17108 ,Destruction of skin lesions
-Surgery - Integumentary,,
-System ,17110 ,"Destruct b9 lesion, 1-14"
-Surgery - Integumentary,,
-System ,17111 ,"Destruct lesion, 15 or more"
-Surgery - Integumentary,,
-System ,17200 ,No Longer Valid
-Surgery - Integumentary,,
-System ,17201 ,No Longer Valid
-Surgery - Integumentary,,
-System ,17250 ,"Chemical cautery, tissue"
-Surgery - Integumentary,,
-System ,17260 ,Destruction of skin lesions
-Surgery - Integumentary,,
-System ,17261 ,Destruction of skin lesions
-Surgery - Integumentary,,
-System ,17262 ,Destruction of skin lesions
-Surgery - Integumentary,,
-System ,17263 ,Destruction of skin lesions
-Surgery - Integumentary,,
-System ,17264 ,Destruction of skin lesions
-Surgery - Integumentary,,
-System ,17266 ,Destruction of skin lesions
-Product Line ,Code ,CPT-4 Procedure
-Surgery - Integumentary,,
-System ,17270 ,Destruction of skin lesions
-Surgery - Integumentary,,
-System ,17271 ,Destruction of skin lesions
-Surgery - Integumentary,,
-System ,17272 ,Destruction of skin lesions
-Surgery - Integumentary,,
-System ,17273 ,Destruction of skin lesions
-Surgery - Integumentary,,
-System ,17274 ,Destruction of skin lesions
-Surgery - Integumentary,,
-System ,17276 ,Destruction of skin lesions
-Surgery - Integumentary,,
-System ,17280 ,Destruction of skin lesions
-Surgery - Integumentary,,
-System ,17281 ,Destruction of skin lesions
-Surgery - Integumentary,,
-System ,17282 ,Destruction of skin lesions
-Surgery - Integumentary,,
-System ,17283 ,Destruction of skin lesions
-Surgery - Integumentary,,
-System ,17284 ,Destruction of skin lesions
-Surgery - Integumentary,,
-System ,17286 ,Destruction of skin lesions
-Surgery - Integumentary ,,No Longer Valid - 07 Chemosurgery of skin
-System ,17304 ,lesion
-Surgery - Integumentary ,,"No Longer Valid - 07 2 stage mohs, up to 5"
-System ,17305 ,spec
-Surgery - Integumentary ,,"No Longer Valid - 07 3 stage mohs, up to 5"
-System ,17306 ,spec
-Surgery - Integumentary ,,No Longer Valid - 07 Mohs addl stage up to 5
-System ,17307 ,spec
-Surgery - Integumentary ,,No Longer Valid - 07 Extensive skin
-System ,17310 ,chemosurgery
-Surgery - Integumentary,,
-System ,17311 ,"Mohs, 1 stage, h/n/hf/g"
-Surgery - Integumentary,,
-System ,17312 ,Mohs addl stage
-Surgery - Integumentary,,
-System ,17313 ,"Mohs, 1 stage, t/a/l"
-Surgery - Integumentary,,
-System ,17314 ,"Mohs, addl stage, t/a/l"
-Surgery - Integumentary,,
-System ,17315 ,"Mohs surg, addl block"
-Surgery - Integumentary,,
-System ,17340 ,Cryotherapy of skin
-Surgery - Integumentary,,
-System ,17360 ,Skin peel therapy
-Product Line ,Code ,CPT-4 Procedure
-Surgery - Integumentary,,
-System ,17380 ,Hair removal by electrolysis
-Surgery - Integumentary,,
-System ,17999 ,Skin tissue procedure
-Surgery - Integumentary,,
-System ,19000 ,Drainage of breast lesion
-Surgery - Integumentary,,
-System ,19001 ,Drain breast lesion add-on
-Surgery - Integumentary,,
-System ,19020 ,Incision of breast lesion
-Surgery - Integumentary,,
-System ,19030 ,Injection for breast x-ray
-Surgery - Integumentary,,
-System ,19100 ,Bx breast percut w/o image
-Surgery - Integumentary,,
-System ,19101 ,"Biopsy of breast, open"
-Surgery - Integumentary,,
-System ,19102 ,Bx breast percut w/image
-Surgery - Integumentary,,
-System ,19103 ,Bx breast percut w/device
-Surgery - Integumentary,,
-System ,19105 ,"Cryosurg ablate fa, each"
-Surgery - Integumentary,,
-System ,19110 ,Nipple exploration
-Surgery - Integumentary,,
-System ,19112 ,Excise breast duct fistula
-Surgery - Integumentary,,
-System ,19120 ,Removal of breast lesion
-Surgery - Integumentary,,
-System ,19125 ,"Excision, breast lesion"
-Surgery - Integumentary,,
-System ,19126 ,"Excision, addl breast lesion"
-Surgery - Integumentary,,
-System ,19140 ,No Longer Valid - 07 Removal of breast tissue
-Surgery - Integumentary,,
-System ,19160 ,No Longer Valid - 07 Removal of breast tissue
-Surgery - Integumentary ,,"No Longer Valid - 07 Remove breast tissue,"
-System ,19162 ,nodes
-Surgery - Integumentary,,
-System ,19180 ,No Longer Valid - 07 Removal of breast
-Surgery - Integumentary,,
-System ,19182 ,No Longer Valid - 07 Removal of breast
-Surgery - Integumentary,,
-System ,19200 ,No Longer Valid - 07 Removal of breast
-Surgery - Integumentary,,
-System ,19220 ,No Longer Valid - 07 Removal of breast
-Surgery - Integumentary,,
-System ,19240 ,No Longer Valid - 07 Removal of breast
-Product Line ,Code ,CPT-4 Procedure
-Surgery - Integumentary,,
-System ,19260 ,Removal of chest wall lesion
-Surgery - Integumentary,,
-System ,19271 ,Revision of chest wall
-Surgery - Integumentary,,
-System ,19272 ,Extensive chest wall surgery
-Surgery - Integumentary,,
-System ,19290 ,"Place needle wire, breast"
-Surgery - Integumentary,,
-System ,19291 ,"Place needle wire, breast"
-Surgery - Integumentary,,
-System ,19295 ,"Place breast clip, percut"
-Surgery - Integumentary,,
-System ,19296 ,Place po breast cath for rad
-Surgery - Integumentary,,
-System ,19297 ,Place breast cath for rad
-Surgery - Integumentary,,
-System ,19298 ,Place breast rad tube/caths
-Surgery - Integumentary,,
-System ,19300 ,Removal Of Breast Tissue
-Surgery - Integumentary,,
-System ,19301 ,Partical mastectomy
-Surgery - Integumentary,,
-System ,19302 ,P-mastectomy w/ln removal
-Surgery - Integumentary,,
-System ,19303 ,"Mast, simple, complete"
-Surgery - Integumentary,,
-System ,19304 ,"Mast, subq"
-Surgery - Integumentary,,
-System ,19305 ,"Mast, radical"
-Surgery - Integumentary,,
-System ,19306 ,"Mast, rad, urban type"
-Surgery - Integumentary,,
-System ,19307 ,"Mast, mod rad"
-Surgery - Integumentary,,
-System ,19316 ,Suspension of breast
-Surgery - Integumentary,,
-System ,19318 ,Reduction of large breast
-Surgery - Integumentary,,
-System ,19324 ,Enlarge breast
-Surgery - Integumentary,,
-System ,19325 ,Enlarge breast with implant
-Surgery - Integumentary,,
-System ,19328 ,Removal of breast implant
-Surgery - Integumentary,,
-System ,19330 ,Removal of implant material
-Surgery - Integumentary,,
-System ,19340 ,Immediate breast prosthesis
-Product Line ,Code ,CPT-4 Procedure
-Surgery - Integumentary,,
-System ,19342 ,Delayed breast prosthesis
-Surgery - Integumentary,,
-System ,19350 ,Breast reconstruction
-Surgery - Integumentary,,
-System ,19355 ,Correct inverted nipple(s)
-Surgery - Integumentary,,
-System ,19357 ,Breast reconstruction
-Surgery - Integumentary,,
-System ,19361 ,Breast Reconstr W/Lat Flap
-Surgery - Integumentary,,
-System ,19362 ,No Longer Valid
-Surgery - Integumentary,,
-System ,19364 ,Breast reconstruction
-Surgery - Integumentary,,
-System ,19366 ,Breast reconstruction
-Surgery - Integumentary,,
-System ,19367 ,Breast reconstruction
-Surgery - Integumentary,,
-System ,19368 ,Breast reconstruction
-Surgery - Integumentary,,
-System ,19369 ,Breast reconstruction
-Surgery - Integumentary,,
-System ,19370 ,Surgery of breast capsule
-Surgery - Integumentary,,
-System ,19371 ,Removal of breast capsule
-Surgery - Integumentary,,
-System ,19380 ,Revise breast reconstruction
-Surgery - Integumentary,,
-System ,19396 ,Design custom breast implant
-Surgery - Integumentary,,
-System ,19499 ,Breast surgery procedure
-Surgery - Integumentary,,
-System ,64650 ,Chemodenerv eccrine glands
-Surgery - Integumentary,,
-System ,64653 ,Chemodenerv eccrine glands
+Surgery - Integumentary System ,0183T ,Wound Ultrasound
+Surgery - Integumentary System ,10040 ,Acne surgery
+Surgery - Integumentary System ,10060 ,Drainage of skin abscess
+Surgery - Integumentary System ,10061 ,Drainage of skin abscess
+Surgery - Integumentary System ,10080 ,Drainage of pilonidal cyst
+Surgery - Integumentary System ,10081 ,Drainage of pilonidal cyst
+Surgery - Integumentary System ,10120 ,Remove foreign body
+Surgery - Integumentary System ,10121 ,Remove foreign body
+Surgery - Integumentary System ,10140 ,Drainage of hematoma/fluid
+Surgery - Integumentary System ,10141 ,No Longer Valid
+Surgery - Integumentary System ,10160 ,Puncture drainage of lesion
+Surgery - Integumentary System ,10180 ,"Complex drainage, wound"
+Surgery - Integumentary System ,11000 ,Debrid infected skin
+Surgery - Integumentary System ,11001 ,Debride infected skin add-on
+Surgery - Integumentary System ,11004 ,Debride genitalia & perineum
+Surgery - Integumentary System ,11005 ,Debride abdom wall
+Surgery - Integumentary System ,11006 ,Debride genit/per/abdom wall
+Surgery - Integumentary System ,11008 ,Remove mesh from abd wall
+Surgery - Integumentary System ,11010 ,"Debride skin, fx"
+Surgery - Integumentary System ,11011 ,"Debride skin/muscle, fx"
+Surgery - Integumentary System ,11012 ,"Debride skin/muscle/bone, fx"
+Surgery - Integumentary System ,11040 ,"Debride skin, partial"
+Surgery - Integumentary System ,11041 ,"Debride skin, full"
+Surgery - Integumentary System ,11042 ,Debride skin/tissue
+Surgery - Integumentary System ,11043 ,Debride tissue/muscle
+Surgery - Integumentary System ,11044 ,Debride tissue/muscle/bone
+Surgery - Integumentary System ,11050 ,No Longer Valid
+Surgery - Integumentary System ,11051 ,No Longer Valid
+Surgery - Integumentary System ,11052 ,No Longer Valid
+Surgery - Integumentary System ,11055 ,Trim skin lesion
+Surgery - Integumentary System ,11056 ,"Trim skin lesions, 2 to 4"
+Surgery - Integumentary System ,11057 ,"Trim skin lesions, over 4"
+Surgery - Integumentary System ,11060 ,No Longer Valid
+Surgery - Integumentary System ,11061 ,No Longer Valid
+Surgery - Integumentary System ,11062 ,No Longer Valid
+Surgery - Integumentary System ,11100 ,"Biopsy, skin lesion"
+Surgery - Integumentary System ,11101 ,"Biopsy, skin add-on"
+Surgery - Integumentary System ,11200 ,Removal of skin tags
+Surgery - Integumentary System ,11201 ,Remove skin tags add-on
+Surgery - Integumentary System ,11300 ,Shave skin lesion
+Surgery - Integumentary System ,11301 ,Shave skin lesion
+Surgery - Integumentary System ,11302 ,Shave skin lesion
+Surgery - Integumentary System ,11303 ,Shave skin lesion
+Surgery - Integumentary System ,11305 ,Shave skin lesion
+Surgery - Integumentary System ,11306 ,Shave skin lesion
+Surgery - Integumentary System ,11307 ,Shave skin lesion
+Surgery - Integumentary System ,11308 ,Shave skin lesion
+Surgery - Integumentary System ,11310 ,Shave skin lesion
+Surgery - Integumentary System ,11311 ,Shave skin lesion
+Surgery - Integumentary System ,11312 ,Shave skin lesion
+Surgery - Integumentary System ,11313 ,Shave skin lesion
+Surgery - Integumentary System ,11400 ,Exc tr-ext b9+marg 0.5 < cm
+Surgery - Integumentary System ,11401 ,Exc tr-ext b9+marg 0.6-1 cm
+Surgery - Integumentary System ,11402 ,Exc tr-ext b9+marg 1.1-2 cm
+Surgery - Integumentary System ,11403 ,Exc tr-ext b9+marg 2.1-3 cm
+Surgery - Integumentary System ,11404 ,Exc tr-ext b9+marg 3.1-4 cm
+Surgery - Integumentary System ,11406 ,Exc tr-ext b9+marg > 4.0 cm
+Surgery - Integumentary System ,11420 ,Exc h-f-nk-sp b9+marg 0.5 <
+Surgery - Integumentary System ,11421 ,Exc h-f-nk-sp b9+marg 0.6-1
+Surgery - Integumentary System ,11422 ,Exc h-f-nk-sp b9+marg 1.1-2
+Surgery - Integumentary System ,11423 ,Exc h-f-nk-sp b9+marg 2.1-3
+Surgery - Integumentary System ,11424 ,Exc h-f-nk-sp b9+marg 3.1-4
+Surgery - Integumentary System ,11426 ,Exc h-f-nk-sp b9+marg > 4 cm
+Surgery - Integumentary System ,11440 ,Exc face-mm b9+marg 0.5 < cm
+Surgery - Integumentary System ,11441 ,Exc face-mm b9+marg 0.6-1 cm
+Surgery - Integumentary System ,11442 ,Exc face-mm b9+marg 1.1-2 cm
+Surgery - Integumentary System ,11443 ,Exc face-mm b9+marg 2.1-3 cm
+Surgery - Integumentary System ,11444 ,Exc face-mm b9+marg 3.1-4 cm
+Surgery - Integumentary System ,11446 ,Exc face-mm b9+marg > 4 cm
+Surgery - Integumentary System ,11450 ,"Removal, sweat gland lesion"
+Surgery - Integumentary System ,11451 ,"Removal, sweat gland lesion"
+Surgery - Integumentary System ,11462 ,"Removal, sweat gland lesion"
+Surgery - Integumentary System ,11463 ,"Removal, sweat gland lesion"
+Surgery - Integumentary System ,11470 ,"Removal, sweat gland lesion"
+Surgery - Integumentary System ,11471 ,"Removal, sweat gland lesion"
+Surgery - Integumentary System ,11600 ,Exc tr-ext mlg+marg 0.5 < cm
+Surgery - Integumentary System ,11601 ,Exc tr-ext mlg+marg 0.6-1 cm
+Surgery - Integumentary System ,11602 ,Exc tr-ext mlg+marg 1.1-2 cm
+Surgery - Integumentary System ,11603 ,Exc tr-ext mlg+marg 2.1-3 cm
+Surgery - Integumentary System ,11604 ,Exc tr-ext mlg+marg 3.1-4 cm
+Surgery - Integumentary System ,11606 ,Exc tr-ext mlg+marg > 4 cm
+Surgery - Integumentary System ,11620 ,Exc h-f-nk-sp mlg+marg 0.5 <
+Surgery - Integumentary System ,11621 ,Exc h-f-nk-sp mlg+marg 0.6-1
+Surgery - Integumentary System ,11622 ,Exc h-f-nk-sp mlg+marg 1.1-2
+Surgery - Integumentary System ,11623 ,Exc h-f-nk-sp mlg+marg 2.1-3
+Surgery - Integumentary System ,11624 ,Exc h-f-nk-sp mlg+marg 3.1-4
+Surgery - Integumentary System ,11626 ,Exc h-f-nk-sp mlg+mar > 4 cm
+Surgery - Integumentary System ,11640 ,Exc face-mm malig+marg 0.5 <
+Surgery - Integumentary System ,11641 ,Exc face-mm malig+marg 0.6-1
+Surgery - Integumentary System ,11642 ,Exc face-mm malig+marg 1.1-2
+Surgery - Integumentary System ,11643 ,Exc face-mm malig+marg 2.1-3
+Surgery - Integumentary System ,11644 ,Exc face-mm malig+marg 3.1-4
+Surgery - Integumentary System ,11646 ,Exc face-mm mlg+marg > 4 cm
+Surgery - Integumentary System ,11700 ,No Longer Valid
+Surgery - Integumentary System ,11701 ,No Longer Valid
+Surgery - Integumentary System ,11710 ,No Longer Valid
+Surgery - Integumentary System ,11711 ,No Longer Valid
+Surgery - Integumentary System ,11719 ,Trim nail(s)
+Surgery - Integumentary System ,11720 ,"Debride nail, 1-5"
+Surgery - Integumentary System ,11721 ,"Debride nail, 6 or more"
+Surgery - Integumentary System ,11730 ,Removal of nail plate
+Surgery - Integumentary System ,11731 ,No Longer Valid
+Surgery - Integumentary System ,11732 ,"Remove nail plate, add-on"
+Surgery - Integumentary System ,11740 ,Drain blood from under nail
+Surgery - Integumentary System ,11750 ,Removal of nail bed
+Surgery - Integumentary System ,11752 ,Remove nail bed/finger tip
+Surgery - Integumentary System ,11755 ,"Biopsy, nail unit"
+Surgery - Integumentary System ,11760 ,Repair of nail bed
+Surgery - Integumentary System ,11762 ,Reconstruction of nail bed
+Surgery - Integumentary System ,11765 ,"Excision of nail fold, toe"
+Surgery - Integumentary System ,11770 ,Removal of pilonidal lesion
+Surgery - Integumentary System ,11771 ,Removal of pilonidal lesion
+Surgery - Integumentary System ,11772 ,Removal of pilonidal lesion
+Surgery - Integumentary System ,11900 ,Injection into skin lesions
+Surgery - Integumentary System ,11901 ,Added skin lesions injection
+Surgery - Integumentary System ,11920 ,Correct skin color defects
+Surgery - Integumentary System ,11921 ,Correct skin color defects
+Surgery - Integumentary System ,11922 ,Correct skin color defects
+Surgery - Integumentary System ,11950 ,Therapy for contour defects
+Surgery - Integumentary System ,11951 ,Therapy for contour defects
+Surgery - Integumentary System ,11952 ,Therapy for contour defects
+Surgery - Integumentary System ,11954 ,Therapy for contour defects
+Surgery - Integumentary System ,11960 ,Insert tissue expander(s)
+Surgery - Integumentary System ,11970 ,Replace tissue expander
+Surgery - Integumentary System ,11971 ,Remove tissue expander(s)
+Surgery - Integumentary System ,11975 ,Insert contraceptive cap
+Surgery - Integumentary System ,11976 ,Removal of contraceptive cap
+Surgery - Integumentary System ,11977 ,Removal/reinsert contra cap
+Surgery - Integumentary System ,11980 ,Implant hormone pellet(s)
+Surgery - Integumentary System ,11981 ,Insert drug implant device
+Surgery - Integumentary System ,11982 ,Remove drug implant device
+Surgery - Integumentary System ,11983 ,Remove/insert drug implant
+Surgery - Integumentary System ,12001 ,Repair superficial wound(s)
+Surgery - Integumentary System ,12002 ,Repair superficial wound(s)
+Surgery - Integumentary System ,12004 ,Repair superficial wound(s)
+Surgery - Integumentary System ,12005 ,Repair superficial wound(s)
+Surgery - Integumentary System ,12006 ,Repair superficial wound(s)
+Surgery - Integumentary System ,12007 ,Repair superficial wound(s)
+Surgery - Integumentary System ,12011 ,Repair superficial wound(s)
+Surgery - Integumentary System ,12013 ,Repair superficial wound(s)
+Surgery - Integumentary System ,12014 ,Repair superficial wound(s)
+Surgery - Integumentary System ,12015 ,Repair superficial wound(s)
+Surgery - Integumentary System ,12016 ,Repair superficial wound(s)
+Surgery - Integumentary System ,12017 ,Repair superficial wound(s)
+Surgery - Integumentary System ,12018 ,Repair superficial wound(s)
+Surgery - Integumentary System ,12020 ,Closure of split wound
+Surgery - Integumentary System ,12021 ,Closure of split wound
+Surgery - Integumentary System ,12031 ,Intmd wnd repair s/tr/ext
+Surgery - Integumentary System ,12032 ,Intmd wnd repair s/tr/ext
+Surgery - Integumentary System ,12034 ,Intmd wnd repair s/tr/ext
+Surgery - Integumentary System ,12035 ,Intmd wnd repair s/tr/ext
+Surgery - Integumentary System ,12036 ,Intmd wnd repair s/tr/ext
+Surgery - Integumentary System ,12037 ,Intmd wnd repair s/tr/ext
+Surgery - Integumentary System ,12041 ,Intmd wnd repair n-hf/genit
+Surgery - Integumentary System ,12042 ,Intmd wnd repair n-hg/genit
+Surgery - Integumentary System ,12044 ,Intmd wnd repair n-hg/genit
+Surgery - Integumentary System ,12045 ,Intmd wnd repair n-hg/genit
+Surgery - Integumentary System ,12046 ,Intmd wnd repair n-hg/genit
+Surgery - Integumentary System ,12047 ,Intmd wnd repair n-hg/genit
+Surgery - Integumentary System ,12051 ,Intmd wnd repair face/mm
+Surgery - Integumentary System ,12052 ,Intmd wnd repair face/mm
+Surgery - Integumentary System ,12053 ,Intmd wnd repair face/mm
+Surgery - Integumentary System ,12054 ,"Intmd wnd repair, face/mm"
+Surgery - Integumentary System ,12055 ,Intmd wnd repair face/mm
+Surgery - Integumentary System ,12056 ,Intmd wnd repair face/mm
+Surgery - Integumentary System ,12057 ,Intmd wnd repair face/mm
+Surgery - Integumentary System ,13100 ,Repair of wound or lesion
+Surgery - Integumentary System ,13101 ,Repair of wound or lesion
+Surgery - Integumentary System ,13102 ,Repair wound/lesion add-on
+Surgery - Integumentary System ,13120 ,Repair of wound or lesion
+Surgery - Integumentary System ,13121 ,Repair of wound or lesion
+Surgery - Integumentary System ,13122 ,Repair wound/lesion add-on
+Surgery - Integumentary System ,13131 ,Repair of wound or lesion
+Surgery - Integumentary System ,13132 ,Repair of wound or lesion
+Surgery - Integumentary System ,13133 ,Repair wound/lesion add-on
+Surgery - Integumentary System ,13150 ,Repair of wound or lesion
+Surgery - Integumentary System ,13151 ,Repair of wound or lesion
+Surgery - Integumentary System ,13152 ,Repair of wound or lesion
+Surgery - Integumentary System ,13153 ,Repair wound/lesion add-on
+Surgery - Integumentary System ,13160 ,Late closure of wound
+Surgery - Integumentary System ,13300 ,No Longer Valid
+Surgery - Integumentary System ,14000 ,Skin tissue rearrangement
+Surgery - Integumentary System ,14001 ,Skin tissue rearrangement
+Surgery - Integumentary System ,14020 ,Skin tissue rearrangement
+Surgery - Integumentary System ,14021 ,Skin tissue rearrangement
+Surgery - Integumentary System ,14040 ,Skin tissue rearrangement
+Surgery - Integumentary System ,14041 ,Skin tissue rearrangement
+Surgery - Integumentary System ,14060 ,Skin tissue rearrangement
+Surgery - Integumentary System ,14061 ,Skin tissue rearrangement
+Surgery - Integumentary System ,14300 ,Skin tissue rearrangement
+Surgery - Integumentary System ,14350 ,Skin tissue rearrangement
+Surgery - Integumentary System ,15000, "No Longer Valid - 07 Wound prep, 1st 100 sq cm"
+Surgery - Integumentary System ,15001 ,No Longer Valid - 07 Skin graft add-on
+Surgery - Integumentary System ,15002 ,"Wound prep, trk/arm/leg"
+Surgery - Integumentary System ,15003 ,"Wound prep, addl 100 cm"
+Surgery - Integumentary System ,15004 ,"Wound prep, f/n/hf/g"
+Surgery - Integumentary System ,15005 ,"Wnd prep, f/n/hf/g, addl cm"
+Surgery - Integumentary System ,15040 ,Harvest cultured skin graft
+Surgery - Integumentary System ,15050 ,Skin pinch graft
+Surgery - Integumentary System ,15100 ,"Skin splt grft, trnk/arm/leg"
+Surgery - Integumentary System ,15101 ,"Skin splt grft t/a/l, add-on"
+Surgery - Integumentary System ,15110 ,Epidrm autogrft trnk/arm/leg
+Surgery - Integumentary System ,15111 ,Epidrm autogrft t/a/l add-on
+Surgery - Integumentary System ,15115 ,Epidrm a-grft face/nck/hf/g
+Surgery - Integumentary System ,15116 ,Epidrm a-grft f/n/hf/g addl
+Surgery - Integumentary System ,15120 ,Skn splt a-grft fac/nck/hf/g
+Surgery - Integumentary System ,15121 ,Skn splt a-grft f/n/hf/g add
+Surgery - Integumentary System ,15130 ,"Derm autograft, trnk/arm/leg"
+Surgery - Integumentary System ,15131 ,Derm autograft t/a/l add-on
+Surgery - Integumentary System ,15135 ,Derm autograft face/nck/hf/g
+Surgery - Integumentary System ,15136 ,"Derm autograft, f/n/hf/g add"
+Surgery - Integumentary System ,15150 ,Cult epiderm grft t/arm/leg
+Surgery - Integumentary System ,15151 ,Cult epiderm grft t/a/l addl
+Surgery - Integumentary System ,15152 ,Cult epiderm graft t/a/l +%
+Surgery - Integumentary System ,15155 ,"Cult epiderm graft, f/n/hf/g"
+Surgery - Integumentary System ,15156 ,Cult epidrm grft f/n/hfg add
+Surgery - Integumentary System ,15157 ,Cult epiderm grft f/n/hfg +%
+Surgery - Integumentary System ,15170 ,Acell graft trunk/arms/legs
+Surgery - Integumentary System ,15171 ,Acell graft t/arm/leg add-on
+Surgery - Integumentary System ,15175 ,"Acellular graft, f/n/hf/g"
+Surgery - Integumentary System ,15176 ,"Acell graft, f/n/hf/g add-on"
+Surgery - Integumentary System ,15200 ,"Skin full graft, trunk"
+Surgery - Integumentary System ,15201 ,Skin full graft trunk add-on
+Surgery - Integumentary System ,15220 ,Skin full graft sclp/arm/leg
+Surgery - Integumentary System ,15221 ,Skin full graft add-on
+Surgery - Integumentary System ,15240 ,Skin full grft face/genit/hf
+Surgery - Integumentary System ,15241 ,Skin full graft add-on
+Surgery - Integumentary System ,15260 ,Skin full graft een & lips
+Surgery - Integumentary System ,15261 ,Skin full graft add-on
+Surgery - Integumentary System ,15300 ,"Apply skinallogrft, t/arm/lg"
+Surgery - Integumentary System ,15301 ,Apply sknallogrft t/a/l addl
+Surgery - Integumentary System ,15320 ,Apply skin allogrft f/n/hf/g
+Surgery - Integumentary System ,15321 ,Aply sknallogrft f/n/hfg add
+Surgery - Integumentary System ,15330 ,Aply acell alogrft t/arm/leg
+Surgery - Integumentary System ,15331 ,Aply acell grft t/a/l add-on
+Surgery - Integumentary System ,15335 ,"Apply acell graft, f/n/hf/g"
+Surgery - Integumentary System ,15336 ,Aply acell grft f/n/hf/g add
+Surgery - Integumentary System ,15340 ,Apply cult skin substitute
+Surgery - Integumentary System ,15341 ,Apply cult skin sub add-on
+Surgery - Integumentary System ,15342 ,"No Longer Valid - 06 Cultured skin graft, 25 cm"
+Surgery - Integumentary System ,15343 ,No Longer Valid - 06 Culture skn graft addl 25 cm
+Surgery - Integumentary System ,15350 ,No Longer Valid - 06 Skin homograft
+Surgery - Integumentary System ,15351 ,No Longer Valid - 06 Skin homograft add-on
+Surgery - Integumentary System ,15360 ,"Apply cult derm sub, t/a/l"
+Surgery - Integumentary System ,15361 ,Aply cult derm sub t/a/l add
+Surgery - Integumentary System ,15365 ,Apply cult derm sub f/n/hf/g
+Surgery - Integumentary System ,15366 ,Apply cult derm f/hf/g add
+Surgery - Integumentary System ,15400 ,"Apply skin xenograft, t/a/l"
+Surgery - Integumentary System ,15401 ,Apply skn xenogrft t/a/l add
+Surgery - Integumentary System ,15420 ,"Apply skin xgraft, f/n/hf/g"
+Surgery - Integumentary System ,15421 ,Apply skn xgrft f/n/hf/g add
+Surgery - Integumentary System ,15430 ,Apply acellular xenograft
+Surgery - Integumentary System ,15431 ,Apply acellular xgraft add
+Surgery - Integumentary System ,15570 ,Form skin pedicle flap
+Surgery - Integumentary System ,15572 ,Form skin pedicle flap
+Surgery - Integumentary System ,15574 ,Form skin pedicle flap
+Surgery - Integumentary System ,15576 ,Form skin pedicle flap
+Surgery - Integumentary System ,15580 ,No Longer Valid
+Surgery - Integumentary System ,15600 ,Skin graft
+Surgery - Integumentary System ,15610 ,Skin graft
+Surgery - Integumentary System ,15620 ,Skin graft
+Surgery - Integumentary System ,15625 ,No Longer Valid
+Surgery - Integumentary System ,15630 ,Skin graft
+Surgery - Integumentary System ,15650 ,Transfer skin pedicle flap,
+Surgery - Integumentary System ,15731 ,Forehead Flap W/Vasc Pedicle,
+Surgery - Integumentary System ,15732 ,"Muscle-skin graft, head/neck",
+Surgery - Integumentary System ,15734 ,"Muscle-skin graft, trunk",
+Surgery - Integumentary System ,15736 ,"Muscle-skin graft, arm",
+Surgery - Integumentary System ,15738 ,"Muscle-skin graft, leg",
+Surgery - Integumentary System ,15740 ,Island pedicle flap graft,
+Surgery - Integumentary System ,15750 ,Neurovascular pedicle graft,
+Surgery - Integumentary System ,15755 ,No Longer Valid,
+Surgery - Integumentary System ,15756 ,Free myo/skin flap microvasc,
+Surgery - Integumentary System ,15757 ,"Free skin flap, microvasc",
+Surgery - Integumentary System ,15758 ,"Free fascial flap, microvasc",
+Surgery - Integumentary System ,15760 ,Composite skin graft,
+Surgery - Integumentary System ,15770 ,Derma-fat-fascia graft,
+Surgery - Integumentary System ,15775 ,Hair transplant punch grafts,
+Surgery - Integumentary System ,15776 ,Hair transplant punch grafts,
+Surgery - Integumentary System ,15780 ,Abrasion treatment of skin,
+Surgery - Integumentary System ,15781 ,Abrasion treatment of skin,
+Surgery - Integumentary System ,15782 ,Abrasion Treatment Of Skin,
+Surgery - Integumentary System ,15783 ,Abrasion treatment of skin,
+Surgery - Integumentary System ,15786 ,"Abrasion, lesion, single",
+Surgery - Integumentary System ,15787 ,"Abrasion, lesions, add-on",
+Surgery - Integumentary System ,15788 ,"Chemical peel, face, epiderm",
+Surgery - Integumentary System ,15789 ,"Chemical peel, face, dermal"
+Surgery - Integumentary System ,15790 ,No Longer Valid
+Surgery - Integumentary System ,15791 ,No Longer Valid
+Surgery - Integumentary System ,15792 ,"Chemical peel, nonfacial"
+Surgery - Integumentary System ,15793 ,"Chemical peel, nonfacial"
+Surgery - Integumentary System ,15810 ,No Longer Valid - 06 Salabrasion
+Surgery - Integumentary System ,15811 ,No Longer Valid - 06 Salabrasion
+Surgery - Integumentary System ,15819 ,"Plastic surgery, neck"
+Surgery - Integumentary System ,15820 ,Revision of lower eyelid
+Surgery - Integumentary System ,15821 ,Revision of lower eyelid
+Surgery - Integumentary System ,15822 ,Revision of upper eyelid
+Surgery - Integumentary System ,15823 ,Revision of upper eyelid
+Surgery - Integumentary System ,15824 ,Removal of forehead wrinkles
+Surgery - Integumentary System ,15825 ,Removal of neck wrinkles
+Surgery - Integumentary System ,15826 ,Removal of brow wrinkles
+Surgery - Integumentary System ,15828 ,Removal of face wrinkles
+Surgery - Integumentary System ,15829 ,Removal of skin wrinkles
+Surgery - Integumentary System ,15830 ,Exc skin abd
+Surgery - Integumentary System ,15831 ,No Longer Valid - 07 Excise excessive skin tissue
+Surgery - Integumentary System ,15832 ,Excise excessive skin tissue
+Surgery - Integumentary System ,15833 ,Excise excessive skin tissue
+Surgery - Integumentary System ,15834 ,Excise excessive skin tissue
+Surgery - Integumentary System ,15835 ,Excise excessive skin tissue
+Surgery - Integumentary System ,15836 ,Excise excessive skin tissue
+Surgery - Integumentary System ,15837 ,Excise excessive skin tissue
+Surgery - Integumentary System ,15838 ,Excise excessive skin tissue
+Surgery - Integumentary System ,15839 ,Excise excessive skin tissue
+Surgery - Integumentary System ,15840 ,Graft for face nerve palsy
+Surgery - Integumentary System ,15841 ,Graft for face nerve palsy
+Surgery - Integumentary System ,15842 ,Flap for face nerve palsy
+Surgery - Integumentary System ,15845 ,"Skin and muscle repair, face"
+Surgery - Integumentary System ,15847 ,Exc skin abd add-on
+Surgery - Integumentary System ,15850 ,Removal of sutures
+Surgery - Integumentary System ,15851 ,Removal of sutures
+Surgery - Integumentary System ,15852 ,Dressing change not for burn
+Surgery - Integumentary System ,15860 ,Test for blood flow in graft
+Surgery - Integumentary System ,15876 ,Suction assisted lipectomy
+Surgery - Integumentary System ,15877 ,Suction assisted lipectomy
+Surgery - Integumentary System ,15878 ,Suction assisted lipectomy
+Surgery - Integumentary System ,15879 ,Suction assisted lipectomy
+Surgery - Integumentary System ,15920 ,Removal of tail bone ulcer
+Surgery - Integumentary System ,15922 ,Removal of tail bone ulcer
+Surgery - Integumentary System ,15931 ,Remove sacrum pressure sore
+Surgery - Integumentary System ,15933 ,Remove sacrum pressure sore
+Surgery - Integumentary System ,15934 ,Remove sacrum pressure sore
+Surgery - Integumentary System ,15935 ,Remove sacrum pressure sore
+Surgery - Integumentary System ,15936 ,Remove sacrum pressure sore
+Surgery - Integumentary System ,15937 ,Remove sacrum pressure sore
+Surgery - Integumentary System ,15940 ,Remove hip pressure sore
+Surgery - Integumentary System ,15941 ,Remove hip pressure sore
+Surgery - Integumentary System ,15944 ,Remove hip pressure sore
+Surgery - Integumentary System ,15945 ,Remove hip pressure sore
+Surgery - Integumentary System ,15946 ,Remove hip pressure sore
+Surgery - Integumentary System ,15950 ,Remove thigh pressure sore
+Surgery - Integumentary System ,15951 ,Remove thigh pressure sore
+Surgery - Integumentary System ,15952 ,Remove thigh pressure sore
+Surgery - Integumentary System ,15953 ,Remove thigh pressure sore
+Surgery - Integumentary System ,15956 ,Remove thigh pressure sore
+Surgery - Integumentary System ,15958 ,Remove thigh pressure sore
+Surgery - Integumentary System ,15999 ,Removal of pressure sore
+Surgery - Integumentary System ,16000 ,Initial treatment of burn(s)
+Surgery - Integumentary System ,16010 ,No Longer Valid - 06 Treatment of burn(s)
+Surgery - Integumentary System ,16015 ,No Longer Valid - 06 Treatment of burn(s)
+Surgery - Integumentary System ,16020 ,"Dress/debrid p-thick burn, s"
+Surgery - Integumentary System ,16025 ,"Dress/debrid p-thick burn, m"
+Surgery - Integumentary System ,16030 ,"Dress/debrid p-thick burn, l"
+Surgery - Integumentary System ,16035 ,"Incision of burn scab, initi"
+Surgery - Integumentary System ,16036 ,Escharotomy; add'l incision
+Surgery - Integumentary System ,16040 ,No Longer Valid
+Surgery - Integumentary System ,16041 ,No Longer Valid
+Surgery - Integumentary System ,16042 ,No Longer Valid
+Surgery - Integumentary System ,17000 ,Destruct Premalg Lesion
+Surgery - Integumentary System ,17001 ,No Longer Valid
+Surgery - Integumentary System ,17002 ,No Longer Valid
+Surgery - Integumentary System ,17003 ,"Destruct Premalg Les, 2-14"
+Surgery - Integumentary System ,17004 ,Destroy Premlg Lesions 15+
+Surgery - Integumentary System ,17010 ,No Longer Valid
+Surgery - Integumentary System ,17100 ,No Longer Valid
+Surgery - Integumentary System ,17101 ,No Longer Valid
+Surgery - Integumentary System ,17102 ,No Longer Valid
+Surgery - Integumentary System ,17104 ,No Longer Valid
+Surgery - Integumentary System ,17105 ,No Longer Valid
+Surgery - Integumentary System ,17106 ,Destruction of skin lesions
+Surgery - Integumentary System ,17107 ,Destruction of skin lesions
+Surgery - Integumentary System ,17108 ,Destruction of skin lesions
+Surgery - Integumentary System ,17110 ,"Destruct b9 lesion, 1-14"
+Surgery - Integumentary System ,17111 ,"Destruct lesion, 15 or more"
+Surgery - Integumentary System ,17200 ,No Longer Valid
+Surgery - Integumentary System ,17201 ,No Longer Valid
+Surgery - Integumentary System ,17250 ,"Chemical cautery, tissue"
+Surgery - Integumentary System ,17260 ,Destruction of skin lesions
+Surgery - Integumentary System ,17261 ,Destruction of skin lesions
+Surgery - Integumentary System ,17262 ,Destruction of skin lesions
+Surgery - Integumentary System ,17263 ,Destruction of skin lesions
+Surgery - Integumentary System ,17264 ,Destruction of skin lesions
+Surgery - Integumentary System ,17266 ,Destruction of skin lesions
+Surgery - Integumentary System ,17270 ,Destruction of skin lesions
+Surgery - Integumentary System ,17271 ,Destruction of skin lesions
+Surgery - Integumentary System ,17272 ,Destruction of skin lesions
+Surgery - Integumentary System ,17273 ,Destruction of skin lesions
+Surgery - Integumentary System ,17274 ,Destruction of skin lesions
+Surgery - Integumentary System ,17276 ,Destruction of skin lesions
+Surgery - Integumentary System ,17280 ,Destruction of skin lesions
+Surgery - Integumentary System ,17281 ,Destruction of skin lesions
+Surgery - Integumentary System ,17282 ,Destruction of skin lesions
+Surgery - Integumentary System ,17283 ,Destruction of skin lesions
+Surgery - Integumentary System ,17284 ,Destruction of skin lesions
+Surgery - Integumentary System ,17286 ,Destruction of skin lesions
+Surgery - Integumentary System ,17304 ,No Longer Valid - 07 Chemosurgery of skin lesion
+Surgery - Integumentary System ,17305, "No Longer Valid - 07 2 stage mohs, up to 5 spec"
+Surgery - Integumentary System ,17306, "No Longer Valid - 07 3 stage mohs, up to 5 spec"
+Surgery - Integumentary System ,17307 ,No Longer Valid - 07 Mohs addl stage up to 5 spec
+Surgery - Integumentary System ,17310 ,No Longer Valid - 07 Extensive skin chemosurgery
+Surgery - Integumentary System ,17311 ,"Mohs, 1 stage, h/n/hf/g"
+Surgery - Integumentary System ,17312 ,Mohs addl stage
+Surgery - Integumentary System ,17313 ,"Mohs, 1 stage, t/a/l"
+Surgery - Integumentary System ,17314 ,"Mohs, addl stage, t/a/l"
+Surgery - Integumentary System ,17315 ,"Mohs surg, addl block"
+Surgery - Integumentary System ,17340 ,Cryotherapy of skin
+Surgery - Integumentary System ,17360 ,Skin peel therapy
+Surgery - Integumentary System ,17380 ,Hair removal by electrolysis
+Surgery - Integumentary System ,17999 ,Skin tissue procedure
+Surgery - Integumentary System ,19000 ,Drainage of breast lesion
+Surgery - Integumentary System ,19001 ,Drain breast lesion add-on
+Surgery - Integumentary System ,19020 ,Incision of breast lesion
+Surgery - Integumentary System ,19030 ,Injection for breast x-ray
+Surgery - Integumentary System ,19100 ,Bx breast percut w/o image
+Surgery - Integumentary System ,19101 ,"Biopsy of breast, open"
+Surgery - Integumentary System ,19102 ,Bx breast percut w/image
+Surgery - Integumentary System ,19103 ,Bx breast percut w/device
+Surgery - Integumentary System ,19105 ,"Cryosurg ablate fa, each"
+Surgery - Integumentary System ,19110 ,Nipple exploration
+Surgery - Integumentary System ,19112 ,Excise breast duct fistula
+Surgery - Integumentary System ,19120 ,Removal of breast lesion
+Surgery - Integumentary System ,19125 ,"Excision, breast lesion"
+Surgery - Integumentary System ,19126 ,"Excision, addl breast lesion"
+Surgery - Integumentary System ,19140 ,No Longer Valid - 07 Removal of breast tissue
+Surgery - Integumentary System ,19160 ,No Longer Valid - 07 Removal of breast tissue
+Surgery - Integumentary System ,19162 ,"No Longer Valid - 07 Remove breast tissue, nodes"
+Surgery - Integumentary System ,19180 ,No Longer Valid - 07 Removal of breast
+Surgery - Integumentary System ,19182 ,No Longer Valid - 07 Removal of breast
+Surgery - Integumentary System ,19200 ,No Longer Valid - 07 Removal of breast
+Surgery - Integumentary System ,19220 ,No Longer Valid - 07 Removal of breast
+Surgery - Integumentary System ,19240 ,No Longer Valid - 07 Removal of breast
+Surgery - Integumentary System ,19260 ,Removal of chest wall lesion
+Surgery - Integumentary System ,19271 ,Revision of chest wall
+Surgery - Integumentary System ,19272 ,Extensive chest wall surgery
+Surgery - Integumentary System ,19290 ,"Place needle wire, breast"
+Surgery - Integumentary System ,19291 ,"Place needle wire, breast"
+Surgery - Integumentary System ,19295 ,"Place breast clip, percut"
+Surgery - Integumentary System ,19296 ,Place po breast cath for rad
+Surgery - Integumentary System ,19297 ,Place breast cath for rad
+Surgery - Integumentary System ,19298 ,Place breast rad tube/caths
+Surgery - Integumentary System ,19300 ,Removal Of Breast Tissue
+Surgery - Integumentary System ,19301 ,Partical mastectomy
+Surgery - Integumentary System ,19302 ,P-mastectomy w/ln removal
+Surgery - Integumentary System ,19303 ,"Mast, simple, complete"
+Surgery - Integumentary System ,19304 ,"Mast, subq"
+Surgery - Integumentary System ,19305 ,"Mast, radical"
+Surgery - Integumentary System ,19306 ,"Mast, rad, urban type"
+Surgery - Integumentary System ,19307 ,"Mast, mod rad"
+Surgery - Integumentary System ,19316 ,Suspension of breast
+Surgery - Integumentary System ,19318 ,Reduction of large breast
+Surgery - Integumentary System ,19324 ,Enlarge breast
+Surgery - Integumentary System ,19325 ,Enlarge breast with implant
+Surgery - Integumentary System ,19328 ,Removal of breast implant
+Surgery - Integumentary System ,19330 ,Removal of implant material
+Surgery - Integumentary System ,19340 ,Immediate breast prosthesis
+Surgery - Integumentary System ,19342 ,Delayed breast prosthesis
+Surgery - Integumentary System ,19350 ,Breast reconstruction
+Surgery - Integumentary System ,19355 ,Correct inverted nipple(s)
+Surgery - Integumentary System ,19357 ,Breast reconstruction
+Surgery - Integumentary System ,19361 ,Breast Reconstr W/Lat Flap
+Surgery - Integumentary System ,19362 ,No Longer Valid
+Surgery - Integumentary System ,19364 ,Breast reconstruction
+Surgery - Integumentary System ,19366 ,Breast reconstruction
+Surgery - Integumentary System ,19367 ,Breast reconstruction
+Surgery - Integumentary System ,19368 ,Breast reconstruction
+Surgery - Integumentary System ,19369 ,Breast reconstruction
+Surgery - Integumentary System ,19370 ,Surgery of breast capsule
+Surgery - Integumentary System ,19371 ,Removal of breast capsule
+Surgery - Integumentary System ,19380 ,Revise breast reconstruction
+Surgery - Integumentary System ,19396 ,Design custom breast implant
+Surgery - Integumentary System ,19499 ,Breast surgery procedure
+Surgery - Integumentary System ,64650 ,Chemodenerv eccrine glands
+Surgery - Integumentary System ,64653 ,Chemodenerv eccrine glands
 Surgery - Male Genital System ,0084T ,Temp prostate urethral stent
 ,,No Longer Valid - 09 Prostate saturation
 Surgery - Male Genital System ,0137T ,sampling
